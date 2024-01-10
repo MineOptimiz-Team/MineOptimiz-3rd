@@ -35,10 +35,10 @@ jobs:
           rm -rf .git
           rm README.md
           cd /home/runner/work/MineOptimiz/MineOptimiz/
-          zip -r /home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Forge Dev-buildtime.${{ steps.date.outputs.date }}.zip ./*
+          zip -r "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Forge Dev-buildtime.${{ steps.date.outputs.date }}.zip" ./*
       
       - uses: actions/upload-artifact@v2
         with:
           name: MineOptimiz Forge Dev-buildtime.${{ steps.date.outputs.date }}.zip
-          path: /home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Forge Dev-buildtime.${{ steps.date.outputs.date }}.zip
+          path: "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Forge Dev-buildtime.${{ steps.date.outputs.date }}.zip"
      
