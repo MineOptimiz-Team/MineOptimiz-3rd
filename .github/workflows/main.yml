@@ -34,9 +34,6 @@ jobs:
           rm -rf .github
           rm -rf .git
           rm README.md
-          cd overrides
-          mv h.txt options.txt
-          cd ..
           cd /home/runner/work/MineOptimiz/MineOptimiz/
           zip -r /home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Forge Dev-buildtime.${{ steps.date.outputs.date }}.zip ./*
       
