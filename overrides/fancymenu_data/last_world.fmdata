@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = ddns.ganshity.top:28103
+  is_server = false
+  world = D:/新建文件夹/某下载器/.minecraft/versions/MineOptimiz Forge Release-0.1.4-build.065/saves/新的世界
 }
 

@@ -11,7 +11,7 @@ B:playmenumusic = 'true';
 S:variables_to_reset_on_launch = '';
 B:showdebugwarnings = 'true';
 [Sets the default GUI scale on first launch. Useful for modpacks. Cache data is saved in '/mods/fancymenu/'.]
-I:defaultguiscale = '2';
+I:defaultguiscale = '-1';
 
 
 ##[customization]
@@ -22,7 +22,7 @@ B:showcustomizationbuttons = 'false';
 
 ##[loading]
 
-B:allowgameintroskip = 'false';
+B:allowgameintroskip = 'true';
 B:showanimationloadingstatus = 'true';
 S:gameintroanimation = '';
 B:preloadanimations = 'false';
@@ -39,8 +39,8 @@ B:customwindowicon = 'false';
 
 ##[world_loading_screen]
 
-B:showloadingscreenanimation = 'false';
-B:showloadingscreenpercent = 'false';
+B:showloadingscreenanimation = 'true';
+B:showloadingscreenpercent = 'true';
 
 
 ##[multiplayer_screen]

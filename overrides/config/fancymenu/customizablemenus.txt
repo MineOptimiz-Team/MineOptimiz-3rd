@@ -1,14 +1,11 @@
 type = customizablemenus
 
-iafenvoy.accountswitcher.gui.AccountScreen {
+net.minecraft.client.gui.screens.TitleScreen {
 }
 
-net.minecraft.class_490 {
+net.minecraft.client.gui.screens.OptionsScreen {
 }
 
-net.minecraft.class_429 {
-}
-
-net.minecraft.class_442 {
+net.minecraft.client.gui.screens.PauseScreen {
 }
 

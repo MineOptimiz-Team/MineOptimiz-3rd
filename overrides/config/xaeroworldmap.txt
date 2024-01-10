@@ -1,5 +1,6 @@
-ignoreUpdate:0
+ignoreUpdate:172
 updateNotification:true
+allowInternetAccess:true
 differentiateByServerAddress:true
 caveMapsAllowed:true
 debug:false
@@ -44,9 +45,9 @@ defaultCaveModeType:1
 biomeBlending:true
 trackedPlayers:true
 multipleImagesExport:false
-nightExport:false
-highlightsExport:false
-exportScaleDownSquare:20
+nightExport:true
+highlightsExport:true
+exportScaleDownSquare:55
 displayClaims:true
 claimsFillOpacity:46
 claimsBorderOpacity:80

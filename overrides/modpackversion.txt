@@ -1,3 +1,0 @@
-MineOptimiz v1.20.1-PreRelease-0.10.0-build.043
-Minecraft Version:1.20.1
-Mod Loader:Fabric Loader 0.14.22

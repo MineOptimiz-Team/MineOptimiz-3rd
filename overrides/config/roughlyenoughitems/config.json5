@@ -1,11 +1,13 @@
 {
 	"basics": {
-		"favorites": [],
+		"favorites": [
+			"{data:{Count:1b,id:\"minecraft:weathered_copper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
-		"cheating": true,
-		"favoritesEnabled": true,
+		"cheating": false,
+		"favoritesEnabled": false,
 		"keyBindings": {
 			"recipeKeybind": {
 				"keyCode": "scancode.125",
@@ -60,7 +62,8 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
 			],
 			"filteringQuickCraftCategories": { },
 			"filteredStacks": []
@@ -156,7 +159,7 @@
 		"isFocusModeZoomed": false
 	},
 	"functionality": {
-		"inputMethod": "rei:default",
+		"inputMethod": "rei:pinyin",
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": true,
 		// Declares whether mob effects should be on the left side instead of the right side.

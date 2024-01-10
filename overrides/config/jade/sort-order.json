@@ -46,11 +46,8 @@
   "minecraft:item_ber": null,
   "minecraft:item_storage": null,
   "minecraft:fluid_storage": null,
-  "jade:object_name": null,
-  "jade:registry_name": null,
-  "jade:mod_name": null,
-  "jade:distance": null,
-  "jade:block_face": null,
+  "minecraft:campfire": null,
+  "waystones:waystone": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
   "minecraft:command_block": null,
@@ -65,6 +62,7 @@
   "minecraft:mob_breeding": null,
   "minecraft:chicken_egg": null,
   "minecraft:zombie_villager": null,
+  "minecraft:campfire": null,
   "minecraft:block_states": null,
   "minecraft:horse_stats": null,
   "minecraft:item_frame": null,
@@ -90,5 +88,9 @@
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
-  "waystones:waystone": null
+  "jade:object_name": null,
+  "jade:registry_name": null,
+  "jade:mod_name": null,
+  "jade:distance": null,
+  "jade:block_face": null
 }
