@@ -3,11 +3,20 @@ type = menu
 customization-meta {
   identifier = io.123smallmushroom.quitgame
   randomgroup = 1
-  smallerthanheight = 900
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
-  smallerthanwidth = 1600
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 576
+  action = autoscale
+  basewidth = 960
 }
 
 customization {
@@ -16,56 +25,44 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = quitgame
-  x = 104
+  x = -117
   width = 100
   actionid = 8b584d98-8df9-4e7f-972d-c54f31f940e61686460299644
   action = addbutton
-  y = 206
+  y = 66
   label = 确定
-  value = null
+  value = 
   height = 20
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = opengui
-  x = 254
+  buttonaction = closegui
+  x = 20
   width = 100
   actionid = 7934fd2f-6f18-4425-a598-b06fa051b7631686460330936
   action = addbutton
-  y = 206
+  y = 66
   label = 取消
-  value = net.minecraft.class_442
+  value = 
   height = 20
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   shadow = false
-  x = 182
-  actionid = 44c44786-1fb0-4122-9c72-157004cd72ef1687448292730
+  x = -36
+  actionid = d1ef0b3c-4387-461d-8b4c-e5b7dfd5b6ea1705132465174
   action = addtext
-  y = 78
+  y = -54
   scale = 1.0
   alignment = left
-  value = 你确定要关闭游戏吗？
-}
-
-customization {
-  orientation = top-left
-  shadow = false
-  x = 174
-  actionid = 99c8c659-ee5a-4e42-849c-3d8f17682d211687448320300
-  action = addtext
-  y = 94
-  scale = 1.0
-  alignment = left
-  value = Are you sure to quit game?
+  value = 是否要关闭游戏？
 }
 

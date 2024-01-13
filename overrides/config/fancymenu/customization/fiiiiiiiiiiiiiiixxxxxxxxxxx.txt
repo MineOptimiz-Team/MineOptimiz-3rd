@@ -1,11 +1,10 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_429
+  identifier = net.minecraftforge.client.gui.LoadingErrorScreen
   randomgroup = 1
   renderorder = foreground
   randommode = false
-  requiredmods = bedrockify
   randomonlyfirsttime = false
 }
 
@@ -15,17 +14,12 @@ customization {
 }
 
 customization {
-  identifier = %id=345178%
-  orientation = mid-centered
-  x = 5
-  action = movebutton
-  y = 36
+  identifier = %id=505954%
+  action = hidebutton
 }
 
 customization {
-  identifier = %id=345178%
-  width = 150
-  action = resizebutton
-  height = 20
+  identifier = %id=50954%
+  action = hidebutton
 }
 

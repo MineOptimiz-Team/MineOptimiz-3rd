@@ -3,18 +3,14 @@ type = menu
 customization-meta {
   identifier = net.minecraft.class_442
   randomgroup = 1
-  biggerthanwidth = 1600
-  smallerthanheight = 900
   renderorder = foreground
   randommode = false
-  minimummcversion = 1.17.1
   randomonlyfirsttime = false
-  smallerthanwidth = 1600
 }
 
 customization {
-  path = wallhaven-e7651w_1600x1024.png
-  action = texturizebackground
+  action = setscale
+  scale = 2
 }
 
 customization {
@@ -28,8 +24,32 @@ customization {
 }
 
 customization {
+  identifier = %id=604382%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 57
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -99
+  action = movebutton
+  y = 57
+}
+
+customization {
   identifier = %id=502382%
   action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = -122
+  action = movebutton
+  y = 57
 }
 
 customization {
@@ -38,106 +58,83 @@ customization {
 }
 
 customization {
-  identifier = %id=502346%
+  identifier = %id=400346%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=502346%
   orientation = mid-centered
-  x = 131
+  x = -99
   action = movebutton
-  y = 74
+  y = 4
 }
 
 customization {
-  identifier = %id=400382%
-  orientation = mid-centered
-  x = -187
-  action = movebutton
-  y = 44
-}
-
-customization {
-  identifier = %id=400382%
-  width = 198
+  identifier = %id=502346%
+  width = 200
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=376382%
   orientation = mid-centered
-  x = 159
-  action = movebutton
-  y = 74
-}
-
-customization {
-  identifier = %id=400346%
-  orientation = mid-centered
-  x = -188
-  action = movebutton
-  y = 16
-}
-
-customization {
-  orientation = top-left
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  x = 286
-  width = 100
-  actionid = a67e5465-94e7-4106-aefa-73d470f15cbd1675518043156
-  action = addbutton
-  y = 97
-  label = 其他的整合包下载
-  value = https://github.com/123SmallMushroom/Tiao-s-Modpack-For-Tiao-s-Server/releases
-  height = 20
-}
-
-customization {
-  orientation = top-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opencustomgui
-  x = 12
-  width = 198
-  actionid = f6b531d7-f737-4600-bdec-93a8217cdec71686459465814
+  x = -99
+  width = 200
+  actionid = 223e415f-2d95-403c-9e5a-b55887a704ae1692429744087
   action = addbutton
-  y = 90
+  y = -23
   label = 开始游戏
   value = io.123smallmushroom.choosegame
   height = 20
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opencustomgui
-  x = 285
-  width = 100
-  actionid = 6f33e89d-b26a-4703-9d90-63efab132ae81686460437684
+  x = 3
+  width = 98
+  actionid = 2becb846-9562-425a-867a-824824a841cf1692431645176
   action = addbutton
-  y = 69
+  y = 57
   label = 退出游戏
   value = io.123smallmushroom.quitgame
   height = 20
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opengui
-  x = 114
-  width = 96
-  actionid = 27ade121-dc23-47ad-a0c6-d491f884ce201686461874679
+  x = -99
+  width = 200
+  actionid = ce075673-ccaa-4ef5-839a-1fd1f215048b1692574272388
   action = addbutton
-  y = 122
-  label = 模组
-  value = com.terraformersmc.modmenu.gui.ModsScreen
+  y = 30
+  label = 账号切换
+  value = iafenvoy.accountswitcher.gui.AccountScreen
   height = 20
+}
+
+customization {
+  path = guirequired/title.png
+  orientation = top-centered
+  x = -124
+  width = 242
+  action = addtexture
+  actionid = 0da8b457-1a38-44fa-9867-72a2a88702661705131728057
+  y = 40
+  height = 64
+}
+
+customization {
+  identifier = %id=604346%
+  action = hidebutton
 }
 
