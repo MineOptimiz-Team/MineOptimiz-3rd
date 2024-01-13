@@ -1,2 +1,0 @@
-MWName:mw-1,-1,-1:Map 2
-MWName:mw$default:Map 1

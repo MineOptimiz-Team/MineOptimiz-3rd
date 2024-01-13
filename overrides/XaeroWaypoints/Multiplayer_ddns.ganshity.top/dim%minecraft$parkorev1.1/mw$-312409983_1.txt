@@ -1,4 +1,0 @@
-#
-#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
-#
-waypoint:游戏大厅:游:-142:116:331:4:false:0:gui.xaero_default:false:0:0

@@ -1,3 +1,0 @@
-confirmedMultiworld:mw$default
-MWName:mw$default:Default
-MWName:mw4,1,7:Map 1

@@ -1,8 +1,0 @@
-confirmedMultiworld:cm$server120
-autoMWBinding:mw-12,1,-1:mw$default
-autoMWBinding:mw$default:mw-12,1,-1
-MWName:mw$910056764:Map 2
-MWName:mw-12,1,-1:Map 1
-MWName:mw$default:Default
-MWName:cm$server120:Server1.20
-caveModeType:0
