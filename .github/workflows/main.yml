@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Build-Standard-Modpack:
+  Build-Modpack:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
@@ -18,14 +18,14 @@ jobs:
       - run: git config user.name "${{ github.actor }}"
         if: ${{ github.repository_owner != 'github-actions' }}   
         
-      - name: Set Timezone
+      - name: Fix Timezone
         uses: szenius/set-timezone@v1.2
         with:
           timezoneLinux: "Asia/Shanghai"
           timezoneWindows: "China Standard Time"
           timezoneMacos: "Asia/Shanghai"
         
-      - name: Get current date and time
+      - name: Add date and time to the file name
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M')"
       
@@ -34,62 +34,14 @@ jobs:
           rm -rf .github
           rm -rf .git
           rm README.md
-          rm modrinth.index.lite.json
           cd overrides
-          rm -rf mods-lite
           mv h.txt options.txt
           cd ..
           cd /home/runner/work/MineOptimiz/MineOptimiz/
-          zip -r /home/runner/work/MineOptimiz/MineOptimiz/v1.17.1-Standard-Dev-${{ steps.date.outputs.date }}.mrpack ./*
+          zip -r /home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.mrpack ./*
       
       - uses: actions/upload-artifact@v2
         with:
-          name: v1.17.1-Standard-Dev-${{ steps.date.outputs.date }}.mrpack
-          path: /home/runner/work/MineOptimiz/MineOptimiz/v1.17.1-Standard-Dev-${{ steps.date.outputs.date }}.mrpack
+          name: MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.mrpack
+          path: /home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.mrpack
      
-  Build-Lite-Modpack: 
-     runs-on: ubuntu-20.04
-     steps:
-     - uses: actions/checkout@v2
-    
-     - name: Set Timezone
-       uses: szenius/set-timezone@v1.2
-       with:
-         timezoneLinux: "Asia/Shanghai"
-         timezoneWindows: "China Standard Time"
-         timezoneMacos: "Asia/Shanghai"
-      
-     - name: Get current date and time
-       id: date
-       run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M')"
-    
-     - name: Build Lite Modpack
-       run: |
-        rm -rf .github
-        rm -rf .git
-        rm README.md
-        rm modrinth.index.json
-        mv modrinth.index.lite.json modrinth.index.json
-        cd overrides
-        rm servers.dat
-        rm wallhaven-e7651w_1600x1024.png
-        rm hhh.jpg
-        rm joinserver.txt
-        rm start.png
-        rm startclick.png
-        rm -rf XaeroWaypoints
-        rm -rf XaeroWorldMap
-        rm -rf fancymenu_data
-        rm -rf mods
-        mv mods-lite mods
-        mv h.txt options.txt
-        cd config
-        rm -rf fancymenu
-        cd /home/runner/work/MineOptimiz/MineOptimiz/    
-        zip -r /home/runner/work/MineOptimiz/MineOptimiz/v1.17.1-Lite-Dev-${{ steps.date.outputs.date }}.mrpack ./*
-        
-     - uses: actions/upload-artifact@v2
-       with:
-        name: v1.17.1-Lite-Dev-${{ steps.date.outputs.date }}.mrpack
-        path: v1.17.1-Lite-Dev-${{ steps.date.outputs.date }}.mrpack
-    
