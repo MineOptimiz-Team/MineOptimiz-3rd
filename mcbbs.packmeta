@@ -1,0 +1,1468 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "MineOptimiz Fabric v1.17.1-Stable-0.7.17",
+  "version": "1.17.1-Stable-0.7.17",
+  "author": "Small__Mushroom",
+  "description": "",
+  "fileApi": "",
+  "url": "",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.17.1"
+    },
+    {
+      "id": "fabric",
+      "version": "0.15.3"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "config/appleskin.json5",
+      "hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bedrockify/bedrockifyClient.json",
+      "hash": "02054e9377b8d6e51d906904813880be2c8e29b0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bedrockify/bedrockifyCommon.json",
+      "hash": "360fb37ac49e61c1611d46831c7119d78d0898d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bedrockify/bedrockifyMixins.json",
+      "hash": "9b410a63b018817f254f13033d9378c2bd92d25f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/betterf3.json",
+      "hash": "233f5e39ea8b1e6965fb80cde15f481e8a846d26",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/betterfpsdist.json",
+      "hash": "a8a3ac914621f57e3e1f123526fe029b30559988",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/c2me.toml",
+      "hash": "59db6a9437c0025ec9ac120ea48b58189692b447",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/capes.json5",
+      "hash": "863fe20edcfc79943131b40ddd7c7cb10face200",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/carpet/default_carpet.conf",
+      "hash": "0860e9a35352a53e7a23998d1f0dbaac18b5ca2e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/carpet/default_magiclib.conf",
+      "hash": "9f74c708fd92d9ab17cea11c07c625db7efb11fd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "a8bef8d26d7930b9348b8469e50c55ce8ddbf874",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/chunky.json",
+      "hash": "10a2cc2ed7f0352e524b8557ef67b84d127d08bf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/citresewn.json",
+      "hash": "23d5c0f132d5f480258ad0bf9456e5e883e1acd1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/clienttweaks.toml",
+      "hash": "890aa97313fb0b36d25a7695b695abc008fad508",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cloudmusic.json",
+      "hash": "e5e5ed88f68e7d618b228233efe40392a47de962",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/continuity.json",
+      "hash": "a273e48bc18aff0a6ec4c14046faa0f718df70bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cullleaves.json",
+      "hash": "cdfa96297b1ef9db255932ac50b2c17a8d8f065b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/dashloader.json",
+      "hash": "03e6116c8b1d488bac2e096bd90f537e31bddc0f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/debugify-descriptions.json",
+      "hash": "7f54a0ed90ac43599f7f8e830a03984f4c0cb70d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/debugify.json",
+      "hash": "3d578133e0b059825350b86989032f45e7911722",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "67d2eaa083b0e864e71e50599fcf41bc37a5b412",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/exordium.json",
+      "hash": "b72d8cfeb3bc144e041f0c2cfddd6177ecbc05b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "3a24cf90d7ee8c7d342f7c34eb42bb58576310ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fabrictailor.json",
+      "hash": "4caad0e28519a3f16685e8adce48f1bfc5bead2c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fabrishot.properties",
+      "hash": "c54545334ca9dc979a61e081f9aaf0703cd49882",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fabrizoom.conf",
+      "hash": "24e938faf70b3484a0fd046e36fcf9ffd3af4aa9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "hash": "80903f5c507f8fa1af7bdf91858da3a9b678e4e2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.choosegame.txt",
+      "hash": "83fd2c206667142ba80861e6c86281f4d08c7b45",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.jubao.txt",
+      "hash": "141430dd9079d0f93a7b187c89e7a49153ea930a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.justinfabric.txt",
+      "hash": "f7104e1d051d750ee33433677f070ae2137f7e76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.quitgame.txt",
+      "hash": "c16132772e940d3a398d2c49ea60528469cb76b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.serverad.txt",
+      "hash": "36391246873db3d9e1d644b5508d83686aa45a1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.tools.txt",
+      "hash": "34671e4129fb2758b4b8d86fe2a09fdcea57e349",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "hash": "97c76f9e4585744d4f45401fe15959311404233c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/addtesting.txt",
+      "hash": "33786e37d7d811c45c9c6dd60767c043da89e324",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/fabricmodconfig.txt",
+      "hash": "c4714c952f8bf2e20f62b2163c2a51a556ce7060",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/fiiiiiiiiiiiiiiixxxxxxxxxxx.txt",
+      "hash": "8fea4509c1927aed68f7107522679912d64191d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/hhh.txt",
+      "hash": "b2c990e3c29b3e2078f699dfa875ac3047984cde",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/jubao.txt",
+      "hash": "eefb0f630db7391079311be2d6c571747e8e519a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/justinfabric.txt",
+      "hash": "2ad3c8458110e60ec85af600f01799fc3aa71a1c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/modconfig.txt",
+      "hash": "c40661638aa0a392b40505aeb073e18b18ba0d7c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/modpacktools.txt",
+      "hash": "f82da8fd198a6df38690e09c505a20a1c7a76b79",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/quitgame.txt",
+      "hash": "289435eda0ada9a7f3223f51c35534e3b9251ebd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/serverad.txt",
+      "hash": "5016216dcdbdd95703b695cdc97e28e6d18520bf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/startgame.txt",
+      "hash": "678dc93c2c1471a621a1a58bff237810f7982d64",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/testing.txt",
+      "hash": "c3da7cda2df6be52642e089f3b4cfe69d7089457",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/titlescreenvanilla.txt",
+      "hash": "fcc69abb32abbfb7bdbfeac7594b9f2cb98376f1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/tools - 副本.txt",
+      "hash": "c3da7cda2df6be52642e089f3b4cfe69d7089457",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/tools.txt",
+      "hash": "62fd3d7eef53aa21f427131dc6a194a05ef6824b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "hash": "c16e604ae52662778ad19a723f0b70267f7e1e9c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "hash": "502e929d37c01159130bbd0db1af23611e59aba2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "hash": "7092c585b0bad0e35fe7b99d34557d1027ed3b76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "hash": "650af0cdd577246b235523400d11892322c86c44",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "hash": "d113821a8539fae2f774223a4136d42e9b0d0930",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "hash": "c000cc5ba4e947854ff21c15bf71e6c611823488",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fastquit-config.txt",
+      "hash": "bb1cbcbb4fd67cc73ecb7977af69d84ff93db17b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "hash": "e6eac06b86e77a90218f36997cbe0a33fb1e4a82",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/gamecontrollerdatabase.txt",
+      "hash": "a4405c6b79d3a7169f0d42fcbb40b76a6f6d6b35",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/getittogetherdrops.json5",
+      "hash": "c47d0d0815432c634538681334ceef1d4371e436",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "hash": "6d5d53bf9ba03a64fd37c525a24f05fc75ac947d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/indium-renderer.properties",
+      "hash": "8f530f99751a84064cca586e99a1c9e451b9bf35",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ingameime.json",
+      "hash": "e5b59d29657bc4ab494295df35c00da4b6e817f4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "4dfa4c98439c4d78f428e2774917ae66a71e493f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/iris.properties",
+      "hash": "5ddf3b6b627292a764ea7001df9a9e3c7136f82b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jumpquilt.json",
+      "hash": "ef2d7d15de39b075c6245fe19d2016c7bd7604ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "hash": "42badc338e767559db38a67bd3e8020a92000e56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "hash": "13313e06d013dd6eca804991604e86f8f0105fa2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_106.12.142.44_41576.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_106.12.142.44_41576_dim_minecraft_overworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_106.12.142.44_41576_dim_minecraft_smallmushroomovo.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_106.12.142.44_41576_dim_minecraft_the_nether.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_127.0.0.1_28103.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_127.0.0.1_28103_dim_minecraft_smallmushroomovo.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_2b2t.org.json",
+      "hash": "02e8b882b5c151ba21dc63d845794d00f668f305",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_2b2t.org_dim_minecraft_the_end.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_43.139.190.143_42884.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_43.139.190.143_42884_dim_minecraft_overworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_43.139.190.143_42884_dim_minecraft_smallmushroomovo.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_aeschylus.1Sky.cloud.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_aeschylus.1Sky.cloud_dim_minecraft_overworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_ddns.ganshity.top_28103.json",
+      "hash": "02e8b882b5c151ba21dc63d845794d00f668f305",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_ddns.ganshity.top_28103_dim_minecraft_dating.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_ddns.ganshity.top_28103_dim_minecraft_overworld.json",
+      "hash": "c6b24376c355e2807f83c5178a561f399b4fdc44",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_ddns.ganshity.top_28103_dim_minecraft_parkorev1.1.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_ddns.ganshity.top_28103_dim_minecraft_skycityworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_ddns.ganshity.top_28103_dim_minecraft_smallmushroomovo.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_ddns.ganshity.top_28103_dim_minecraft_the_nether.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_mc233.cn.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_mc233.cn_dim_minecraft_overworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_mc233.cn_dim_minecraft_the_nether.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica.json",
+      "hash": "141e52bb9c2f0ef20f0801b8e4c1f5fa760b4999",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/lithium.properties",
+      "hash": "d4d30939d76f2e3e7ab2736e9649be0abcc310c0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/magiclib.json",
+      "hash": "ade9cf2d5c209c09833a6f78a1629283fae0272b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/malilib.json",
+      "hash": "18b3177f7bec0b96bc2b97b79c52a30db629fa99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/masa_gadget_mod.json",
+      "hash": "9acef455933fcb269a8036c8aaf5c69785f18789",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/memory_clear_refabric.json",
+      "hash": "3b1c6b604155fb452e736b2dbadac13dd267ce21",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/midnightcontrols.json",
+      "hash": "e64857bfa3910b46b712dbeff8f2c7a72f8367fa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/midnightlib.json",
+      "hash": "d280a7026524ae95864bae0638691f87c626c7b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/modmenu.json",
+      "hash": "be9458320ae84d38501d23fc4c5a047c18a66cf5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/moreculling.toml",
+      "hash": "dc427973f3843542d256273baaf78c9c4dbf2b67",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.18/1.18.json",
+      "hash": "2a5ba362c7743d19c474faa9ba3595d9bc41fa02",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.18/1.18.json.etag",
+      "hash": "bc7b18ec0a8fe0c61b1fa4a35a6408dba8e85e12",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.18/en_gb.lang",
+      "hash": "964a7f686d8e5bcb0604a0783ca5b85d7195b3a3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.18/en_gb.lang.etag",
+      "hash": "372c07fa2d5ee20f2ba373933a9e06071564033c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.18/indexes.json",
+      "hash": "92aa15a18127b6f9e3f0e5a7d018be7ebb389703",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.18/zh_cn.lang",
+      "hash": "93054f471bdca80260e419f09d5fea1181329663",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.18/zh_cn.lang.etag",
+      "hash": "ca06099c8a48950f9a989ce898a12b672c0cf516",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.19.2/1.19.2.json",
+      "hash": "678862600e99991a2bf1d434af69ded3a321e22a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.19.2/en_gb.lang",
+      "hash": "ca6b2acbfce75da3ca18d80309f15470ebeb4f54",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/multiconnect/caches/1.19.2/en_gb.lang.etag",
+      "hash": "1be5f0fda04c42ab3122d3a0ad3e7d89b2ac48e8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Client.json",
+      "hash": "1493c077473fe3f8a2216a24156d6ccab79de39a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Common.json",
+      "hash": "6a83c8b806b818ae23a1976baa52bfc30436206a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/NoChatReports/NCR-Encryption.json",
+      "hash": "664b6d6d7ed5a23a681af8a2b9c428ff937e07c6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/NoChatReports/NCR-ServerPreferences.json",
+      "hash": "3c04f45c210048b5e722b294dcc0d9f073374160",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/NoChatReports/README.md",
+      "hash": "75d98286a0aa3e180708523c8f582a2d23e590b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/notenoughanimations.json",
+      "hash": "5e4f561a061db46eddc8338e900a02d421d7f5c2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/okzoomer.json5",
+      "hash": "3e2e34f7a63ebf039b230af1985ef19e46ae1c08",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ok_zoomer/config.toml",
+      "hash": "7fdb909beca295ce97830ebf9c45a1f3c8086675",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ommc.json",
+      "hash": "7e5b2370adbcc8fe924c42185cc336eff699d745",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/quilt/qsl/registry.toml",
+      "hash": "083b23e1407daf7869c7f998e1582d0cb24715f9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/quilt-loader.txt",
+      "hash": "4eb30cc58e4d835ffbfbb8cc8109e8685da5090e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/quilt-loading-screen.json",
+      "hash": "306d1b3ef914eec004792e5af8f9d9954b569a9f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/quilt_loading_screen.json",
+      "hash": "8b026f000521c8ec245830bc13bfb206aa3300dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/roughlyenoughitems/config.json5",
+      "hash": "f570a94dc585ff919147163c78c902334d705c22",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/rrp.properties",
+      "hash": "d7296b388f51ed488655307cae1cbec3f066aaff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/skinlayers.json",
+      "hash": "adf51e37dc134068d806066ed3a25efb592f1557",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/slightguimodifications/config.json5",
+      "hash": "a1659aa66c4b30cbda32b95f2945f11072c5a3f5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/slightguimodifications/cts.groovy",
+      "hash": "acfd6bb744f5b713e948e6f6f71d90eacc6fe442",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "4d5988722e13d351c96f9b559974dc91274a7951",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "hash": "09db7f09d6dfd063ec4c7c534102892d67655d98",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "hash": "36cf0d5c9f6ef0091570e17c0a4f9f3ee7964797",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sodium-shadowy-path-blocks-options.json",
+      "hash": "fa78de99a6703fa3f7114432ff92aa42a23d0940",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/swordblocking.json",
+      "hash": "2a1b37ac171327eb80037d188cac9629a7b9386e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tiefix.json",
+      "hash": "0c1d6ac1d168b754271add552e49cdb48e28f6aa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tr7zwDonorSettings.json",
+      "hash": "6d1993e730a8f0e0b531b49bf0014fb9cdbc2f8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tweakeroo.json",
+      "hash": "490bd07202127043c5424f10ae89945040544620",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ViaBackwards/config.yml",
+      "hash": "bf1c769f54f74803294eb1d4353adeebe677e226",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ViaFabric/viafabric.yml",
+      "hash": "e383fc13201584cc3dc2fccb7bc8f5934a1807c6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ViaFabric/viaversion.yml",
+      "hash": "c9e540003650f1867cdf8d8958620759fc027776",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "hash": "ccd3de3bb39c3307cc67e2cc2e4c9f76cd097935",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "hash": "35ce422166cfcec1f5e94335c6a6f6c9a351e1a3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "hash": "00e400ec6df549c041f6045d6dd10966842f40f5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "hash": "98537de6f67a87ed0a6e8afc8bf33994172d1250",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "a70640f54e12690d3ac4ac0e867ebca69a6fa5c5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "fbb239744e3e25d882d9c5a05cffdbd9b046730e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "ea102322bdf5be36acef1ed783e85b6a0d1ee418",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "60e4bbd3beecd1f3fa7965678728f480cbde9ea9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaero_map_addition.json",
+      "hash": "4e2a1b289310ffb551eb021f3e8c8ceb8d5f2b7b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinLoader.json",
+      "hash": "31f3668c4860fc4f513a25dddebd531be17e5473",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "CustomSkinLoader/LocalSkin/capes/Yanggiezhenshuai.png",
+      "hash": "ddb8c759879288b6042f09a0740bca0d4d659896",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fancymenu_data/last_world.fmdata",
+      "hash": "a7fbdf80c4817a22a6579cb6eb3ef9ccb46d132f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/accessibility.png",
+      "hash": "5fac60464639c77eaf905e85fc7d52b8fff60f83",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/accessibility_click.png",
+      "hash": "711b829de12b6fea6596fb1ba44cb50ae2b68894",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/language.png",
+      "hash": "e320bf1737efaf67c35b56bc4848e53b6ade5e46",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/language_click.png",
+      "hash": "1e09461bc658374975fb3e99bf71dc7f560b5507",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/modpackversion.txt",
+      "hash": "decd80f778edd2d37975361180886a39546579a2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/title.png",
+      "hash": "dd7f38ab16f3c031fd2189743453a9eb7c1c2d36",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/wallhaven-e7651w_1600x1024.png",
+      "hash": "6dff85c572ae6cdf69c758e92c2fadb72a6cf2e7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "32337406f5aa6ef56a1ee83dd71ef6365db7e211",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/3dSkinLayers-Fabric-1.4.3.jar",
+      "hash": "6952690614e7460afdfa29a19746ed3bc36ba001",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/accountswitcher-1.0.0-1.17.1.jar",
+      "hash": "68c0bf641648784c3cbf624f788daef48dbab409",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/appleskin-fabric-mc1.17.1-2.4.0.jar",
+      "hash": "9638c78f1d5349edcbc5de7214d116dfae20f6ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/architectury-2.10.12.jar",
+      "hash": "cdf7c5aaabae39e5403b07b84dacdbae99ac7fc8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/arrp-0.5.4.jar",
+      "hash": "288124e89e8b3f7bb9f67b49a085f2c0d55a2439",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/axolotl-item-fix-1.1.3.jar",
+      "hash": "f60f9ea1e6afded2935ba5b1406aedcf429c20f8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/balm-fabric-1.9.0+0.jar",
+      "hash": "53ebb634b9c86ad90e516da12cd0b22e7b71c0cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/BetterF3-2.0.0-Fabric-1.17.1.jar",
+      "hash": "122377ff4a5617f35f0370a2d09e8f5717004556",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/BetterTaskbar-1.17.1-Fabric-1.0.jar",
+      "hash": "b004a20ad4171be3fc06b05a70a496c3889453dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/chat_heads-0.6.0-fabric-1.17.1.jar",
+      "hash": "8824f546b38d68c22a3508222ede3840214386dc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/chime-1.2.1.jar",
+      "hash": "2314a0389564483da98b4c8cffb2ba391615cebb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Chunky-1.2.147.jar",
+      "hash": "b3e4a34207775843b2b1690f1c2c2d2ccfe29ffe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/clear-skies-fabric-mc117-2.0.89.jar",
+      "hash": "02d77c7c58c876aee4dd8756ceec0f1607e12a6e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/clienttweaks-fabric-6.0.0+0.jar",
+      "hash": "9b12f485de32940f31533cafa0b81b6b87cb842f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/cloth-api-2.1.62.jar",
+      "hash": "b9aad3682046c1ab5494f1b15a390a9a6b2f2272",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/cloth-config-fabric-5.3.63.jar",
+      "hash": "f58166f0b54a1692ad8a78fba807bfe3964aeef5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Clumps-fabric-1.17.1-7.0.10.jar",
+      "hash": "de9a66ec1ed8f4b1e3cb68dbfd1cc42391eb5432",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/continuity-1.1.0+1.17.jar",
+      "hash": "b82e709c8cf09e41a0fd7a312137030f7824c112",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/cullleaves-2.3.2.jar",
+      "hash": "9bc9c61f0a7dc6c765118a0527850b91847608cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/CustomSkinLoader_Fabric-14.15.2.jar",
+      "hash": "73a4dd111c6d0d4ccf1069891fd0fd179c265aed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/dark-loading-screen-1.6.11.jar",
+      "hash": "4f93411b34bc03e6b6af00f70a6f45190aad9ba7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/dashloader-def-3.1.1+1.17.jar",
+      "hash": "f96cfd31a944dacfb766f4d27e49b0b2b9e71106",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/entityculling-fabric-mc1.17.1-1.5.0.jar",
+      "hash": "19bacef4b20221e6be8aa1b17415c9a1465f19ad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/exordium-fabric-1.0.1-mc1.17.1Port.jar",
+      "hash": "3ea48f8ffcb82e82a42af5dcb3fb13a33908c3f0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fabric-api-0.46.1+1.17.jar",
+      "hash": "a7d86f36c5b27bdb0008a84c3ce91e2b095a2834",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
+      "hash": "6dab5c754ec04e671e505df685befcedef27f42e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fabrictailor-1.7.1.jar",
+      "hash": "3b000211b8689613f52f85aad3705f6565d7362e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fabrishot-1.5.1.jar",
+      "hash": "739729da7c1930728c9d78e460ae5357945237a3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fancymenu_fabric_2.4.2_MC_1.17-1.17.1.jar",
+      "hash": "62793a25cbeb26e4edd1c8fdd7bae4045a485e99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fastquit-1.2.2+1.17-1.18.1.jar",
+      "hash": "077cc1a026f29b4690b02c723affd9b795f2780b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/forcegl20-fabric-1.1.0.jar",
+      "hash": "fd6ab44747b6f7dcbd4b9b3268cf99b1789c6759",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/I18nUpdateMod-3.4.2-all.jar",
+      "hash": "d344d84168208bdf8740b3b82b4a8e0df1866d4f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/indium-1.0.1+mc1.17.1.jar",
+      "hash": "ee35a03222406e5a8c8ea4aacb24c0d694a09889",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/IngameIME-fabric-1.17-pre5-1.6.4.jar",
+      "hash": "cfbf8b3c285fcb4771ad92dfd6e9f4c5b2b041d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/iris-mc1.17.1-1.2.7.jar",
+      "hash": "e2095b42254e849d19eeefe7b5c04667c834a759",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.3.0_MC_1.17-1.17.1.jar",
+      "hash": "09e5994764733d7ba8630d9ba4d750de3cfd7691",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lambdynamiclights-2.1.0+1.17.jar",
+      "hash": "5f1f59c0ff6d54fc7ec1d42eb347a2f6987d234c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lazy-language-loader-0.2.2.jar",
+      "hash": "c2c6dc621197deb69170996c68bf2e1c73e1c7d1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lazydfu-0.1.2.jar",
+      "hash": "2efec5781f1271bdcdae462eee402ccb97bff6fe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/libIPN-fabric-1.17-1.0.8.jar",
+      "hash": "1fb675622ebfdd3275d3eab4aad20144e98d3d78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.17.1-0.7.5.jar",
+      "hash": "f96f5d92136c51ffab451542ba6319f17ca1d762",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/malilib-fabric-1.17.1-0.10.0-dev.26.jar",
+      "hash": "42ae3dbdc290508cfc49940a1333843b92a74446",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/modmenu-2.0.17.jar",
+      "hash": "8745c1bf7b36566344635e7f453805285cb9851d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/morechathistory-1.17.1-1.1.0.jar",
+      "hash": "1c31b624056746ceab227944329a8a2359d7c40f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/notenoughanimations-fabric-1.6.0-mc1.17.1.jar",
+      "hash": "4eb61a3c97d6043d05e32890a7b4c2c86f972955",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/okzoomer-5.0.0-beta.3+1.17.1.jar",
+      "hash": "aa493f41d89b2a1e1a299ae4ee8073ad39f67dca",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/PlayerNameTweaks-fabric-1.18.x-1.0(1).jar",
+      "hash": "1330c02f18699f363fe7ea93f5515d7b81f158a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/R 键整理.jar",
+      "hash": "e2f5ab0f761c57b468fef3e8cea169af42d48f5f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/reeses_sodium_options-1.5.0+mc1.17.1-build.69.jar",
+      "hash": "c223d1ca409b3bfbb05f8b9a557adbf19b370737",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-6.5.433.jar",
+      "hash": "3a7db94f1b19561af4ac0c6543ce0a1a1f9a177f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/screenshot-to-clipboard-1.0.8-fabric.jar",
+      "hash": "3b43aa2fa03b89b1600548dd87f44f90b272def2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sodium-extra-0.4.18+mc1.17.1-build.97.jar",
+      "hash": "8b15a3d9150c134ef34bdc2fa6f56ef902508eae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
+      "hash": "85f5d67f0ce9e995e738eb6b60034bc919a1859d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sodium-shadowy-path-blocks-2.0.1.jar",
+      "hash": "692f53dddf67a8504d57c217506ee104309803ea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/starlight-1.0.0+fabric.73f6d37.jar",
+      "hash": "a4eaa5af56eb7719bae025f9d7c5da1490d4822f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Tweakeroo辅助模组.jar",
+      "hash": "04eaf60ea2e1ab0b13ad00cfe5ed4ff72fd4876a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ViaFabric-0.4.12+53-main.jar",
+      "hash": "633b13afc21cc8bcc8a70c632b65e2760a0ee595",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/voicechat-fabric-1.17.1-2.4.14.jar",
+      "hash": "d2101047cac9b8f80d3265d377a7b5cbc0fdb484",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Xaeros世界地图.jar",
+      "hash": "0a8908ace34ee985dcd88f9af8e892cdb6597e78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Xaeros小地图.jar",
+      "hash": "8e20ea8a7a6079705ef57deb8ff110e5c7708b4f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "options.txt",
+      "hash": "683b0aab933083597cb004c75b4151c284b6f598",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "optionsof.txt",
+      "hash": "3edabc22cbc9ca69c239c4437fb4d393db22c90c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Fast Better Grass.zip",
+      "hash": "62dc9414b5d7f1f1d63d236d2eb77b22518137de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/mfs-22w02a 1.11-1.12.2.zip",
+      "hash": "3b5c14ee77a87ac1aff0e42b6a0cfeffd2730f63",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-7.zip",
+      "hash": "3438c3174e4f56d2c942d7c05cc1757a26b23ea6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/quilt-ui.zip",
+      "hash": "6d6a16120c1ba97522de8c7d2b127ac71616815c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/UnicodeFontExtend-release.zip",
+      "hash": "5899fcb865e8623e2bf7b6ba77653dce65ac5b3a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/VanillaTweaks_r652972.zip",
+      "hash": "95ebd2d13610755f6dba65f683a3f763afcc0884",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/ViaBackwards-Plus_v1.3.1.zip",
+      "hash": "da4634cfe77ba2893b95243b7907b50dee443da8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/ViaBackwards-Plus_v1.3.4.zip",
+      "hash": "f26c0c34d244d1ba5c03f08a6e20769940fd85f6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/ViaBackwards-Plus_v1.3.5.zip",
+      "hash": "d267d900392e4b446a4942f8bf1a45a7bf9b63ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/ViaBackwards-Plus_v1.4.1.zip",
+      "hash": "8b2a01ff4cf1d5e87870b3009b5bfb3300b39308",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/ViaBackwrds_Plus_v1.3.2.zip",
+      "hash": "718da26d1de125133fc2f9f0b4c2cd9733edcf2a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/ViaVisual_v1.0.1.zip",
+      "hash": "89acc0c71d19d8fb80e84069211af23369b2eb10",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/集成汉化/pack.mcmeta",
+      "hash": "0c9b41ce95b083d988a1f8a338419ee5e81f4922",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 0,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}
