@@ -18,24 +18,24 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:true
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 mouseSensitivity:0.7605633802816901
-fov:0.0
+fov:0.375
 screenEffectScale:0.78
 fovEffectScale:0.8544004
 gamma:1.0
 renderDistance:6
 entityDistanceScaling:0.5
 guiScale:0
-particles:2
+particles:1
 maxFps:260
 difficulty:2
 graphicsMode:0
-ao:2
+ao:1
 biomeBlendRadius:2
-renderClouds:false
-resourcePacks:["file/UnicodeFontExtend-release.zip","vanilla","continuity/default","continuity/glass_pane_culling_fix","file/Minecraft-Mod-Language-Modpack-Converted-7.zip","Fabric Mods","cullleaves/smartleaves","file/Fast Better Grass.zip","black_icons"]
-incompatibleResourcePacks:["file/UnicodeFontExtend-release.zip","file/Fast Better Grass.zip","file/clienttweaks汉化"]
+renderClouds:fast
+resourcePacks:["file/UnicodeFontExtend-release.zip","vanilla","Fabric Mods","file/Minecraft-Mod-Language-Modpack-Converted-7.zip","file/ViaBackwards-Plus_v1.4.1.zip","continuity/default","continuity/glass_pane_culling_fix","file/Fast Better Grass.zip","black_icons","file/VanillaTweaks_r652972.zip"]
+incompatibleResourcePacks:["file/UnicodeFontExtend-release.zip","file/ViaBackwards-Plus_v1.4.1.zip","file/Fast Better Grass.zip"]
 lastServer:127.0.0.1:28103
 lang:zh_cn
 chatVisibility:0
@@ -44,7 +44,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -105,13 +105,16 @@ key_key.hotbar.9:key.keyboard.9
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
-key_key.wi_zoom.zoom:key.keyboard.c
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.i
-key_key.imblocker.switchIMEState:key.keyboard.f6
+key_key.ingameime.hotkey:key.keyboard.home
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.okzoomer.zoom:key.keyboard.c
+key_key.okzoomer.decrease_zoom:key.keyboard.unknown
+key_key.okzoomer.increase_zoom:key.keyboard.unknown
+key_key.okzoomer.reset_zoom:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.grave.accent
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
@@ -122,6 +125,30 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
+key_gui.xaero_toggle_slime:key.keyboard.unknown
+key_gui.xaero_toggle_grid:key.keyboard.unknown
+key_gui.xaero_toggle_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.z
+key_gui.xaero_waypoints_key:key.keyboard.u
+key_gui.xaero_zoom_in:key.keyboard.unknown
+key_gui.xaero_zoom_out:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.b
+key_gui.xaero_display_all_sets:key.keyboard.unknown
+key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
+key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
+key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
+key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
+key_gui.xaero_alternative_list_players:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.y
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
