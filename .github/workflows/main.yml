@@ -38,10 +38,10 @@ jobs:
           mv h.txt options.txt
           cd ..
           cd /home/runner/work/MineOptimiz/MineOptimiz/
-          zip -r /home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.mrpack ./*
+          zip -r "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.mrpack" ./*
       
       - uses: actions/upload-artifact@v2
         with:
           name: MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.mrpack
-          path: /home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.mrpack
+          path: "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.mrpack"
      
