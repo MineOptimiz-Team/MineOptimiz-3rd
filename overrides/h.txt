@@ -18,7 +18,7 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:true
-darkMojangStudiosBackground:true
+darkMojangStudiosBackground:false
 mouseSensitivity:0.7605633802816901
 fov:0.375
 screenEffectScale:0.78
@@ -33,8 +33,8 @@ difficulty:2
 graphicsMode:0
 ao:1
 biomeBlendRadius:2
-renderClouds:fast
-resourcePacks:["file/UnicodeFontExtend-release.zip","vanilla","Fabric Mods","file/Minecraft-Mod-Language-Modpack-Converted-7.zip","file/ViaBackwards-Plus_v1.4.1.zip","continuity/default","continuity/glass_pane_culling_fix","file/Fast Better Grass.zip","black_icons","file/VanillaTweaks_r652972.zip"]
+renderClouds:false
+resourcePacks:["file/UnicodeFontExtend-release.zip","vanilla","Fabric Mods","file/Minecraft-Mod-Language-Modpack-Converted-1.17.1.zip","file/ViaBackwards-Plus_v1.4.1.zip","continuity/default","continuity/glass_pane_culling_fix","file/Fast Better Grass.zip","black_icons","file/VanillaTweaks_r652972.zip"]
 incompatibleResourcePacks:["file/UnicodeFontExtend-release.zip","file/ViaBackwards-Plus_v1.4.1.zip","file/Fast Better Grass.zip"]
 lastServer:127.0.0.1:28103
 lang:zh_cn
@@ -143,12 +143,14 @@ key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
 key_gui.xaero_alternative_list_players:key.keyboard.unknown
+key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o

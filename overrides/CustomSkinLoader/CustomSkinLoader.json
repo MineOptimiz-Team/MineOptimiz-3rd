@@ -1,5 +1,5 @@
 {
-  "version": "14.16",
+  "version": "14.19.1",
   "buildNumber": 26,
   "loadlist": [
     {
@@ -14,7 +14,7 @@
     {
       "name": "MinecraftCapes",
       "type": "MinecraftCapesAPI",
-      "root": "https://minecraftcapes.net/profile/"
+      "root": "https://api.minecraftcapes.net/profile/"
     },
     {
       "name": "Mojang",
@@ -50,7 +50,6 @@
   ],
   "enableDynamicSkull": true,
   "enableTransparentSkin": true,
-  "forceIgnoreHttpsCertificate": false,
   "forceLoadAllTextures": true,
   "enableCape": true,
   "threadPoolSize": 3,

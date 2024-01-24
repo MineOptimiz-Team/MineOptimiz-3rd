@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.client.gui.screens.OptionsScreen
+  identifier = net.minecraft.class_429
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -19,22 +19,18 @@ customization {
 }
 
 customization {
-  identifier = %id=345304%
-  action = hidebutton
-}
-
-customization {
   orientation = element
-  loopbackgroundanimations = true
   restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  label = 关于MineOptimiz...
+  loopbackgroundanimations = true
   orientation_element = vanillabtn:345232
-  buttonaction = opengui;io.123smallmushroom.tools%btnaction_splitter_fm%
   x = 0
   width = 150
-  action = addbutton
   actionid = e3869ba6-e9f0-49b1-aa7e-f271b5971f891692574637340
+  action = addbutton
   y = 72
-  label = 实用工具...
+  value = io.123smallmushroom.about
   height = 20
 }
 

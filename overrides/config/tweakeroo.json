@@ -687,228 +687,43 @@
     ]
   },
   "DisableToggles": {
-    "disableArmorStandRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableAxeStripping": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableBatSpawning": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableBlockBreakingParticles": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableDoubleTapSprint": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableBossFog": {
-      "enabled": true,
-      "hotkey": {
-        "keys": "true"
-      }
-    },
-    "disableChunkRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableClientEntityUpdates": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableClientLightUpdates": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableDeadMobRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableDeadMobTargeting": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableEntityRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableEntityTicking": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableFallingBlockEntityRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableInventoryEffectRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableItemSwitchRenderCooldown": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableMobSpawnerMobRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableNauseaEffect": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableNetherFog": {
-      "enabled": true,
-      "hotkey": {
-        "keys": "true"
-      }
-    },
-    "disableNetherPortalSound": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableObserver": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableOffhandRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableParticles": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disablePortalGuiClosing": {
-      "enabled": true,
-      "hotkey": {
-        "keys": "true"
-      }
-    },
-    "disableRainEffects": {
-      "enabled": true,
-      "hotkey": {
-        "keys": "true"
-      }
-    },
-    "disableRenderingScaffolding": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableRenderDistanceFog": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableScoreboardRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableShulkerBoxTooltip": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableShovelPathing": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableSignGui": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableSlimeBlockSlowdown": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableTileEntityRendering": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableTileEntityTicking": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableVillagerTradeLocking": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableWallUnsprint": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    },
-    "disableWorldViewBob": {
-      "enabled": false,
-      "hotkey": {
-        "keys": "false"
-      }
-    }
+    "disableArmorStandRendering": false,
+    "disableAxeStripping": false,
+    "disableBatSpawning": false,
+    "disableBlockBreakingParticles": false,
+    "disableDoubleTapSprint": false,
+    "disableBossFog": false,
+    "disableChunkRendering": false,
+    "disableClientEntityUpdates": false,
+    "disableClientLightUpdates": false,
+    "disableDeadMobRendering": false,
+    "disableDeadMobTargeting": false,
+    "disableEntityRendering": false,
+    "disableEntityTicking": false,
+    "disableFallingBlockEntityRendering": false,
+    "disableInventoryEffectRendering": false,
+    "disableItemSwitchRenderCooldown": false,
+    "disableMobSpawnerMobRendering": false,
+    "disableNauseaEffect": false,
+    "disableNetherFog": false,
+    "disableNetherPortalSound": false,
+    "disableObserver": false,
+    "disableOffhandRendering": false,
+    "disableParticles": false,
+    "disablePortalGuiClosing": false,
+    "disableRainEffects": false,
+    "disableRenderingScaffolding": false,
+    "disableRenderDistanceFog": false,
+    "disableScoreboardRendering": false,
+    "disableShulkerBoxTooltip": false,
+    "disableShovelPathing": false,
+    "disableSignGui": false,
+    "disableSlimeBlockSlowdown": false,
+    "disableTileEntityRendering": false,
+    "disableTileEntityTicking": false,
+    "disableVillagerTradeLocking": false,
+    "disableWallUnsprint": false,
+    "disableWorldViewBob": false
   },
   "DisableHotkeys": {
     "disableArmorStandRendering": {

@@ -42,8 +42,8 @@
     "player_name_tag": true
   },
   "extra_settings": {
-    "overlay_corner": "TOP_RIGHT",
-    "text_contrast": "NONE",
+    "overlay_corner": "TOP_LEFT",
+    "text_contrast": "SHADOW",
     "show_fps": true,
     "show_f_p_s_extended": true,
     "show_coords": false,
@@ -55,7 +55,7 @@
     "recipe_toast": true,
     "system_toast": true,
     "tutorial_toast": false,
-    "instant_sneak": true,
+    "instant_sneak": false,
     "prevent_shaders": false,
     "use_fast_random": true
   },

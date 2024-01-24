@@ -9,7 +9,7 @@
     "allow_direct_memory_access": true,
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": true,
-    "cpu_render_ahead_limit": 5
+    "cpu_render_ahead_limit": 6
   },
   "performance": {
     "chunk_builder_threads": 1,
