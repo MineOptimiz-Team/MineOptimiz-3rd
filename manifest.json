@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "MineOptimiz Forge v1.20.1-Stable-0.1.6-Update.2",
+  "version": "1.20.1(Forge)-Stable-0.1.6-Update.2",
+  "author": "Small__Mushroom",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "neoforge-47.1.84",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}

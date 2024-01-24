@@ -1,10 +1,10 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "MineOptimiz Forge Release-0.1.5-build.066",
-  "version": "Forge-Release-0.1.5-build.066",
+  "name": "MineOptimiz Forge v1.20.1-Stable-0.1.6-Update.2",
+  "version": "1.20.1(Forge)-Stable-0.1.6-Update.2",
   "author": "Small__Mushroom",
-  "description": "新年快乐！",
+  "description": "",
   "fileApi": "",
   "url": "",
   "forceUpdate": false,
@@ -15,8 +15,8 @@
       "version": "1.20.1"
     },
     {
-      "id": "forge",
-      "version": "47.2.0"
+      "id": "neoforge",
+      "version": "47.1.84"
     }
   ],
   "libraries": [],
@@ -353,7 +353,7 @@
     },
     {
       "path": "config/embeddium-options.json",
-      "hash": "44af811f5b214e8e5ab5b0cf8337aed3314c8abb",
+      "hash": "a9eab714969ca84bf7e8e7f3e6aebdd19c4e28d2",
       "force": true,
       "type": "addon"
     },
@@ -377,7 +377,7 @@
     },
     {
       "path": "config/entity_texture_features.json",
-      "hash": "b3fed0b2baa926677e9d7c6cd2826d79785ba657",
+      "hash": "fdb89bd53fa6d18ded69d814f9a9581e1484b336",
       "force": true,
       "type": "addon"
     },
@@ -389,7 +389,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "c6e5d02cbf283fa729c7619e75ec4636c5722644",
+      "hash": "e0cd592fa7a644d9ada3bc8378e9491358b41ccc",
       "force": true,
       "type": "addon"
     },
@@ -402,6 +402,12 @@
     {
       "path": "config/fancymenu/config.txt",
       "hash": "7142effd3cbf32e5a71ad698305fea2193e03c71",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.about.txt",
+      "hash": "14ee3198a5918b986915b41651f25fa915236814",
       "force": true,
       "type": "addon"
     },
@@ -448,8 +454,14 @@
       "type": "addon"
     },
     {
+      "path": "config/fancymenu/customization/aboutMineOptimiz.txt",
+      "hash": "047fff57b56840060dfa84a46f9ea1f6babd0e42",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/fancymenu/customization/addtesting.txt",
-      "hash": "33786e37d7d811c45c9c6dd60767c043da89e324",
+      "hash": "da0fba1a639aa3f3746c562d150b1c324477df17",
       "force": true,
       "type": "addon"
     },
@@ -641,7 +653,7 @@
     },
     {
       "path": "config/forge-client.toml",
-      "hash": "cfccacfc095ea2f1388bef0a3dfb20e30c24bd38",
+      "hash": "6f009a62ade4c1f5017f9577e820765a5d201526",
       "force": true,
       "type": "addon"
     },
@@ -701,7 +713,7 @@
     },
     {
       "path": "config/gamecontrollerdatabase.txt",
-      "hash": "a1cc2ad7f5d3334824a678945064360fab949ef8",
+      "hash": "59760d12a83618697811e62b2c7920b8c4e16f6f",
       "force": true,
       "type": "addon"
     },
@@ -737,7 +749,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "7b51c0d2bbffca9de7d775a13139b596b9cba3ff",
+      "hash": "a806fb58145c2e00508e905339fbe302bbac9eca",
       "force": true,
       "type": "addon"
     },
@@ -774,6 +786,12 @@
     {
       "path": "config/inventoryprofilesnext/ddns.ganshity.top\u002628103/villager-trading-config.json",
       "hash": "84833e7550ada8e23472c03ddd9393202675a269",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/inventoryprofilesnext/ganshity.lcf.icu\u002628103/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924",
       "force": true,
       "type": "addon"
     },
@@ -1013,7 +1031,7 @@
     },
     {
       "path": "config/modernfix-mixins.properties",
-      "hash": "5291f8a90b7c1c85d24ab90ea801368e7ec895e1",
+      "hash": "1fc643703ea562302965704a31d868bff443e3da",
       "force": true,
       "type": "addon"
     },
@@ -1115,7 +1133,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "e4425639050853e556d8e863d9c5aad213ec73ca",
+      "hash": "7a4adcf507280d9c40a3b58f98d48545055b79d1",
       "force": true,
       "type": "addon"
     },
@@ -1175,7 +1193,7 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "2d3b5c742d71681676f90fec88cf112e95319d8f",
+      "hash": "5db4649786d8c26440d60d26dd12ab23f65d979a",
       "force": true,
       "type": "addon"
     },
@@ -1187,13 +1205,13 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "63caf2394be4e07237870e9ecbfc7c10e7a2322a",
+      "hash": "1dba3465af869aea0eb82caeac348b1a2415008f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "3676cd2d35608573b1059dd155fab6a7a97f9bcd",
+      "hash": "69b7d700bcaf1063d921fffb90cd4cffc465e24b",
       "force": true,
       "type": "addon"
     },
@@ -1265,7 +1283,7 @@
     },
     {
       "path": "config/smoothboot.json",
-      "hash": "8d3b430e4589e51c90673d2626c5834798ac9b2e",
+      "hash": "a7deba2df8e06f07192cee6c35128c5db99428fc",
       "force": true,
       "type": "addon"
     },
@@ -1337,7 +1355,7 @@
     },
     {
       "path": "config/vmp.properties",
-      "hash": "d97b557a050c90044ee96bbfb239a5c04144d732",
+      "hash": "150f9dbc3649f0fb5feae089c2665f5166977622",
       "force": true,
       "type": "addon"
     },
@@ -1403,7 +1421,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "acd935b4a857402cd0fdd441c8ce6eac8cf1b7ef",
+      "hash": "fabdd7ed5207448ddad5e229734452555b2b5320",
       "force": true,
       "type": "addon"
     },
@@ -1432,6 +1450,12 @@
       "type": "addon"
     },
     {
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID",
+      "hash": "f5fb48911fa992d8e682cd79dc76b93de878f4e6",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "CustomSkinLoader/CustomSkinLoader.json",
       "hash": "3d6cafc353eead19bb26e28b66a4ccde4cdf1089",
       "force": true,
@@ -1451,7 +1475,7 @@
     },
     {
       "path": "fancymenu_data/last_world.fmdata",
-      "hash": "75f202ce1bcde0b7a0e8b30dc2a3d21edf5b0644",
+      "hash": "3933d0a8ef80aca1f11427bbcb8666417017041e",
       "force": true,
       "type": "addon"
     },
@@ -1504,8 +1528,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/3dskinlayers-forge-1.5.4-mc1.20.1.jar",
-      "hash": "f5441bddc89ff50145bea0cbb450a1d67e4d6a72",
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
       "force": true,
       "type": "addon"
     },
@@ -1540,8 +1564,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/balm-forge-1.20.1-7.1.4.jar",
-      "hash": "3fa93026c20415026911da7864951b232984e5fd",
+      "path": "mods/balm-forge-1.20.1-7.2.1.jar",
+      "hash": "bac648850674d2e3f92082a3b9e69f02284d169e",
       "force": true,
       "type": "addon"
     },
@@ -1552,8 +1576,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/BetterF3-7.0.1-Forge-1.20.1.jar",
-      "hash": "3a422b2a055ddbe7d1ca7d5ca4b6a3280ff94a4b",
+      "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+      "hash": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
       "force": true,
       "type": "addon"
     },
@@ -1570,44 +1594,32 @@
       "type": "addon"
     },
     {
-      "path": "mods/canary-mc1.20.1-0.2.10.jar",
-      "hash": "7f9980fc3866ab41b4d994f056d13cbb301143e2",
+      "path": "mods/canary-mc1.20.1-0.3.2.jar",
+      "hash": "e6345bda914e4e771baf8f5272c8ee6cb94daca3",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/ChatImage-1.1.12+1.20.1+forge.jar",
-      "hash": "455c7e251bf092ca94616a169ce4ceee8c98f5d1",
+      "path": "mods/ChatImage-1.1.14+1.20.1+forge.jar",
+      "hash": "bfe6b765bb22eebefb907b7aa746972f089c62dd",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/chat_heads-0.10.27-forge-1.20.jar",
-      "hash": "8180eaf932a9f9e62ac854fccff4a23c9eeb7f77",
+      "path": "mods/chat_heads-0.10.30-forge-1.20.jar",
+      "hash": "10b989079285be6ece3c8f49b0eac7759d376da9",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/classic-minecraft-icon-mc1.20.1-forge-v1.1.0.jar",
-      "hash": "74a3c6ce94b8200a4f26cec4ab2feb76f696b834",
+      "path": "mods/classic-minecraft-icon-mc1.20.1-forge-v1.1.1.jar",
+      "hash": "0c36bfaa98bd61e8442ddc25775efebc515b1a3d",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/cloth-config-12.0.109-forge.jar",
-      "hash": "e2d0dabdb7cc7a504b42a5b38c768678a928bf36",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/collective-1.20.1-7.13.jar.old",
-      "hash": "ac35605ee2627cc1e80b5fe86eb155182e2208c4",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/collective-1.20.1-7.26.jar.old",
-      "hash": "6a0f33d476d72ed7729eaf93e1ec72b711ab559a",
+      "path": "mods/cloth-config-11.1.118-forge.jar",
+      "hash": "c46ca3fba95691873a765f4e79750c615f33e446",
       "force": true,
       "type": "addon"
     },
@@ -1624,8 +1636,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/ConnectorExtras-1.8.0+1.20.1.jar",
-      "hash": "0d2faf5d5d099eb164b782c59a7370d2f134958d",
+      "path": "mods/ConnectorExtras-1.9.2+1.20.1.jar",
+      "hash": "3925f190a31e57219ad15122b5a80db36598a544",
       "force": true,
       "type": "addon"
     },
@@ -1654,12 +1666,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/cupboard-1.20.1-2.1.jar.old",
-      "hash": "121e464afa8a3c251bacb4097e91635454885628",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/cupboard-1.20.1-2.2.jar",
       "hash": "7ed722b0ab7aee3503d4ef0888dffe06557c6e37",
       "force": true,
@@ -1672,8 +1678,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/embeddium-0.2.13+mc1.20.1.jar",
-      "hash": "94aebf51f2e2838b41206901e27a2a48b1a2e756",
+      "path": "mods/embeddium-0.2.18+mc1.20.1.jar",
+      "hash": "4a35e0ad24ce7111c78fe6e5e2c5fcad3dcf8f02",
       "force": true,
       "type": "addon"
     },
@@ -1684,20 +1690,20 @@
       "type": "addon"
     },
     {
-      "path": "mods/entity_texture_features_forge_1.20.1-4.6.1.jar",
-      "hash": "4fe9d88d052adff655a03e20b2c232b0b5c62e69",
+      "path": "mods/entity_texture_features_forge_1.20.1-5.2.1.jar",
+      "hash": "da678ab457fe2f8bfa1bd7496d83b93d4ee5bd3c",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/fabric-api-0.91.0+1.10.4+1.20.1.jar",
-      "hash": "6adf5d1d8772af54148b979408ccf105405fb3b3",
+      "path": "mods/fabric-api-0.91.0+1.10.8+1.20.1.jar",
+      "hash": "468a0ca6763f08de667317a2e4e5906449c0331f",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/fancymenu_forge_2.14.9-3_MC_1.20.1.jar",
-      "hash": "fff908c285b52da7218445df41b7902099381a15",
+      "path": "mods/fancymenu_forge_2.14.13_MC_1.20.1.jar",
+      "hash": "2be0d1cb496101f7ceb55cc39d0ddc7013f9be3f",
       "force": true,
       "type": "addon"
     },
@@ -1744,14 +1750,14 @@
       "type": "addon"
     },
     {
-      "path": "mods/I18nUpdateMod-3.5.2-all.jar",
-      "hash": "dc6a1651f09ab943205880af627351d5987ff231",
+      "path": "mods/ImmediatelyFast-Forge-1.2.8+1.20.4.jar",
+      "hash": "86d778578752dfab703a6a68b1a562bca148be03",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/ImmediatelyFast-Forge-1.2.8+1.20.4.jar",
-      "hash": "86d778578752dfab703a6a68b1a562bca148be03",
+      "path": "mods/InventoryProfilesNext-forge-1.20-1.10.9.jar",
+      "hash": "394479e03e51c55c837d1e30289ebdb38e0dc838",
       "force": true,
       "type": "addon"
     },
@@ -1768,8 +1774,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/konkrete_forge_1.6.1-2_MC_1.20.jar",
-      "hash": "6714da21ad7a733a1376a186d5248fd06cd53f3b",
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "hash": "2019d821bed9071daabed43979433a5473ceee49",
       "force": true,
       "type": "addon"
     },
@@ -1798,14 +1804,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/libIPN-forge-1.20-3.0.2.jar",
-      "hash": "4082afba9038cf0ff52671b2fbe390304eba90e5",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/lucent-1.20.1-1.5.4.jar.old",
-      "hash": "cebeaa6946b5b2ddc9d63b02ae04e7183afbbde0",
+      "path": "mods/libIPN-forge-1.20-4.0.1.jar",
+      "hash": "b3e9a4dc275ce8ee78321a1b9611ed93253bc6d1",
       "force": true,
       "type": "addon"
     },
@@ -1828,8 +1828,14 @@
       "type": "addon"
     },
     {
-      "path": "mods/memoryleakfix-forge-1.17+-1.1.2.jar",
+      "path": "mods/memoryleakfix-forge-1.17+-1.1.2.jar.old",
       "hash": "36b7e4aaea3814fac6428a628d3e18988b24f250",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+      "hash": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
       "force": true,
       "type": "addon"
     },
@@ -1840,8 +1846,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/midnightlib-forge-1.4.1.jar",
-      "hash": "3a7b7253ca1c66fa094e68579bef78ec32879952",
+      "path": "mods/midnightlib-forge-1.4.2.jar",
+      "hash": "9c99369a5b703f428dc31f8e4a1a83fc892bba48",
       "force": true,
       "type": "addon"
     },
@@ -1852,8 +1858,14 @@
       "type": "addon"
     },
     {
-      "path": "mods/modernfix-forge-5.11.1+mc1.20.1.jar",
+      "path": "mods/modernfix-forge-5.11.1+mc1.20.1.jar.old",
       "hash": "38446389264d82bc9ecb935c1d4dc96e76697477",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/modernfix-forge-5.12.1+mc1.20.1.jar",
+      "hash": "f6ee10b2339c397821c0ef81e04340018e4f0adc",
       "force": true,
       "type": "addon"
     },
@@ -1870,14 +1882,14 @@
       "type": "addon"
     },
     {
-      "path": "mods/notenoughanimations-forge-1.6.4-mc1.20.jar",
-      "hash": "47099dc3b5c339ce918bd06523bae22f59c5c65a",
+      "path": "mods/notenoughanimations-forge-1.7.0-mc1.20.1.jar",
+      "hash": "f0638ee8456c4676c11b3f9a1eae7a48e0966800",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/oculus-mc1.20.1-1.6.9.jar",
-      "hash": "406ad9995cd1ab803e0001f80a85498105b4d488",
+      "path": "mods/oculus-mc1.20.1-1.6.13.jar",
+      "hash": "196539d0e5dc057b81edbaa8d0e396c6cd8a2db8",
       "force": true,
       "type": "addon"
     },
@@ -1900,8 +1912,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/RoughlyEnoughItems-12.0.652.jar",
-      "hash": "e4e2f0ea6ba11cfefb1ca215d70040eea8026751",
+      "path": "mods/RoughlyEnoughItems-12.0.684-forge.jar",
+      "hash": "0661579c44f83fef980829831ed02122b74ab6f1",
       "force": true,
       "type": "addon"
     },
@@ -1924,20 +1936,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/skinlayers3d-forge-1.6.2-mc1.20.1.jar",
+      "hash": "b0ad1fe442d5442a0758b5ac7a0a77e2f68b0967",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/slight-gui-modifications-2.6.1.jar",
       "hash": "656c35a906fafc76b66c4bd04da0b3baf053d1a5",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/smoothboot-mc1.20.1-0.0.3.jar",
-      "hash": "53abe64226f6c7b1f03d02400f830a853259645d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/spark-1.10.53-forge.jar",
-      "hash": "231fb325368c0660954f47bfb03493f5246fa4d1",
+      "path": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "hash": "3fd79132dba444bd109b5de4ad75dee06a48e130",
       "force": true,
       "type": "addon"
     },
@@ -1978,12 +1990,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/waystones-forge-1.20-14.0.2.jar",
-      "hash": "414f0c86c5b721eb4a11695e0bd2c644e0c364b9",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/XaerosWorldMap_1.34.1_Forge_1.20.jar",
       "hash": "f272b0d285355170eae3a86a645e299e0e7cd42a",
       "force": true,
@@ -1996,8 +2002,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
-      "hash": "6efdaf5d213f779e51aa84631a5f06a306351e75",
+      "path": "mods/YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar",
+      "hash": "d40beae393ec07da5faf925cea380e31a7f08d39",
       "force": true,
       "type": "addon"
     },
@@ -2008,14 +2014,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/（一键背包整理）InventoryProfilesNext-forge-1.20-1.10.6.jar",
-      "hash": "66f9e2959b291b6a418a012ee3621320b92719e1",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "options.txt",
-      "hash": "fcb0ef0f5db78ab4c11e5e2c2035c65e89ecf9fa",
+      "hash": "620a7f1ba24b5b3b50f3c4b030eb563836aa43ea",
       "force": true,
       "type": "addon"
     },
@@ -2028,246 +2028,6 @@
     {
       "path": "resourcepacks/VanillaTweaks_r729861.zip",
       "hash": "c0d7c25f1428989dc546696b17d5c69b1e6defce",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/advancements/afe63f8c-34d2-4c31-9ffd-690bf808ca9a.json",
-      "hash": "f4d09da5a0f9aa30b20850f2529e579346dd629b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/data/capabilities.dat",
-      "hash": "9c53219da9874dbf11db5919b455f9170e11c510",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/data/mfix_strongholds.dat",
-      "hash": "d217855a82e3a5896a1b1cc6007adfe2252fa02e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/data/raids.dat",
-      "hash": "1d38091f9ec62da2a5faf4996630a4b7ea9fc30c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/DIM-1/data/capabilities.dat",
-      "hash": "9c53219da9874dbf11db5919b455f9170e11c510",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/DIM-1/data/raids.dat",
-      "hash": "1d38091f9ec62da2a5faf4996630a4b7ea9fc30c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/DIM1/data/capabilities.dat",
-      "hash": "9c53219da9874dbf11db5919b455f9170e11c510",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/DIM1/data/raids_end.dat",
-      "hash": "1d38091f9ec62da2a5faf4996630a4b7ea9fc30c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/entities/r.-1.-1.mca",
-      "hash": "1d368a6689625693c9285082f3169b75bc97d90c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/entities/r.-1.0.mca",
-      "hash": "6c461ab1518aa8c49e3360bcfd63609ebabb6504",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/entities/r.0.-1.mca",
-      "hash": "8cc287f55c682f4491e97edeb56e61fafaa272bd",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/entities/r.0.0.mca",
-      "hash": "28cc3a31b25368c869ce2b4547d478d3651ef653",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/icon.png",
-      "hash": "6e365216431440ef52efd6ef8e6d48411e4a2b37",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/level.dat",
-      "hash": "46906afe4e30d81e9d992baabd00fe84cd245d7c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/level.dat_old",
-      "hash": "074bbe9b88d21ba0573325d17b9b4630d8973b05",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/playerdata/afe63f8c-34d2-4c31-9ffd-690bf808ca9a.dat",
-      "hash": "54b7d5c1e80cb453a8045deafd87e2730e1b3ea1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/playerdata/afe63f8c-34d2-4c31-9ffd-690bf808ca9a.dat_old",
-      "hash": "544c7ea63469b9d2461170c66875b997ef560888",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.-1.-1.mca",
-      "hash": "e190595c9088f83d62107db58989abd2972d20fd",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.-1.-2.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.-1.0.mca",
-      "hash": "4b9bd442fc38ec37e5c59356d479f62020e1a487",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.-1.1.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.-2.-1.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.-2.-2.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.-2.0.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.-2.1.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.0.-1.mca",
-      "hash": "b4190bfb391d409882f8fc299443edd0db4956c8",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.0.-2.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.0.0.mca",
-      "hash": "4581337894fc29912b6930d01367f049555a908a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.0.1.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.1.-1.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.1.-2.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.1.0.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/region/r.1.1.mca",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/serverconfig/forge-server.toml",
-      "hash": "d4c566a1e7f9208da9f3cc5771b60206630ab3f3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/serverconfig/getittogetherdrops-server.toml",
-      "hash": "16648c20aedd9d9e630bf4e77b873c66cb196a77",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/serverconfig/okzoomer-sever.toml",
-      "hash": "c70ef96ef5d3bf89a4666cfaf1ca7f19928a0abe",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/serverconfig/voicechat-server.toml",
-      "hash": "32e56fa38ac0787fad4516d264bd6dceec9870c5",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/session.lock",
-      "hash": "2686137311c038a99622242fdb662b88c221c08d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/stats/afe63f8c-34d2-4c31-9ffd-690bf808ca9a.json",
-      "hash": "5867a014596bb124fddf00cf2442b66de8e3b10d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "saves/新的世界/xaeromap.txt",
-      "hash": "fe4a65d11272bca51dfd64e9543c78f7a241d403",
       "force": true,
       "type": "addon"
     }
