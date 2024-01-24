@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "MineOptimiz Fabric v1.17.1-Stable-0.7.17",
-  "version": "1.17.1-Stable-0.7.17",
+  "name": "MineOptimiz Fabric v1.17.1-Stable-0.7.17-Update.1",
+  "version": "1.17.1-Stable-0.7.17-Update.1",
   "author": "Small__Mushroom",
   "description": "",
   "fileApi": "",
@@ -155,7 +155,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "3a24cf90d7ee8c7d342f7c34eb42bb58576310ba",
+      "hash": "9f2593112479fc2eb89b7405b3fb58c96681ef14",
       "force": true,
       "type": "addon"
     },
@@ -179,7 +179,13 @@
     },
     {
       "path": "config/fancymenu/config.txt",
-      "hash": "80903f5c507f8fa1af7bdf91858da3a9b678e4e2",
+      "hash": "ddba1ae1528bbbd7099f2c398e9cd424d59a3158",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.about.txt",
+      "hash": "14ee3198a5918b986915b41651f25fa915236814",
       "force": true,
       "type": "addon"
     },
@@ -221,13 +227,19 @@
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
-      "hash": "97c76f9e4585744d4f45401fe15959311404233c",
+      "hash": "9cb410e2892ab3ecd94473285ee1ce378ea88c5e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/aboutMineOptimiz.txt",
+      "hash": "85e359ccd6d75200b1195966a3a4a0081ad8fd0d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/fancymenu/customization/addtesting.txt",
-      "hash": "33786e37d7d811c45c9c6dd60767c043da89e324",
+      "hash": "0681c900e663e4a5cca41cb6d31ec4a84ea00e8a",
       "force": true,
       "type": "addon"
     },
@@ -383,7 +395,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "8f530f99751a84064cca586e99a1c9e451b9bf35",
+      "hash": "42018075d6a35628297ba8ba457e28e9a89b4397",
       "force": true,
       "type": "addon"
     },
@@ -407,7 +419,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "5ddf3b6b627292a764ea7001df9a9e3c7136f82b",
+      "hash": "1b864e75a219e0509089f1b7ca599a59412cb197",
       "force": true,
       "type": "addon"
     },
@@ -785,7 +797,7 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "f570a94dc585ff919147163c78c902334d705c22",
+      "hash": "5d1e037c732784dc0e4e3bf8a42a30f1e65110a7",
       "force": true,
       "type": "addon"
     },
@@ -815,7 +827,7 @@
     },
     {
       "path": "config/sodium-extra-options.json",
-      "hash": "4d5988722e13d351c96f9b559974dc91274a7951",
+      "hash": "bda52163178884a2588f3cc4b605253f7f3d6c2c",
       "force": true,
       "type": "addon"
     },
@@ -833,7 +845,7 @@
     },
     {
       "path": "config/sodium-options.json",
-      "hash": "36cf0d5c9f6ef0091570e17c0a4f9f3ee7964797",
+      "hash": "d9e65fa2119f091d9a620fc48c2bee6862b0676c",
       "force": true,
       "type": "addon"
     },
@@ -875,7 +887,7 @@
     },
     {
       "path": "config/ViaFabric/viafabric.yml",
-      "hash": "e383fc13201584cc3dc2fccb7bc8f5934a1807c6",
+      "hash": "e6b67e22c108e73adfffa9cad718f692155732cc",
       "force": true,
       "type": "addon"
     },
@@ -899,25 +911,37 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "00e400ec6df549c041f6045d6dd10966842f40f5",
+      "hash": "a3ec0c0b56d3f3952825407f575b14d11e4fa939",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
-      "hash": "98537de6f67a87ed0a6e8afc8bf33994172d1250",
+      "hash": "a0f74d7560dbe584a7c2419754a5cc9741b409e8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/voicechat/voicechat-volumes.properties",
+      "hash": "4eaca99c316dc0e047aa47897d73689054c1474d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaerominimap-common.txt",
+      "hash": "6b046de5626a1a61b0ef7ff0dd2ae1de3c9bfcad",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "a70640f54e12690d3ac4ac0e867ebca69a6fa5c5",
+      "hash": "59086e3469ffa28f332e1a89cd4c91b7ebc89845",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "fbb239744e3e25d882d9c5a05cffdbd9b046730e",
+      "hash": "f83c8fee69dea6c568dec32ddb6ded9ab92ffd2f",
       "force": true,
       "type": "addon"
     },
@@ -928,8 +952,14 @@
       "type": "addon"
     },
     {
+      "path": "config/xaeroworldmap-common.txt",
+      "hash": "98767f3942b508f9de60bfdf029dd3ee00c3632d",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/xaeroworldmap.txt",
-      "hash": "60e4bbd3beecd1f3fa7965678728f480cbde9ea9",
+      "hash": "0dad258d97731e879c165a3e67f191d5174fd44b",
       "force": true,
       "type": "addon"
     },
@@ -941,7 +971,7 @@
     },
     {
       "path": "CustomSkinLoader/CustomSkinLoader.json",
-      "hash": "31f3668c4860fc4f513a25dddebd531be17e5473",
+      "hash": "c804c36f5d577b637e1c2060518ef02d573843ad",
       "force": true,
       "type": "addon"
     },
@@ -982,32 +1012,14 @@
       "type": "addon"
     },
     {
-      "path": "guirequired/modpackversion.txt",
-      "hash": "decd80f778edd2d37975361180886a39546579a2",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "guirequired/title.png",
       "hash": "dd7f38ab16f3c031fd2189743453a9eb7c1c2d36",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "guirequired/wallhaven-e7651w_1600x1024.png",
-      "hash": "6dff85c572ae6cdf69c758e92c2fadb72a6cf2e7",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "hmclversion.cfg",
       "hash": "32337406f5aa6ef56a1ee83dd71ef6365db7e211",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/3dSkinLayers-Fabric-1.4.3.jar",
-      "hash": "6952690614e7460afdfa29a19746ed3bc36ba001",
       "force": true,
       "type": "addon"
     },
@@ -1066,8 +1078,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/chime-1.2.1.jar",
-      "hash": "2314a0389564483da98b4c8cffb2ba391615cebb",
+      "path": "mods/chime-1.1.2(1.17).jar",
+      "hash": "b395b9878af2519dee7a2312083ec7d212208a01",
       "force": true,
       "type": "addon"
     },
@@ -1120,14 +1132,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/CustomSkinLoader_Fabric-14.15.2.jar",
-      "hash": "73a4dd111c6d0d4ccf1069891fd0fd179c265aed",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/dark-loading-screen-1.6.11.jar",
-      "hash": "4f93411b34bc03e6b6af00f70a6f45190aad9ba7",
+      "path": "mods/CustomSkinLoader_Fabric-14.19.1.jar",
+      "hash": "7e9c485121289231dab68417d49e3dd96e115462",
       "force": true,
       "type": "addon"
     },
@@ -1156,8 +1162,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
-      "hash": "6dab5c754ec04e671e505df685befcedef27f42e",
+      "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
+      "hash": "02e0af07d7c1476a6bd0530d0dacf0a2a9f8a8ea",
       "force": true,
       "type": "addon"
     },
@@ -1170,6 +1176,12 @@
     {
       "path": "mods/fabrishot-1.5.1.jar",
       "hash": "739729da7c1930728c9d78e460ae5357945237a3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fake-fabric-api-1.0.jar",
+      "hash": "6a3f07ce3350ac468b2162b2fe990262c2522d69",
       "force": true,
       "type": "addon"
     },
@@ -1192,8 +1204,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/I18nUpdateMod-3.4.2-all.jar",
-      "hash": "d344d84168208bdf8740b3b82b4a8e0df1866d4f",
+      "path": "mods/I18nUpdateMod-3.5.3-all.jar",
+      "hash": "191b14e675f5e080bf0c045a955eda8b0e9300a7",
       "force": true,
       "type": "addon"
     },
@@ -1241,6 +1253,12 @@
     },
     {
       "path": "mods/libIPN-fabric-1.17-1.0.8.jar",
+      "hash": "efd09d7e56ca577aeb7ef8109b60c69509423f8c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/libIPN-fabric-1.17-1.0.8.jar.old",
       "hash": "1fb675622ebfdd3275d3eab4aad20144e98d3d78",
       "force": true,
       "type": "addon"
@@ -1270,8 +1288,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/notenoughanimations-fabric-1.6.0-mc1.17.1.jar",
-      "hash": "4eb61a3c97d6043d05e32890a7b4c2c86f972955",
+      "path": "mods/notenoughanimations-fabric-1.7.0-mc1.17.1.jar",
+      "hash": "09a8615174c6669d1a8cb1a88fc6e0d632897b02",
       "force": true,
       "type": "addon"
     },
@@ -1294,8 +1312,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/reeses_sodium_options-1.5.0+mc1.17.1-build.69.jar",
-      "hash": "c223d1ca409b3bfbb05f8b9a557adbf19b370737",
+      "path": "mods/reeses_sodium_options-1.6.3+mc1.17.1-build.87.jar",
+      "hash": "34346ff0439fad743c5670e58cc5459b86e7f69f",
       "force": true,
       "type": "addon"
     },
@@ -1306,8 +1324,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/satin-1.6.4.jar",
+      "hash": "9dc0475ba3206fe8aac083a255fc0ff07c55415a",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/screenshot-to-clipboard-1.0.8-fabric.jar",
       "hash": "3b43aa2fa03b89b1600548dd87f44f90b272def2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/skinlayers3d-fabric-1.6.2-mc1.17.1.jar",
+      "hash": "cde06fbea43917b8aeac6ebb7872fa3c46b1c49d",
       "force": true,
       "type": "addon"
     },
@@ -1348,56 +1378,32 @@
       "type": "addon"
     },
     {
-      "path": "mods/voicechat-fabric-1.17.1-2.4.14.jar",
-      "hash": "d2101047cac9b8f80d3265d377a7b5cbc0fdb484",
+      "path": "mods/voicechat-fabric-1.17.1-2.4.28.jar",
+      "hash": "687f17cbaf07c1cf99f9f34b9859ef8fdbfbf497",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/Xaeros世界地图.jar",
-      "hash": "0a8908ace34ee985dcd88f9af8e892cdb6597e78",
+      "path": "mods/XaerosWorldMap_1.37.4_Fabric_1.17.1.jar",
+      "hash": "f72b2f08414e3cfa98457249f2a7194dc70a25e2",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/Xaeros小地图.jar",
-      "hash": "8e20ea8a7a6079705ef57deb8ff110e5c7708b4f",
+      "path": "mods/Xaeros_Minimap_23.9.4_Fabric_1.17.1.jar",
+      "hash": "4c041a2977eb0ff410a47e16928b9c88d7ede004",
       "force": true,
       "type": "addon"
     },
     {
       "path": "options.txt",
-      "hash": "683b0aab933083597cb004c75b4151c284b6f598",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "optionsof.txt",
-      "hash": "3edabc22cbc9ca69c239c4437fb4d393db22c90c",
+      "hash": "2c7b68123f2a604641396a60533f4f285487f842",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Fast Better Grass.zip",
       "hash": "62dc9414b5d7f1f1d63d236d2eb77b22518137de",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/mfs-22w02a 1.11-1.12.2.zip",
-      "hash": "3b5c14ee77a87ac1aff0e42b6a0cfeffd2730f63",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-7.zip",
-      "hash": "3438c3174e4f56d2c942d7c05cc1757a26b23ea6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/quilt-ui.zip",
-      "hash": "6d6a16120c1ba97522de8c7d2b127ac71616815c",
       "force": true,
       "type": "addon"
     },
@@ -1414,44 +1420,8 @@
       "type": "addon"
     },
     {
-      "path": "resourcepacks/ViaBackwards-Plus_v1.3.1.zip",
-      "hash": "da4634cfe77ba2893b95243b7907b50dee443da8",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/ViaBackwards-Plus_v1.3.4.zip",
-      "hash": "f26c0c34d244d1ba5c03f08a6e20769940fd85f6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/ViaBackwards-Plus_v1.3.5.zip",
-      "hash": "d267d900392e4b446a4942f8bf1a45a7bf9b63ba",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "resourcepacks/ViaBackwards-Plus_v1.4.1.zip",
       "hash": "8b2a01ff4cf1d5e87870b3009b5bfb3300b39308",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/ViaBackwrds_Plus_v1.3.2.zip",
-      "hash": "718da26d1de125133fc2f9f0b4c2cd9733edcf2a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/ViaVisual_v1.0.1.zip",
-      "hash": "89acc0c71d19d8fb80e84069211af23369b2eb10",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/集成汉化/pack.mcmeta",
-      "hash": "0c9b41ce95b083d988a1f8a338419ee5e81f4922",
       "force": true,
       "type": "addon"
     }

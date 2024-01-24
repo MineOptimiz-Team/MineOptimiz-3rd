@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "MineOptimiz Fabric v1.17.1-Stable-0.7.17",
-  "version": "1.17.1-Stable-0.7.17",
+  "name": "MineOptimiz Fabric v1.17.1-Stable-0.7.17-Update.1",
+  "version": "1.17.1-Stable-0.7.17-Update.1",
   "author": "Small__Mushroom",
   "overrides": "overrides",
   "minecraft": {
