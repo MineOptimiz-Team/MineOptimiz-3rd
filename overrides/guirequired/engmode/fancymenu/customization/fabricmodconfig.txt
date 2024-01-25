@@ -1,0 +1,71 @@
+type = menu
+
+customization-meta {
+  identifier = io.123smallmushroom.fabricmodconfig
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = -107
+  width = 236
+  action = addbutton
+  actionid = eb3776a0-47a1-41f0-917c-c5a33466d2851692431393953
+  y = 87
+  label = 返回
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;dev.lambdaurora.lambdynlights.gui.SettingsScreen%btnaction_splitter_fm%
+  x = 131
+  width = 110
+  action = addbutton
+  actionid = af3ae4cc-8769-43d1-b401-94cc627d3db71692432868805
+  y = 67
+  label = LambDynamicLights
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;dev.tr7zw.exordium.config.ExordiumConfigScreen%btnaction_splitter_fm%
+  x = 247
+  width = 119
+  action = addbutton
+  actionid = 9a272494-31a4-4134-be5b-449d15dd5bfd1692432885627
+  y = 67
+  label = Exordium
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;me.shedaniel.clothconfig2.gui.GlobalizedClothConfigScreen%btnaction_splitter_fm%
+  x = 131
+  width = 110
+  action = addbutton
+  actionid = 0146e6d4-81a3-4344-9fce-de44a6bb59a11692438930749
+  y = 103
+  label = Cloth Config API（不可用）
+  height = 20
+}
+
