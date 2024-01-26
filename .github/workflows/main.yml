@@ -37,6 +37,9 @@ jobs:
           cd overrides
           mv h.txt options.txt
           cd ..
+          cd config
+          cd slightguimodifications
+          mv cts.byd cts.groovy
           cd /home/runner/work/MineOptimiz/MineOptimiz/
           zip -r "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.zip" ./*
       
