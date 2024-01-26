@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.client.gui.screens.PauseScreen
+  identifier = net.minecraft.class_433
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -11,25 +11,5 @@ customization-meta {
 customization {
   keepaspectratio = false
   action = backgroundoptions
-}
-
-customization {
-  identifier = %id=398324%
-  action = hidebutton
-}
-
-customization {
-  orientation = element
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
-  buttonaction = opengui;io.123smallmushroom.jubao%btnaction_splitter_fm%
-  x = 0
-  width = 204
-  action = addbutton
-  actionid = 13620dc6-25f9-46cf-956b-743e899890391701532003202
-  y = 72
-  label = 举报玩家
-  height = 20
 }
 

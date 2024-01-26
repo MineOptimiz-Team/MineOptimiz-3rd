@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.client.gui.screens.OptionsScreen
+  identifier = net.minecraft.class_429
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -36,5 +36,10 @@ customization {
   y = 72
   label = MineOptimiz设置
   height = 20
+}
+
+customization {
+  identifier = %id=505184%
+  action = hidebutton
 }
 
