@@ -34,7 +34,7 @@ customization {
   action = addbutton
   actionid = e3869ba6-e9f0-49b1-aa7e-f271b5971f891692574637340
   y = 72
-  label = MineOptimiz设置
+  label = MineOptimiz Settings
   height = 20
 }
 

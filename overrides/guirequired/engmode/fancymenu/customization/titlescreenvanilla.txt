@@ -78,8 +78,9 @@ customization {
 }
 
 customization {
-  identifier = %id=6043461%
-  action = hidebutton
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options
 }
 
 customization {
@@ -110,7 +111,7 @@ customization {
   width = 201
   action = deep_customization_element:title_screen_branding
   actionid = 06de3a86-7616-4da3-8891-95d20dac53c11692429698545
-  y = 276
+  y = 502
   height = 10
 }
 
@@ -140,12 +141,12 @@ customization {
   orientation = top-centered
   splash_color = #ffff00
   hidden = false
-  x = 87
+  x = 110
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
   actionid = ca48ff86-5f85-4067-b868-54e8092317d21692429698547
-  y = 102
+  y = 103
   height = 30
 }
 
@@ -159,7 +160,7 @@ customization {
   action = addbutton
   actionid = 223e415f-2d95-403c-9e5a-b55887a704ae1692429744087
   y = -23
-  label = 开始游戏
+  label = Start Game
   height = 20
 }
 
@@ -173,7 +174,7 @@ customization {
   action = addbutton
   actionid = 2becb846-9562-425a-867a-824824a841cf1692431645176
   y = 57
-  label = 退出游戏
+  label = Quit Game
   height = 20
 }
 
@@ -187,19 +188,24 @@ customization {
   action = addbutton
   actionid = ce075673-ccaa-4ef5-839a-1fd1f215048b1692574272388
   y = 30
-  label = 账号切换
+  label = Switch Account
   height = 20
 }
 
 customization {
   path = guirequired/title.png
   orientation = top-centered
-  x = -126
+  x = -127
   width = 247
   action = addtexture
   actionid = 7b58748b-8f91-460e-80a7-0966f9c2a1b71693402698741
-  y = 32
+  y = 33
   height = 65
+}
+
+customization {
+  identifier = %id=6043461%
+  action = hidebutton
 }
 
 customization {
@@ -210,9 +216,9 @@ customization {
   x = -99
   width = 200
   action = addbutton
-  actionid = e7506451-d895-4498-ba78-a0344813865a1706255599334
+  actionid = 0354af12-7015-468f-b78c-334682348e6b1706255787963
   y = 3
-  label = 模组
+  label = Mods
   height = 20
 }
 

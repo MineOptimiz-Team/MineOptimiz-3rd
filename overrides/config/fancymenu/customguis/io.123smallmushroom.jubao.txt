@@ -1,0 +1,3 @@
+identifier = io.123smallmushroom.jubao
+title = 彩蛋
+allowesc = true

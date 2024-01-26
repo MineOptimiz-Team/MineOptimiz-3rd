@@ -1,11 +1,17 @@
-type = menu
+﻿type = menu
 
 customization-meta {
   identifier = io.123smallmushroom.tools
   randomgroup = 1
   renderorder = foreground
   randommode = false
+  custom_menu_title = 实用工具
   randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
 }
 
 customization {
@@ -38,6 +44,20 @@ customization {
   actionid = b79020d5-337b-43ba-a0d7-1e03185052a91691286194454
   y = -8
   label = Bug反馈
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openfile;guirequired\modpackversion.txt%btnaction_splitter_fm%
+  x = -118
+  width = 238
+  action = addbutton
+  actionid = 8a49b6ab-7253-43ad-ad53-95b724c3dff21691286348169
+  y = -62
+  label = 查看当前整合包版本/相关信息
   height = 20
 }
 

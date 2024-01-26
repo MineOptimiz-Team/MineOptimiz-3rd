@@ -1,16 +1,11 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.client.gui.screens.OptionsScreen
+  identifier = net.minecraft.client.gui.screens.PauseScreen
   randomgroup = 1
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
-}
-
-customization {
-  action = setscale
-  scale = 2
 }
 
 customization {
@@ -19,7 +14,7 @@ customization {
 }
 
 customization {
-  identifier = %id=345304%
+  identifier = %id=398324%
   action = hidebutton
 }
 
@@ -27,14 +22,14 @@ customization {
   orientation = element
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  orientation_element = vanillabtn:345232
-  buttonaction = opengui;io.123smallmushroom.settings%btnaction_splitter_fm%
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  buttonaction = opengui;io.123smallmushroom.jubao%btnaction_splitter_fm%
   x = 0
-  width = 150
+  width = 204
   action = addbutton
-  actionid = e3869ba6-e9f0-49b1-aa7e-f271b5971f891692574637340
+  actionid = 13620dc6-25f9-46cf-956b-743e899890391701532003202
   y = 72
-  label = MineOptimiz设置
+  label = 举报玩家
   height = 20
 }
 
