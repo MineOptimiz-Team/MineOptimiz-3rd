@@ -1,12 +1,12 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "MineOptimiz Forge v1.20.1-Stable-0.1.6-Update.2",
-  "version": "1.20.1(Forge)-Stable-0.1.6-Update.2",
+  "name": "MineOptimiz Forge v1.20.1-Stable-0.1.7",
+  "version": "1.20.1(Forge)-Stable-0.1.7",
   "author": "Small__Mushroom",
   "description": "",
   "fileApi": "",
-  "url": "",
+  "url": "https://github.com/SmallMushroom-offical/MineOptimiz",
   "forceUpdate": false,
   "origin": [],
   "addons": [
@@ -389,7 +389,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "e0cd592fa7a644d9ada3bc8378e9491358b41ccc",
+      "hash": "042db45dc13e6a485acb5cdafd74c5af13e07e42",
       "force": true,
       "type": "addon"
     },
@@ -418,6 +418,12 @@
       "type": "addon"
     },
     {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.engmode.txt",
+      "hash": "64ea948eab1611257691962d36309ecaa4087703",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/fancymenu/customguis/io.123smallmushroom.jubao.txt",
       "hash": "141430dd9079d0f93a7b187c89e7a49153ea930a",
       "force": true,
@@ -442,6 +448,12 @@
       "type": "addon"
     },
     {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.settings.txt",
+      "hash": "5bf319f08e69ef7245b49615a82fb31f0029a919",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/fancymenu/customguis/io.123smallmushroom.tools.txt",
       "hash": "34671e4129fb2758b4b8d86fe2a09fdcea57e349",
       "force": true,
@@ -455,13 +467,19 @@
     },
     {
       "path": "config/fancymenu/customization/aboutMineOptimiz.txt",
-      "hash": "047fff57b56840060dfa84a46f9ea1f6babd0e42",
+      "hash": "83b36956b19f47e7c4cda46d742a7a4e95042c30",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/fancymenu/customization/addtesting.txt",
-      "hash": "da0fba1a639aa3f3746c562d150b1c324477df17",
+      "hash": "636a6fc94522e9b11149a403f5b89c9226f14a78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/engmode.txt",
+      "hash": "6ab57e8ea4fef3b43b76ba42a9a4161b5cf781c1",
       "force": true,
       "type": "addon"
     },
@@ -516,6 +534,12 @@
     {
       "path": "config/fancymenu/customization/serverad.txt",
       "hash": "5016216dcdbdd95703b695cdc97e28e6d18520bf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/settings.txt",
+      "hash": "46a58c6263fb81a943f535ccf5f1356f1456eaa5",
       "force": true,
       "type": "addon"
     },
@@ -599,6 +623,234 @@
     },
     {
       "path": "config/fancymenu/user_variables.db",
+      "hash": "3eeef87ee5e7b978339ad53e5e97deecc694b849",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/config.txt",
+      "hash": "d47b206e56d8288bd79019a887580bc42e91ac40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customguis/io.123smallmushroom.about.txt",
+      "hash": "14ee3198a5918b986915b41651f25fa915236814",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customguis/io.123smallmushroom.choosegame.txt",
+      "hash": "83fd2c206667142ba80861e6c86281f4d08c7b45",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customguis/io.123smallmushroom.engmode.txt",
+      "hash": "64ea948eab1611257691962d36309ecaa4087703",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customguis/io.123smallmushroom.jubao.txt",
+      "hash": "141430dd9079d0f93a7b187c89e7a49153ea930a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customguis/io.123smallmushroom.justinfabric.txt",
+      "hash": "f7104e1d051d750ee33433677f070ae2137f7e76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customguis/io.123smallmushroom.quitgame.txt",
+      "hash": "c16132772e940d3a398d2c49ea60528469cb76b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customguis/io.123smallmushroom.serverad.txt",
+      "hash": "36391246873db3d9e1d644b5508d83686aa45a1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customguis/io.123smallmushroom.settings.txt",
+      "hash": "5bf319f08e69ef7245b49615a82fb31f0029a919",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customguis/io.123smallmushroom.tools.txt",
+      "hash": "34671e4129fb2758b4b8d86fe2a09fdcea57e349",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customizablemenus.txt",
+      "hash": "004f28c4e85828f278751a8c88bd97a0e8e2bfc5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/aboutMineOptimiz.txt",
+      "hash": "83b36956b19f47e7c4cda46d742a7a4e95042c30",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/addtesting.txt",
+      "hash": "636a6fc94522e9b11149a403f5b89c9226f14a78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/engmode.txt",
+      "hash": "7b692c915436e99372de3ed007c23160a8472db2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/fabricmodconfig.txt",
+      "hash": "c4714c952f8bf2e20f62b2163c2a51a556ce7060",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/fiiiiiiiiiiiiiiixxxxxxxxxxx.txt",
+      "hash": "8fea4509c1927aed68f7107522679912d64191d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/hhh.txt",
+      "hash": "b2c990e3c29b3e2078f699dfa875ac3047984cde",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/jubao.txt",
+      "hash": "eefb0f630db7391079311be2d6c571747e8e519a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/justinfabric.txt",
+      "hash": "2ad3c8458110e60ec85af600f01799fc3aa71a1c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/modconfig.txt",
+      "hash": "c40661638aa0a392b40505aeb073e18b18ba0d7c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/modpacktools.txt",
+      "hash": "f82da8fd198a6df38690e09c505a20a1c7a76b79",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/quitgame.txt",
+      "hash": "4e3eecb1cca3f92acd3fa7cfc3a00fbf35555d86",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/serverad.txt",
+      "hash": "5016216dcdbdd95703b695cdc97e28e6d18520bf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/settings.txt",
+      "hash": "46a58c6263fb81a943f535ccf5f1356f1456eaa5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/startgame.txt",
+      "hash": "a2c7dd4784c9dd0c838393f181d3c599213a25c9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/testing.txt",
+      "hash": "c3da7cda2df6be52642e089f3b4cfe69d7089457",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/titlescreenvanilla.txt",
+      "hash": "62ecd40a9a0093b997df0a7f242698bbb7cdd12b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/tools - 副本.txt",
+      "hash": "c3da7cda2df6be52642e089f3b4cfe69d7089457",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/customization/tools.txt",
+      "hash": "62fd3d7eef53aa21f427131dc6a194a05ef6824b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/locals/de_de.local",
+      "hash": "98b50323485e91e3cc989364873878e42386c372",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/locals/en_us.local",
+      "hash": "b55634266d0503830e2ca352d6bfc063e19b9b5e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/locals/pl_pl.local",
+      "hash": "6b065a9ef9287ac5c88775c78f247f607764ad12",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/locals/pt_br.local",
+      "hash": "ab64076d828f5700d3b7e5a5a312b76eaa3e1b16",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/locals/ru_ru.local",
+      "hash": "097bf0d21a71879b3a87508324bb11051c52ba1b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/locals/uk_ua.local",
+      "hash": "58a9404fd84d78331701a6e81c34382bae55a7dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/locals/zh_cn.local",
+      "hash": "8e166ec05744eb904901dbedcd5b9374c1ba8f97",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/menu_identifiers.db",
+      "hash": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu - 副本/user_variables.db",
       "hash": "3eeef87ee5e7b978339ad53e5e97deecc694b849",
       "force": true,
       "type": "addon"
@@ -749,7 +1001,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "a806fb58145c2e00508e905339fbe302bbac9eca",
+      "hash": "31210b087d7698c996b8e0a9eec77b526a3638da",
       "force": true,
       "type": "addon"
     },
@@ -899,7 +1151,7 @@
     },
     {
       "path": "config/jade/sort-order.json",
-      "hash": "ca8d854a320f4aefe67f51d9e724dd411ce44783",
+      "hash": "0623a276bd51e13f3efb94d97b90b5da8afc6d0b",
       "force": true,
       "type": "addon"
     },
@@ -1133,7 +1385,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "7a4adcf507280d9c40a3b58f98d48545055b79d1",
+      "hash": "a4daaba2295d4fe0393c4e21245d99b2cf0d4488",
       "force": true,
       "type": "addon"
     },
@@ -1355,7 +1607,7 @@
     },
     {
       "path": "config/vmp.properties",
-      "hash": "150f9dbc3649f0fb5feae089c2665f5166977622",
+      "hash": "83df50a89944c9e73af0940e3604b714536c1f95",
       "force": true,
       "type": "addon"
     },
@@ -1373,13 +1625,13 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "7750e802b9e347750a6440545a31727fd40844bf",
+      "hash": "9468d611d4071b6af1cbe605659de9be1fdaca77",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
-      "hash": "26c351a6e1857cafdcbfd9cfdf274429405567cb",
+      "hash": "58b0b3c0cb40be0c702834014906b76f2eef5f2c",
       "force": true,
       "type": "addon"
     },
@@ -1415,13 +1667,13 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "0f04cbe89a27781e17b3d4975dcc4e00db4fc927",
+      "hash": "3c392644cbeffd8c4dbf02118f886393331719e1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "fabdd7ed5207448ddad5e229734452555b2b5320",
+      "hash": "acd935b4a857402cd0fdd441c8ce6eac8cf1b7ef",
       "force": true,
       "type": "addon"
     },
@@ -1439,19 +1691,13 @@
     },
     {
       "path": "config/xaeroworldmap.txt",
-      "hash": "7f23b2ef9ecf928cb2f4e40431ff4be2ee17a0d1",
+      "hash": "ffe6beda80c88c1352964c2ebdc004ba199e7a9b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/zoomify.json",
       "hash": "89760eca81f8c2d6294ba23e3d6ebfbd52b8d6c3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID",
-      "hash": "f5fb48911fa992d8e682cd79dc76b93de878f4e6",
       "force": true,
       "type": "addon"
     },
@@ -1492,6 +1738,258 @@
       "type": "addon"
     },
     {
+      "path": "guirequired/engmode/disable.bat",
+      "hash": "31d1e268669a796643e07c5d9b217a8911f51c87",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/enable.bat",
+      "hash": "f6c5460aaa30e20e20f24edfe0169185765c8c4b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/config.txt",
+      "hash": "d47b206e56d8288bd79019a887580bc42e91ac40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.about.txt",
+      "hash": "14ee3198a5918b986915b41651f25fa915236814",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.choosegame.txt",
+      "hash": "83fd2c206667142ba80861e6c86281f4d08c7b45",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.disengmode.txt",
+      "hash": "dc024e8fd6cd0915d5b20d1868d7771ccc2fd5af",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.engmode.txt",
+      "hash": "64ea948eab1611257691962d36309ecaa4087703",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.jubao.txt",
+      "hash": "141430dd9079d0f93a7b187c89e7a49153ea930a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.justinfabric.txt",
+      "hash": "f7104e1d051d750ee33433677f070ae2137f7e76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.quitgame.txt",
+      "hash": "c16132772e940d3a398d2c49ea60528469cb76b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.serverad.txt",
+      "hash": "36391246873db3d9e1d644b5508d83686aa45a1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.settings.txt",
+      "hash": "5bf319f08e69ef7245b49615a82fb31f0029a919",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customguis/io.123smallmushroom.tools.txt",
+      "hash": "34671e4129fb2758b4b8d86fe2a09fdcea57e349",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customizablemenus.txt",
+      "hash": "004f28c4e85828f278751a8c88bd97a0e8e2bfc5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/aboutMineOptimiz.txt",
+      "hash": "83b36956b19f47e7c4cda46d742a7a4e95042c30",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/addtesting.txt",
+      "hash": "9b3450508ddd295f97d623edbff2241a51f34f41",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/disengmode.txt",
+      "hash": "a29731fd2fe7b4a01104dd428e980b7c6a5cb8dc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/engmode.txt",
+      "hash": "db293a5135b042d1efdbc9969bcd850b7b5fb3ea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/fabricmodconfig.txt",
+      "hash": "c4714c952f8bf2e20f62b2163c2a51a556ce7060",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/fiiiiiiiiiiiiiiixxxxxxxxxxx.txt",
+      "hash": "8fea4509c1927aed68f7107522679912d64191d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/hhh.txt",
+      "hash": "b2c990e3c29b3e2078f699dfa875ac3047984cde",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/jubao.txt",
+      "hash": "eefb0f630db7391079311be2d6c571747e8e519a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/justinfabric.txt",
+      "hash": "2ad3c8458110e60ec85af600f01799fc3aa71a1c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/modconfig.txt",
+      "hash": "c40661638aa0a392b40505aeb073e18b18ba0d7c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/modpacktools.txt",
+      "hash": "f82da8fd198a6df38690e09c505a20a1c7a76b79",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/quitgame.txt",
+      "hash": "4e3eecb1cca3f92acd3fa7cfc3a00fbf35555d86",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/serverad.txt",
+      "hash": "5016216dcdbdd95703b695cdc97e28e6d18520bf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/settings.txt",
+      "hash": "31eac07ec9f345915ee90fb54c92908656f7d826",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/startgame.txt",
+      "hash": "aa933c6478f8c315410ff6177c24f998213f8ef6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/testing.txt",
+      "hash": "c3da7cda2df6be52642e089f3b4cfe69d7089457",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/titlescreenvanilla.txt",
+      "hash": "9ccc3b0e9552dd9559dc2a412a25e1bc79401ee6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/tools - 副本.txt",
+      "hash": "c3da7cda2df6be52642e089f3b4cfe69d7089457",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/customization/tools.txt",
+      "hash": "62fd3d7eef53aa21f427131dc6a194a05ef6824b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/locals/de_de.local",
+      "hash": "98b50323485e91e3cc989364873878e42386c372",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/locals/en_us.local",
+      "hash": "b55634266d0503830e2ca352d6bfc063e19b9b5e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/locals/pl_pl.local",
+      "hash": "6b065a9ef9287ac5c88775c78f247f607764ad12",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/locals/pt_br.local",
+      "hash": "ab64076d828f5700d3b7e5a5a312b76eaa3e1b16",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/locals/ru_ru.local",
+      "hash": "097bf0d21a71879b3a87508324bb11051c52ba1b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/locals/uk_ua.local",
+      "hash": "58a9404fd84d78331701a6e81c34382bae55a7dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/locals/zh_cn.local",
+      "hash": "8e166ec05744eb904901dbedcd5b9374c1ba8f97",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/menu_identifiers.db",
+      "hash": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/engmode/fancymenu/user_variables.db",
+      "hash": "3eeef87ee5e7b978339ad53e5e97deecc694b849",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "guirequired/language.png",
       "hash": "e320bf1737efaf67c35b56bc4848e53b6ade5e46",
       "force": true,
@@ -1524,12 +2022,6 @@
     {
       "path": "hmclversion.cfg",
       "hash": "6c109122d705396687e6406520481b6733bc8de4",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "log4j2.xml",
-      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
       "force": true,
       "type": "addon"
     },
@@ -1750,6 +2242,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/I18nUpdateMod-3.5.2-all.jar",
+      "hash": "dc6a1651f09ab943205880af627351d5987ff231",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/ImmediatelyFast-Forge-1.2.8+1.20.4.jar",
       "hash": "86d778578752dfab703a6a68b1a562bca148be03",
       "force": true,
@@ -1828,12 +2326,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/memoryleakfix-forge-1.17+-1.1.2.jar.old",
-      "hash": "36b7e4aaea3814fac6428a628d3e18988b24f250",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
       "hash": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
       "force": true,
@@ -1854,12 +2346,6 @@
     {
       "path": "mods/modelfix-1.14.jar",
       "hash": "f11c4d7010f9572bd2e2ed64c15e544816226e0b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/modernfix-forge-5.11.1+mc1.20.1.jar.old",
-      "hash": "38446389264d82bc9ecb935c1d4dc96e76697477",
       "force": true,
       "type": "addon"
     },
@@ -1984,20 +2470,20 @@
       "type": "addon"
     },
     {
-      "path": "mods/voicechat-forge-1.20.1-2.4.28.jar",
-      "hash": "ab08016388cddc10a04f0b9a3b57376f607ff4e7",
+      "path": "mods/voicechat-forge-1.20.1-2.5.0.jar",
+      "hash": "eb60949f20b3e45a515d3505aade0f93ba27d31a",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/XaerosWorldMap_1.34.1_Forge_1.20.jar",
-      "hash": "f272b0d285355170eae3a86a645e299e0e7cd42a",
+      "path": "mods/XaerosWorldMap_1.37.2_Forge_1.20.jar",
+      "hash": "a6d1b7020ac1e20c7ae335aa0ec56af232bb3a6b",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/Xaeros_Minimap_23.8.2_Forge_1.20.jar",
-      "hash": "b2371adb500feed1d1f72100d88a6031ec9684cd",
+      "path": "mods/Xaeros_Minimap_23.9.3_Forge_1.20.jar",
+      "hash": "f7b9642bb46b64756908cd4e631d1b5b878f1993",
       "force": true,
       "type": "addon"
     },
@@ -2015,7 +2501,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "620a7f1ba24b5b3b50f3c4b030eb563836aa43ea",
+      "hash": "dc9a2eb783474f5f81783128386e5f9c7a095159",
       "force": true,
       "type": "addon"
     },

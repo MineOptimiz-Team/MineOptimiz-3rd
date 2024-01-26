@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "MineOptimiz Forge v1.20.1-Stable-0.1.6-Update.2",
-  "version": "1.20.1(Forge)-Stable-0.1.6-Update.2",
+  "name": "MineOptimiz Forge v1.20.1-Stable-0.1.7",
+  "version": "1.20.1(Forge)-Stable-0.1.7",
   "author": "Small__Mushroom",
   "overrides": "overrides",
   "minecraft": {
