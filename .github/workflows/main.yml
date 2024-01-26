@@ -36,7 +36,6 @@ jobs:
           rm README.md
           cd overrides
           mv h.txt options.txt
-          cd ..
           cd config
           cd slightguimodifications
           mv cts.byd cts.groovy
