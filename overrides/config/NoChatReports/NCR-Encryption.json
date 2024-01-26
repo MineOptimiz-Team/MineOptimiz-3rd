@@ -1,5 +1,5 @@
 {
-  "skipWarning": false,
+  "skipWarning": true,
   "enableEncryption": false,
   "encryptPublic": true,
   "showEncryptionButton": true,

@@ -41,3 +41,17 @@ customization {
   height = 20
 }
 
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openfile;guirequired\modpackversion.txt%btnaction_splitter_fm%
+  x = -118
+  width = 238
+  action = addbutton
+  actionid = 8a49b6ab-7253-43ad-ad53-95b724c3dff21691286348169
+  y = -62
+  label = 查看当前整合包版本/相关信息
+  height = 20
+}
+

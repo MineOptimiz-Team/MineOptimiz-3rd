@@ -9,7 +9,7 @@
   "analogMovement": true,
   "doubleTapToSprint": true,
   "controllerToggleSneak": false,
-  "controllerToggleSprint": true,
+  "controllerToggleSprint": false,
   "fastBlockPlacing": false,
   "flyDrifting": true,
   "verticalFlyDrifting": true,

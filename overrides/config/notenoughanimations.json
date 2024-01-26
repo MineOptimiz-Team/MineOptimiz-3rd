@@ -1,5 +1,5 @@
 {
-  "configVersion": 8,
+  "configVersion": 9,
   "animationSmoothingSpeed": 20.0,
   "holdingItems": [
     "minecraft:clock",
@@ -35,7 +35,8 @@
     "minecraft:netherite_sword"
   ],
   "enableCrawlingAnimation": true,
-  "holdUpAllItems": false,
+  "holdUpItemsMode": "CONFIG",
+  "holdUpItemOffset": 0.0,
   "itemSwapAnimation": true,
   "tweakElytraAnimation": true,
   "petAnimation": true,
@@ -45,5 +46,5 @@
   "narutoRunning": false,
   "enableInWorldBookRendering": false,
   "disableLegSmoothing": false,
-  "bowAnimation": "CUSTOM_V1"
+  "bowAnimation": "VANILLA"
 }

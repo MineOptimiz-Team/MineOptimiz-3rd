@@ -1,0 +1,23 @@
+
+#Does Potato Tick?
+["Living Entity Settings"]
+	#If you don't want an entity to be affected by the rule, you can write its registry name down here.
+	"entity whitelist" = []
+	#Living Entity Max Horizontal Tick Distance. Number Type: Integer. Default: 64
+	#Range: > 1
+	"living entity horizontal tick distance" = 64
+	#With this turned on, the living entity tick check will run a lot faster, but entities won't die if outside range. Default: true
+	"ignore dead entities" = true
+	#Living Entity Max Vertical Tick Distance. Number Type: Integer. Default: 32
+	#Range: > 1
+	"living entity vertical tick distance" = 32
+	#If you don't want entities of a mod to be affected by the rule, you can write its modid down here
+	"entity modid list" = ["create"]
+
+["Item Entity Settings"]
+	#Optimize Item Movement (items move at 1/4 speed). Value Type: true / false.
+	"slow down items in the world" = false
+	#If you don't want to let a specific item entity in the world to be effected by the rule, you can write its registry name down here.
+	#Require 'slow down items in the world' to be true
+	"item list" = ["minecraft:cobblestone"]
+

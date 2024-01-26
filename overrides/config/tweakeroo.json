@@ -9,10 +9,11 @@
     "clientPlacementRotation": true,
     "fastLeftClickAllowTools": true,
     "fastPlacementRememberOrientation": false,
-    "freeCameraPlayerInputs": false,
+    "freeCameraPlayerInputs": true,
     "freeCameraPlayerMovement": false,
     "handRestockPre": true,
     "hangableEntityBypassInverse": false,
+    "itemUsePacketCheckBypass": true,
     "permanentSneakAllowInGUIs": false,
     "placementRestrictionTiedToFast": true,
     "potionWarningBeneficialOnly": true,
@@ -28,6 +29,7 @@
     "blockTypeBreakRestrictionWarn": "message",
     "breakingRestrictionMode": "line",
     "elytraCameraIndicator": "with_key",
+    "entityTypeAttackRestrictionWarn": "message",
     "placementRestrictionMode": "face",
     "hotbarSwapOverlayAlignment": "bottom_right",
     "snapAimMode": "yaw",
@@ -38,10 +40,12 @@
     "afterClickerClickCount": 1,
     "blockReachDistance": 4.5,
     "breakingGridSize": 3,
+    "customInventoryGuiScale": 2,
     "fastBlockPlacementCount": 2,
     "fastLeftClickCount": 10,
     "fastRightClickCount": 10,
     "fillCloneLimit": 10000000,
+    "flyDecelerationFactor": 0.4,
     "flySpeedPreset1": 0.01,
     "flySpeedPreset2": 0.064,
     "flySpeedPreset3": 0.128,
@@ -72,212 +76,60 @@
     "snapAimYawStep": 45.0,
     "structureBlockMaxSize": 128,
     "toolSwitchableSlots": "1-9",
+    "toolSwitchIgnoredSlots": "",
     "zoomFov": 29.00999999999999
   },
   "GenericHotkeys": {
     "accurateBlockPlacementInto": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "accurateBlockPlacementReverse": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "breakingRestrictionModeColumn": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "breakingRestrictionModeDiagonal": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "breakingRestrictionModeFace": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "breakingRestrictionModeLayer": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "breakingRestrictionModeLine": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "breakingRestrictionModePlane": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "copySignText": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "elytraCamera": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "flexibleBlockPlacementAdjacent": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "flexibleBlockPlacementOffset": {
-      "keys": "LEFT_CONTROL",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "LEFT_CONTROL"
     },
     "flexibleBlockPlacementRotation": {
-      "keys": "LEFT_ALT",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "LEFT_ALT"
     },
     "flyPreset1": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "flyPreset2": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "flyPreset3": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "flyPreset4": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "freeCameraPlayerInputs": {
       "keys": "F8",
@@ -292,316 +144,82 @@
       }
     },
     "freeCameraPlayerMovement": {
-      "keys": "F9",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "F9"
     },
     "hotbarScroll": {
-      "keys": "",
-      "settings": {
-        "activate_on": "RELEASE",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": false
-      }
+      "keys": ""
     },
     "hotbarSwapBase": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "hotbarSwap1": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "hotbarSwap2": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "hotbarSwap3": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "inventoryPreview": {
-      "keys": "LEFT_ALT",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "LEFT_ALT"
     },
     "openConfigGui": {
-      "keys": "X,C",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "X,C"
     },
     "placementYMirror": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "playerInventoryPeek": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "placementRestrictionModeColumn": {
-      "keys": "Z,3",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "Z,3"
     },
     "placementRestrictionModeDiagonal": {
-      "keys": "Z,5",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "Z,5"
     },
     "placementRestrictionModeFace": {
-      "keys": "Z,2",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "Z,2"
     },
     "placementRestrictionModeLayer": {
-      "keys": "Z,6",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "Z,6"
     },
     "placementRestrictionModeLine": {
-      "keys": "Z,4",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "Z,4"
     },
     "placementRestrictionModePlane": {
-      "keys": "Z,1",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "Z,1"
     },
     "sitDownNearbyPets": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "skipAllRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "skipWorldRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "standUpNearbyPets": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "swapElytraChestplate": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "toggleCarpetAccuratePlacementProtocol": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "toggleGrabCursor": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "toolPick": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "writeMapsAsImages": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "zoomActivate": {
-      "keys": "N",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": false,
-        "exclusive": false,
-        "cancel": false
-      }
+      "keys": "N"
     }
   },
   "Internal": {
@@ -627,6 +245,16 @@
       "minecraft:structure_block{BlockEntityTag:{mode:\"SAVE\"}}",
       "minecraft:structure_block{BlockEntityTag:{mode:\"LOAD\"}}",
       "minecraft:structure_block{BlockEntityTag:{mode:\"CORNER\"}}"
+    ],
+    "entityTypeAttackRestrictionListType": "blacklist",
+    "entityTypeAttackRestrictionBlackList": [
+      "minecraft:villager"
+    ],
+    "entityTypeAttackRestrictionWhiteList": [],
+    "entityWeaponMapping": [
+      "\u003cdefault\u003e \u003d\u003e minecraft:diamond_sword, minecraft:golden_sword, minecraft:iron_sword, minecraft:netherite_sword, minecraft:stone_sword, minecraft:wooden_sword",
+      "minecraft:end_crystal, minecraft:item_frame, minecraft:glow_item_frame, minecraft:leash_knot \u003d\u003e \u003cignore\u003e",
+      "minecraft:minecart, minecraft:chest_minecart, minecraft:furnace_minecart, minecraft:hopper_minecart, minecraft:hopper_minecart, minecraft:spawner_minecart, minecraft:tnt_minecart, minecraft:boat\u003d\u003e minecraft:diamond_axe, minecraft:golden_axe, minecraft:iron_axe, minecraft:netherite_axe, minecraft:stone_axe, minecraft:wooden_axe"
     ],
     "fastPlacementItemListType": "blacklist",
     "fastRightClickBlockListType": "blacklist",
@@ -687,488 +315,403 @@
     ]
   },
   "DisableToggles": {
-    "disableArmorStandRendering": false,
-    "disableAxeStripping": false,
-    "disableBatSpawning": false,
-    "disableBlockBreakingParticles": false,
-    "disableDoubleTapSprint": false,
-    "disableBossFog": false,
-    "disableChunkRendering": false,
-    "disableClientEntityUpdates": false,
-    "disableClientLightUpdates": false,
-    "disableDeadMobRendering": false,
-    "disableDeadMobTargeting": false,
-    "disableEntityRendering": false,
-    "disableEntityTicking": false,
-    "disableFallingBlockEntityRendering": false,
-    "disableInventoryEffectRendering": false,
-    "disableItemSwitchRenderCooldown": false,
-    "disableMobSpawnerMobRendering": false,
-    "disableNauseaEffect": false,
-    "disableNetherFog": false,
-    "disableNetherPortalSound": false,
-    "disableObserver": false,
-    "disableOffhandRendering": false,
-    "disableParticles": false,
-    "disablePortalGuiClosing": false,
-    "disableRainEffects": false,
-    "disableRenderingScaffolding": false,
-    "disableRenderDistanceFog": false,
-    "disableScoreboardRendering": false,
-    "disableShulkerBoxTooltip": false,
-    "disableShovelPathing": false,
-    "disableSignGui": false,
-    "disableSlimeBlockSlowdown": false,
-    "disableTileEntityRendering": false,
-    "disableTileEntityTicking": false,
-    "disableVillagerTradeLocking": false,
-    "disableWallUnsprint": false,
-    "disableWorldViewBob": false
-  },
-  "DisableHotkeys": {
     "disableArmorStandRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableAxeStripping": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableBatSpawning": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBeaconBeamRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableBlockBreakingParticles": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableDoubleTapSprint": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBossBar": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableBossFog": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableChunkRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableClientEntityUpdates": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableClientLightUpdates": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableConstantChunkSaving": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableCreativeMenuInfestedBlocks": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableDeadMobRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableDeadMobTargeting": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableEntityRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableEntityTicking": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableFallingBlockEntityRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableFirstPersonEffectParticles": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableInventoryEffectRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableItemSwitchRenderCooldown": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableMobSpawnerMobRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableNauseaEffect": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableNetherFog": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableNetherPortalSound": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableObserver": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableOffhandRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableParticles": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disablePortalGuiClosing": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableRainEffects": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableRenderingScaffolding": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableRenderDistanceFog": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableScoreboardRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableShulkerBoxTooltip": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableShovelPathing": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableSignGui": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableSkyDarkness": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableSlimeBlockSlowdown": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableStatusEffectHud": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableTileEntityRendering": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableTileEntityTicking": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableVillagerTradeLocking": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableWallUnsprint": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
     },
     "disableWorldViewBob": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
       }
+    }
+  },
+  "DisableHotkeys": {
+    "disableArmorStandRendering": {
+      "keys": ""
+    },
+    "disableAxeStripping": {
+      "keys": ""
+    },
+    "disableBatSpawning": {
+      "keys": ""
+    },
+    "disableBeaconBeamRendering": {
+      "keys": ""
+    },
+    "disableBlockBreakingParticles": {
+      "keys": ""
+    },
+    "disableDoubleTapSprint": {
+      "keys": ""
+    },
+    "disableBossBar": {
+      "keys": ""
+    },
+    "disableBossFog": {
+      "keys": ""
+    },
+    "disableChunkRendering": {
+      "keys": ""
+    },
+    "disableClientEntityUpdates": {
+      "keys": ""
+    },
+    "disableClientLightUpdates": {
+      "keys": ""
+    },
+    "disableConstantChunkSaving": {
+      "keys": ""
+    },
+    "disableCreativeMenuInfestedBlocks": {
+      "keys": ""
+    },
+    "disableDeadMobRendering": {
+      "keys": ""
+    },
+    "disableDeadMobTargeting": {
+      "keys": ""
+    },
+    "disableEntityRendering": {
+      "keys": ""
+    },
+    "disableEntityTicking": {
+      "keys": ""
+    },
+    "disableFallingBlockEntityRendering": {
+      "keys": ""
+    },
+    "disableFirstPersonEffectParticles": {
+      "keys": ""
+    },
+    "disableInventoryEffectRendering": {
+      "keys": ""
+    },
+    "disableItemSwitchRenderCooldown": {
+      "keys": ""
+    },
+    "disableMobSpawnerMobRendering": {
+      "keys": ""
+    },
+    "disableNauseaEffect": {
+      "keys": ""
+    },
+    "disableNetherFog": {
+      "keys": ""
+    },
+    "disableNetherPortalSound": {
+      "keys": ""
+    },
+    "disableObserver": {
+      "keys": ""
+    },
+    "disableOffhandRendering": {
+      "keys": ""
+    },
+    "disableParticles": {
+      "keys": ""
+    },
+    "disablePortalGuiClosing": {
+      "keys": ""
+    },
+    "disableRainEffects": {
+      "keys": ""
+    },
+    "disableRenderingScaffolding": {
+      "keys": ""
+    },
+    "disableRenderDistanceFog": {
+      "keys": ""
+    },
+    "disableScoreboardRendering": {
+      "keys": ""
+    },
+    "disableShulkerBoxTooltip": {
+      "keys": ""
+    },
+    "disableShovelPathing": {
+      "keys": ""
+    },
+    "disableSignGui": {
+      "keys": ""
+    },
+    "disableSkyDarkness": {
+      "keys": ""
+    },
+    "disableSlimeBlockSlowdown": {
+      "keys": ""
+    },
+    "disableStatusEffectHud": {
+      "keys": ""
+    },
+    "disableTileEntityRendering": {
+      "keys": ""
+    },
+    "disableTileEntityTicking": {
+      "keys": ""
+    },
+    "disableVillagerTradeLocking": {
+      "keys": ""
+    },
+    "disableWallUnsprint": {
+      "keys": ""
+    },
+    "disableWorldViewBob": {
+      "keys": ""
     }
   },
   "TweakToggles": {
@@ -1184,9 +727,10 @@
     "tweakChatPersistentText": false,
     "tweakChatTimestamp": false,
     "tweakCommandBlockExtraFields": false,
-    "tweakCreativeExtraItems": false,
-    "tweakCustomFlatPresets": false,
+    "tweakCustomFlyDeceleration": false,
+    "tweakCustomInventoryScreenScale": false,
     "tweakElytraCamera": false,
+    "tweakEntityTypeAttackRestriction": false,
     "tweakEmptyShulkerBoxesStack": false,
     "tweakEmptyShulkerBoxesStackOnGround": false,
     "tweakExplosionReducedParticles": false,
@@ -1230,7 +774,6 @@
     "tweakPrintDeathCoordinates": false,
     "tweakPickBeforePlace": false,
     "tweakPlayerListAlwaysVisible": false,
-    "tweakRemoveOwnPotionEffects": false,
     "tweakRenderEdgeChunks": false,
     "tweakRenderInvisibleEntities": false,
     "tweakRenderLimitEntities": false,
@@ -1246,921 +789,241 @@
     "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": false,
     "tweakToolSwitch": false,
+    "tweakWeaponSwitch": false,
     "tweakYMirror": false,
     "tweakZoom": false
   },
   "TweakHotkeys": {
     "tweakAccurateBlockPlacement": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakAfterClicker": {
-      "keys": "",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakAimLock": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakAngelBlock": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakBlockReachOverride": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakBlockTypeBreakRestriction": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakBreakingGrid": {
-      "keys": "",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakBreakingRestriction": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakChatBackgroundColor": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakChatPersistentText": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakChatTimestamp": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakCommandBlockExtraFields": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
-    "tweakCreativeExtraItems": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+    "tweakCustomFlyDeceleration": {
+      "keys": ""
     },
-    "tweakCustomFlatPresets": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+    "tweakCustomInventoryScreenScale": {
+      "keys": ""
     },
     "tweakElytraCamera": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
+    },
+    "tweakEntityTypeAttackRestriction": {
+      "keys": ""
     },
     "tweakEmptyShulkerBoxesStack": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakEmptyShulkerBoxesStackOnGround": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakExplosionReducedParticles": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakF3Cursor": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakFakeSneaking": {
-      "keys": "SEMICOLON",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "SEMICOLON"
     },
     "tweakFakeSneakPlacement": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakFastBlockPlacement": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakFastLeftClick": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakFastRightClick": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakFillCloneLimit": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakFlySpeed": {
-      "keys": "",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakFlexibleBlockPlacement": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakFreeCamera": {
-      "keys": "F10",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "F10"
     },
     "tweakGammaOverride": {
-      "keys": "0",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "0"
     },
     "tweakHandRestock": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakHangableEntityBypass": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakHoldAttack": {
-      "keys": "RIGHT_ALT",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "RIGHT_ALT"
     },
     "tweakHoldUse": {
-      "keys": "KP_0",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "KP_0"
     },
     "tweakHotbarScroll": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakHotbarSlotCycle": {
-      "keys": "",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakHotbarSlotRandomizer": {
-      "keys": "",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakHotbarSwap": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakInventoryPreview": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakItemUnstackingProtection": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakLavaVisibility": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakMapPreview": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakMovementKeysLast": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPeriodicAttack": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPeriodicUse": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPeriodicHoldAttack": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPeriodicHoldUse": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPermanentSneak": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPermanentSprint": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPlacementGrid": {
-      "keys": "",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPlacementLimit": {
-      "keys": "",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPlacementRestriction": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPlacementRestrictionFirst": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPlacementRestrictionHand": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPlayerInventoryPeek": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPotionWarning": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPrintDeathCoordinates": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPickBeforePlace": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakPlayerListAlwaysVisible": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "tweakRemoveOwnPotionEffects": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakRenderEdgeChunks": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakRenderInvisibleEntities": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakRenderLimitEntities": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakRepairMode": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakSculkPulseLength": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakShulkerBoxDisplay": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakSignCopy": {
-      "keys": "KP_DECIMAL",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "KP_DECIMAL"
     },
     "tweakSnapAim": {
-      "keys": "",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakSnapAimLock": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakSneak_1.15.2": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakSpectatorTeleport": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakStructureBlockLimit": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakSwapAlmostBrokenTools": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakTabCompleteCoordinate": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakToolSwitch": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
+    },
+    "tweakWeaponSwitch": {
+      "keys": ""
     },
     "tweakYMirror": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": ""
     },
     "tweakZoom": {
-      "keys": "DELETE",
-      "settings": {
-        "activate_on": "BOTH",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "DELETE"
     }
   }
 }

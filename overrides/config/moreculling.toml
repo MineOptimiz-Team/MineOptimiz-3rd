@@ -17,4 +17,10 @@ entityModelCulling = false
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+bountiful = true
+travelersbackpack = true
+betterfurnacesreforged = true
+waystones = true
+advancednetherite = true
+friendsandfoes = true
 minecraft = true

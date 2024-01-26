@@ -1,3 +1,5 @@
 {
-  "signingModes": {}
+  "signingModes": {
+    "ddns.ganshity.top:28103": "NEVER"
+  }
 }

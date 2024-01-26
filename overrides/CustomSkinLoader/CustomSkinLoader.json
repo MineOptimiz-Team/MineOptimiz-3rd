@@ -1,6 +1,6 @@
 {
-  "version": "14.19.1",
-  "buildNumber": 26,
+  "version": "14.18.1",
+  "buildNumber": 22,
   "loadlist": [
     {
       "name": "LocalSkin",
@@ -50,6 +50,7 @@
   ],
   "enableDynamicSkull": true,
   "enableTransparentSkin": true,
+  "forceIgnoreHttpsCertificate": false,
   "forceLoadAllTextures": true,
   "enableCape": true,
   "threadPoolSize": 3,

@@ -1,0 +1,16 @@
+{
+	/* Block dangerous player names that start with @ or quotation mark or contain blank characters.
+	   Such names probably lead to fatal issues or be exploited maliciously.
+	*/
+	"blockDangerous": true,
+	/* Block player names that match these regular expressions(case insensitive).
+	   Only available on dedicated servers.
+	*/
+	"illegalPatterns": [
+		"illegal-name.*?"
+	],
+	// Experimental! Back up your world before modifying the value.
+	"maxLength": 16,
+	// Player UUID. For example "24c105a6-1c7f-414e-99ed-8d9ede0721f0"
+	"whiteList": []
+}

@@ -19,20 +19,43 @@ customization {
 }
 
 customization {
-  identifier = %id=400322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
-  x = 104
+  x = 3
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 108
   action = movebutton
   y = 57
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
   x = -99
   action = movebutton
@@ -40,55 +63,95 @@ customization {
 }
 
 customization {
-  identifier = %id=502382%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=376382%
-  orientation = mid-centered
-  x = -122
-  action = movebutton
-  y = 57
-}
-
-customization {
-  identifier = %id=400298%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=400346%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=502346%
-  orientation = mid-centered
-  x = -99
-  action = movebutton
-  y = 4
-}
-
-customization {
-  identifier = %id=502346%
-  width = 200
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 97
   action = resizebutton
   height = 20
 }
 
 customization {
+  identifier = %id=6043461%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -125
+  action = movebutton
+  y = 57
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = -99
+  action = movebutton
+  y = 29
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 181
+  action = deep_customization_element:title_screen_branding
+  actionid = 06de3a86-7616-4da3-8891-95d20dac53c11692429698545
+  y = 276
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 8f20070d-bf58-492a-8c19-6be9503c00bb1692429698546
+  y = 228
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 97fde0c2-9cdb-4a89-8363-ab7a60a637e11692429698546
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = false
+  x = 110
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = ca48ff86-5f85-4067-b868-54e8092317d21692429698547
+  y = 97
+  height = 30
+}
+
+customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = opencustomgui
+  buttonaction = opengui;io.123smallmushroom.choosegame%btnaction_splitter_fm%
   x = -99
   width = 200
-  actionid = 223e415f-2d95-403c-9e5a-b55887a704ae1692429744087
   action = addbutton
+  actionid = 223e415f-2d95-403c-9e5a-b55887a704ae1692429744087
   y = -23
   label = 开始游戏
-  value = io.123smallmushroom.choosegame
   height = 20
 }
 
@@ -96,45 +159,57 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = opencustomgui
-  x = 3
-  width = 98
-  actionid = 2becb846-9562-425a-867a-824824a841cf1692431645176
+  buttonaction = opengui;io.123smallmushroom.quitgame%btnaction_splitter_fm%
+  x = 4
+  width = 97
   action = addbutton
+  actionid = 2becb846-9562-425a-867a-824824a841cf1692431645176
   y = 57
   label = 退出游戏
-  value = io.123smallmushroom.quitgame
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = opengui
-  x = -99
-  width = 200
-  actionid = ce075673-ccaa-4ef5-839a-1fd1f215048b1692574272388
-  action = addbutton
-  y = 30
-  label = 账号切换
-  value = iafenvoy.accountswitcher.gui.AccountScreen
   height = 20
 }
 
 customization {
   path = guirequired/title.png
   orientation = top-centered
-  x = -124
-  width = 242
+  x = -127
+  width = 247
   action = addtexture
-  actionid = 0da8b457-1a38-44fa-9867-72a2a88702661705131728057
-  y = 40
-  height = 64
+  actionid = 7b58748b-8f91-460e-80a7-0966f9c2a1b71693402698741
+  y = 33
+  height = 65
 }
 
 customization {
-  identifier = %id=604346%
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;com.terraformersmc.modmenu.gui.ModsScreen%btnaction_splitter_fm%
+  x = -99
+  width = 200
+  action = addbutton
+  actionid = 1e7bb9b2-3d79-4c65-824f-30056621cc901694251478606
+  y = 4
+  label = 模组
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;iafenvoy.accountswitcher.gui.AccountScreen%btnaction_splitter_fm%
+  x = 141
+  width = 200
+  action = addbutton
+  actionid = 161a48dd-a359-46a8-bdc3-2d368d7280281697202898785
+  y = 175
+  label = 账号切换
+  height = 20
+}
+
+customization {
+  identifier = %id=502346%
   action = hidebutton
 }
 

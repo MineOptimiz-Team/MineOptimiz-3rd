@@ -1,0 +1,12 @@
+{
+    "net.minecraft.class_481": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 22
+            },
+            "SETTINGS": {
+                "top": 23
+            }
+        }
+    }
+}

@@ -1,6 +1,6 @@
 {
-	"fluidAdvancements": true,
-	"fluidStatusEffects": true,
+	"fluidAdvancements": false,
+	"fluidStatusEffects": false,
 	// Whether we should unlimit the hard 60 fps limit placed on the title screen.
 	"unlimitTitleScreenFps": true,
 	"openingAnimation": {
@@ -44,12 +44,12 @@
 		"showFps": false
 	},
 	"customScaling": {
-		"vanillaScaleSlider": false,
+		"modifyVanillaScaleSlider": true,
 		"scale": 1.0
 	},
 	"slotHighlight": {
 		// Whether this module is enabled.
-		"enabled": true,
+		"enabled": false,
 		"color": -2130706433
 	},
 	"tooltipModifications": {
@@ -60,6 +60,6 @@
 		"outlineGradientBottomColor": 1344798847
 	},
 	// Whether GUI should allow right click actions.
-	"rightClickActions": true,
+	"rightClickActions": false,
 	"satisfyingScreenshots": false
 }

@@ -1,0 +1,7 @@
+{
+  "generalSettings": {
+    "enable": true,
+    "unexpectedTransitionDuration": 20,
+    "debugMode": false
+  }
+}

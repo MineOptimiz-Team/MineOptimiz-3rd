@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.17.1
+      - 1.19.4-OptiFabric
   workflow_dispatch:
 
 jobs:
@@ -34,11 +34,6 @@ jobs:
           rm -rf .github
           rm -rf .git
           rm README.md
-          cd overrides
-          mv h.txt options.txt
-          cd config
-          cd slightguimodifications
-          mv cts.byd cts.groovy
           cd /home/runner/work/MineOptimiz/MineOptimiz/
           zip -r "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz Fabric v1.17.1-Dev-${{ steps.date.outputs.date }}.zip" ./*
       

@@ -30,7 +30,6 @@
     "dimensionFogDistance": {
       "minecraft:overworld": 0
     },
-    "use_linear_flat_color_blender": false,
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
@@ -42,22 +41,23 @@
     "player_name_tag": true
   },
   "extra_settings": {
-    "overlay_corner": "TOP_LEFT",
+    "overlay_corner": "TOP_RIGHT",
     "text_contrast": "SHADOW",
     "show_fps": true,
-    "show_f_p_s_extended": true,
-    "show_coords": false,
-    "reduce_resolution_on_mac": true,
+    "show_f_p_s_extended": false,
+    "show_coords": true,
+    "reduce_resolution_on_mac": false,
     "use_adaptive_sync": false,
-    "cloud_height": 279,
+    "cloud_height": 300,
     "toasts": true,
-    "advancement_toast": false,
+    "advancement_toast": true,
     "recipe_toast": true,
     "system_toast": true,
-    "tutorial_toast": false,
-    "instant_sneak": false,
+    "tutorial_toast": true,
+    "instant_sneak": true,
     "prevent_shaders": false,
-    "use_fast_random": true
+    "steady_debug_hud": true,
+    "steady_debug_hud_refresh_interval": 1
   },
   "notification_settings": {
     "hide_r_s_o_recommendation": false

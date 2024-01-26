@@ -1,0 +1,19 @@
+#This is an example boolean property
+exampleBoolean = true
+#Allowed Values: Hello, World
+exampleEnum = "Hello"
+exampleEnumList = ["Hello", "World"]
+#Range: > -2147483648
+exampleInt = 42
+exampleIntList = [12, 24]
+exampleMultilineString = "Hello World"
+exampleString = "Hello World"
+exampleStringList = ["Hello", "World"]
+
+[exampleCategory]
+	#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+	exampleFloat = 42.84
+	#This is an example category
+	#This is an example string inside a category
+	innerField = "I am inside"
+
