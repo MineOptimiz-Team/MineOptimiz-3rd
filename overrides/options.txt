@@ -44,7 +44,7 @@ biomeBlendRadius:1
 renderClouds:"false"
 resourcePacks:["file/UnicodeFontExtend-release.zip","vanilla","fabric","file/VanillaTweaks_r821474.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.19.4.zip","black_icons"]
 incompatibleResourcePacks:["file/UnicodeFontExtend-release.zip"]
-lastServer:ddns.ganshity.top:28103
+lastServer:
 lang:zh_cn
 soundDevice:""
 chatVisibility:0
