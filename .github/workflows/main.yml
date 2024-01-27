@@ -35,10 +35,10 @@ jobs:
           rm -rf .git
           rm README.md
           cd /home/runner/work/MineOptimiz/MineOptimiz/
-          zip -r "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz OptiFabric v1.19.4-Stable-0.9.17.zip" ./*
+          zip -r "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz OptiFabric v1.19.4-Stable-0.9.17-Update.1.zip" ./*
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz OptiFabric v1.19.4-Stable-0.9.17.zip
-          path: "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz OptiFabric v1.19.4-Stable-0.9.17.zip"
+          name: MineOptimiz OptiFabric v1.19.4-Stable-0.9.17-Update.1.zip
+          path: "/home/runner/work/MineOptimiz/MineOptimiz/MineOptimiz OptiFabric v1.19.4-Stable-0.9.17-Update.1.zip"
      
