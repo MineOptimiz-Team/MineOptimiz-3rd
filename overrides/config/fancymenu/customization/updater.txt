@@ -1,0 +1,62 @@
+type = menu
+
+customization-meta {
+  identifier = io.123smallmushroom.update
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openfile;guirequired/Update/Update.bat%btnaction_splitter_fm%
+  x = -122
+  width = 100
+  action = addbutton
+  actionid = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
+  y = -66
+  label = 更新
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = 22
+  width = 100
+  action = addbutton
+  actionid = aca61669-8bcb-4b02-89f9-5f968d74d3e21706345394975
+  y = -66
+  label = 返回
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = 是否打开更新程序并关闭游戏
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -99
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = d0f079c9-013c-4c42-90d6-abc97db9596e1706345448846
+  y = -55
+  alignment = centered
+  height = 40
+}
+

@@ -19,7 +19,7 @@ customization {
   restartbackgroundanimations = true
   buttonaction = opengui;io.123smallmushroom.about%btnaction_splitter_fm%
   x = -76
-  width = 149
+  width = 147
   action = addbutton
   actionid = 67c79b92-f3a0-4402-84d1-6d2ae943bda21706181597448
   y = -63
@@ -32,11 +32,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink;https://github.com/SmallMushroom-offical/MineOptimiz/issues%btnaction_splitter_fm%
-  x = -75
+  x = -76
   width = 147
   action = addbutton
   actionid = 6ad758b8-a6d3-4aa3-81a6-04b302c2aa331706181650101
-  y = 22
+  y = 38
   label = Bug反馈
   height = 20
 }
@@ -50,7 +50,7 @@ customization {
   width = 146
   action = addbutton
   actionid = 7bf2b895-2cb1-48e5-8ca6-e6d07a595ce01706181715449
-  y = 72
+  y = 77
   label = 返回
   height = 20
 }
@@ -60,12 +60,26 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opengui;io.123smallmushroom.engmode%btnaction_splitter_fm%
-  x = -75
-  width = 148
+  x = -76
+  width = 147
   action = addbutton
   actionid = ad9f1553-b6a5-43d5-86d2-95b1bcde31e31706182912577
-  y = -21
+  y = 3
   label = 英语模式/English mode
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;io.123smallmushroom.update%btnaction_splitter_fm%
+  x = -76
+  width = 147
+  action = addbutton
+  actionid = cc55abd7-e2a2-4d91-b890-f08f2ed8f59b1706344029842
+  y = -30
+  label = 更新
   height = 20
 }
 
