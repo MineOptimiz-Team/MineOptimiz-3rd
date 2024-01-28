@@ -28,7 +28,7 @@ if not "%updateversion%"=="3" (
 .\7z\7z.exe x Update.zip -o".\Update"
 echo 解压完成
 set updatepath="%cd%\Update\overrides"
-echo 正在删除旧文件
+echo 正在删除旧文件..
 cd ..
 cd ..
 del /s /q config
@@ -36,12 +36,18 @@ del /s /q CustomSkinLoader
 del /s /q mods
 del /s /q resourcepacks
 echo 删除完成
-echo 正在复制更新文件
+echo 正在复制更新文件...
 echo %updatepath%
 xcopy %updatepath%\config .\config /E /H /I
-xcopy %updatepath%\CustomSkinLoader" .\CustomSkinLoader /E /H /I
+xcopy %updatepath%\CustomSkinLoader .\CustomSkinLoader /E /H /I
 xcopy %updatepath%\mods .\mods /E /H /I
 xcopy %updatepath%\resourcepacks .\resourcepacks /E /H /I
+echo 复制完成！
+echo 正在删除缓存...
+cd /d %updatepath%
+cd ..
+cd ..
+start delcache.bat
 echo 完成！
 echo 请重新启动游戏以查看更改
 pause
