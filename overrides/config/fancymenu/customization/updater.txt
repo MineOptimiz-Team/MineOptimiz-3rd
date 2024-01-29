@@ -1,0 +1,76 @@
+type = menu
+
+customization-meta {
+  identifier = io.123smallmushroom.update
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = 确定要打开更新程序并关闭游戏吗？
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -96
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 90a0ea5d-987e-4003-b10b-742757e269ef1706514608540
+  y = -61
+  alignment = centered
+  height = 40
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openfile;guirequired/Update/Update.bat%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
+  x = -114
+  width = 100
+  action = addbutton
+  actionid = 99c71ae7-82cb-4c88-86ba-006de8401e3d1706515462929
+  y = 56
+  label = 确认
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = 18
+  width = 100
+  action = addbutton
+  actionid = 82fd71a4-4a38-44a9-a816-12cf35966a111706515663631
+  y = 55
+  label = 返回
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openfile;guirequired/Update/about.txt%btnaction_splitter_fm%
+  x = -69
+  width = 140
+  action = addbutton
+  actionid = a83feb3f-72d9-40d9-a780-838af29c2c511706515762309
+  y = 91
+  label = 关于Updater
+  height = 20
+}
+
