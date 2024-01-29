@@ -30,6 +30,10 @@ if not "%updateversion%"=="3" (
   ren *.zip Update.zip
 )
 .\7z\7z.exe x Update.zip -o".\Update"
+if errorlevel 1 (
+    echo 解压失败！
+    exit /b 1
+)
 echo 解压完成
 set updatepath="%cd%\Update\overrides"
 echo 正在删除旧文件..
@@ -46,6 +50,10 @@ xcopy %updatepath%\config .\config /E /H /I
 xcopy %updatepath%\CustomSkinLoader .\CustomSkinLoader /E /H /I
 xcopy %updatepath%\mods .\mods /E /H /I
 xcopy %updatepath%\resourcepacks .\resourcepacks /E /H /I
+if errorlevel 1 (
+    echo 复制失败！
+    exit /b 1
+)
 echo 复制完成！
 echo 正在删除缓存...
 cd /d %updatepath%
