@@ -1,4 +1,4 @@
-MineOptimiz Updater v1.0.1-1.20.1
-不支持更新Updater
-不支持Windows以外的系统！！！
-英语模式下不可用
+锘縈ineOptimiz Updater v1.0.1-1.20.1
+涓嶆敮鎸佹洿鏂癠pdater
+涓嶆敮鎸乄indows浠ュ鐨勭郴缁燂紒锛侊紒
+鑻辫妯″紡涓嬩笉鍙敤
