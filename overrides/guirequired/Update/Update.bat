@@ -12,6 +12,10 @@ if "%updateversion%"=="2" (
   echo 下载Dev更新包中...
   certutil -urlcache -split -f "https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.20.1-Forge-Dev" ".\Update.zip"
 )
+if errorlevel 1 (
+    echo 下载错误！
+    exit /b 1
+)
 if "%updateversion%"=="3" (
   echo 请将更新包拖至此
   set /p updatepack=
