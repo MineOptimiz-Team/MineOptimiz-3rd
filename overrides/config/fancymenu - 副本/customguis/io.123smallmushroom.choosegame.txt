@@ -1,0 +1,3 @@
+identifier = io.123smallmushroom.choosegame
+title = 开始游戏
+allowesc = true

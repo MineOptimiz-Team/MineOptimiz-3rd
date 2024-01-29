@@ -1,0 +1,76 @@
+type = menu
+
+customization-meta {
+  identifier = io.123smallmushroom.choosegame
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_526%btnaction_splitter_fm%
+  x = -76
+  width = 156
+  action = addbutton
+  actionid = 350bcd79-e81c-4ebe-89e0-22f27f43961a1686459089834
+  y = -49
+  label = 单人游戏
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_500%btnaction_splitter_fm%
+  x = -76
+  width = 155
+  action = addbutton
+  actionid = 59737c62-6760-4d82-989f-d56f0a9ddcef1686459113219
+  y = -13
+  label = 多人游戏
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = -76
+  width = 155
+  action = addbutton
+  actionid = 88e401b6-94e6-4dbc-8617-b9dd2227a6b61686459335370
+  y = 60
+  label = 返回菜单
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;com.mojang.realmsclient.RealmsMainScreen%btnaction_splitter_fm%
+  x = -76
+  width = 155
+  action = addbutton
+  actionid = b73f36fc-7e31-4790-aed3-86842b8661631692549145109
+  y = 21
+  label = Minecraft Realms
+  height = 20
+}
+

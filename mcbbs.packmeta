@@ -1,12 +1,12 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "MineOptimiz Forge v1.20.1-Stable-0.1.7",
-  "version": "1.20.1(Forge)-Stable-0.1.7",
+  "name": "MineOptimiz Forge v1.20.1-Beta-0.1.8.001",
+  "version": "1.20.1(Forge)-Beta-0.1.8.001",
   "author": "Small__Mushroom",
   "description": "",
   "fileApi": "",
-  "url": "https://github.com/SmallMushroom-offical/MineOptimiz",
+  "url": "",
   "forceUpdate": false,
   "origin": [],
   "addons": [
@@ -15,8 +15,8 @@
       "version": "1.20.1"
     },
     {
-      "id": "neoforge",
-      "version": "47.1.84"
+      "id": "forge",
+      "version": "47.2.20"
     }
   ],
   "libraries": [],
@@ -389,7 +389,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "042db45dc13e6a485acb5cdafd74c5af13e07e42",
+      "hash": "638063edcd327483772f6c5b5d7e2317b13b38b3",
       "force": true,
       "type": "addon"
     },
@@ -456,6 +456,12 @@
     {
       "path": "config/fancymenu/customguis/io.123smallmushroom.tools.txt",
       "hash": "34671e4129fb2758b4b8d86fe2a09fdcea57e349",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customguis/io.123smallmushroom.update.txt",
+      "hash": "ab7dbfddd9beebf6c08481d2791155884ad264a3",
       "force": true,
       "type": "addon"
     },
@@ -539,7 +545,7 @@
     },
     {
       "path": "config/fancymenu/customization/settings.txt",
-      "hash": "46a58c6263fb81a943f535ccf5f1356f1456eaa5",
+      "hash": "e1813ff19de347220c73ab38491ce914ec1a6fdc",
       "force": true,
       "type": "addon"
     },
@@ -570,6 +576,12 @@
     {
       "path": "config/fancymenu/customization/tools.txt",
       "hash": "62fd3d7eef53aa21f427131dc6a194a05ef6824b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/updater.txt",
+      "hash": "9564c5778a83c376128ef2cbc2a002560191c1b3",
       "force": true,
       "type": "addon"
     },
@@ -905,7 +917,7 @@
     },
     {
       "path": "config/forge-client.toml",
-      "hash": "6f009a62ade4c1f5017f9577e820765a5d201526",
+      "hash": "cfccacfc095ea2f1388bef0a3dfb20e30c24bd38",
       "force": true,
       "type": "addon"
     },
@@ -1001,7 +1013,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "31210b087d7698c996b8e0a9eec77b526a3638da",
+      "hash": "d7cf7988b594c1c93392ca2e5bc85d48a706496f",
       "force": true,
       "type": "addon"
     },
@@ -1385,7 +1397,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "a4daaba2295d4fe0393c4e21245d99b2cf0d4488",
+      "hash": "954f3219cff0e886b3744c6674e4c4ee18d0b55c",
       "force": true,
       "type": "addon"
     },
@@ -1607,7 +1619,7 @@
     },
     {
       "path": "config/vmp.properties",
-      "hash": "83df50a89944c9e73af0940e3604b714536c1f95",
+      "hash": "9cea7d6f95cd6427a7ba5264318f0d2d1446ef9f",
       "force": true,
       "type": "addon"
     },
@@ -1673,7 +1685,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "acd935b4a857402cd0fdd441c8ce6eac8cf1b7ef",
+      "hash": "fabdd7ed5207448ddad5e229734452555b2b5320",
       "force": true,
       "type": "addon"
     },
@@ -1691,7 +1703,7 @@
     },
     {
       "path": "config/xaeroworldmap.txt",
-      "hash": "ffe6beda80c88c1352964c2ebdc004ba199e7a9b",
+      "hash": "fd49df013e1fe77b00587ed2bbaad0195be0b868",
       "force": true,
       "type": "addon"
     },
@@ -2014,6 +2026,36 @@
       "type": "addon"
     },
     {
+      "path": "guirequired/Update/7z/7z.dll",
+      "hash": "01ff945138480705d5934c766906b2c7c1a32b72",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/Update/7z/7z.exe",
+      "hash": "404e21ebbaa29cae6a259c0f7cb80b8d03c9e4c0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/Update/about.txt",
+      "hash": "89654b84e62acfddd1f13f4ca78ac4801951bba1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/Update/delcache.bat",
+      "hash": "dd01824ee773faa2a2264b0cef6b65eb23e51fe2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "guirequired/Update/Update.bat",
+      "hash": "44996438cec834896eb88c08794adb67944a32cd",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "guirequired/wallhaven-e7651w_1600x1024.png",
       "hash": "6dff85c572ae6cdf69c758e92c2fadb72a6cf2e7",
       "force": true,
@@ -2021,7 +2063,7 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "6c109122d705396687e6406520481b6733bc8de4",
+      "hash": "5830815a3fb04bc211f004b4b5c0d7fe5315154a",
       "force": true,
       "type": "addon"
     },

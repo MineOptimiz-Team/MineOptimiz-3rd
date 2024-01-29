@@ -18,7 +18,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opengui;io.123smallmushroom.about%btnaction_splitter_fm%
-  x = -71
+  x = -86
   width = 149
   action = addbutton
   actionid = 67c79b92-f3a0-4402-84d1-6d2ae943bda21706181597448
@@ -32,7 +32,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink;https://github.com/SmallMushroom-offical/MineOptimiz/issues%btnaction_splitter_fm%
-  x = -70
+  x = -84
   width = 147
   action = addbutton
   actionid = 6ad758b8-a6d3-4aa3-81a6-04b302c2aa331706181650101
@@ -46,7 +46,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = closegui%btnaction_splitter_fm%
-  x = -69
+  x = -83
   width = 146
   action = addbutton
   actionid = 7bf2b895-2cb1-48e5-8ca6-e6d07a595ce01706181715449
@@ -60,11 +60,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opengui;io.123smallmushroom.disengmode%btnaction_splitter_fm%
-  x = -71
+  x = -85
   width = 148
   action = addbutton
   actionid = ad9f1553-b6a5-43d5-86d2-95b1bcde31e31706182912577
-  y = -22
+  y = -19
   label = Disable English Mode
   height = 20
 }

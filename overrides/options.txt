@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip"]
+resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"]
 incompatibleResourcePacks:["lambdabettergrass:default"]
 lastServer:47.243.96.125:40284
 lang:zh_cn
@@ -124,6 +124,7 @@ key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k

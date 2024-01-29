@@ -1,0 +1,73 @@
+type = menu
+
+customization-meta {
+  identifier = io.123smallmushroom.quitgame
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 576
+  action = autoscale
+  basewidth = 960
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = 你确定要关闭游戏吗？%n%Are you sure to quit game?
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -50
+  width = 234
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2c943872-60aa-4840-a5c5-c15f3d602db51686460252248
+  y = -65
+  alignment = left
+  height = 56
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = quitgame;null%btnaction_splitter_fm%
+  x = -118
+  width = 100
+  action = addbutton
+  actionid = 8b584d98-8df9-4e7f-972d-c54f31f940e61686460299644
+  y = 65
+  label = 确定(Yes)
+  height = 21
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = 20
+  width = 100
+  action = addbutton
+  actionid = 7934fd2f-6f18-4425-a598-b06fa051b7631686460330936
+  y = 66
+  label = 取消(No)
+  height = 20
+}
+

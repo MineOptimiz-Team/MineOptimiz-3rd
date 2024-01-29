@@ -1,4 +1,4 @@
-ignoreUpdate:172
+ignoreUpdate:173
 updateNotification:true
 allowInternetAccess:true
 differentiateByServerAddress:true
@@ -48,6 +48,7 @@ multipleImagesExport:false
 nightExport:true
 highlightsExport:true
 exportScaleDownSquare:55
+mapWritingDistance:-1
 displayClaims:true
 claimsFillOpacity:46
 claimsBorderOpacity:80
