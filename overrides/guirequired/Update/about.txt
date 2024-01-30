@@ -1,0 +1,4 @@
+﻿MineOptimiz Updater v1.0.3-1.19.4
+不支持更新Updater
+不支持Windows以外的系统！！！
+英语模式下不可用
