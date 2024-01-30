@@ -41,9 +41,9 @@ graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
-renderClouds:"false"
-resourcePacks:["file/UnicodeFontExtend-release.zip","vanilla","fabric","file/VanillaTweaks_r821474.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.19.4.zip","black_icons"]
-incompatibleResourcePacks:["file/UnicodeFontExtend-release.zip"]
+renderClouds:"fast"
+resourcePacks:["file/UnicodeFontExtend-release.zip","vanilla","fabric","file/VanillaTweaks_r821474.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.19.4.zip","file/Masa_汉化资源包V2e [1.12-1.17].zip","black_icons"]
+incompatibleResourcePacks:["file/UnicodeFontExtend-release.zip","file/Masa_汉化资源包V2e [1.12-1.17].zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -120,8 +120,9 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.c
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
-key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
+key_config.chatimage.key:key.keyboard.end
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.ingameime.hotkey:key.keyboard.home
 key_key.jade.config:key.keyboard.keypad.0
@@ -135,12 +136,12 @@ key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
+key_key.mute_microphone:key.keyboard.backslash
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
-key_key.voice_chat:key.keyboard.v
+key_key.voice_chat:key.keyboard.q
 key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_group:key.keyboard.i
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
