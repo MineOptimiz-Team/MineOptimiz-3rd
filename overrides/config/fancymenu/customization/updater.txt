@@ -18,12 +18,12 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opengui;io.123smallmushroom.updatechoose%btnaction_splitter_fm%
-  x = -122
+  x = 21
   width = 100
   action = addbutton
   actionid = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
   y = -66
-  label = 更新
+  label = 使用脚本更新（不推荐）
   height = 20
 }
 
@@ -31,32 +31,27 @@ customization {
   orientation = bottom-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = closegui%btnaction_splitter_fm%
-  x = 22
+  buttonaction = opengui;com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen%btnaction_splitter_fm%
+  x = -117
   width = 100
   action = addbutton
   actionid = aca61669-8bcb-4b02-89f9-5f968d74d3e21706345394975
   y = -66
-  label = 返回
+  label = 使用模组更新
   height = 20
 }
 
 customization {
-  orientation = mid-centered
-  enable_scrolling = true
-  shadow = true
-  scale = 1.0
-  source = 是否打开更新程序并关闭游戏
-  text_border = 0
-  case_mode = normal
-  source_mode = direct
-  line_spacing = 1
-  x = -99
-  width = 200
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = d0f079c9-013c-4c42-90d6-abc97db9596e1706345448846
-  y = -55
-  alignment = centered
-  height = 40
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = 184
+  width = 115
+  action = addbutton
+  actionid = d3f5e7c1-6ef9-4131-b602-d9226bcea5d31706964540895
+  y = 255
+  label = 返回
+  height = 20
 }
 

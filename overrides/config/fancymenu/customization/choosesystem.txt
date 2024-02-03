@@ -56,7 +56,7 @@ customization {
   action = addbutton
   actionid = c07cd94c-4c46-4334-a92a-c890192f83211706955184880
   y = 62
-  label = Linux
+  label = Linux(很多Bug！！！)
   height = 20
 }
 
