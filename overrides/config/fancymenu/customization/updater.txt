@@ -17,7 +17,7 @@ customization {
   orientation = bottom-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openfile;guirequired/Update/Update.bat%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
+  buttonaction = opengui;io.123smallmushroom.updatechoose%btnaction_splitter_fm%
   x = -122
   width = 100
   action = addbutton
