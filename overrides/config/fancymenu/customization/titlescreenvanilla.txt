@@ -55,6 +55,11 @@ customization {
 }
 
 customization {
+  identifier = %id=376298%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-centered
   x = 108
@@ -75,11 +80,6 @@ customization {
   width = 97
   action = resizebutton
   height = 20
-}
-
-customization {
-  identifier = %id=6043461%
-  action = hidebutton
 }
 
 customization {
@@ -214,5 +214,10 @@ customization {
   y = 3
   label = 模组
   height = 20
+}
+
+customization {
+  identifier = %id=604346%
+  action = hidebutton
 }
 
