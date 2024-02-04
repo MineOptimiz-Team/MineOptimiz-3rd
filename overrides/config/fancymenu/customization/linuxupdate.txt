@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = io.123smallmushroom.updatechoose
+  identifier = io.123smallmushroom.linuxupdate
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -18,16 +18,16 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = 请选择你的系统版本
+  source = 请选择一个版本
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -96
+  x = -99
   width = 200
   action = custom_layout_element:fancymenu_customization_item_text
-  actionid = a1601ccf-0b75-4da6-be27-366d833214401706955127651
-  y = -49
+  actionid = b4fdedc8-cabd-4c09-bc0a-c4a9c31a63ce1707042270857
+  y = -48
   alignment = centered
   height = 40
 }
@@ -36,13 +36,13 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openfile;guirequired/Update/Update.bat%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
-  x = -109
-  width = 98
+  buttonaction = runcmd;[linux:./guirequired/Update/update-stable.sh];%btnaction_splitter_fm%
+  x = -110
+  width = 100
   action = addbutton
-  actionid = 766d3fef-070b-4e58-9241-c2f3d9af81261706955168767
-  y = 62
-  label = Windows
+  actionid = 16e853fa-04da-425c-9d7d-b2c1ff906a0f1707042300392
+  y = 47
+  label = 稳定版
   height = 20
 }
 
@@ -50,13 +50,13 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = opengui;io.123smallmushroom.linuxupdate%btnaction_splitter_fm%
-  x = 20
+  buttonaction = runcmd;[linux:./guirequired/Update/update-dev.sh];%btnaction_splitter_fm%
+  x = 9
   width = 100
   action = addbutton
-  actionid = c07cd94c-4c46-4334-a92a-c890192f83211706955184880
-  y = 62
-  label = Linux
+  actionid = e2524ff2-4400-4588-adea-96d82ed679b01707042326524
+  y = 47
+  label = Dev版
   height = 20
 }
 
@@ -65,11 +65,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = closegui%btnaction_splitter_fm%
-  x = -47
+  x = -51
   width = 100
   action = addbutton
-  actionid = 8daa8257-8f8b-4efc-b7d7-5b5842a2d2a81706955814133
-  y = 97
+  actionid = e81f6b44-aa6c-4ddb-8b0b-63b32c634bd41707042390819
+  y = 78
   label = 返回
   height = 20
 }

@@ -23,7 +23,7 @@ customization {
   action = addbutton
   actionid = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
   y = -66
-  label = 使用脚本更新（不推荐）
+  label = 使用脚本更新
   height = 20
 }
 
@@ -37,7 +37,7 @@ customization {
   action = addbutton
   actionid = aca61669-8bcb-4b02-89f9-5f968d74d3e21706345394975
   y = -66
-  label = 使用模组更新
+  label = 使用模组更新（未实现）
   height = 20
 }
 
