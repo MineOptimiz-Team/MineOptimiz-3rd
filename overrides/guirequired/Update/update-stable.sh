@@ -11,12 +11,12 @@ cd ..
 cd ..
 xdg-open ./guirequired/Update/del-old-files.txt
 rm -rf config CustomSkinLoader mods resourcepacks
-xdg-open ./guirequired/Update/copying-new-files.txt
+xdg-open ./guirequired/Update/copy-new-files.txt
 cp -r "./guirequired/Update/Update/overrides/config" ./ || bash error.sh
 cp -r "./guirequired/Update/Update/overrides/CustomSkinLoader" ./ || bash error.sh
 cp -r "./guirequired/Update/Update/overrides/mods" ./ || bash error.sh
 cp -r "./guirequired/Update/Update/overrides/resourcepacks" ./ || bash error.sh
 cd ./guirequired/Update/
 rm Update.zip
-rmdir Update
+rm -rfUpdate
 xdg-open linuxupdatefinish.txt
