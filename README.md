@@ -11,5 +11,5 @@ A Optimiz Modpack of Minecraft
 | 1.19.4(FabricSodium)  | End Of Life                                  |
 | 1.17.1                | Active(not offering some of the new features)|
 | 1.12.2                | Active                                       |
- - MineOptimiz Forge is Powered by Sinytra Connector,it can load forge mods and fabric mods
+ - MineOptimiz Forge is Powered by Sinytra Connector,it can load both forge mods and fabric mods
 
