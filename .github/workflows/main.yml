@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.19.4-OptiFabric-Dev
+      - 1.19.4-OptiFabric-Stable
   workflow_dispatch:
 
 jobs:
@@ -34,10 +34,16 @@ jobs:
           rm -rf .github
           rm -rf .git
           rm README.md
-          zip -r "./MineOptimiz OptiFabric v1.19.4-Dev-${{ steps.date.outputs.date }}.zip" ./*
+          rm Chinese.md
+          cd overrides
+          cd config
+          mv emi.byd emi.css 
+          cd slightguimodifications
+          mv cts.byd cts.groovy
+          zip -r "./MineOptimiz OptiFabric v1.19.4-Stable-0.9.18.zip" ./*
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz OptiFabric v1.19.4-Dev-${{ steps.date.outputs.date }}.zip
-          path: "./MineOptimiz OptiFabric v1.19.4-Dev-${{ steps.date.outputs.date }}.zip"
+          name: MineOptimiz OptiFabric v1.19.4-Stable-0.9.18.zip
+          path: "./MineOptimiz OptiFabric v1.19.4-Stable-0.9.18.zip"
      
