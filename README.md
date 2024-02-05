@@ -1,5 +1,5 @@
 # MineOptimiz
-[Chinese.md]()
+[Chinese.md](https://github.com/SmallMushroom-offical/MineOptimiz/blob/1.19.4-OptiFabric-Stable/Chinese.md)
 ## What is this?
 A Optimiz Modpack of Minecraft
 ## What versions are supported?
