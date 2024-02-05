@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.19.4-OptiFabric-Stable
+      - 1.19.4-OptiFabric-Dev
   workflow_dispatch:
 
 jobs:
