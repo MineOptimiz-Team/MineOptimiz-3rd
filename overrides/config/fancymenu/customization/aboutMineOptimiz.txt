@@ -22,7 +22,7 @@ customization {
   y = -39
   scale = 1.0
   alignment = left
-  value = MineOptimiz Version:1.19.4(OptiFabric)-Stable-0.9.17
+  value = MineOptimiz Version:{"placeholder":"mpuc:current-modpack-version"}
 }
 
 customization {
