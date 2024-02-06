@@ -18,7 +18,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = 请选择一个版本
+  source = 尚未实现在Linux下自动打开脚本%n%请手动打开"游戏目录/Update.sh"
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -36,37 +36,9 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = runcmd;[linux:./guirequired/Update/update-stable.sh];%btnaction_splitter_fm%
-  x = -110
-  width = 100
-  action = addbutton
-  actionid = 16e853fa-04da-425c-9d7d-b2c1ff906a0f1707042300392
-  y = 47
-  label = 稳定版
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = runcmd;[linux:./guirequired/Update/update-dev.sh];%btnaction_splitter_fm%
-  x = 9
-  width = 100
-  action = addbutton
-  actionid = e2524ff2-4400-4588-adea-96d82ed679b01707042326524
-  y = 47
-  label = Dev版
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
   buttonaction = closegui%btnaction_splitter_fm%
-  x = -51
-  width = 100
+  x = -78
+  width = 161
   action = addbutton
   actionid = e81f6b44-aa6c-4ddb-8b0b-63b32c634bd41707042390819
   y = 78
