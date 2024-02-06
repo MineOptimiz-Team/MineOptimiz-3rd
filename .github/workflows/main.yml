@@ -40,6 +40,9 @@ jobs:
           mv emi.byd emi.css 
           cd slightguimodifications
           mv cts.byd cts.groovy
+          cd ..
+          cd ..
+          cd ..
           zip -r "./MineOptimiz OptiFabric v1.19.4-Stable-0.9.18.zip" ./*
       
       - uses: actions/upload-artifact@v2
