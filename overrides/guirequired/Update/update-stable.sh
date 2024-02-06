@@ -1,23 +1,23 @@
 #!/bin/bash
 cd ./guirequired/Update/
-echo "ÕıÔÚÏÂÔØ¸üĞÂ°üÖĞ..."
+echo "æ­£åœ¨ä¸‹è½½æ›´æ–°åŒ…ä¸­..."
 wget https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.19.4-OptiFabric-Stable -O Update.zip || bash error.sh
-echo "ÕıÔÚ½âÑ¹¸üĞÂ°ü..."
+echo "æ­£åœ¨è§£å‹æ›´æ–°åŒ…..."
 unzip Update.zip
 rm Update.zip
 mv *.zip Update.zip || bash error.sh
 unzip Update.zip -d ./Update || bash error.sh
 cd ..
 cd ..
-echo "ÕıÔÚÉ¾³ı¾ÉµÄÎÄ¼ş..."
+echo "æ­£åœ¨åˆ é™¤æ—§çš„æ–‡ä»¶..."
 rm -rf config CustomSkinLoader mods resourcepacks
-echo "ÕıÔÚ¸´ÖÆĞÂµÄÎÄ¼ş..."
+echo "æ­£åœ¨å¤åˆ¶æ–°çš„æ–‡ä»¶..."
 cp -r "./guirequired/Update/Update/overrides/config" ./ || bash error.sh
 cp -r "./guirequired/Update/Update/overrides/CustomSkinLoader" ./ || bash error.sh
 cp -r "./guirequired/Update/Update/overrides/mods" ./ || bash error.sh
 cp -r "./guirequired/Update/Update/overrides/resourcepacks" ./ || bash error.sh
-echo "ÕıÔÚÉ¾³ı»º´æ..."
+echo "æ­£åœ¨åˆ é™¤ç¼“å­˜..."
 cd ./guirequired/Update/
-rm Update.zip || echo "É¾³ıÊ§°Ü£¡ÏÂ´Î¸üĞÂ¿ÉÄÜ»á³öÎÊÌâ£¡"
-rm -rf Update || echo "É¾³ıÊ§°Ü£¡ÏÂ´Î¸üĞÂ¿ÉÄÜ»á³öÎÊÌâ£¡"
+rm Update.zip || echo "åˆ é™¤å¤±è´¥ï¼ä¸‹æ¬¡æ›´æ–°å¯èƒ½ä¼šå‡ºé—®é¢˜ï¼"
+rm -rf Update || echo "åˆ é™¤å¤±è´¥ï¼ä¸‹æ¬¡æ›´æ–°å¯èƒ½ä¼šå‡ºé—®é¢˜ï¼"
 xdg-open linuxupdatefinish.txt
