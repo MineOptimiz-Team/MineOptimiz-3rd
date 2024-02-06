@@ -11,4 +11,5 @@
 | 1.17.1                | 活跃(没有一些新功能)                              |
 | 1.12.2                | 活跃                                            |
  - MineOptimiz Forge 由 Sinytra Connector 提供支持,可同时加载Forge和Fabric模组
+ - 建议使用960x576分辨率
 
