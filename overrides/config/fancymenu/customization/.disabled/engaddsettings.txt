@@ -38,8 +38,3 @@ customization {
   height = 20
 }
 
-customization {
-  identifier = %id=505184%
-  action = hidebutton
-}
-

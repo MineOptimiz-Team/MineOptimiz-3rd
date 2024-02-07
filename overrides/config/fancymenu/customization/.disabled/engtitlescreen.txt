@@ -55,6 +55,16 @@ customization {
 }
 
 customization {
+  identifier = %id=376298%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604346%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-centered
   x = 108
@@ -80,7 +90,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   action = setbuttonlabel
-  value = Options
+  value = Options...
 }
 
 customization {
@@ -108,10 +118,10 @@ customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 201
+  width = 133
   action = deep_customization_element:title_screen_branding
   actionid = 06de3a86-7616-4da3-8891-95d20dac53c11692429698545
-  y = 502
+  y = 276
   height = 10
 }
 
@@ -141,12 +151,12 @@ customization {
   orientation = top-centered
   splash_color = #ffff00
   hidden = false
-  x = 110
+  x = 87
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
   actionid = ca48ff86-5f85-4067-b868-54e8092317d21692429698547
-  y = 103
+  y = 102
   height = 30
 }
 
@@ -195,17 +205,12 @@ customization {
 customization {
   path = guirequired/title.png
   orientation = top-centered
-  x = -127
+  x = -126
   width = 247
   action = addtexture
   actionid = 7b58748b-8f91-460e-80a7-0966f9c2a1b71693402698741
-  y = 33
+  y = 32
   height = 65
-}
-
-customization {
-  identifier = %id=6043461%
-  action = hidebutton
 }
 
 customization {
@@ -216,7 +221,7 @@ customization {
   x = -99
   width = 200
   action = addbutton
-  actionid = 0354af12-7015-468f-b78c-334682348e6b1706255787963
+  actionid = e7506451-d895-4498-ba78-a0344813865a1706255599334
   y = 3
   label = Mods
   height = 20
