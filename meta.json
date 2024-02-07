@@ -3,23 +3,23 @@
     "hotfixesFormat": null,
     "versions": [
       {
-        "id": "OptiFabric-0.9.17",
+        "id": "1.19.4(OptiFabric)-Stable-0.9.17",
         "releasedAt": 0
       },
       {
-        "id": "OptiFabric-0.9.17(Update1)",
+        "id": "1.19.4(OptiFabric)-Stable-0.9.17-Update.1",
         "releasedAt": 1
       },
       {
-        "id": "OptiFabric-0.9.17(Update2)",
+        "id": "1.19.4(OptiFabric)-Stable-0.9.17-Update.2",
         "releasedAt": 2
       },
       {
-        "id": "OptiFabric-0.9.18",
+        "id": "1.19.4(OptiFabric)-Stable-0.9.18",
         "releasedAt": 3
       }
       {
-        "id": "OptiFabric-0.9.19",
+        "id": "1.19.4(OptiFabric)-Stable-0.9.19",
         "releasedAt": 4
       }
     ]
