@@ -60,6 +60,11 @@ customization {
 }
 
 customization {
+  identifier = %id=604346%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-centered
   x = 108
@@ -80,6 +85,12 @@ customization {
   width = 97
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options...
 }
 
 customization {
@@ -159,7 +170,7 @@ customization {
   action = addbutton
   actionid = 223e415f-2d95-403c-9e5a-b55887a704ae1692429744087
   y = -23
-  label = 开始游戏
+  label = Start Game
   height = 20
 }
 
@@ -173,7 +184,7 @@ customization {
   action = addbutton
   actionid = 2becb846-9562-425a-867a-824824a841cf1692431645176
   y = 57
-  label = 退出游戏
+  label = Quit Game
   height = 20
 }
 
@@ -187,7 +198,7 @@ customization {
   action = addbutton
   actionid = ce075673-ccaa-4ef5-839a-1fd1f215048b1692574272388
   y = 30
-  label = 账号切换
+  label = Switch Account
   height = 20
 }
 
@@ -212,12 +223,7 @@ customization {
   action = addbutton
   actionid = e7506451-d895-4498-ba78-a0344813865a1706255599334
   y = 3
-  label = 模组
+  label = Mods
   height = 20
-}
-
-customization {
-  identifier = %id=604346%
-  action = hidebutton
 }
 

@@ -1,0 +1,2 @@
+MineOptimiz OptiFabric
+[The latest stable release](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.19.4-OptiFabric-Stable)

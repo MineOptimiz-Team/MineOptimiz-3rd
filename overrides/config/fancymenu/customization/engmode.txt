@@ -15,34 +15,15 @@ customization {
 
 customization {
   orientation = mid-centered
-  enable_scrolling = true
-  shadow = true
-  scale = 1.0
-  source = Warning!This feature is under testing and%n%may not be stable.%n%Would you like to enable it?
-  text_border = 0
-  case_mode = normal
-  source_mode = direct
-  line_spacing = 1
-  x = -102
-  width = 200
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 61a8112d-cacc-47df-becc-94fc5143cbdd1706183629679
-  y = -53
-  alignment = centered
-  height = 40
-}
-
-customization {
-  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openfile;guirequired/engmode/enable.bat%btnaction_splitter_fm%
-  x = -125
+  buttonaction = enable_layout;engtitlescreen%btnaction_splitter_fm%enable_layout;engstartgame%btnaction_splitter_fm%enable_layout;engaddsettings%btnaction_splitter_fm%enable_layout;engsettings%btnaction_splitter_fm%enable_layout;engupdater%btnaction_splitter_fm%enable_layout;englinuxupdater%btnaction_splitter_fm%enable_layout;engchoosesystem%btnaction_splitter_fm%disable_layout;titlescreenvanilla%btnaction_splitter_fm%disable_layout;startgame%btnaction_splitter_fm%disable_layout;addtesting%btnaction_splitter_fm%disable_layout;settings%btnaction_splitter_fm%disable_layout;updater%btnaction_splitter_fm%disable_layout;linuxupdate%btnaction_splitter_fm%disable_layout;choosesystem%btnaction_splitter_fm%
+  x = -107
   width = 100
   action = addbutton
   actionid = 88727eca-74b0-44b4-9e42-faa2498da28e1706183753708
-  y = 65
-  label = Yes
+  y = 54
+  label = Enable
   height = 20
 }
 
@@ -51,31 +32,26 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = closegui%btnaction_splitter_fm%
-  x = 20
+  x = -49
   width = 100
   action = addbutton
   actionid = 983296c4-578e-4abe-85c4-a10a4780c0701706183778561
-  y = 65
-  label = No,and back.
+  y = 88
+  label = Back
   height = 20
 }
 
 customization {
   orientation = mid-centered
-  enable_scrolling = true
-  shadow = true
-  scale = 1.0
-  source = (Just support windows)
-  text_border = 0
-  case_mode = normal
-  source_mode = direct
-  line_spacing = 1
-  x = -100
-  width = 200
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 2f12c72d-5a1b-4f2f-9321-17f3462b1b511706184571393
-  y = -21
-  alignment = centered
-  height = 40
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = disable_layout;engstartgame%btnaction_splitter_fm%disable_layout;engtitlescreen%btnaction_splitter_fm%disable_layout;engsettings%btnaction_splitter_fm%disable_layout;engaddsettings%btnaction_splitter_fm%disable_layout;engupdater%btnaction_splitter_fm%disable_layout;englinuxupdater%btnaction_splitter_fm%disable_layout;engchoosesystem%btnaction_splitter_fm%enable_layout;titlescreenvanilla%btnaction_splitter_fm%enable_layout;startgame%btnaction_splitter_fm%enable_layout;settings%btnaction_splitter_fm%enable_layout;addtesting%btnaction_splitter_fm%enable_layout;updater%btnaction_splitter_fm%enable_layout;linuxupdate%btnaction_splitter_fm%enable_layout;choosesystem%btnaction_splitter_fm%
+  x = 8
+  width = 100
+  action = addbutton
+  actionid = c82975d3-69d8-4514-861e-6e88160a662f1707287788188
+  y = 54
+  label = Disable
+  height = 20
 }
 
