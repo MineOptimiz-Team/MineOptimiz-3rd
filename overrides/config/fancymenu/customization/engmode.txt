@@ -17,7 +17,7 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = enable_layout;engtitlescreen%btnaction_splitter_fm%enable_layout;engstartgame%btnaction_splitter_fm%enable_layout;engaddsettings%btnaction_splitter_fm%enable_layout;engsettings%btnaction_splitter_fm%disable_layout;titlescreenvanilla%btnaction_splitter_fm%disable_layout;startgame%btnaction_splitter_fm%disable_layout;addtesting%btnaction_splitter_fm%disable_layout;settings%btnaction_splitter_fm%
+  buttonaction = enable_layout;engtitlescreen%btnaction_splitter_fm%enable_layout;engstartgame%btnaction_splitter_fm%enable_layout;engaddsettings%btnaction_splitter_fm%enable_layout;engsettings%btnaction_splitter_fm%enable_layout;engupdater%btnaction_splitter_fm%enable_layout;englinuxupdater%btnaction_splitter_fm%enable_layout;engchoosesystem%btnaction_splitter_fm%disable_layout;titlescreenvanilla%btnaction_splitter_fm%disable_layout;startgame%btnaction_splitter_fm%disable_layout;addtesting%btnaction_splitter_fm%disable_layout;settings%btnaction_splitter_fm%disable_layout;updater%btnaction_splitter_fm%disable_layout;linuxupdate%btnaction_splitter_fm%disable_layout;choosesystem%btnaction_splitter_fm%
   x = -107
   width = 100
   action = addbutton
@@ -45,7 +45,7 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = disable_layout;engstartgame%btnaction_splitter_fm%disable_layout;engtitlescreen%btnaction_splitter_fm%disable_layout;engsettings%btnaction_splitter_fm%disable_layout;engaddsettings%btnaction_splitter_fm%enable_layout;titlescreenvanilla%btnaction_splitter_fm%enable_layout;startgame%btnaction_splitter_fm%enable_layout;settings%btnaction_splitter_fm%enable_layout;addtesting%btnaction_splitter_fm%
+  buttonaction = disable_layout;engstartgame%btnaction_splitter_fm%disable_layout;engtitlescreen%btnaction_splitter_fm%disable_layout;engsettings%btnaction_splitter_fm%disable_layout;engaddsettings%btnaction_splitter_fm%disable_layout;engupdater%btnaction_splitter_fm%disable_layout;englinuxupdater%btnaction_splitter_fm%disable_layout;engchoosesystem%btnaction_splitter_fm%enable_layout;titlescreenvanilla%btnaction_splitter_fm%enable_layout;startgame%btnaction_splitter_fm%enable_layout;settings%btnaction_splitter_fm%enable_layout;addtesting%btnaction_splitter_fm%enable_layout;updater%btnaction_splitter_fm%enable_layout;linuxupdate%btnaction_splitter_fm%enable_layout;choosesystem%btnaction_splitter_fm%
   x = 8
   width = 100
   action = addbutton

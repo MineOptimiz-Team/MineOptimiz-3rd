@@ -18,11 +18,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opengui;io.123smallmushroom.about%btnaction_splitter_fm%
-  x = -74
+  x = -67
   width = 143
   action = addbutton
   actionid = 67c79b92-f3a0-4402-84d1-6d2ae943bda21706181597448
-  y = -56
+  y = -75
   label = About MineOptimiz...
   height = 21
 }
@@ -32,11 +32,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink;https://github.com/SmallMushroom-offical/MineOptimiz/issues%btnaction_splitter_fm%
-  x = -75
-  width = 145
+  x = -66
+  width = 142
   action = addbutton
   actionid = 6ad758b8-a6d3-4aa3-81a6-04b302c2aa331706181650101
-  y = 33
+  y = 39
   label = Bug Feedback
   height = 20
 }
@@ -46,8 +46,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = closegui%btnaction_splitter_fm%
-  x = -75
-  width = 146
+  x = -66
+  width = 142
   action = addbutton
   actionid = 7bf2b895-2cb1-48e5-8ca6-e6d07a595ce01706181715449
   y = 77
@@ -60,12 +60,26 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = opengui;io.123smallmushroom.engmode%btnaction_splitter_fm%
-  x = -74
-  width = 144
+  x = -66
+  width = 142
   action = addbutton
   actionid = ad9f1553-b6a5-43d5-86d2-95b1bcde31e31706182912577
-  y = -12
+  y = 0
   label = English mode
   height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;io.123smallmushroom.update%btnaction_splitter_fm%
+  x = 174
+  width = 142
+  action = addbutton
+  actionid = 2a86c860-1fbf-44ea-b44c-4fae97dd21c21707293256765
+  y = 107
+  label = Update
+  height = 21
 }
 
