@@ -4,7 +4,7 @@
   "modpackName": "MineOptimiz OptiFabric",
   "modpackAuthor": "Small__Mushroom",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz/blob/1.19.4-OptiFabric-Stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz/1.19.4-OptiFabric-Stable/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
