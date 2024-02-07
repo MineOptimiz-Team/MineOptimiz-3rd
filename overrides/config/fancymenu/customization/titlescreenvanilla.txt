@@ -42,11 +42,6 @@ customization {
 }
 
 customization {
-  identifier = %id=376298%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   action = hidebutton
 }
@@ -57,6 +52,11 @@ customization {
   x = 108
   action = movebutton
   y = 30
+}
+
+customization {
+  identifier = %id=376298%
+  action = hidebutton
 }
 
 customization {
@@ -107,7 +107,7 @@ customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 122
+  width = 133
   action = deep_customization_element:title_screen_branding
   actionid = 06de3a86-7616-4da3-8891-95d20dac53c11692429698545
   y = 276
@@ -217,7 +217,7 @@ customization {
 }
 
 customization {
-  identifier = %id=6043461%
+  identifier = %id=604346%
   action = hidebutton
 }
 
