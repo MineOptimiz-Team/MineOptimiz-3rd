@@ -9,7 +9,7 @@
     "version": "1.20.1",
     "modLoaders": [
       {
-        "id": "forge-47.2.20",
+        "id": "neoforge-47.1.100",
         "primary": true
       }
     ]

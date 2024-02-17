@@ -15,8 +15,8 @@
       "version": "1.20.1"
     },
     {
-      "id": "forge",
-      "version": "47.2.20"
+      "id": "neoforge",
+      "version": "47.1.100"
     }
   ],
   "libraries": [],
