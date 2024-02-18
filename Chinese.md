@@ -10,6 +10,9 @@
 | 1.19.4(FabricSodium)  | 结束支持                                        |
 | 1.17.1                | 活跃(没有一些新功能)                              |
 | 1.12.2                | 活跃                                            |
- - MineOptimiz Forge 由 Sinytra Connector 提供支持,可同时加载Forge和Fabric模组
+## 下载
+ - 稳定版：在[Github Release](https://github.com/SmallMushroom-offical/MineOptimiz/releases)下载
+ - 测试版：目前只有[1.19.4-(OptiFabric)](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.19.4-OptiFabric-Dev)以及[1.20.1(Forge)](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.20.1-Forge-Dev)可供下载
+ ## 注意事项
  - 建议使用960x576分辨率
 
