@@ -83,6 +83,12 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options...
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-centered
   x = -125
@@ -147,7 +153,7 @@ customization {
   x = 140
   width = 200
   action = deep_customization_element:title_screen_forge_top
-  actionid = fc6f4396-4ca5-47b5-b780-afdcbdd870001708187790304
+  actionid = a1cd96a7-5c70-481f-92a7-a42a75bc63e11708187817738
   y = 4
   height = 19
 }
@@ -158,7 +164,7 @@ customization {
   x = 311
   width = 168
   action = deep_customization_element:title_screen_forge_copyright
-  actionid = d568c205-1806-4cd5-869d-878afb64f0a21708187790305
+  actionid = 0f0ccf78-c33a-454d-b029-aed4aed526801708187817738
   y = 268
   height = 9
 }
@@ -173,7 +179,7 @@ customization {
   action = addbutton
   actionid = 223e415f-2d95-403c-9e5a-b55887a704ae1692429744087
   y = -23
-  label = 开始游戏
+  label = Start Game
   height = 20
 }
 
@@ -187,7 +193,7 @@ customization {
   action = addbutton
   actionid = 2becb846-9562-425a-867a-824824a841cf1692431645176
   y = 57
-  label = 退出游戏
+  label = Quit Game
   height = 20
 }
 
@@ -201,7 +207,7 @@ customization {
   action = addbutton
   actionid = ce075673-ccaa-4ef5-839a-1fd1f215048b1692574272388
   y = 30
-  label = 账号切换
+  label = Switch Account
   height = 20
 }
 
@@ -226,7 +232,7 @@ customization {
   action = addbutton
   actionid = e7506451-d895-4498-ba78-a0344813865a1706255599334
   y = 3
-  label = 模组
+  label = Mods
   height = 20
 }
 

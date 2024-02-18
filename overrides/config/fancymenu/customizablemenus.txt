@@ -1,11 +1,14 @@
 type = customizablemenus
 
-net.minecraft.client.gui.screens.TitleScreen {
+net.minecraft.class_429 {
 }
 
-net.minecraft.client.gui.screens.OptionsScreen {
+net.minecraft.class_433 {
 }
 
-net.minecraft.client.gui.screens.PauseScreen {
+net.minecraft.class_442 {
+}
+
+com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
 }
 
