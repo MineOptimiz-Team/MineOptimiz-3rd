@@ -34,7 +34,7 @@ jobs:
           rm -rf .github
           rm -rf .git
           rm README.md
-          rm Chinese.md
+          rm English.md
           cd overrides
           cd config
           mv emi.byd emi.css 
