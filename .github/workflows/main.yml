@@ -3,12 +3,12 @@ name: Build Modpack
 on:
   push:
     branches:
-      - 1.20.1
+      - 1.20.1-Dev
   workflow_dispatch:
 
 jobs:
   Build-Modpack:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.0.4
     steps:
       - uses: actions/checkout@v2
           
