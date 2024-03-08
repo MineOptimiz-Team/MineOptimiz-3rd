@@ -1,10 +1,10 @@
  {
   "schemaVersion": 7,
-  "currentVersion": "1.20.1(Forge)-Beta-0.1.8",
-  "modpackName": "MineOptimiz OptiFabric",
+  "currentVersion": "1.20.1-Beta-0.10.2",
+  "modpackName": "MineOptimiz",
   "modpackAuthor": "Small__Mushroom",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz/1.20.1-Forge-Dev/",
+  "updateCheckerId": "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz/1.20.1-Dev/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
