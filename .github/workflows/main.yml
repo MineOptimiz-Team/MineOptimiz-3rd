@@ -8,7 +8,7 @@ on:
 
 jobs:
   Build-Modpack:
-    runs-on: ubuntu-22.0.4
+    runs-on: ubuntu
     steps:
       - uses: actions/checkout@v2
           
