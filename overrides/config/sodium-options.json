@@ -2,12 +2,12 @@
   "quality": {
     "weather_quality": "FAST",
     "leaves_quality": "FAST",
-    "enable_vignette": false
+    "enable_vignette": true
   },
   "advanced": {
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": true,
-    "cpu_render_ahead_limit": 8
+    "cpu_render_ahead_limit": 6
   },
   "performance": {
     "chunk_builder_threads": 1,
@@ -19,6 +19,6 @@
     "use_no_error_g_l_context": true
   },
   "notifications": {
-    "hide_donation_button": true
+    "hide_donation_button": false
   }
 }

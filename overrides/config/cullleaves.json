@@ -1,4 +1,4 @@
 {
   "enabled": true,
-  "sodiumBlockFaceCullingFix": true
+  "cullRoots": true
 }

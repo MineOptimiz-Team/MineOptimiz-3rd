@@ -1,0 +1,48 @@
+type = menu
+
+customization-meta {
+  identifier = io.123smallmushroom.linuxupdate
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = 尚未实现在Linux下自动打开脚本%n%请手动打开"游戏目录/Update.sh"
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -99
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = b4fdedc8-cabd-4c09-bc0a-c4a9c31a63ce1707042270857
+  y = -48
+  alignment = centered
+  height = 40
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = -78
+  width = 161
+  action = addbutton
+  actionid = e81f6b44-aa6c-4ddb-8b0b-63b32c634bd41707042390819
+  y = 78
+  label = 返回
+  height = 20
+}
+

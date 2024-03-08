@@ -1,0 +1,3 @@
+identifier = io.123smallmushroom.serverad
+title = 
+allowesc = true

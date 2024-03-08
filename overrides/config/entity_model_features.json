@@ -1,8 +1,13 @@
 {
-  "printModelCreationInfoToLog": false,
-  "printAllMaths": false,
-  "renderCustomModelsGreen": false,
-  "vanillaModelRenderMode": "Off",
-  "mathFunctionChoice": "JavaMath",
-  "attemptToCopyVanillaModelIntoMissingModelPart": false
+  "logModelCreationData": false,
+  "debugOnRightClick": false,
+  "renderModeChoice": "NORMAL",
+  "vanillaModelHologramRenderMode_2": "OFF",
+  "attemptRevertingEntityModelsAlteredByAnotherMod": true,
+  "modelExportMode": "NONE",
+  "attemptPhysicsModPatch_2": "CUSTOM",
+  "modelUpdateFrequency": "Average",
+  "allowEBEModConfigModify": true,
+  "animationLODDistance": 20,
+  "retainDetailOnLowFps": true
 }

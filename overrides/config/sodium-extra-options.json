@@ -19,7 +19,7 @@
     "sky": true,
     "sun_moon": true,
     "stars": true,
-    "rain_snow": false,
+    "rain_snow": true,
     "biome_colors": true,
     "sky_colors": true
   },
@@ -42,25 +42,23 @@
   },
   "extra_settings": {
     "overlay_corner": "TOP_LEFT",
-    "text_contrast": "NONE",
+    "text_contrast": "SHADOW",
     "show_fps": true,
     "show_f_p_s_extended": true,
     "show_coords": false,
-    "reduce_resolution_on_mac": true,
+    "reduce_resolution_on_mac": false,
     "use_adaptive_sync": false,
     "cloud_height": 300,
+    "cloud_distance": 100,
     "toasts": true,
     "advancement_toast": true,
     "recipe_toast": true,
     "system_toast": true,
     "tutorial_toast": true,
-    "instant_sneak": true,
-    "prevent_shaders": false,
+    "instant_sneak": false,
+    "prevent_shaders": true,
     "steady_debug_hud": true,
     "steady_debug_hud_refresh_interval": 1
-  },
-  "notification_settings": {
-    "hide_r_s_o_recommendation": false
   },
   "super_secret_settings": {
     "fetch_sodium_extra_crowdin_translations": false,

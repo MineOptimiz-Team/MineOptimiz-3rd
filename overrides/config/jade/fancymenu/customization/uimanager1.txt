@@ -1,0 +1,76 @@
+type = menu
+
+customization-meta {
+  identifier = io.123smallmushroom.uimanager1
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = 不喜欢MineOptimiz的主菜单？%n%您可以将其禁用！
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 142
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 8372300b-86a0-4e3f-8d3b-95a70af1445e1706965436067
+  y = 81
+  alignment = centered
+  height = 40
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = enable_layout;titlescreenvanilla%btnaction_splitter_fm%
+  x = -108
+  width = 100
+  action = addbutton
+  actionid = d0f9c219-5b87-4d95-bb33-8a9a324d6bb21706965596980
+  y = 53
+  label = 启用
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = disable_layout;titlescreenvanilla%btnaction_splitter_fm%
+  x = 5
+  width = 101
+  action = addbutton
+  actionid = 1f7d09c6-d73d-4664-ac65-d37ed95890941706965656416
+  y = 53
+  label = 禁用
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = -49
+  width = 100
+  action = addbutton
+  actionid = 467be5eb-a2ea-46b0-aab1-c2b3384252031706965679009
+  y = 87
+  label = 返回
+  height = 20
+}
+

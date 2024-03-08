@@ -1,0 +1,76 @@
+type = menu
+
+customization-meta {
+  identifier = io.123smallmushroom.updatechoose
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Choose your system
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -96
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = a1601ccf-0b75-4da6-be27-366d833214401706955127651
+  y = -49
+  alignment = centered
+  height = 40
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openfile;guirequired/Update/Update.bat%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
+  x = -109
+  width = 98
+  action = addbutton
+  actionid = 766d3fef-070b-4e58-9241-c2f3d9af81261706955168767
+  y = 62
+  label = Windows
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;io.123smallmushroom.linuxupdate%btnaction_splitter_fm%
+  x = 20
+  width = 100
+  action = addbutton
+  actionid = c07cd94c-4c46-4334-a92a-c890192f83211706955184880
+  y = 62
+  label = Linux
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = -44
+  width = 100
+  action = addbutton
+  actionid = 8daa8257-8f8b-4efc-b7d7-5b5842a2d2a81706955814133
+  y = 97
+  label = Back
+  height = 20
+}
+

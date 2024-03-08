@@ -1,10 +1,10 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "MineOptimiz v1.20.1-PreRelease-0.10.0-build.043",
-  "version": "PreRelease-0.10.0-build.043",
-  "author": "smallmushroomovo",
-  "description": "将Xaeros Map替换为Fair-Play版本\n添加Xaeros World Map\n添加Dash Loader",
+  "name": "MineOptimiz Quilt v1.20.1-Beta-0.10.2",
+  "version": "Beta-0.10.2",
+  "author": "Small__Mushroom",
+  "description": "",
   "fileApi": "",
   "url": "",
   "forceUpdate": false,
@@ -15,8 +15,8 @@
       "version": "1.20.1"
     },
     {
-      "id": "fabric",
-      "version": "0.14.22"
+      "id": "quilt",
+      "version": "0.24.0"
     }
   ],
   "libraries": [],

@@ -3,7 +3,7 @@
   "count_libraries": true,
   "compact_list": false,
   "count_children": true,
-  "mods_button_style": "icon",
+  "mods_button_style": "classic",
   "game_menu_button_style": "replace_bugs",
   "count_hidden_mods": true,
   "mod_count_location": "title_screen",

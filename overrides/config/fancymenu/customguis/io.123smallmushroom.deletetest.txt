@@ -1,3 +1,0 @@
-identifier = io.123smallmushroom.deletetest
-title = 已被删除的功能
-allowesc = true

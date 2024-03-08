@@ -1,0 +1,57 @@
+type = menu
+
+customization-meta {
+  identifier = io.123smallmushroom.uimanager
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;io.123smallmushroom.uimanager1%btnaction_splitter_fm%
+  x = -64
+  width = 127
+  action = addbutton
+  actionid = 431e8743-67a9-4aca-a31e-95260a79571f1706965022364
+  y = -57
+  label = 主菜单
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;io.123smallmushroom.uimanager2%btnaction_splitter_fm%
+  x = -64
+  width = 127
+  action = addbutton
+  actionid = 23e34583-4851-4755-9147-967c4461aede1706965054958
+  y = -16
+  label = MineOptimiz设置
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = -63
+  width = 125
+  action = addbutton
+  actionid = 00582438-aec5-4901-b175-d4b6ea8cb8a91706965091264
+  y = 52
+  label = 返回
+  height = 20
+}
+

@@ -1,0 +1,62 @@
+{
+  "version": "14.19.1",
+  "buildNumber": 26,
+  "loadlist": [
+    {
+      "name": "LocalSkin",
+      "type": "Legacy",
+      "checkPNG": true,
+      "skin": "LocalSkin/skins/{USERNAME}.png",
+      "model": "auto",
+      "cape": "LocalSkin/capes/{USERNAME}.png",
+      "elytra": "LocalSkin/elytras/{USERNAME}.png"
+    },
+    {
+      "name": "MinecraftCapes",
+      "type": "MinecraftCapesAPI",
+      "root": "https://api.minecraftcapes.net/profile/"
+    },
+    {
+      "name": "Mojang",
+      "type": "MojangAPI",
+      "apiRoot": "https://api.mojang.com/",
+      "sessionRoot": "https://sessionserver.mojang.com/"
+    },
+    {
+      "name": "LittleSkin",
+      "type": "CustomSkinAPI",
+      "root": "https://littleskin.cn/csl/",
+      "checkPNG": true,
+      "skin": "https://littleskin.cn/skin/{USERNAME}.png",
+      "model": "auto",
+      "cape": "https://littleskin.cn/cape/{USERNAME}.png",
+      "elytra": "LocalSkin/elytras/{USERNAME}.png"
+    },
+    {
+      "name": "ͳһͨ��֤",
+      "type": "CustomSkinAPI",
+      "root": "https://auth2.nide8.com:233/89a13930ff3711eb9cdc00163e095b49/csl/"
+    },
+    {
+      "name": "VlssuSkin",
+      "type": "CustomSkinAPI",
+      "root": "https://skin.vlssu.com/csl/"
+    },
+    {
+      "name": "Minecraft Skin",
+      "type": "CustomSkinAPI",
+      "root": "https://www.mcpeau.com/csl/"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "forceLoadAllTextures": true,
+  "enableCape": true,
+  "threadPoolSize": 3,
+  "enableLogStdOut": false,
+  "cacheExpiry": 30,
+  "forceUpdateSkull": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": true,
+  "forceDisableCache": true
+}

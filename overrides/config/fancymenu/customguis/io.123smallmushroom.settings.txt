@@ -1,0 +1,3 @@
+identifier = io.123smallmushroom.settings
+title = MineOptimiz设置
+allowesc = true

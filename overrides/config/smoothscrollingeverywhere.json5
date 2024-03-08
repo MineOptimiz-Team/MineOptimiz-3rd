@@ -1,0 +1,6 @@
+{
+	"easingMethod": "LINEAR",
+	"scrollDuration": 600,
+	"scrollStep": 19.0,
+	"bounceBackMultiplier": 0.24
+}

@@ -1,0 +1,40 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_429
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345304%
+  action = hidebutton
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = vanillabtn:345232
+  buttonaction = opengui;io.123smallmushroom.settings%btnaction_splitter_fm%
+  x = 0
+  width = 150
+  action = addbutton
+  actionid = e3869ba6-e9f0-49b1-aa7e-f271b5971f891692574637340
+  y = 72
+  label = MineOptimiz Settings
+  height = 20
+}
+
