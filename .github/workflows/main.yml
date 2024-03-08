@@ -37,10 +37,10 @@ jobs:
           cd overrides
           mv h.txt options.txt
           cd ..
-          zip -r ./MineOptimiz Quilt 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip ./*
+          zip -r "./MineOptimiz Quilt 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip" ./*
       
       - uses: actions/upload-artifact@v2
         with:
           name: MineOptimiz Quilt 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip
-          path: ./MineOptimiz Quilt 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip
+          path: "./MineOptimiz Quilt 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip"
      
