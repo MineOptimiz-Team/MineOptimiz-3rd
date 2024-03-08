@@ -29,7 +29,7 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M')"
       
-      - name: Build Standard Modpack
+      - name: Package Modpack
         run: |
           rm -rf .github
           rm -rf .git
@@ -37,11 +37,10 @@ jobs:
           cd overrides
           mv h.txt options.txt
           cd ..
-          cd /home/runner/work/MineOptimiz/MineOptimiz/
-          zip -r /home/runner/work/MineOptimiz/MineOptimiz/v1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip ./*
+          zip -r ./MineOptimiz Quilt 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip ./*
       
       - uses: actions/upload-artifact@v2
         with:
-          name: v1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip
-          path: /home/runner/work/MineOptimiz/MineOptimiz/v1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip
+          name: MineOptimiz Quilt 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip
+          path: ./MineOptimiz Quilt 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip
      
