@@ -46,7 +46,7 @@ customization {
   y = -13
   scale = 1.0
   alignment = left
-  value = ModLoader:Fabric Loader %version:fabricloader%
+  value = ModLoader:NeoForge %version:forge%
 }
 
 customization {
