@@ -5,7 +5,7 @@ A Optimiz Modpack of Minecraft
 | Version               | Support                                      | 
 |-----------------------|----------------------------------------------| 
 | 1.20.1(Forge)         | Active                                       | 
-| 1.20.1(Fabric)        | End Of Life                                  | 
+| 1.20.1(Fabric/Quilt)  | Active                                       | 
 | 1.19.4(OptiFabric)    | Active(LTS)                                  |
 | 1.19.4(FabricSodium)  | End Of Life                                  |
 | 1.17.1                | Active(not offering some of the new features)|
