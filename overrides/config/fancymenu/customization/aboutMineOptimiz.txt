@@ -17,8 +17,8 @@ customization {
   orientation = mid-centered
   shadow = false
   x = -69
-  actionid = 98ba340c-4ad2-4817-9079-ca24db7edecc1705820353264
   action = addtext
+  actionid = 98ba340c-4ad2-4817-9079-ca24db7edecc1705820353264
   y = -39
   scale = 1.0
   alignment = left
@@ -29,8 +29,8 @@ customization {
   orientation = mid-centered
   shadow = false
   x = -69
-  actionid = d30455d5-2e7f-4f05-9b92-08f0daa38f291705820480550
   action = addtext
+  actionid = d30455d5-2e7f-4f05-9b92-08f0daa38f291705820480550
   y = -25
   scale = 1.0
   alignment = left
@@ -41,8 +41,8 @@ customization {
   orientation = mid-centered
   shadow = false
   x = -69
-  actionid = 0f962544-09f3-4461-a070-3d3f370cb5211705820512195
   action = addtext
+  actionid = 0f962544-09f3-4461-a070-3d3f370cb5211705820512195
   y = -13
   scale = 1.0
   alignment = left
@@ -53,8 +53,8 @@ customization {
   orientation = mid-centered
   shadow = false
   x = -69
-  actionid = 8927dcec-4f3d-4467-a96b-7614bf8601ce1705820562463
   action = addtext
+  actionid = 8927dcec-4f3d-4467-a96b-7614bf8601ce1705820562463
   y = 11
   scale = 1.0
   alignment = left
@@ -79,11 +79,11 @@ customization {
   orientation = mid-centered
   shadow = false
   x = -69
-  actionid = 1be0148f-5af3-4753-99c1-bb805c05b2bd1705829854156
   action = addtext
+  actionid = 1be0148f-5af3-4753-99c1-bb805c05b2bd1705829854156
   y = -1
   scale = 1.0
   alignment = left
-  value = OptiFabric Version:%version:optifabric%
+  value = Sinytra Connector Version:%version:connectormod%
 }
 
