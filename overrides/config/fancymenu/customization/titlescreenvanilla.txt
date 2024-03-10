@@ -19,43 +19,12 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = mid-centered
-  x = 3
-  action = movebutton
-  y = 60
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  orientation = mid-centered
-  x = -99
-  action = movebutton
-  y = 29
-}
-
-customization {
   identifier = %id=604346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = hidebutton
 }
 
@@ -83,6 +52,19 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 3
+  action = movebutton
+  y = 60
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-centered
   x = -125
@@ -91,8 +73,26 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = -99
+  action = movebutton
+  y = 29
 }
 
 customization {
@@ -228,5 +228,10 @@ customization {
   y = 3
   label = 模组
   height = 20
+}
+
+customization {
+  identifier = %id=376298%
+  action = hidebutton
 }
 
