@@ -45,7 +45,7 @@ biomeBlendRadius:2
 renderClouds:"false"
 resourcePacks:["vanilla","black_icons","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","lambdabettergrass/default","presencefootsteps/default_sound_pack","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"]
 incompatibleResourcePacks:[]
-lastServer:ganshity.lcf.icu:28103
+lastServer:
 lang:zh_cn
 soundDevice:""
 chatVisibility:0
