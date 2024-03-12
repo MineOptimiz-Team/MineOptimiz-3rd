@@ -1,7 +1,7 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "MineOptimiz Quilt v1.20.1-Beta-0.10.2",
+  "name": "MineOptimiz Fabric v1.20.1-Beta-0.10.2",
   "version": "Beta-0.10.2",
   "author": "Small__Mushroom",
   "description": "",
@@ -15,8 +15,8 @@
       "version": "1.20.1"
     },
     {
-      "id": "quilt",
-      "version": "0.24.0"
+      "id": "fabric",
+      "version": "0.15.7"
     }
   ],
   "libraries": [],
@@ -1018,13 +1018,13 @@
       "type": "addon"
     },
     {
-      "path": "config/quilt/qsl/registry.toml",
+      "path": "config/Fabric/qsl/registry.toml",
       "hash": "54d2cd6ac0dbdf2440ba9470b233b01311e835b2",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "config/quilt-loader.txt",
+      "path": "config/Fabric-loader.txt",
       "hash": "a280dd5610b8015710084864c0fd96fcada3e872",
       "force": true,
       "type": "addon"

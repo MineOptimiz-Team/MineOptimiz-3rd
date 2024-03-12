@@ -1,1 +1,1 @@
-{"dependencies":{"minecraft":"1.20.1","quilt-loader":"0.24.0"},"files":[],"formatVersion":1,"game":"minecraft","name":"MineOptimiz Quilt v1.20.1-Beta-0.10.2","summary":"","versionId":"Beta-0.10.2"}
+{"dependencies":{"minecraft":"1.20.1","fabric-loader":"0.15.7"},"files":[],"formatVersion":1,"game":"minecraft","name":"MineOptimiz Fabric v1.20.1-Beta-0.10.2","summary":"","versionId":"Beta-0.10.2"}
