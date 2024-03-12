@@ -75,15 +75,3 @@ customization {
   height = 20
 }
 
-customization {
-  orientation = mid-centered
-  shadow = false
-  x = -69
-  actionid = 1be0148f-5af3-4753-99c1-bb805c05b2bd1705829854156
-  action = addtext
-  y = -1
-  scale = 1.0
-  alignment = left
-  value = OptiFabric Version:%version:optifabric%
-}
-
