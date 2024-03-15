@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "MineOptimiz Fabric 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}",
-  "version": "Dev-buildtime.${{ steps.date.outputs.date }}",
+  "name": "MineOptimiz Fabric 1.20.1-Dev-0.10.2",
+  "version": "Dev-0.10.2",
   "author": "Small__Mushroom",
   "description": "",
   "fileApi": "",
