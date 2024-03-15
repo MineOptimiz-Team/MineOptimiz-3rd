@@ -1,7 +1,7 @@
 #!/bin/bash
 cd ./guirequired/Update/
 echo "正在下载更新包中..."
-wget https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.20.1-Forge-Stable -O Update.zip || exit 1
+wget https://nightly.link/SmallMushroom-offical/MineOptimiz-Next/workflows/main/1.20.1-Forge-Stable -O Update.zip || exit 1
 echo "正在解压更新包..."
 unzip Update.zip
 rm Update.zip

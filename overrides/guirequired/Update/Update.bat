@@ -6,11 +6,11 @@ echo 3.手动选择zip更新包（如果是Github Actions打包的更新包则需先解压一次）
 set /p updateversion=
 if "%updateversion%"=="1" (
   echo 下载Stable更新包中...
-  certutil -urlcache -split -f https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.19.4-OptiFabric-Stable ".\Update.zip"
+  certutil -urlcache -split -f https://nightly.link/SmallMushroom-offical/MineOptimiz-Next/workflows/main/1.20.1-Forge-Stable ".\Update.zip"
 )
 if "%updateversion%"=="2" (
   echo 下载Dev更新包中...
-  certutil -urlcache -split -f "https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.19.4-OptiFabric-Dev" ".\Update.zip"
+  certutil -urlcache -split -f "https://nightly.link/SmallMushroom-offical/MineOptimiz-Next/workflows/main/1.20.1-Forge-Dev" ".\Update.zip"
 )
 if errorlevel 1 (
   echo 下载失败！
