@@ -44,7 +44,7 @@ biomeBlendRadius:2
 renderClouds:"false"
 resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"]
 incompatibleResourcePacks:["lambdabettergrass:default"]
-lastServer:47.243.96.125:40284
+lastServer:
 lang:zh_cn
 soundDevice:""
 chatVisibility:0
@@ -178,7 +178,6 @@ key_gui.xaero_minimap_settings:key.keyboard.y
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.ingameime.hotkey:key.keyboard.home
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
