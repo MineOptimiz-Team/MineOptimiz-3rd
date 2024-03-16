@@ -1,5 +1,5 @@
 @echo off
-cd /d %cd%\guirequired\Update
+cd /d %cd%\config\fancymenu\assets\Update
 echo 1.最新稳定版
 echo 2.最新Dev版
 echo 3.手动选择zip更新包（如果是Github Actions打包的更新包则需先解压一次）
@@ -47,7 +47,6 @@ del /s /q mods
 del /s /q resourcepacks
 echo 删除完成
 echo 正在复制更新文件...
-echo %updatepath%
 xcopy %updatepath%\config .\config /E /H /I
 xcopy %updatepath%\CustomSkinLoader .\CustomSkinLoader /E /H /I
 xcopy %updatepath%\mods .\mods /E /H /I
