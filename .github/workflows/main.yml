@@ -1,4 +1,4 @@
-name: Build Modpack
+name: Package Modpack
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Build-Modpack:
+  Package-Modpack:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
