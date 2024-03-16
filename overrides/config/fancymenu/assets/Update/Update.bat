@@ -1,4 +1,5 @@
 @echo off
+mklink /j guirequired ".\config\fancymenu\assets"
 cd /d %cd%\guirequired\Update
 echo 1.最新稳定版
 echo 2.最新Dev版
@@ -6,7 +7,7 @@ echo 3.手动选择zip更新包（如果是Github Actions打包的更新包则需先解压一次）
 set /p updateversion=
 if "%updateversion%"=="1" (
   echo 下载Stable更新包中...
-  certutil -urlcache -split -f https://nightly.link/SmallMushroom-offical/MineOptimiz-Next/workflows/main/1.20.1 ".\Update.zip"
+  certutil -urlcache -split -f "https://nightly.link/SmallMushroom-offical/MineOptimiz-Next/workflows/main/1.20.1" ".\Update.zip"
 )
 if "%updateversion%"=="2" (
   echo 下载Dev更新包中...
@@ -41,7 +42,18 @@ set updatepath="%cd%\Update\overrides"
 echo 正在删除旧文件..
 cd ..
 cd ..
-del /s /q config
+cd config
+cd fancymenu
+cd assets
+for /D %i in (*) do if /I not "%i"=="Update" rd /S /Q "%i"
+for %i in (*) do if /I not "%i"=="Update" del /Q "%i"
+cd ..
+for /D %i in (*) do if /I not "%i"=="assets" rd /S /Q "%i"
+for %i in (*) do if /I not "%i"=="assets" del /Q "%i"
+cd ..
+for /D %i in (*) do if /I not "%i"=="fancymenu" rd /S /Q "%i"
+for %i in (*) do if /I not "%i"=="fancymenu" del /Q "%i"
+cd ..
 del /s /q CustomSkinLoader
 del /s /q mods
 del /s /q resourcepacks
@@ -59,6 +71,7 @@ if errorlevel 1 (
 )
 echo 复制完成！
 echo 正在删除缓存...
+del /s /q ".\guirequired"
 cd /d %updatepath%
 cd ..
 cd ..
