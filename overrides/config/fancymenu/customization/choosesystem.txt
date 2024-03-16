@@ -3,13 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.updatechoose
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710515396690
+  last_edited_time = 1710550111342
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:f42c8cda-80be-4ef2-9dd2-42d538607009-1710515396690] = [groups:][instances:]
+  [loading_requirement_container_meta:a825811b-eb73-4a6e-9e7a-3674a837de76-1710549998414] = [groups:][instances:8e5cdf6f-fe33-405a-8ba1-08a1017e1fd9-1710550100366;]
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:8e5cdf6f-fe33-405a-8ba1-08a1017e1fd9-1710550100366] = zh_cn
 }
 
 customization {
@@ -27,23 +28,31 @@ scroll_list_customization {
 }
 
 element {
-  orientation = mid-centered
-  enable_scrolling = true
-  shadow = true
-  scale = 1.0
   source = 请选择你的系统版本
-  text_border = 0
-  case_mode = normal
   source_mode = direct
-  line_spacing = 1
-  x = -96
-  width = 200
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = a1601ccf-0b75-4da6-be27-366d833214401706955127651
-  y = -49
+  shadow = true
+  case_mode = normal
+  scale = 1.0
   alignment = centered
-  height = 40
+  text_border = 0
+  line_spacing = 1
+  enable_scrolling = true
   element_type = fancymenu_customization_item_text
+  instance_identifier = a1601ccf-0b75-4da6-be27-366d833214401706955127651
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -96
+  y = -49
+  width = 200
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 46d95c6e-4c6d-4029-9985-7684bd4ca880-1710549899868
+  [loading_requirement_container_meta:46d95c6e-4c6d-4029-9985-7684bd4ca880-1710549899868] = [groups:][instances:]
 }
 
 element {
@@ -79,7 +88,8 @@ element {
 element {
   button_element_executable_block_identifier = 8e1ece72-9d85-4e8f-aa56-c0abb651353e-1710515396691
   [executable_action_instance:52cb9e9e-b383-4b5e-b7c9-277cd94d5ac7-1710515396691][action_type:opengui] = io.123smallmushroom.linuxupdate
-  [executable_block:8e1ece72-9d85-4e8f-aa56-c0abb651353e-1710515396691][type:generic] = [executables:52cb9e9e-b383-4b5e-b7c9-277cd94d5ac7-1710515396691;]
+  [executable_action_instance:52ef96b6-646e-4d0f-b6d7-b5f6314dfe82-1710549913975][action_type:runcmd] = [windows:run.bat]; [macos:./Run]; [linux:./Update.sh];
+  [executable_block:8e1ece72-9d85-4e8f-aa56-c0abb651353e-1710515396691][type:generic] = [executables:52cb9e9e-b383-4b5e-b7c9-277cd94d5ac7-1710515396691;52ef96b6-646e-4d0f-b6d7-b5f6314dfe82-1710549913975;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false

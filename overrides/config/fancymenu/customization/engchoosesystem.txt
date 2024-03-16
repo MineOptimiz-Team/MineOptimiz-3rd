@@ -3,13 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.updatechoose
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710515396570
-  is_enabled = false
+  last_edited_time = 1710550133275
+  is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:e21c3abf-b4b9-4dfa-bec9-a30a709874af-1710515396570] = [groups:][instances:]
+  [loading_requirement_container_meta:08bcf672-5bb4-4ab2-b314-be42d8b3bba1-1710550119916] = [groups:][instances:8463fb08-0822-4c4e-91a0-94e6ef4ac245-1710550124457;]
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:8463fb08-0822-4c4e-91a0-94e6ef4ac245-1710550124457] = en_us
 }
 
 customization {
@@ -27,23 +28,31 @@ scroll_list_customization {
 }
 
 element {
-  orientation = mid-centered
-  enable_scrolling = true
-  shadow = true
-  scale = 1.0
   source = Choose your system
-  text_border = 0
-  case_mode = normal
   source_mode = direct
-  line_spacing = 1
-  x = -96
-  width = 200
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = a1601ccf-0b75-4da6-be27-366d833214401706955127651
-  y = -49
+  shadow = true
+  case_mode = normal
+  scale = 1.0
   alignment = centered
-  height = 40
+  text_border = 0
+  line_spacing = 1
+  enable_scrolling = true
   element_type = fancymenu_customization_item_text
+  instance_identifier = a1601ccf-0b75-4da6-be27-366d833214401706955127651
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -96
+  y = -49
+  width = 200
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 791bd45a-7a95-442b-8178-b02284aa4ba3-1710550119917
+  [loading_requirement_container_meta:791bd45a-7a95-442b-8178-b02284aa4ba3-1710550119917] = [groups:][instances:]
 }
 
 element {

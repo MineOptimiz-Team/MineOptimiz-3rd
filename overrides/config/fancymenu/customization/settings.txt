@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.settings
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710518716070
+  last_edited_time = 1710550376365
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:f453d3ac-2275-4ef7-a63a-11cf0cba1a09-1710518701794] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;a29d8dda-fee7-45bc-b43e-903b50dfa83f-1710518630713;]
+  [loading_requirement_container_meta:cf6e0519-a19f-4cb4-ba17-19c8f5b2121d-1710550364514] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;a29d8dda-fee7-45bc-b43e-903b50dfa83f-1710518630713;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475] = zh_cn
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:a29d8dda-fee7-45bc-b43e-903b50dfa83f-1710518630713] = legacy_settings:0
 }
@@ -88,8 +88,8 @@ element {
 
 element {
   button_element_executable_block_identifier = a7f5d7f2-9ea1-4326-855d-b85e6fb06b4b-1710515396742
-  [executable_action_instance:fb13ec3d-606e-442d-a104-6003f5c9c425-1710515396742][action_type:closegui] = 
-  [executable_block:a7f5d7f2-9ea1-4326-855d-b85e6fb06b4b-1710515396742][type:generic] = [executables:fb13ec3d-606e-442d-a104-6003f5c9c425-1710515396742;]
+  [executable_action_instance:f2e05a92-757f-4f67-afea-a172942ef553-1710550369382][action_type:closegui] = 
+  [executable_block:a7f5d7f2-9ea1-4326-855d-b85e6fb06b4b-1710515396742][type:generic] = [executables:f2e05a92-757f-4f67-afea-a172942ef553-1710550369382;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
