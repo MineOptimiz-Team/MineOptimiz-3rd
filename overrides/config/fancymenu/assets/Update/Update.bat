@@ -1,5 +1,4 @@
 @echo off
-cd /d %cd%\config\fancymenu\assets\Update
 echo 1.最新稳定版
 echo 2.最新Dev版
 echo 3.手动选择zip更新包（如果是Github Actions打包的更新包则需先解压一次）
@@ -26,11 +25,11 @@ if "%updateversion%"=="3" (
 if not "%updateversion%"=="3" echo 下载完成
 echo 正在解压更新包中...
 if not "%updateversion%"=="3" (
-  .\7z\7z.exe x Update.zip
+  .\config\fancymenu\assets\Update\7z\7z.exe x Update.zip
   del Update.zip
   ren *.zip Update.zip
 )
-.\7z\7z.exe x Update.zip -o".\Update"
+.\config\fancymenu\assets\Update\7z\7z.exe x Update.zip -o".\Update"
 if errorlevel 1 (
   echo 解压失败！
   pause
@@ -39,8 +38,6 @@ if errorlevel 1 (
 echo 解压完成
 set updatepath="%cd%\Update\overrides"
 echo 正在删除旧文件..
-cd ..
-cd ..
 del /s /q config
 del /s /q CustomSkinLoader
 del /s /q mods
@@ -58,10 +55,14 @@ if errorlevel 1 (
 )
 echo 复制完成！
 echo 正在删除缓存...
-cd /d %updatepath%
-cd ..
-cd ..
-start delcache.bat
+rmdir /s /q Update
+del /s /q Update.zip
+if errorlevel 1 (
+  echo 删除失败！
+  echo 下次更新可能会出问题
+  pause
+  exit /b 1
+)
 echo 完成！
 echo 请重新启动游戏以查看更改
 pause
