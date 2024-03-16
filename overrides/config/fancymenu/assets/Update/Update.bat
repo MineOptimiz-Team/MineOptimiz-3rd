@@ -1,4 +1,8 @@
 @echo off
+cd ..
+cd ..
+cd ..
+cd ..
 echo 1.最新稳定版
 echo 2.最新Dev版
 echo 3.手动选择zip更新包（如果是Github Actions打包的更新包则需先解压一次）
