@@ -1,43 +1,86 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = io.123smallmushroom.tools
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1710515396733
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:7e724da8-1267-4dc3-9457-3a0c1509149b-1710515396733] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = f45c1bcc-b8a0-421b-90e9-3887ad6b0fba-1710515396734
+  [executable_action_instance:35f6e80f-47c5-4d71-85a8-f303ddb60be1-1710515396734][action_type:closegui] = net.minecraft.client.gui.screens.OptionsScreen
+  [executable_block:f45c1bcc-b8a0-421b-90e9-3887ad6b0fba-1710515396734][type:generic] = [executables:35f6e80f-47c5-4d71-85a8-f303ddb60be1-1710515396734;]
   restartbackgroundanimations = true
-  buttonaction = closegui;net.minecraft.client.gui.screens.OptionsScreen%btnaction_splitter_fm%
-  x = -117
-  width = 238
-  action = addbutton
-  actionid = 05ba2a89-17e2-4c5c-a31d-e00b2922113b1691285993211
-  y = 63
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
   label = 返回
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 05ba2a89-17e2-4c5c-a31d-e00b2922113b1691285993211
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -117
+  y = 63
+  width = 238
   height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 8d5e5051-0e88-4f70-9080-9fe88ec747e3-1710515396734
+  [loading_requirement_container_meta:8d5e5051-0e88-4f70-9080-9fe88ec747e3-1710515396734] = [groups:][instances:]
 }
 
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
+element {
+  button_element_executable_block_identifier = 4944023f-6ebf-4383-af0e-72026b5ae4ac-1710515396734
+  [executable_action_instance:a93da041-c7ff-4f25-ba56-985760a9f2c9-1710515396734][action_type:openlink] = https://github.com/123SmallMushroom/Tiao-s-Modpack-For-Tiao-s-Server/issues
+  [executable_block:4944023f-6ebf-4383-af0e-72026b5ae4ac-1710515396734][type:generic] = [executables:a93da041-c7ff-4f25-ba56-985760a9f2c9-1710515396734;]
   restartbackgroundanimations = true
-  buttonaction = openlink;https://github.com/123SmallMushroom/Tiao-s-Modpack-For-Tiao-s-Server/issues%btnaction_splitter_fm%
-  x = -117
-  width = 238
-  action = addbutton
-  actionid = b79020d5-337b-43ba-a0d7-1e03185052a91691286194454
-  y = -8
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
   label = Bug反馈
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = b79020d5-337b-43ba-a0d7-1e03185052a91691286194454
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -117
+  y = -8
+  width = 238
   height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 3478a2cf-cd8e-47a7-a4de-e882d7797dc3-1710515396734
+  [loading_requirement_container_meta:3478a2cf-cd8e-47a7-a4de-e882d7797dc3-1710515396734] = [groups:][instances:]
 }
 

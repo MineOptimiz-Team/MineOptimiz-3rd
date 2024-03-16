@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.choosegame
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710518074614
+  last_edited_time = 1710518095825
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:ee719c16-f729-4332-8ec2-89bd11a7faeb-1710518060232] = [groups:][instances:b04e9e03-d672-490d-b0f6-a6548b1913de-1710518063073;]
-  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:b04e9e03-d672-490d-b0f6-a6548b1913de-1710518063073] = zh_cn
+  [loading_requirement_container_meta:0220c606-0a0d-43c3-bb69-e0a7b19933e2-1710518095845] = [groups:][instances:135125e1-5876-4a02-83d3-9c8e3c1695c7-1710518083161;]
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:135125e1-5876-4a02-83d3-9c8e3c1695c7-1710518083161] = en_us
 }
 
 customization {
@@ -33,15 +33,15 @@ scroll_list_customization {
 }
 
 element {
-  button_element_executable_block_identifier = d66879a0-c500-45b8-93c9-644eb9d77926-1710515396744
-  [executable_action_instance:5c4823f3-e77a-4c0b-887e-274c6c7f012f-1710515396744][action_type:opengui] = net.minecraft.class_526
-  [executable_block:d66879a0-c500-45b8-93c9-644eb9d77926-1710515396744][type:generic] = [executables:5c4823f3-e77a-4c0b-887e-274c6c7f012f-1710515396744;]
+  button_element_executable_block_identifier = f491017d-ceb3-461b-bb65-6ddfce1740d7-1710515396597
+  [executable_action_instance:7179c0b4-6a42-4748-9ceb-2139c582b780-1710515396597][action_type:opengui] = net.minecraft.class_526
+  [executable_block:f491017d-ceb3-461b-bb65-6ddfce1740d7-1710515396597][type:generic] = [executables:7179c0b4-6a42-4748-9ceb-2139c582b780-1710515396597;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 单人游戏
+  label = Singleplayer
   navigatable = true
   element_type = custom_button
   instance_identifier = 350bcd79-e81c-4ebe-89e0-22f27f43961a1686459089834
@@ -57,20 +57,20 @@ element {
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 33d5e4c0-7185-4dce-924e-6ff577138b9e-1710515396745
-  [loading_requirement_container_meta:33d5e4c0-7185-4dce-924e-6ff577138b9e-1710515396745] = [groups:][instances:]
+  element_loading_requirement_container_identifier = be9aafaf-0a4e-4fa8-8380-d3786dbb37dd-1710515396597
+  [loading_requirement_container_meta:be9aafaf-0a4e-4fa8-8380-d3786dbb37dd-1710515396597] = [groups:][instances:]
 }
 
 element {
-  button_element_executable_block_identifier = eaf55ccd-b434-48c2-98b0-9528066d61f2-1710515396745
-  [executable_action_instance:f493b4e3-cf04-4f61-b0c2-efab02a81f8d-1710515396745][action_type:opengui] = net.minecraft.class_500
-  [executable_block:eaf55ccd-b434-48c2-98b0-9528066d61f2-1710515396745][type:generic] = [executables:f493b4e3-cf04-4f61-b0c2-efab02a81f8d-1710515396745;]
+  button_element_executable_block_identifier = 8b632455-fb1c-406d-b626-ae3a2c6490ae-1710515396597
+  [executable_action_instance:e262f649-6a2f-4b99-afc6-17095be562ae-1710515396598][action_type:opengui] = net.minecraft.class_500
+  [executable_block:8b632455-fb1c-406d-b626-ae3a2c6490ae-1710515396597][type:generic] = [executables:e262f649-6a2f-4b99-afc6-17095be562ae-1710515396598;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 多人游戏
+  label = Multiplayer
   navigatable = true
   element_type = custom_button
   instance_identifier = 59737c62-6760-4d82-989f-d56f0a9ddcef1686459113219
@@ -86,20 +86,20 @@ element {
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 3e380a7d-5434-4f81-9598-7f2cba51304f-1710515396745
-  [loading_requirement_container_meta:3e380a7d-5434-4f81-9598-7f2cba51304f-1710515396745] = [groups:][instances:]
+  element_loading_requirement_container_identifier = e1eb7504-0c29-4bda-94ed-88f2931207c5-1710515396598
+  [loading_requirement_container_meta:e1eb7504-0c29-4bda-94ed-88f2931207c5-1710515396598] = [groups:][instances:]
 }
 
 element {
-  button_element_executable_block_identifier = a6dc7b04-8874-4bdf-88b1-b1d9341fd386-1710515396745
-  [executable_action_instance:e5c30409-ff89-408c-9198-7b72b70bee7a-1710515396745][action_type:closegui] = 
-  [executable_block:a6dc7b04-8874-4bdf-88b1-b1d9341fd386-1710515396745][type:generic] = [executables:e5c30409-ff89-408c-9198-7b72b70bee7a-1710515396745;]
+  button_element_executable_block_identifier = 3c36a978-cfa3-4ad4-9e0d-c41de323c403-1710515396598
+  [executable_action_instance:430f47be-2433-4198-a869-9b11e30aac81-1710515396598][action_type:closegui] = 
+  [executable_block:3c36a978-cfa3-4ad4-9e0d-c41de323c403-1710515396598][type:generic] = [executables:430f47be-2433-4198-a869-9b11e30aac81-1710515396598;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 返回菜单
+  label = Back
   navigatable = true
   element_type = custom_button
   instance_identifier = 88e401b6-94e6-4dbc-8617-b9dd2227a6b61686459335370
@@ -115,14 +115,14 @@ element {
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 218866f1-3613-4a1e-b62d-75ac2714bf25-1710515396745
-  [loading_requirement_container_meta:218866f1-3613-4a1e-b62d-75ac2714bf25-1710515396745] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 023fa57c-b02e-4236-9a35-713439b56cb4-1710515396598
+  [loading_requirement_container_meta:023fa57c-b02e-4236-9a35-713439b56cb4-1710515396598] = [groups:][instances:]
 }
 
 element {
-  button_element_executable_block_identifier = 5e02676a-093f-4e1f-a3df-c5e1197e5b76-1710515396745
-  [executable_action_instance:07d90666-e703-4ac5-a6dc-a296a9e10521-1710515396745][action_type:opengui] = com.mojang.realmsclient.RealmsMainScreen
-  [executable_block:5e02676a-093f-4e1f-a3df-c5e1197e5b76-1710515396745][type:generic] = [executables:07d90666-e703-4ac5-a6dc-a296a9e10521-1710515396745;]
+  button_element_executable_block_identifier = 2b7fda51-d5c0-4c6e-9e5c-92c0b489cef3-1710515396598
+  [executable_action_instance:cbe070aa-f8d4-481f-8fc6-03fdda9ff96f-1710515396598][action_type:opengui] = com.mojang.realmsclient.RealmsMainScreen
+  [executable_block:2b7fda51-d5c0-4c6e-9e5c-92c0b489cef3-1710515396598][type:generic] = [executables:cbe070aa-f8d4-481f-8fc6-03fdda9ff96f-1710515396598;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -144,7 +144,7 @@ element {
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 8a18df44-6584-4bd1-b8a5-97e589fd87e7-1710515396745
-  [loading_requirement_container_meta:8a18df44-6584-4bd1-b8a5-97e589fd87e7-1710515396745] = [groups:][instances:]
+  element_loading_requirement_container_identifier = a8086263-6260-4955-b311-6d94aee51cb6-1710515396598
+  [loading_requirement_container_meta:a8086263-6260-4955-b311-6d94aee51cb6-1710515396598] = [groups:][instances:]
 }
 

@@ -1,19 +1,32 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = io.123smallmushroom.jubao
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1710515396720
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:d6d0f704-e2f2-447c-b7dd-08a592a027e4-1710515396720] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
   orientation = mid-centered
   enable_scrolling = true
   shadow = true
@@ -30,19 +43,35 @@ customization {
   y = -56
   alignment = centered
   height = 40
+  element_type = fancymenu_customization_item_text
 }
 
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
+element {
+  button_element_executable_block_identifier = 28d2f2c2-a7f0-4feb-9b68-f9481b487d88-1710515396721
+  [executable_action_instance:d2ea4906-e88d-435e-b07e-c2ae4b40055e-1710515396721][action_type:closegui] = 
+  [executable_block:28d2f2c2-a7f0-4feb-9b68-f9481b487d88-1710515396721][type:generic] = [executables:d2ea4906-e88d-435e-b07e-c2ae4b40055e-1710515396721;]
   restartbackgroundanimations = true
-  buttonaction = closegui%btnaction_splitter_fm%
-  x = -50
-  width = 100
-  action = addbutton
-  actionid = acaa5ad9-6c08-470b-a3d8-8ff9d8ece96c1701532299907
-  y = 59
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
   label = 返回
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = acaa5ad9-6c08-470b-a3d8-8ff9d8ece96c1701532299907
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -50
+  y = 59
+  width = 100
   height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 54c5c9dd-ef7b-4753-b765-6e1cbcdcf960-1710515396721
+  [loading_requirement_container_meta:54c5c9dd-ef7b-4753-b765-6e1cbcdcf960-1710515396721] = [groups:][instances:]
 }
 

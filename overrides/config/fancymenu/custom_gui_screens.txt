@@ -1,0 +1,149 @@
+type = custom_gui_screens
+
+overridden_screens {
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.engmode
+  title = Enable English Mode/启用英语模式
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.choosegame
+  title = 开始游戏
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.tools
+  title = 实用工具
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.about
+  title = 关于MineOptimiz
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.uimanager1
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.uimanager
+  title = UI管理
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.uimanager2
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.settings
+  title = MineOptimiz设置
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.quitgame
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.justinfabric
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.linuxupdate
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.update
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.serverad
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.jubao
+  title = 彩蛋
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.updatechoose
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.titlescreen
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+

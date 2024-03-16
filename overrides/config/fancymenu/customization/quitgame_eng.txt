@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.quitgame
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710517425716
+  last_edited_time = 1710517498819
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   [loading_requirement_container_meta:ca2e760e-c6e1-44dc-8630-042cd9828aa8-1710517301923] = [groups:][instances:925a013d-2e54-4442-9fc6-cb27968231cb-1710517365424;]
-  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:925a013d-2e54-4442-9fc6-cb27968231cb-1710517365424] = zh_cn
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:925a013d-2e54-4442-9fc6-cb27968231cb-1710517365424] = en_us
 }
 
 customization {
@@ -41,7 +41,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 确定
+  label = Yes
   navigatable = true
   element_type = custom_button
   instance_identifier = 8b584d98-8df9-4e7f-972d-c54f31f940e61686460299644
@@ -70,7 +70,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 取消
+  label = No
   navigatable = true
   element_type = custom_button
   instance_identifier = 7934fd2f-6f18-4425-a598-b06fa051b7631686460330936
@@ -92,7 +92,7 @@ element {
 
 element {
   interactable = true
-  source = 你确定要关闭游戏吗？
+  source = Are you sure to quit game?
   source_mode = direct
   shadow = true
   scale = 1.0

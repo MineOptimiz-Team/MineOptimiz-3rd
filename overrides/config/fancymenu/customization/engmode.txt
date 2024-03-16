@@ -1,57 +1,141 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = io.123smallmushroom.engmode
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1710515396698
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:be52636b-0d3b-4a69-94ae-7e186e0393e7-1710515396698] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = e8357351-d89f-450d-ab47-a76f511f567e-1710515396698
+  [executable_action_instance:0e855c44-9355-42be-875a-7de7f68ef65c-1710515396698][action_type:enable_layout] = engtitlescreen
+  [executable_action_instance:0464cfb0-0bcf-4a6f-ba85-65bf53f08152-1710515396698][action_type:enable_layout] = engstartgame
+  [executable_action_instance:90f8d8bf-166b-4099-ae95-c9c236aed77f-1710515396698][action_type:enable_layout] = engaddsettings
+  [executable_action_instance:2d1b9375-718f-4fea-9ed6-3c021f559617-1710515396698][action_type:enable_layout] = engsettings
+  [executable_action_instance:6a571c05-6fc1-453e-8173-9f6d044d04da-1710515396698][action_type:enable_layout] = engupdater
+  [executable_action_instance:e8d6ea50-6e2f-41ec-8cdd-6384f73d02b8-1710515396698][action_type:enable_layout] = englinuxupdater
+  [executable_action_instance:cd600c84-2a42-431b-adda-7d21fa893d2e-1710515396698][action_type:enable_layout] = engchoosesystem
+  [executable_action_instance:121bc604-6b5f-4c3f-b3bc-9a392c118909-1710515396698][action_type:disable_layout] = titlescreenvanilla
+  [executable_action_instance:b4f821c2-7ee5-4253-9149-56e1c15a639e-1710515396698][action_type:disable_layout] = startgame
+  [executable_action_instance:516ae996-c65c-4d93-a144-07cc6b53e18c-1710515396698][action_type:disable_layout] = addtesting
+  [executable_action_instance:cbd24369-8799-4dc2-a55a-d5fee50b29ac-1710515396698][action_type:disable_layout] = settings
+  [executable_action_instance:fc5128dc-c84b-45d4-93b5-e52315bc7502-1710515396698][action_type:disable_layout] = updater
+  [executable_action_instance:33227c52-9f01-461d-9cfd-285d433c22b5-1710515396698][action_type:disable_layout] = linuxupdate
+  [executable_action_instance:cd9bf95f-d80a-47c3-b082-04adaaadd291-1710515396698][action_type:disable_layout] = choosesystem
+  [executable_block:e8357351-d89f-450d-ab47-a76f511f567e-1710515396698][type:generic] = [executables:0e855c44-9355-42be-875a-7de7f68ef65c-1710515396698;0464cfb0-0bcf-4a6f-ba85-65bf53f08152-1710515396698;90f8d8bf-166b-4099-ae95-c9c236aed77f-1710515396698;2d1b9375-718f-4fea-9ed6-3c021f559617-1710515396698;6a571c05-6fc1-453e-8173-9f6d044d04da-1710515396698;e8d6ea50-6e2f-41ec-8cdd-6384f73d02b8-1710515396698;cd600c84-2a42-431b-adda-7d21fa893d2e-1710515396698;121bc604-6b5f-4c3f-b3bc-9a392c118909-1710515396698;b4f821c2-7ee5-4253-9149-56e1c15a639e-1710515396698;516ae996-c65c-4d93-a144-07cc6b53e18c-1710515396698;cbd24369-8799-4dc2-a55a-d5fee50b29ac-1710515396698;fc5128dc-c84b-45d4-93b5-e52315bc7502-1710515396698;33227c52-9f01-461d-9cfd-285d433c22b5-1710515396698;cd9bf95f-d80a-47c3-b082-04adaaadd291-1710515396698;]
   restartbackgroundanimations = true
-  buttonaction = enable_layout;engtitlescreen%btnaction_splitter_fm%enable_layout;engstartgame%btnaction_splitter_fm%enable_layout;engaddsettings%btnaction_splitter_fm%enable_layout;engsettings%btnaction_splitter_fm%enable_layout;engupdater%btnaction_splitter_fm%enable_layout;englinuxupdater%btnaction_splitter_fm%enable_layout;engchoosesystem%btnaction_splitter_fm%disable_layout;titlescreenvanilla%btnaction_splitter_fm%disable_layout;startgame%btnaction_splitter_fm%disable_layout;addtesting%btnaction_splitter_fm%disable_layout;settings%btnaction_splitter_fm%disable_layout;updater%btnaction_splitter_fm%disable_layout;linuxupdate%btnaction_splitter_fm%disable_layout;choosesystem%btnaction_splitter_fm%
-  x = -107
-  width = 100
-  action = addbutton
-  actionid = 88727eca-74b0-44b4-9e42-faa2498da28e1706183753708
-  y = 54
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
   label = Enable
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = closegui%btnaction_splitter_fm%
-  x = -49
-  width = 100
-  action = addbutton
-  actionid = 983296c4-578e-4abe-85c4-a10a4780c0701706183778561
-  y = 88
-  label = Back
-  height = 20
-}
-
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = disable_layout;engstartgame%btnaction_splitter_fm%disable_layout;engtitlescreen%btnaction_splitter_fm%disable_layout;engsettings%btnaction_splitter_fm%disable_layout;engaddsettings%btnaction_splitter_fm%disable_layout;engupdater%btnaction_splitter_fm%disable_layout;englinuxupdater%btnaction_splitter_fm%disable_layout;engchoosesystem%btnaction_splitter_fm%enable_layout;titlescreenvanilla%btnaction_splitter_fm%enable_layout;startgame%btnaction_splitter_fm%enable_layout;settings%btnaction_splitter_fm%enable_layout;addtesting%btnaction_splitter_fm%enable_layout;updater%btnaction_splitter_fm%enable_layout;linuxupdate%btnaction_splitter_fm%enable_layout;choosesystem%btnaction_splitter_fm%
-  x = 8
-  width = 100
-  action = addbutton
-  actionid = c82975d3-69d8-4514-861e-6e88160a662f1707287788188
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 88727eca-74b0-44b4-9e42-faa2498da28e1706183753708
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -107
   y = 54
-  label = Disable
+  width = 100
   height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 2074bbf1-0864-44ed-aeec-4c645f4a24fc-1710515396698
+  [loading_requirement_container_meta:2074bbf1-0864-44ed-aeec-4c645f4a24fc-1710515396698] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 5d68c005-a327-4d68-9090-8586ab9c5eb3-1710515396699
+  [executable_action_instance:16e178f9-6956-418a-8ef2-d2a347dc517e-1710515396699][action_type:closegui] = 
+  [executable_block:5d68c005-a327-4d68-9090-8586ab9c5eb3-1710515396699][type:generic] = [executables:16e178f9-6956-418a-8ef2-d2a347dc517e-1710515396699;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Back
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 983296c4-578e-4abe-85c4-a10a4780c0701706183778561
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -49
+  y = 88
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = a4ed9c2b-b37a-4fed-8030-6275b7345d88-1710515396699
+  [loading_requirement_container_meta:a4ed9c2b-b37a-4fed-8030-6275b7345d88-1710515396699] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = b9989660-7865-4019-bcad-46333f011cc5-1710515396699
+  [executable_action_instance:92cde1a9-add1-409e-8b44-73decfc7a9c9-1710515396699][action_type:disable_layout] = engstartgame
+  [executable_action_instance:062cf207-f338-4ad4-ad4d-4354cb229d8c-1710515396699][action_type:disable_layout] = engtitlescreen
+  [executable_action_instance:cf258622-ea10-454b-8216-a972db927248-1710515396699][action_type:disable_layout] = engsettings
+  [executable_action_instance:75dc05f3-cd61-4129-9656-2118f33bb11a-1710515396699][action_type:disable_layout] = engaddsettings
+  [executable_action_instance:64ebb1e3-dac8-4eba-bd92-890a2a03a4e7-1710515396699][action_type:disable_layout] = engupdater
+  [executable_action_instance:879c9e27-af12-4953-8448-38cbc36513f8-1710515396699][action_type:disable_layout] = englinuxupdater
+  [executable_action_instance:1c0c222e-9619-4d30-a681-f5da20dd6b97-1710515396699][action_type:disable_layout] = engchoosesystem
+  [executable_action_instance:7e404e0a-aff0-40a9-b578-34c818f1e379-1710515396699][action_type:enable_layout] = titlescreenvanilla
+  [executable_action_instance:e9dad243-1b60-4d2f-979f-cb02467d6869-1710515396699][action_type:enable_layout] = startgame
+  [executable_action_instance:776b2000-daee-492b-9ebc-29b38f2eac8c-1710515396699][action_type:enable_layout] = settings
+  [executable_action_instance:19340ac5-f0ef-426a-b521-f5ab7a8edeb8-1710515396699][action_type:enable_layout] = addtesting
+  [executable_action_instance:a5ab096f-2d58-4f05-aba7-3fe62135e2be-1710515396699][action_type:enable_layout] = updater
+  [executable_action_instance:04fb257d-bc93-464b-97c7-70d53f49fb9c-1710515396699][action_type:enable_layout] = linuxupdate
+  [executable_action_instance:e862b33c-50c5-4342-9aa3-cde9f46b5757-1710515396699][action_type:enable_layout] = choosesystem
+  [executable_block:b9989660-7865-4019-bcad-46333f011cc5-1710515396699][type:generic] = [executables:92cde1a9-add1-409e-8b44-73decfc7a9c9-1710515396699;062cf207-f338-4ad4-ad4d-4354cb229d8c-1710515396699;cf258622-ea10-454b-8216-a972db927248-1710515396699;75dc05f3-cd61-4129-9656-2118f33bb11a-1710515396699;64ebb1e3-dac8-4eba-bd92-890a2a03a4e7-1710515396699;879c9e27-af12-4953-8448-38cbc36513f8-1710515396699;1c0c222e-9619-4d30-a681-f5da20dd6b97-1710515396699;7e404e0a-aff0-40a9-b578-34c818f1e379-1710515396699;e9dad243-1b60-4d2f-979f-cb02467d6869-1710515396699;776b2000-daee-492b-9ebc-29b38f2eac8c-1710515396699;19340ac5-f0ef-426a-b521-f5ab7a8edeb8-1710515396699;a5ab096f-2d58-4f05-aba7-3fe62135e2be-1710515396699;04fb257d-bc93-464b-97c7-70d53f49fb9c-1710515396699;e862b33c-50c5-4342-9aa3-cde9f46b5757-1710515396699;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Disable
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = c82975d3-69d8-4514-861e-6e88160a662f1707287788188
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = 8
+  y = 54
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 79dcbb3b-0c0b-4374-aadf-6637675e379a-1710515396699
+  [loading_requirement_container_meta:79dcbb3b-0c0b-4374-aadf-6637675e379a-1710515396699] = [groups:][instances:]
 }
 

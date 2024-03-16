@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.linuxupdate
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710515396727
-  is_enabled = true
+  last_edited_time = 1710515396589
+  is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:ab280da5-b5af-4219-9cc5-0c8c995f935f-1710515396727] = [groups:][instances:]
+  [loading_requirement_container_meta:9f01e48e-16bb-426a-a8a9-4c7c18c5d2b2-1710515396589] = [groups:][instances:]
 }
 
 customization {
@@ -31,13 +31,13 @@ element {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = 尚未实现在Linux下自动打开脚本%n%请手动打开"游戏目录/Update.sh"
+  source = It is not yet possible to open the script automatically on Linux.%n%Please manually open "Game directory/Update.sh".%n%Attention! The script is displayed in Chinese!
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -99
-  width = 200
+  x = -124
+  width = 251
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = b4fdedc8-cabd-4c09-bc0a-c4a9c31a63ce1707042270857
   y = -48
@@ -47,15 +47,15 @@ element {
 }
 
 element {
-  button_element_executable_block_identifier = aaa8ce18-056a-4c99-a335-b001ad31a5a8-1710515396728
-  [executable_action_instance:f6e7e24c-2499-4af7-8359-9418511c0261-1710515396728][action_type:closegui] = 
-  [executable_block:aaa8ce18-056a-4c99-a335-b001ad31a5a8-1710515396728][type:generic] = [executables:f6e7e24c-2499-4af7-8359-9418511c0261-1710515396728;]
+  button_element_executable_block_identifier = 9a118604-83c6-4ca9-881a-08a1e418ceac-1710515396590
+  [executable_action_instance:e0b949a0-fb66-4759-bf02-b20444b49beb-1710515396590][action_type:closegui] = 
+  [executable_block:9a118604-83c6-4ca9-881a-08a1e418ceac-1710515396590][type:generic] = [executables:e0b949a0-fb66-4759-bf02-b20444b49beb-1710515396590;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 返回
+  label = Back
   navigatable = true
   element_type = custom_button
   instance_identifier = e81f6b44-aa6c-4ddb-8b0b-63b32c634bd41707042390819
@@ -71,7 +71,7 @@ element {
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 5ee13584-56b5-4b05-96d5-ce5fae3491b4-1710515396728
-  [loading_requirement_container_meta:5ee13584-56b5-4b05-96d5-ce5fae3491b4-1710515396728] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 4cd31177-1a99-435a-a50d-f069cfdad4eb-1710515396590
+  [loading_requirement_container_meta:4cd31177-1a99-435a-a50d-f069cfdad4eb-1710515396590] = [groups:][instances:]
 }
 
