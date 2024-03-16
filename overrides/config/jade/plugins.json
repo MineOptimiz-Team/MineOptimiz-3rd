@@ -58,8 +58,5 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "waystones": {
-    "waystone": true
   }
 }

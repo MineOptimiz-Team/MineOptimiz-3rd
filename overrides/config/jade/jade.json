@@ -1,6 +1,7 @@
 {
   "general": {
     "hintOverlayToggle": true,
+    "hintNarratorToggle": true,
     "previewOverlay": true,
     "displayTooltip": true,
     "displayBlocks": true,
@@ -15,7 +16,8 @@
     "reachDistance": 0.0,
     "debug": false,
     "itemModNameTooltip": true,
-    "bossBarOverlapMode": "PUSH_DOWN"
+    "bossBarOverlapMode": "PUSH_DOWN",
+    "builtinCamouflage": true
   },
   "overlay": {
     "activeTheme": "jade:dark",
@@ -30,7 +32,8 @@
     "autoScaleThreshold": 0.5,
     "alpha": 0.7,
     "iconMode": "TOP",
-    "animation": true
+    "animation": false,
+    "disappearingDelay": 0.0
   },
   "formatting": {
     "modName": "§9§o%s"
