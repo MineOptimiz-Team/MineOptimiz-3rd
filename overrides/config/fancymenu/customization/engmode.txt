@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.engmode
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710550633170
+  last_edited_time = 1710633698365
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:13796075-efcf-43cd-931e-a4c09becff55-1710550520064] = [groups:][instances:]
+  [loading_requirement_container_meta:bf7c12fe-3aee-4651-b0c5-4b4f0934be41-1710633680767] = [groups:][instances:]
 }
 
 customization {
@@ -57,7 +57,7 @@ element {
 
 element {
   interactable = true
-  source = English mode is update,and now it is auto open :)
+  source = English mode is update,and now it is auto enable :)
   source_mode = direct
   shadow = true
   scale = 1.0
