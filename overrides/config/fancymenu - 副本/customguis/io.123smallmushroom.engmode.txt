@@ -1,3 +1,0 @@
-identifier = io.123smallmushroom.engmode
-title = Enable English Mode/启用英语模式
-allowesc = true
