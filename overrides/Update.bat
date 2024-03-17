@@ -8,7 +8,7 @@ set /p update=
 if "%update%"=="3" exit
 echo 请确保Minecraft处于关闭状态
 echo 正在下载更新包
-if "%update%"=="1"  .\guirequired\Update\aria2\aria2c.exe -o Update.zip https://nightly.link/SmallMushroom-offical/MineOptimiz-Next/workflows/main/1.20.1
+if "%update%"=="1" .\guirequired\Update\aria2\aria2c.exe -o Update.zip https://nightly.link/SmallMushroom-offical/MineOptimiz-Next/workflows/main/1.20.1
 if "%update%"=="2" .\guirequired\Update\aria2\aria2c.exe -o Update.zip https://nightly.link/SmallMushroom-offical/MineOptimiz-Next/workflows/main/1.20.1-Dev
 if errorlevel 1 (
   echo 下载失败！
