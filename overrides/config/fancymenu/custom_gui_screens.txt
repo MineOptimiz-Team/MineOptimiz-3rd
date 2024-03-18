@@ -22,15 +22,6 @@ custom_gui {
 }
 
 custom_gui {
-  identifier = io.123smallmushroom.tools
-  title = 实用工具
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
   identifier = io.123smallmushroom.about
   title = 关于MineOptimiz
   allow_esc = true
@@ -85,6 +76,15 @@ custom_gui {
 }
 
 custom_gui {
+  identifier = io.123smallmushroom.licence
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
   identifier = io.123smallmushroom.justinfabric
   title = 
   allow_esc = true
@@ -104,15 +104,6 @@ custom_gui {
 
 custom_gui {
   identifier = io.123smallmushroom.update
-  title = 
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
-  identifier = io.123smallmushroom.serverad
   title = 
   allow_esc = true
   transparent_world_background = true

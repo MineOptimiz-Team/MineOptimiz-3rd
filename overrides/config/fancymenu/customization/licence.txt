@@ -1,0 +1,187 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = io.123smallmushroom.licence
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1710738211090
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:7b77882c-7dbe-4c10-9347-20738935787c-1710738191062] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = 9a8dc90e-37cf-4862-83d1-250cdd90f583-1710684496714
+  [executable_action_instance:4164ac25-4cbc-49e0-849a-28ae5a6ab997-1710684781480][action_type:closegui] = 
+  [executable_block:9a8dc90e-37cf-4862-83d1-250cdd90f583-1710684496714][type:generic] = [executables:4164ac25-4cbc-49e0-849a-28ae5a6ab997-1710684781480;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 0de358a2-d00f-4c0c-9ddb-b0e61f977450-1710684496714
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -51
+  y = 92
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c45d6914-5469-46ff-91f7-66b13fd73dc6-1710684496714
+  [loading_requirement_container_meta:c45d6914-5469-46ff-91f7-66b13fd73dc6-1710684496714] = [groups:][instances:]
+}
+
+element {
+  interactable = false
+  source = 返回
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 5eff5a17-72f0-433c-9ee7-3a341a924a3d-1710684532313
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = 0de358a2-d00f-4c0c-9ddb-b0e61f977450-1710684496714
+  x = 36
+  y = 3
+  width = 200
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 9da66c6c-3502-4703-9364-ab05ce9c54f3-1710684532313
+  [loading_requirement_container_meta:9da66c6c-3502-4703-9364-ab05ce9c54f3-1710684532313] = [groups:][instances:241358a4-bc1b-4102-af43-ff86e0097450-1710684574488;]
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:241358a4-bc1b-4102-af43-ff86e0097450-1710684574488] = zh_cn
+}
+
+element {
+  interactable = false
+  source = Back
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 036f8848-38f3-4445-afbc-7f1069655f36-1710684596220
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = 0de358a2-d00f-4c0c-9ddb-b0e61f977450-1710684496714
+  x = 38
+  y = 2
+  width = 200
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 64a2a879-82de-4ee4-a0be-a57889600605-1710684596220
+  [loading_requirement_container_meta:64a2a879-82de-4ee4-a0be-a57889600605-1710684596220] = [groups:][instances:761830b5-ebb7-4119-aa6f-583fd224d861-1710684629140;]
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:761830b5-ebb7-4119-aa6f-583fd224d861-1710684629140] = en_us
+}
+
+element {
+  interactable = true
+  source = [source:web]https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Dev/licence.txt
+  source_mode = resource
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = bc6f7b09-b835-47f4-8067-5f450a079f96-1710735468484
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -191
+  y = -113
+  width = 386
+  height = 156
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 900fef7b-45eb-405b-8687-388b65fa3142-1710735468484
+  [loading_requirement_container_meta:900fef7b-45eb-405b-8687-388b65fa3142-1710735468484] = [groups:][instances:]
+}
+

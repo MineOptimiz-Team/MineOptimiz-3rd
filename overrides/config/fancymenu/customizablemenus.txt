@@ -1,8 +1,5 @@
 type = customizablemenus
 
-net.minecraft.class_429 {
-}
-
 net.minecraft.class_433 {
 }
 
@@ -10,5 +7,11 @@ net.minecraft.class_442 {
 }
 
 com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
+}
+
+net.minecraft.class_8219 {
+}
+
+net.minecraft.class_429 {
 }
 
