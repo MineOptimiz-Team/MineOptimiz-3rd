@@ -42,6 +42,6 @@ jobs:
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz Fabric 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.mrpack
+          name: MineOptimiz Fabric 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip
           path: "./MineOptimiz Fabric 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.mrpack"
      
