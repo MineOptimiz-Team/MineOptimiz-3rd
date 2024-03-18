@@ -49,6 +49,18 @@ if errorlevel 1 (
   exit /b 1
 )
 echo 复制完成！
+echo 正在下载非内置模组
+.\guirequired\Update\aria2\aria2c.exe -o .\mods\exordium-fabric-1.0.3-mc1.20.jar https://mirror.ghproxy.com/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar
+.\guirequired\Update\aria2\aria2c.exe -o .\mods\skinlayers3d-fabric-1.6.2-mc1.20.1.jar https://mirror.ghproxy.com/https://github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.2/skinlayers3d-fabric-1.6.2-mc1.20.1.jar
+.\guirequired\Update\aria2\aria2c.exe -o .\mods\fancymenu_fabric_3.1.2_MC_1.20.1.jar https://cdn.modrinth.com/data/Wq5SjeWM/versions/r2jmO7md/fancymenu_fabric_3.1.2_MC_1.20.1.jar
+.\guirequired\Update\aria2\aria2c.exe -o .\mods\entityculling-fabric-1.6.2-mc1.20.jar https://mirror.ghproxy.com/https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar
+.\guirequired\Update\aria2\aria2c.exe -o .\mods\notenoughanimations-fabric-1.7.1-mc1.20.1.jar https://cdn.modrinth.com/data/MPCX6s5C/versions/YbSMjtFY/notenoughanimations-fabric-1.7.1-mc1.20.1.jar
+if errorlevel 1 (
+  echo 下载失败！
+  pause
+  exit /b 1
+)
+echo 下载完成
 echo 正在删除缓存
 rd /s /q guirequired
 rd /s /q Update

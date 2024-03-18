@@ -13,6 +13,13 @@ cp -r "./Update/overrides/config" ./ || exit 1
 cp -r "./Update/overrides/CustomSkinLoader" ./ || exit 1
 cp -r "./Update/overrides/mods" ./ || exit 1
 cp -r "./Update/overrides/resourcepacks" ./ || exit 1
+echo "正在下载非内置模组"
+wget https://mirror.ghproxy.com/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar -O ./mods/exordium-fabric-1.0.3-mc1.20.jar || exit 1
+wget https://mirror.ghproxy.com/https://github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.2/skinlayers3d-fabric-1.6.2-mc1.20.1.jar -O ./mods/skinlayers3d-fabric-1.6.2-mc1.20.1.jar || exit 1
+wget https://cdn.modrinth.com/data/Wq5SjeWM/versions/r2jmO7md/fancymenu_fabric_3.1.2_MC_1.20.1.jar -O ./mods/fancymenu_fabric_3.1.2_MC_1.20.1.jar || exit 1
+wget https://mirror.ghproxy.com/https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar -O ./mods/entityculling-fabric-1.6.2-mc1.20.jar || exit 1
+wget https://cdn.modrinth.com/data/MPCX6s5C/versions/YbSMjtFY/notenoughanimations-fabric-1.7.1-mc1.20.1.jar -O ./mods/notenoughanimations-fabric-1.7.1-mc1.20.1.jar || exit 1
+echo "下载完成"
 echo "正在删除缓存..."
 rm Update.zip || echo "删除失败！下次更新可能会出问题！"
 rm -rf Update || echo "删除失败！下次更新可能会出问题！"
