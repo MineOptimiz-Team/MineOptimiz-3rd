@@ -4,7 +4,7 @@ wget https://nightly.link/SmallMushroom-offical/MineOptimiz-Next/workflows/main/
 echo "正在解压更新包..."
 unzip Update.zip
 rm Update.zip
-mv *.zip Update.zip || exit 1
+mv *.mrpack Update.zip || exit 1
 unzip Update.zip -d ./Update || exit 1
 echo "正在删除旧的文件..."
 rm -rf config CustomSkinLoader mods resourcepacks

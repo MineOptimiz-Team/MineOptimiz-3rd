@@ -19,7 +19,7 @@ echo 下载完成
 echo 正在解压更新包
 .\guirequired\Update\7z\7z.exe x Update.zip
 del Update.zip
-ren *.zip Update.zip
+ren *.mrpack Update.zip
 .\guirequired\Update\7z\7z.exe x Update.zip -o".\Update"
 if errorlevel 1 (
   echo 解压失败！
