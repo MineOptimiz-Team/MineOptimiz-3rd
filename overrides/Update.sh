@@ -10,10 +10,8 @@ echo "请确保在更新时关闭了Minecraft"
 echo "如果在更新时窗口突然退出，则可能是更新失败"
 if [ "$updateversion" = "1" ]; then
     bash ./config/fancymenu/assets/Update/update-stable.sh
-    cd ./config/fancymenu/assets
 elif [ "$updateversion" = "2" ]; then
     bash ./config/fancymenu/assets/Update/update-dev.sh
-    cd ./config/fancymenu/assets
 elif [ "$updateversion" = "3" ]; then
     exit 0
 fi
