@@ -1,0 +1,24 @@
+Xaeros小地图系列：
+这些模组是闭源的，作者要求整合包作者
+如果不在CurseForge或Modrinth发布整合包，就需要标出官网
+这是Xaero's Minimap的官网：https://chocolateminecraft.com/minimap2.php
+这是Xaero's World Map的官网：https://chocolateminecraft.com/worldmap.php
+
+tr7zw创建的模组：
+tr7zw的模组基本上都使用了一种叫“tr7zw Protective License”的许可证，它（指这个许可证）
+不允许其他人分发他的模组（除非获得作者的允许）
+但由于tr7zw不是中国人，而由于众所周知的原因，我无法联系到他
+也许在以后我会使用自动下载模组的方式使得不会分发模组
+
+FancyMenu的要求：
+（以下内容是在作者的Github下经翻译得来的内容）
+条款与条件
+ 
+1. 未经我的许可**，您不得重新上传该 mod* 或其修改版。
+2. 您不得在您的项目中使用本模块的* JAR 文件或代码。
+3. 您可以在mod包中包含该mod*，只要该mod包不包含该mod*的JAR文件，但该mod*作为 "mod参考 "包含在其中，并链接到官方***的CurseForge或Modrinth项目。
+4. 您可以将mod*作为您项目的依赖项，只要您不将mod*的JAR文件或代码打包或发送到您的项目中。
+
+同样的，我也会在将来自动下载模组的方式使得不会分发模组
+
+其他待编写...
