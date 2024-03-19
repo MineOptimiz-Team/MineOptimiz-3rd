@@ -20,6 +20,11 @@ FancyMenu的要求：
 3. 您可以在mod包中包含该mod*，只要该mod包不包含该mod*的JAR文件，但该mod*作为 "mod参考 "包含在其中，并链接到官方***的CurseForge或Modrinth项目。
 4. 您可以将mod*作为您项目的依赖项，只要您不将mod*的JAR文件或代码打包或发送到您的项目中。
 
+Modpack Update Checker：
+这个模组使用CC BY-NC-SA 4.0许可证
+这个许可证中的其中一条规定就是要提供许可证的链接
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 截止到2024/3/19，所有以上提到的模组都已在1.20.1-Fabric中自动下载（通过Modrinth整合包
 格式的方式），而不是违规地分发
 
