@@ -3,14 +3,14 @@
 ## 这是啥？
 一个Minecraft优化整合包
 ## 它支持什么版本？
-| Version               | Support                                       | 
-|-----------------------|-----------------------------------------------| 
-| 1.20.1(Forge/NeoForge)| 活跃                                          | 
-| 1.20.1(Fabric/Quilt)  | 活跃                                          | 
-| 1.19.4(OptiFabric)    | 活跃(长期支持)                                |
-| 1.19.4(FabricSodium)  | 结束支持                                      |
-| 1.17.1                | 结束支持                                      |
-| 1.12.2                | 活跃(不在Github)                              |
+| Version（版本）       | Support（支持）            | End-of-life time   |
+|-----------------------|----------------------------|--------------------|
+| 1.20.1(Forge/NeoForge)| 活跃                       | 无计划             |
+| 1.20.1(Fabric/Quilt)  | 活跃                       | 无计划             |
+| 1.19.4(OptiFabric)    | 活跃(LTS 0.9.19)           | 2024/4/29          |
+| 1.19.4(FabricSodium)  | 结束支持                   | 已结束支持         |
+| 1.17.1                | 结束支持                   | 已结束支持
+| 1.12.2                | 活跃(不在Github)           | 无计划
 ## 下载
  - 稳定版：在[Github Release](https://github.com/SmallMushroom-offical/MineOptimiz/releases)下载
  - 测试版：目前只有[1.19.4-(OptiFabric)](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.19.4-OptiFabric-Dev)以及[1.20.1(Forge)](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.20.1-Forge-Dev)可供下载
