@@ -7,7 +7,10 @@ rm Update.zip
 mv *.mrpack Update.zip || exit 1
 unzip Update.zip -d ./Update || exit 1
 echo "正在删除旧的文件..."
-rm -rf config CustomSkinLoader mods resourcepacks
+rm -rf ./config
+rm -rf ./CustomSkinLoader
+rm -rf ./mods
+rm -rf ./resourcepacks
 echo "正在复制新的文件..."
 cp -r "./Update/overrides/config" ./ || exit 1
 cp -r "./Update/overrides/CustomSkinLoader" ./ || exit 1
