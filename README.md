@@ -18,7 +18,7 @@
  - [看这里](https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Dev/licenceofmods.txt)
  - MineOptimiz的一些旧版本可能无法遵守这些模组的licence，很抱歉
  ## Licence?
- - MineOptimiz本质上是一个整合包，不存在开源协议，但该整合包中自创的部分(如MineOptimiz Updater)应该使用LGPLv2.1协议
+ - MineOptimiz本质上是一个整合包，不存在开源协议，但[MineOptimiz Updater](https://github.com/SmallMushroom-offical/MineOptimiz-Updater)使用[LGPLv2.1](https://github.com/SmallMushroom-offical/MineOptimiz-Updater/blob/main/LICENSE)协议
  ## 注意事项
  - 建议使用960x576分辨率
 
