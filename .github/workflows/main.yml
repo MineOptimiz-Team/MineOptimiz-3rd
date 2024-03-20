@@ -43,10 +43,10 @@ jobs:
           cd ..
           cd ..
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz Fabric 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.mrpack"
+          mv MineOptimiz.zip "MineOptimiz Fabric 1.20.1-Dev-${{ env.SHORT_SHA }}.mrpack"
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz Fabric 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.zip
-          path: "./MineOptimiz Fabric 1.20.1-Dev-buildtime.${{ steps.date.outputs.date }}.mrpack"
+          name: MineOptimiz Fabric 1.20.1-Dev-${{ env.SHORT_SHA }}.zip
+          path: "./MineOptimiz Fabric 1.20.1-Dev-${{ env.SHORT_SHA }}.mrpack"
      
