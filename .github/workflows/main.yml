@@ -19,9 +19,11 @@ jobs:
         if: ${{ github.repository_owner != 'github-actions' }}   
         
       - name: Get short SHA
+        run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
+
+      - name: Append short SHA to file content
         run: |
-          echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
-          echo "${{ env.SHORT_SHA }} >> modrinth.index.json
+          echo "${{ env.SHORT_SHA }}" >> modrinth.index.json
           echo "${{ env.SHORT_SHA }}" >> ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
