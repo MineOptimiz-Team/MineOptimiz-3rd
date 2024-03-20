@@ -12,8 +12,8 @@
 | 1.17.1                | 结束支持                   | 已结束支持         |
 | 1.12.2                | 活跃(不在Github)           | 无计划             |
 ## 下载
- - 稳定版：在[Github Release](https://github.com/SmallMushroom-offical/MineOptimiz/releases)下载
- - 测试版：目前只有[1.19.4-(OptiFabric)](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.19.4-OptiFabric-Dev)以及[1.20.1(Forge)](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.20.1-Forge-Dev)可供下载
+ - 你可以在[Github Releases](https://github.com/SmallMushroom-offical/MineOptimiz-Next/releases)下载稳定版或者在[Github Actions](https://github.com/SmallMushroom-offical/MineOptimiz-Next/actions)下载测试版
+ - 除此之外，你也可以在[MineOptimiz的网站](https://123smallmushroom.github.io)下载
  ## 内置模组的Licence
  - [看这里](https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Dev/licenceofmods.txt)
  - MineOptimiz的一些旧版本可能无法遵守这些模组的licence，很抱歉
