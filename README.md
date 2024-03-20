@@ -14,6 +14,7 @@
 ## 下载
  - 你可以在[Github Releases](https://github.com/SmallMushroom-offical/MineOptimiz-Next/releases)下载稳定版或者在[Github Actions](https://github.com/SmallMushroom-offical/MineOptimiz-Next/actions)下载测试版
  - 除此之外，你也可以在[MineOptimiz的网站](https://123smallmushroom.github.io)下载
+ - 有一段时间MineOptimiz没有在Github上传，如果你想查看或下载这些版本，请前往[网盘下载](https://www.123pan.com/s/jtiDVv-oEmWA.html)
  ## 内置模组的Licence
  - [看这里](https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Dev/licenceofmods.txt)
  - MineOptimiz的一些旧版本可能无法遵守这些模组的licence，很抱歉
