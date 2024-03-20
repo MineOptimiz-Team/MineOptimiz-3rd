@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.updatechoose
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710551207811
+  last_edited_time = 1710930261896
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:3359331d-3f86-4a72-b6cc-6225ae990d4a-1710551173294] = [groups:][instances:8463fb08-0822-4c4e-91a0-94e6ef4ac245-1710550124457;]
+  [loading_requirement_container_meta:b5d431b6-f4d1-4316-aa53-d7774d19c2c8-1710930231248] = [groups:][instances:8463fb08-0822-4c4e-91a0-94e6ef4ac245-1710550124457;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:8463fb08-0822-4c4e-91a0-94e6ef4ac245-1710550124457] = en_us
 }
 
@@ -57,9 +57,8 @@ element {
 
 element {
   button_element_executable_block_identifier = 065b1a76-e909-417c-bced-ada3103195f1-1710515396571
-  [executable_action_instance:28f97d6c-d0fd-4ae6-932f-91f9630902d7-1710515396571][action_type:openfile] = config/fancymenu/assets/Update/Update.bat
-  [executable_action_instance:1d126cf1-4d04-4687-a9e0-cfd45f6badc4-1710515396571][action_type:quitgame] = 
-  [executable_block:065b1a76-e909-417c-bced-ada3103195f1-1710515396571][type:generic] = [executables:28f97d6c-d0fd-4ae6-932f-91f9630902d7-1710515396571;1d126cf1-4d04-4687-a9e0-cfd45f6badc4-1710515396571;]
+  [executable_action_instance:28f97d6c-d0fd-4ae6-932f-91f9630902d7-1710515396571][action_type:openfile] = Update.bat
+  [executable_block:065b1a76-e909-417c-bced-ada3103195f1-1710515396571][type:generic] = [executables:28f97d6c-d0fd-4ae6-932f-91f9630902d7-1710515396571;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -132,7 +131,7 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -44
+  x = -45
   y = 97
   width = 100
   height = 20
