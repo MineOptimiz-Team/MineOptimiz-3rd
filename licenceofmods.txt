@@ -28,8 +28,9 @@ Modpack Update Checker：
 这个许可证中的其中一条规定就是要提供许可证的链接
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-一些使用GPL协议的模组：
-这个协议貌似要求项目使用这些GPL协议的软件时也要遵守GPL协议
+More Culling：
+作者只要求整合包在使用这个模组的时候提及到它（指More Culling），仅此而已
+以及，该模组的许可证是LGPL-2.1-only
 
 截止到2024/3/19，所有以上提到的模组都已在1.20.1-Fabric中自动下载（通过Modrinth整合包
 格式的方式），而不是违规地分发
