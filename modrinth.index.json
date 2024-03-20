@@ -138,6 +138,21 @@
                 "sha512": "898edb0f2eb15570bfb8cc235018aae1aadd279c777efbc12aee47e10b2bbef0fc05177307a1aff04073cf94cf4f7a5c89eee934e771ae09e484c37570dddd52"
             },
             "path": "config/fancymenu/assets/Update/update-stable.sh"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/51shyZVL/versions/KpriJ15b/moreculling-1.20.4-0.22.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 269457,
+            "hashes": {
+                "sha1": "2b373ab4657fa06682957fbe5bd15f14381e4353",
+                "sha512": "c562f4319c6aa13b84bb92ee63074792648af2a3d8711a2b49e865e25b2690cd26ad7b272d59dc228bb39315c035a32792755fb896d3d939ef23533fb80cbde5"
+            },
+            "path": "mods/moreculling-1.20.4-0.22.1.jar"
         }
     ],
     "formatVersion": 1,
