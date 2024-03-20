@@ -172,6 +172,6 @@
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz Fabric v1.20.1-Dev-${{ env.SHORT_SHA }}",
-    "versionId": "Dev-${{ env.SHORT_SHA }}"
+    "name": "MineOptimiz Fabric v1.20.1-Dev-1f99e81",
+    "versionId": "Dev-1f99e81"
 }

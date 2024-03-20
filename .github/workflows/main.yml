@@ -23,8 +23,8 @@ jobs:
 
       - name: Append short SHA to file content
         run: |
-          sed -i "s/\${{ env.SHORT_SHA }}/${{ env.SHORT_SHA }}/g" modrinth.index.json
-          sed -i "s/\${{ env.SHORT_SHA }}/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(1f99e81\)/${{ env.SHORT_SHA }}/g" modrinth.index.json
+          sed -i "s/\(1f99e81\)/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
