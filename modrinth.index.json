@@ -78,6 +78,66 @@
                 "sha512": "d9729d824f1aac0e4118b65b4f0f81ba7e7fcf3d6c95ad9d98c17a6ad2595ca3e72c1f8b41ead3dfeb550e297d769a2a82ac97533086c15d0f7903dfc7f025e1"
             },
             "path": "mods/notenoughanimations-fabric-1.7.1-mc1.20.1.jar"
+        },
+        {
+            "downloads": [
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.0/Update-1.20.1.bat"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 2732,
+            "hashes": {
+                "sha1": "2c3164e9bb3c273fbf5c765c34724c3feeaa2c4b",
+                "sha512": "9f3a3c237c089ce67346f90d84406c59613a087c55d80dd05e570c797f56d349207fccab53ccc7dc70b932eca26cd65a643e20f88706a7ef7bd87ae24f890a9c"
+            },
+            "path": "Update.bat"
+        },
+        {
+            "downloads": [
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.0/Update-universal.sh"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 706,
+            "hashes": {
+                "sha1": "a50935410fbbcc985227d3ddbde773bc92e16108",
+                "sha512": "12d486082bd196e17c8d3163123f57f111fc7ed153b88e9c6d380619a9cca0696b3f2b059bc66b48cf63a8589cbe19eec46f36d2c0995f63cca116e75b5bad65"
+            },
+            "path": "Update.sh"
+        },
+        {
+            "downloads": [
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.0/update-1.20.1-dev.sh"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1806,
+            "hashes": {
+                "sha1": "dac16c6ccf1c7160526ed1a03d688a2cfe835323",
+                "sha512": "7bd35598a67d2cce6693dabe7fea73fe0b832179d9bfcddb6802b6252bf50230adbc7933b8ea47bee0ed75735e7831957978251ffa8e77901e6cace566c7555b"
+            },
+            "path": "config/fancymenu/assets/Update/update-dev.sh"
+        },
+        {
+            "downloads": [
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.0/update-1.20.1-stable.sh"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1806,
+            "hashes": {
+                "sha1": "d2a1c2538354432017771cc5aeadaa7345886d42",
+                "sha512": "0b131f0dc2b89ee482a71b9fa0a4e5ad13735dba64c544e7eb4d6ade392daa7bb6bf122c5348c5f1ba2400cb13e79b01eeac18ba50ca4d74a30f9a60510ef517"
+            },
+            "path": "config/fancymenu/assets/Update/update-stable.sh"
         }
     ],
     "formatVersion": 1,
