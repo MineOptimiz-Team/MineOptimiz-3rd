@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.licence
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710823572461
+  last_edited_time = 1710999990439
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:8fa15df3-3ef6-4ec4-ae77-24acb626d56e-1710823547777] = [groups:][instances:]
+  [loading_requirement_container_meta:bf6f00af-81ee-431f-8b32-0eb3aea34392-1710999953329] = [groups:][instances:]
 }
 
 customization {
@@ -145,7 +145,7 @@ element {
 
 element {
   interactable = true
-  source = [source:web]https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Dev/licenceofmods.txt
+  source = [source:web]https://mirror.ghproxy.com/https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Dev/licenceofmods.txt
   source_mode = resource
   shadow = true
   scale = 1.0
