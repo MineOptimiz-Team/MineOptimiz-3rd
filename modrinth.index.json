@@ -172,6 +172,6 @@
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz Fabric v1.20.1-Stable-0.10.6-Update.1",
-    "versionId": "Fabric-0.10.6(Update1)"
+    "name": "MineOptimiz Fabric v1.20.1-Dev-buildtype",
+    "versionId": "Dev-buildtype"
 }
