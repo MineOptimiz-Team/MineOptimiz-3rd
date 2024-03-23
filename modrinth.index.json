@@ -6,6 +6,21 @@
     "files": [
         {
             "downloads": [
+                "https://mirror.ghproxy.com/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 130004,
+            "hashes": {
+                "sha1": "831590b1082e5ca8fee5821589105ec536d7dcff",
+                "sha512": "953431761903b106afba773d4d609beceb6db0e1eaeffc213a13e43cc632097cff22058b55de24fdbada97f550f6b78ccf9445336e20583496785da2290cb6e4"
+            },
+            "path": "mods/exordium-fabric-1.0.3-mc1.20.jar"
+        },
+        {
+            "downloads": [
                 "https://mirror.ghproxy.com/https://github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.2/skinlayers3d-fabric-1.6.2-mc1.20.1.jar"
             ],
             "env": {
