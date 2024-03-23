@@ -6,21 +6,6 @@
     "files": [
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/tr7zw/Exordium/releases/download/1.2.1-1.20.1/exordium-fabric-1.2.1-mc1.20.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 324389,
-            "hashes": {
-                "sha1": "4e905da34fca10f2d263c05103966727e127bf32",
-                "sha512": "e27a8ea01478c8c8d2d101ae567b6c708da1b6ff932fb1840922c518f2e918dc8182b4e5220d71ea0155063b030cd2f82818a320fce33f2f1eeed6a512641b45"
-            },
-            "path": "mods/exordium-fabric-1.2.1-mc1.20.1.jar"
-        },
-        {
-            "downloads": [
                 "https://mirror.ghproxy.com/https://github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.2/skinlayers3d-fabric-1.6.2-mc1.20.1.jar"
             ],
             "env": {
