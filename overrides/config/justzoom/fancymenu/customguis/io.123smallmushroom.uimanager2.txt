@@ -1,3 +1,0 @@
-identifier = io.123smallmushroom.uimanager2
-title = 
-allowesc = true
