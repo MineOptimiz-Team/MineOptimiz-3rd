@@ -81,22 +81,22 @@
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.4/Update.bat"
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5/Update.bat"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2704,
+            "fileSize": 3083,
             "hashes": {
-                "sha1": "46d9788bd4aa3a9d0210bb6c3c10a754656578ab",
-                "sha512": "2fdc1ba5762af537e545cf098d813758346c59e9145c4f4003c1f85aef2248a180171171394978d789ba7039b990c8829490182723da2b4b890b8182b854c024"
+                "sha1": "233b5a08f282c787739728ca0bc24d82f4280aff",
+                "sha512": "8b083ec973c7c80555db5120eb6eb10ac57448509c78e6581d2bf1b8dd78e36714ed55f4922b2b95c57fa6456d31a652ab16a6d8ecbd3bc0a4467ad289b2f37d"
             },
             "path": "Update.bat"
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.4/Update.sh"
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5/Update.sh"
             ],
             "env": {
                 "client": "required",
@@ -111,31 +111,31 @@
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.4/update-dev.sh"
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5/update-dev.sh"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1782,
+            "fileSize": 2095,
             "hashes": {
-                "sha1": "116d7b0b1cb7dee518554074f3b55c892c4705cb",
-                "sha512": "8db83f0c7db20c2ca98d9710d58300ad2c9ab2f6f8e47e66d56403ef3141b0fbd91998fa23b488dacd8f09aa0ae60471cf01dc200c16f12dd2be6ed6e4ba36ad"
+                "sha1": "07986875afcf437c26b14473ab853f8b7f02132d",
+                "sha512": "b9101888afc05b9846a90a4f000de160a9db3d47750bec6dedc13835e130dae49df217ee179523e269fe4adab8bb199379e310816db592c03e53aefed2ca89ee"
             },
             "path": "config/fancymenu/assets/Update/update-dev.sh"
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.4/update-stable.sh"
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5/update-stable.sh"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1774,
+            "fileSize": 2087,
             "hashes": {
-                "sha1": "64a0bd3efe04ffe00b01e2bd9f9a290d4e64ed35",
-                "sha512": "50274d7968bf5ae32f5504914d0261e43f3b40281ed64460adc1bb7a86ba37954a4b9280c292cd3e7eaae5bdb37d200557760984a20e348fed84ab30ef517be6"
+                "sha1": "33e7d962513e402f408ae96bd86b18bdc3be0a21",
+                "sha512": "10884ccfe7886004cb4068291b7ec20269ca9b15c4adfcebdf3d49b6d19ac03aea10f3ee7a05c160e6d87e91d8b20422a4eb69b8e585fd42bdb896f29b67811c"
             },
             "path": "config/fancymenu/assets/Update/update-stable.sh"
         },
