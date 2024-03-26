@@ -33,11 +33,6 @@ jobs:
           rm README.md
           cd overrides
           mv h.txt options.txt
-          cd config
-          cd slight*
-          mv *.byd cts.groovy
-          cd ..
-          cd ..
           cd ..
           zip -r "./MineOptimiz.zip" ./*
           mv MineOptimiz.zip "MineOptimiz Fabric 1.20.1-Dev-${{ env.SHORT_SHA }}.mrpack"
