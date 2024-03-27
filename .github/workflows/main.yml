@@ -18,16 +18,13 @@ jobs:
       - run: git config user.name "${{ github.actor }}"
         if: ${{ github.repository_owner != 'github-actions' }}   
         
-      - name: Fix Timezone
-        uses: szenius/set-timezone@v1.2
-        with:
-          timezoneLinux: "Asia/Shanghai"
-          timezoneWindows: "China Standard Time"
-          timezoneMacos: "Asia/Shanghai"
-        
-      - name: Add date and time to the file name
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M')"
+      - name: Get short SHA
+        run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
+
+      - name: Append short SHA to file content
+        run: |
+          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" modrinth.index.json
+          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
@@ -43,10 +40,10 @@ jobs:
           cd ..
           cd ..
           cd ..
-          zip -r "./MineOptimiz OptiFabric v1.19.4-Dev-${{ steps.date.outputs.date }}.zip" ./*
+          zip -r "./MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.zip" ./*
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz OptiFabric v1.19.4-Dev-${{ steps.date.outputs.date }}.zip
-          path: "./MineOptimiz OptiFabric v1.19.4-Dev-${{ steps.date.outputs.date }}.zip"
+          name: MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.zip
+          path: "./MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.zip"
      
