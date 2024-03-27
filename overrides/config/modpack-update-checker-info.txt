@@ -1,2 +1,2 @@
- ## MineOptimiz OptiFabric
-[The latest dev release](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.20.1-Forge-Dev)
+ ## MineOptimiz Fabric
+[The latest stable release](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.20.1)
