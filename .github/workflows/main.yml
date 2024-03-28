@@ -32,6 +32,7 @@ jobs:
           rm -rf .git
           rm README.md
           rm English.md
+          rm meta.json
           cd overrides
           cd config
           mv emi.byd emi.css 
