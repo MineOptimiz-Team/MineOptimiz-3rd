@@ -41,10 +41,11 @@ jobs:
           cd ..
           cd ..
           cd ..
-          zip -r "./MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.zip" ./*
+          zip -r "./MineOptimiz.zip" ./*
+          mv *.zip MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.mrpack
       
       - uses: actions/upload-artifact@v2
         with:
           name: MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.zip"
+          path: "./MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.mrpack"
      
