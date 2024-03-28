@@ -42,7 +42,7 @@ jobs:
           cd ..
           cd ..
           zip -r "./MineOptimiz.zip" ./*
-          mv *.zip MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.mrpack
+          mv *.zip "MineOptimiz OptiFabric v1.19.4-Dev-${{ env.SHORT_SHA }}.mrpack"
       
       - uses: actions/upload-artifact@v2
         with:
