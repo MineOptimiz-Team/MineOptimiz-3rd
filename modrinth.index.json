@@ -3,7 +3,98 @@
         "fabric-loader": "0.15.7",
         "minecraft": "1.19.4"
     },
-    "files": [],
+    "files": [
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/DynYZEae/versions/MaOM64pW/exordium-fabric-1.0.3-mc1.19.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 123921,
+            "hashes": {
+                "sha1": "54ea87c77a50d6964edca6ef82c4e4fd251c50bc",
+                "sha512": "b83a094568c11cc50535ac8506663bb0172ae9874a0fcf1dee5f7a6b096179f48f110bb376c336bbf57f998152e671950780770d3c1b3f8deda346a2bdd0b938"
+            },
+            "path": "mods/exordium-fabric-1.0.3-mc1.19.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/zV5r3pPn/versions/Qjcg7Sz1/skinlayers3d-fabric-1.6.2-mc1.19.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 463669,
+            "hashes": {
+                "sha1": "90ddc6016efe73a78e508149d154b12ca5706357",
+                "sha512": "18dc10ce9d015f7bd00f5c03a391696e113596dbeda0465cc7dcc5340ca123d4374b361a1ac5f6a5075d8d5d75ce71521fa5bcc444e106f96582fa17b3674f46"
+            },
+            "path": "mods/skinlayers3d-fabric-1.6.2-mc1.19.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/MPCX6s5C/versions/q3ihyQC8/notenoughanimations-fabric-1.7.1-mc1.19.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 415116,
+            "hashes": {
+                "sha1": "97a44c3865a6863f1a8d79f61f221b9d852a5000",
+                "sha512": "2cae0c945de20905518e4c98654f1228fb77441e69f922de15f0a1cd7880091608237555c70101567cad77a8e4b6510a6231eb6673369a525cf7de4e225666b7"
+            },
+            "path": "mods/notenoughanimations-fabric-1.7.1-mc1.19.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/UvJN5Cy4/entityculling-fabric-1.6.2-mc1.19.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 56582,
+            "hashes": {
+                "sha1": "3a9381229408afa9d2c7d7e3fad017e5079ab20c",
+                "sha512": "99fcfe1be5be7abd8f1f86c305a8b0fca9a5f5fa3f486306b804cb694ce6d0fe5a5b2465ae2b913dd720600d9c64cec3734541c7dd4b7c320dc7a3c9035c5cc1"
+            },
+            "path": "mods/entityculling-fabric-1.6.2-mc1.19.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/BQwVkNAv/fancymenu_fabric_2.14.9_MC_1.19.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1378654,
+            "hashes": {
+                "sha1": "094e3098b5d6d5ccb20de66137cfb967fa8d5ad7",
+                "sha512": "5fc097b04bc0699430754bf7e05bcb7232ae7366796996514a18c91da6b429a6518253dcaa377f8d72e51bb127b0dfbac67111abf1212f28094571e49df0c237"
+            },
+            "path": "mods/fancymenu_fabric_2.14.9_MC_1.19.4.jar"
+        },
+        {
+            "downloads": [
+                "https://optifine.cn/files/OptiFine_1.19.4_HD_U_I4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 7049104,
+            "hashes": {
+                "sha1": "253e9d29c6826c134fbdeea074d1d91c3410225c",
+                "sha512": "4ae3ecc7e01229d7b6b96d0f4fe105ff6566520468e342fde68b53e0cd091a73b542d9b15e81efcee664e8f0166c7ec2a84a65c281112db53c3aab0d80d5e44c"
+            },
+            "path": "mods/OptiFine_1.19.4_HD_U_I4.jar"
+        }
+    ],
     "formatVersion": 1,
     "game": "minecraft",
     "name": "MineOptimiz OptiFabric v1.19.4-Dev-buildtype",
