@@ -1,0 +1,35 @@
+type = menu
+
+customization-meta {
+  identifier = com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Notice:如果更新日志显示异常，请尝试将Markdown关闭
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = vanillabtn:400975
+  x = -27
+  width = 364
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 6daf2491-6838-4a0a-9827-408dacc977f01711619616502
+  y = -14
+  alignment = right
+  height = 40
+}
+

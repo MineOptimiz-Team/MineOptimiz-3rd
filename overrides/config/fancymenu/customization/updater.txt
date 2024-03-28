@@ -38,7 +38,7 @@ customization {
   action = addbutton
   actionid = aca61669-8bcb-4b02-89f9-5f968d74d3e21706345394975
   y = -66
-  label = 使用模组更新（未实现）
+  label = 检查更新
   height = 20
 }
 
