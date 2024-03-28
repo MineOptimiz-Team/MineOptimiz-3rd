@@ -34,7 +34,7 @@ gamma:1.0
 renderDistance:6
 simulationDistance:6
 entityDistanceScaling:1.0
-guiScale:0
+guiScale:2
 particles:1
 maxFps:260
 graphicsMode:0
@@ -120,11 +120,10 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.c
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
-key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.antighost.reveal:key.keyboard.g
 key_config.chatimage.key:key.keyboard.end
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.ingameime.hotkey:key.keyboard.home
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2

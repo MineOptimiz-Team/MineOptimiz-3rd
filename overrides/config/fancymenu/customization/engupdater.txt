@@ -5,6 +5,7 @@ customization-meta {
   randomgroup = 1
   renderorder = foreground
   randommode = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:541b8376-f1bc-4cd3-b460-6c7619fa28851711602788861] = en_us
   randomonlyfirsttime = false
 }
 
@@ -23,7 +24,7 @@ customization {
   action = addbutton
   actionid = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
   y = -66
-  label = Update with scripts
+  label = Update with Shell/Batch
   height = 20
 }
 
@@ -42,15 +43,16 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = element
   loopbackgroundanimations = true
   restartbackgroundanimations = true
+  orientation_element = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
   buttonaction = closegui%btnaction_splitter_fm%
-  x = 164
+  x = -99
   width = 162
   action = addbutton
   actionid = d3f5e7c1-6ef9-4131-b602-d9226bcea5d31706964540895
-  y = 255
+  y = 32
   label = Back
   height = 20
 }

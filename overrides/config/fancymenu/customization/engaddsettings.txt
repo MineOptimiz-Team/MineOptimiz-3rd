@@ -4,6 +4,7 @@ customization-meta {
   identifier = net.minecraft.class_429
   randomgroup = 1
   renderorder = foreground
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:6b23e752-a2ca-49c0-8d02-e54db2d0d69e1711602432199] = en_us
   randommode = false
   randomonlyfirsttime = false
 }

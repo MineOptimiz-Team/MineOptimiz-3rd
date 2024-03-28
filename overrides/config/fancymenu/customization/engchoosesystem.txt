@@ -5,6 +5,7 @@ customization-meta {
   randomgroup = 1
   renderorder = foreground
   randommode = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:b5bed607-bc4e-48c4-b43b-255c62cac5d51711602912550] = en_us
   randomonlyfirsttime = false
 }
 

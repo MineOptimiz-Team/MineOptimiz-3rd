@@ -5,6 +5,7 @@ customization-meta {
   randomgroup = 1
   renderorder = foreground
   randommode = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:081cc9c0-9b0c-46dd-8126-53ff62fdebe81711602414018] = zh_cn
   randomonlyfirsttime = false
 }
 
@@ -36,10 +37,5 @@ customization {
   y = 72
   label = MineOptimiz设置
   height = 20
-}
-
-customization {
-  identifier = %id=505184%
-  action = hidebutton
 }
 

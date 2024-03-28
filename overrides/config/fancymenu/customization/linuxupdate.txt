@@ -6,6 +6,7 @@ customization-meta {
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:40f5f8d9-0230-41b7-9523-0bacaef7ff431711602929924] = zh_cn
 }
 
 customization {

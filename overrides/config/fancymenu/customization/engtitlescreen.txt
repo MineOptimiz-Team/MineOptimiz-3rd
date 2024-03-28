@@ -6,6 +6,7 @@ customization-meta {
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:c823af95-9d47-47da-b601-9a00919aba261711602317795] = en_us
 }
 
 customization {
@@ -118,10 +119,10 @@ customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 133
+  width = 336
   action = deep_customization_element:title_screen_branding
   actionid = 06de3a86-7616-4da3-8891-95d20dac53c11692429698545
-  y = 276
+  y = 403
   height = 10
 }
 
@@ -150,13 +151,13 @@ customization {
 customization {
   orientation = top-centered
   splash_color = #ffff00
-  hidden = false
-  x = 87
+  hidden = true
+  x = 96
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
   actionid = ca48ff86-5f85-4067-b868-54e8092317d21692429698547
-  y = 102
+  y = 106
   height = 30
 }
 
@@ -225,5 +226,22 @@ customization {
   y = 3
   label = Mods
   height = 20
+}
+
+customization {
+  orientation = element
+  basecolor = #ffff00
+  shadow = true
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = true
+  orientation_element = 7b58748b-8f91-460e-80a7-0966f9c2a1b71693402698741
+  x = 196
+  actionid = 3a03e205-6e65-4c2e-92f1-8a52679f78591711602333083
+  action = addsplash
+  y = 44
+  text = Sensational!
 }
 

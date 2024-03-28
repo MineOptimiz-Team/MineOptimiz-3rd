@@ -5,7 +5,13 @@ customization-meta {
   randomgroup = 1
   renderorder = foreground
   randommode = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:ce7f1a79-91de-4038-9ea2-6692595d5c821711602466394] = zh_cn
   randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
 }
 
 customization {
@@ -50,7 +56,7 @@ customization {
   width = 146
   action = addbutton
   actionid = 7bf2b895-2cb1-48e5-8ca6-e6d07a595ce01706181715449
-  y = 77
+  y = 109
   label = 返回
   height = 20
 }

@@ -4,6 +4,7 @@ customization-meta {
   identifier = io.123smallmushroom.updatechoose
   randomgroup = 1
   renderorder = foreground
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:0729975d-1f0e-41e1-9b0a-7c9aba14467e1711602889878] = zh_cn
   randommode = false
   randomonlyfirsttime = false
 }

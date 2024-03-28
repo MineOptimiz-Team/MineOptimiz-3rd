@@ -6,6 +6,12 @@ customization-meta {
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:0e1e3e1c-a792-4c1a-97da-f6b617bac1591711602613547] = en_us
+}
+
+customization {
+  action = setscale
+  scale = 2
 }
 
 customization {
@@ -50,7 +56,7 @@ customization {
   width = 142
   action = addbutton
   actionid = 7bf2b895-2cb1-48e5-8ca6-e6d07a595ce01706181715449
-  y = 77
+  y = 80
   label = Back
   height = 20
 }
@@ -70,15 +76,16 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = element
   loopbackgroundanimations = true
   restartbackgroundanimations = true
+  orientation_element = 67c79b92-f3a0-4402-84d1-6d2ae943bda21706181597448
   buttonaction = opengui;io.123smallmushroom.update%btnaction_splitter_fm%
-  x = 174
+  x = 0
   width = 142
   action = addbutton
   actionid = 2a86c860-1fbf-44ea-b44c-4fae97dd21c21707293256765
-  y = 107
+  y = 38
   label = Update
   height = 21
 }

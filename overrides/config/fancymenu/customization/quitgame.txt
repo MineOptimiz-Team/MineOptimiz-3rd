@@ -14,12 +14,6 @@ customization {
 }
 
 customization {
-  baseheight = 576
-  action = autoscale
-  basewidth = 960
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
