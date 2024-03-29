@@ -204,17 +204,6 @@ customization {
 }
 
 customization {
-  path = guirequired/title.png
-  orientation = top-centered
-  x = -126
-  width = 247
-  action = addtexture
-  actionid = 7b58748b-8f91-460e-80a7-0966f9c2a1b71693402698741
-  y = 32
-  height = 65
-}
-
-customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
@@ -229,6 +218,17 @@ customization {
 }
 
 customization {
+  path = config/fancymenu/assets/title.png
+  orientation = top-centered
+  x = -122
+  width = 238
+  action = addtexture
+  actionid = dc65457d-d884-421b-91d4-5b99d21a36ed1711689968993
+  y = 23
+  height = 73
+}
+
+customization {
   orientation = element
   basecolor = #ffff00
   shadow = true
@@ -237,11 +237,11 @@ customization {
   refresh = false
   bouncing = true
   vanilla-like = true
-  orientation_element = 7b58748b-8f91-460e-80a7-0966f9c2a1b71693402698741
-  x = 196
+  orientation_element = dc65457d-d884-421b-91d4-5b99d21a36ed1711689968993
+  x = 182
   actionid = 3a03e205-6e65-4c2e-92f1-8a52679f78591711602333083
   action = addsplash
-  y = 44
-  text = Sensational!
+  y = 57
+  text = Cow Tools!
 }
 

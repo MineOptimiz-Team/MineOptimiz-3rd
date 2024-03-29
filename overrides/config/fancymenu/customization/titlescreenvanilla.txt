@@ -116,7 +116,7 @@ customization {
   width = 336
   action = deep_customization_element:title_screen_branding
   actionid = 06de3a86-7616-4da3-8891-95d20dac53c11692429698545
-  y = 276
+  y = 403
   height = 10
 }
 
@@ -198,17 +198,6 @@ customization {
 }
 
 customization {
-  path = guirequired/title.png
-  orientation = top-centered
-  x = -126
-  width = 247
-  action = addtexture
-  actionid = 7b58748b-8f91-460e-80a7-0966f9c2a1b71693402698741
-  y = 32
-  height = 65
-}
-
-customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
@@ -223,6 +212,17 @@ customization {
 }
 
 customization {
+  path = config/fancymenu/assets/title.png
+  orientation = top-centered
+  x = -123
+  width = 237
+  action = addtexture
+  actionid = 9bbb0a1d-0de5-48d0-9b58-034a5082903e1711689876511
+  y = 22
+  height = 67
+}
+
+customization {
   orientation = element
   basecolor = #ffff00
   shadow = true
@@ -231,11 +231,11 @@ customization {
   refresh = false
   bouncing = true
   vanilla-like = true
-  orientation_element = 7b58748b-8f91-460e-80a7-0966f9c2a1b71693402698741
-  x = 189
+  orientation_element = 9bbb0a1d-0de5-48d0-9b58-034a5082903e1711689876511
+  x = 182
   actionid = 800bb40e-9ffc-4a1b-b9e1-3945a464a1d51711602252785
   action = addsplash
-  y = 45
-  text = Excitement!
+  y = 53
+  text = It swings, it jives!
 }
 

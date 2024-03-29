@@ -37,7 +37,7 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openfile;guirequired/Update/Update.bat%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
+  buttonaction = openfile;config/fancymenu/assets/Update/Update.bat%btnaction_splitter_fm%
   x = -109
   width = 98
   action = addbutton
