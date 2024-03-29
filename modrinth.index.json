@@ -96,7 +96,7 @@
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5(OptiFabric-1.19.4)/Update.sh"
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.6(OptiFabric-1.19.4)/Update.sh"
             ],
             "env": {
                 "client": "required",
@@ -111,46 +111,46 @@
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5(OptiFabric-1.19.4)/Update.bat"
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.6(OptiFabric-1.19.4)/Update.bat"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 3158,
+            "fileSize": 3234,
             "hashes": {
-                "sha1": "be1f2bfb077caa1d44f11b798fd77d37d5243c03",
-                "sha512": "de1fb0226b77342ea6cf2667e5752b158e665613260e04b88fa10eace6b52500556b9582dca7cff753b8cbac27a7ad7453fcaea8fc19ea2b2d2985b7f231ed51"
+                "sha1": "1afb680cf2f80dd81f8c69452ecf61da3b99fac3",
+                "sha512": "be03d75bb41a2ae2d3ad093be9292444043fec83ca043ca1931553f30abcd2013f11488ba0c9c15c573f1e90220ef573f9e2c258d0960db47ea140e31d79c9b9"
             },
             "path": "Update.bat"
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5(OptiFabric-1.19.4)/update-dev.sh"
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.6(OptiFabric-1.19.4)/update-dev.sh"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2137,
+            "fileSize": 2213,
             "hashes": {
-                "sha1": "7008b8f880701bb8acb32933e52417ee30db70d3",
-                "sha512": "34cddf6170709be6c30bb633a1ed95086e906bfefd3ab0afc0a9288c51454fcd9e5138af16fa942e810e5a2dad6c801c8c013d4725b24d13c4560920fb627c38"
+                "sha1": "97b5e07e746126d8ef7c49bc890e96f4050873b3",
+                "sha512": "a2bc8a5187b3b2c79635f58e257a37a46c19b2af953894f9b1345567dbdf6cd4702ddba7ca9c7e467caa62e3de32e751628cf481e537f80f5f5e518e0cdbd55d"
             },
             "path": "config/fancymenu/assets/Update/update-dev.sh"
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5(OptiFabric-1.19.4)/update-stable.sh"
+                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.6(OptiFabric-1.19.4)/update-stable.sh"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2087,
+            "fileSize": 2219,
             "hashes": {
-                "sha1": "731b457b6859a10f5661f85c914e3315491d1174",
-                "sha512": "c65da0dddc8cea77d1e0497b6070119acc2986b683c70766dc96af3ae07b6dc5c26b03db834138ae6501f612260ae85a821bfa2e93da2ca4b17efafa6517bd5c"
+                "sha1": "e14a8ae894c00ec26348de90a5db7710ffd2204c",
+                "sha512": "28dbdf6a8d3b84f311ca35a6ab071347c7e015ab6877a70d4d696671352252bc1ae6b2ad783b02ed2b7204726a40cc8e07c8db6694f1c45a20beea9f1b66f4f9"
             },
             "path": "config/fancymenu/assets/Update/update-stable.sh"
         }
