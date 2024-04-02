@@ -153,6 +153,36 @@
                 "sha512": "b8fa05bb484a1a4391ae0910a388d0db3cdb4a23a2b6a6625c1c019105df488ed42802673a9add91768a2c1c3c189f802b1fc8aa8d5861eccc0d92dcdcf787ce"
             },
             "path": "config/fancymenu/assets/Update/update-stable.sh"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/rIC2XJV4/versions/G4LyPV8n/viafabricplus-2.7.5.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 12554035,
+            "hashes": {
+                "sha1": "6004971b2a3747c6da404dfa0186e25ccd7c71d3",
+                "sha512": "6c97f010d0fd9fab608ff72ff713188c8f8803d61e99761f86e1f3f525b455ed2ba04f4a3b83b7227e64f7da83a2019b4e6531301ec432e26ce396f1b32c40e6"
+            },
+            "path": "mods/viafabricplus-2.7.5.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/Xv2c5UZa/voicechat-fabric-1.19.4-2.5.10.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 8050194,
+            "hashes": {
+                "sha1": "1e5fbe9af0820cf77bf1519c2eba8f968f7f627b",
+                "sha512": "95d524da22356f5433fface01060e3b8c9997160ccbaf720a454deea9cd26ed3a04e9921cf364c70d40cee1114c19ae2bd76915951ed7f72b40ba99daf3cc2d4"
+            },
+            "path": "mods/voicechat-fabric-1.19.4-2.5.10.jar"
         }
     ],
     "formatVersion": 1,
