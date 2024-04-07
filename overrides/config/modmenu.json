@@ -25,6 +25,6 @@
   "hidden_configs": [],
   "disable_update_checker": [],
   "update_checker": true,
-  "button_update_badge": true,
+  "button_update_badge": false,
   "quick_configure": true
 }
