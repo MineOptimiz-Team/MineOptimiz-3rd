@@ -172,6 +172,6 @@
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz Fabric v1.20.1-Dev-buildtype",
-    "versionId": "Dev-buildtype"
+    "name": "MineOptimiz v3.201.0-fabric+buildtype",
+    "versionId": "3.201.0-fabric+buildtype"
 }

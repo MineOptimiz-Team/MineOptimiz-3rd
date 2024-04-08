@@ -30,15 +30,18 @@ jobs:
         run: |
           rm -rf .github
           rm -rf .git
+          rm meta.json
+          rm licenceofmods.txt
+          rm -rf versions
           rm README.md
           cd overrides
           mv h.txt options.txt
           cd ..
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz Fabric v1.20.1-Dev-${{ env.SHORT_SHA }}.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.201.0-fabric+${{ env.SHORT_SHA }}.mrpack"
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz Fabric v1.20.1-Dev-${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz Fabric v1.20.1-Dev-${{ env.SHORT_SHA }}.mrpack"
+          name: MineOptimiz v3.201.0-fabric+${{ env.SHORT_SHA }}.zip
+          path: "./MineOptimiz v3.201.0-fabric+${{ env.SHORT_SHA }}.mrpack"
      

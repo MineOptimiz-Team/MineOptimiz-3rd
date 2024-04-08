@@ -1,10 +1,10 @@
  {
   "schemaVersion": 7,
-  "currentVersion": "1.20.1-Dev-buildtype",
+  "currentVersion": "3.201.0-fabric+buildtype",
   "modpackName": "MineOptimiz",
   "modpackAuthor": "Small__Mushroom",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Dev/",
+  "updateCheckerId": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
