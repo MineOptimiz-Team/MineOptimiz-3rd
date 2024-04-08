@@ -81,66 +81,6 @@
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5/Update.bat"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 3083,
-            "hashes": {
-                "sha1": "233b5a08f282c787739728ca0bc24d82f4280aff",
-                "sha512": "8b083ec973c7c80555db5120eb6eb10ac57448509c78e6581d2bf1b8dd78e36714ed55f4922b2b95c57fa6456d31a652ab16a6d8ecbd3bc0a4467ad289b2f37d"
-            },
-            "path": "Update.bat"
-        },
-        {
-            "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5/Update.sh"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 588,
-            "hashes": {
-                "sha1": "07986875afcf437c26b14473ab853f8b7f02132d",
-                "sha512": "4ff814336cf2eea3e0d0b567f8b2302e8a1c9c208fabb14f3be358b0de2d1295d0e8882d671d63625e8e0dd3e4657209ed7f6f6f6502ec7d9dce18bfa2c6f366"
-            },
-            "path": "Update.sh"
-        },
-        {
-            "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5/update-dev.sh"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 2095,
-            "hashes": {
-                "sha1": "07986875afcf437c26b14473ab853f8b7f02132d",
-                "sha512": "b9101888afc05b9846a90a4f000de160a9db3d47750bec6dedc13835e130dae49df217ee179523e269fe4adab8bb199379e310816db592c03e53aefed2ca89ee"
-            },
-            "path": "config/fancymenu/assets/Update/update-dev.sh"
-        },
-        {
-            "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/SmallMushroom-offical/MineOptimiz-Updater/releases/download/v1.0.5/update-stable.sh"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 2087,
-            "hashes": {
-                "sha1": "33e7d962513e402f408ae96bd86b18bdc3be0a21",
-                "sha512": "10884ccfe7886004cb4068291b7ec20269ca9b15c4adfcebdf3d49b6d19ac03aea10f3ee7a05c160e6d87e91d8b20422a4eb69b8e585fd42bdb896f29b67811c"
-            },
-            "path": "config/fancymenu/assets/Update/update-stable.sh"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/rIC2XJV4/versions/MZzBB2Tu/viafabricplus-2.8.7.jar"
             ],
             "env": {
