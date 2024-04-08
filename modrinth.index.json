@@ -187,6 +187,6 @@
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz OptiFabric v1.19.4-Dev-buildtype",
-    "versionId": "Dev-buildtype"
+    "name": "MineOptimiz v3.194.0-optifabric+buildtype",
+    "versionId": "3.194.0-optifabric+buildtype"
 }
