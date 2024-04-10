@@ -6,7 +6,7 @@
     "files": [
         {
             "downloads": [
-                "https://github.moeyy.xyz/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar"
+                "https://hub.gitmirror.com/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar"
             ],
             "env": {
                 "client": "required",
@@ -21,7 +21,7 @@
         },
         {
             "downloads": [
-                "https://github.moeyy.xyz/https://github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.2/skinlayers3d-fabric-1.6.2-mc1.20.1.jar"
+                "https://hub.gitmirror.com/https://github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.2/skinlayers3d-fabric-1.6.2-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
@@ -51,7 +51,7 @@
         },
         {
             "downloads": [
-                "https://github.moeyy.xyz/https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar"
+                "https://hub.gitmirror.com/https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar"
             ],
             "env": {
                 "client": "required",
