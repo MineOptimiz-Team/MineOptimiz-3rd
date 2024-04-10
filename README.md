@@ -5,11 +5,11 @@
 ## 它支持什么版本？
 | Version（版本）       | Support（支持）            | End-of-life time   |
 |-----------------------|----------------------------|--------------------|
-| 1.20.1(Forge/NeoForge)| 活跃                       | 无计划             |
-| 1.20.1(Fabric/Quilt)  | 活跃                       | 无计划             |
-| 1.19.4(OptiFabric)    | 活跃(LTS 0.9.19)           | 2024/4/29          |
-| 1.19.4(FabricSodium)  | 结束支持                   | 已结束支持         |
-| 1.17.1                | 结束支持                   | 已结束支持         |
+| 1.20.1(Forge/NeoForge)| 活跃                        | 无计划              |
+| 1.20.1(Fabric/Quilt)  | 活跃                        | 无计划              |
+| 1.19.4(OptiFabric)    | 活跃(LTS 0.9.19)            | 2024/5/12          |
+| 1.19.4(FabricSodium)  | 结束支持                     | 已结束支持           |
+| 1.17.1                | 结束支持                     | 已结束支持           |
 | [1.12.2](https://www.123pan.com/s/jtiDVv-XMmWA.html)                | 活跃(不在Github)           | 无计划             |
 ## 下载
  - 你可以在[Github Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载稳定版或者在[Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions)下载测试版
