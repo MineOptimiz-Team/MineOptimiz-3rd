@@ -12,7 +12,7 @@
 | 1.17.1                | 结束支持                   | 已结束支持         |
 | [1.12.2](https://www.123pan.com/s/jtiDVv-XMmWA.html)                | 活跃(不在Github)           | 无计划             |
 ## 下载
- - 你可以在[Github Releases](https://github.com/SmallMushroom-offical/MineOptimiz-Next/releases)下载稳定版或者在[Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions)下载测试版
+ - 你可以在[Github Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载稳定版或者在[Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions)下载测试版
  - 除此之外，你也可以在[MineOptimiz的网站](https://123smallmushroom.github.io)下载
  - [1.12.2下载](https://www.123pan.com/s/jtiDVv-XMmWA.html) 
  ## 内置模组的Licence
