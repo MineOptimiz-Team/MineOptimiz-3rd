@@ -39,14 +39,6 @@ jobs:
           rm README.md
           cd overrides
           mv h.txt options.txt
-          cd ./config/fancymenu/assets/Update
-          mv update-dev.byd update-dev.sh
-          mv update-stable.sh update-stable.sh
-          cd ..
-          cd ..
-          cd ..
-          cd ..
-          cd ..
           zip -r "./MineOptimiz.zip" ./*
           mv MineOptimiz.zip "MineOptimiz v3.201.0-fabric+${{ env.SHORT_SHA }}.mrpack"
       
