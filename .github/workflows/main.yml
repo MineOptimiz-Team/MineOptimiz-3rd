@@ -28,10 +28,10 @@ jobs:
       
       - name: Package Modpack
         run: |
-          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.0(Fabric-1.20.1)/Update.sh" -O ./overrides/Update.sh
-          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.0(Fabric-1.20.1)/Update.bat" -O ./overrides/Update.bat
+          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.1(Fabric-1.20.1)/Update.sh" -O ./overrides/Update.sh
+          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.1(Fabric-1.20.1)/Update.bat" -O ./overrides/Update.bat
           mkdir -p ./overrides/config/fancymenu/assets/Update/
-          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.0(Fabric-1.20.1)/Update.ps1" -O ./overrides/config/fancymenu/assets/Update/Update.ps1
+          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.1(Fabric-1.20.1)/Update.ps1" -O ./overrides/config/fancymenu/assets/Update/Update.ps1
           wget "https://123smallmushroom.github.io/update-dev.sh" -O ./overrides/config/fancymenu/assets/Update/update-dev.sh
           wget "https://123smallmushroom.github.io/update-stable.sh" -O ./overrides/config/fancymenu/assets/Update/update-stable.sh
           rm -rf .github
