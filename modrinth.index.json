@@ -18,6 +18,21 @@
                 "sha512": "eafb7620cf4008abd5f4dc686e595d2c172ee8c5d49a5b743bc4228f3098a6feb062ad56cccc7f273d996f814755b0fff5a2e146ca2453d12cacc4974159db20"
             },
             "path": "mods/fancymenu_forge_3.1.5_MC_1.20.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/rR4tY6Cw/versions/aJZp3Aoe/modpack-update-checker-1.20.1-forge-0.12.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 2688669,
+            "hashes": {
+                "sha1": "2f03029edef9ab83d2bdb3dfc8f45ab8b756542e",
+                "sha512": "d972a0ec4cbfb86530c7e8eaa1cda0a5fa94708368e6c38938d9fd983341ba0515a9074c10760502921e4b6c281abb796dfe83466a47a45a9f15e1f6e26ab7c5"
+            },
+            "path": "mods/modpack-update-checker-1.20.1-forge-0.12.2.jar"
         }
     ],
     "formatVersion": 1,
