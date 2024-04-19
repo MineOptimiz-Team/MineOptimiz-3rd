@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.linuxupdate
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1712639015607
+  last_edited_time = 1712638987133
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:406cabf1-cc61-4ee2-bddc-2fa6ad481839-1712638993105] = [groups:][instances:480d7523-b0de-403f-97ee-9bce2dda8a7f-1712638997462;]
-  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:480d7523-b0de-403f-97ee-9bce2dda8a7f-1712638997462] = zh_cn
+  [loading_requirement_container_meta:76cad9e5-66ff-4dac-a98b-8b69803604a0-1712638937858] = [groups:][instances:7efcac86-1de8-496b-b93b-d513e39921d3-1712638973127;]
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:7efcac86-1de8-496b-b93b-d513e39921d3-1712638973127] = en_us
 }
 
 customization {
@@ -36,7 +36,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 返回
+  label = Back
   navigatable = true
   element_type = custom_button
   instance_identifier = e81f6b44-aa6c-4ddb-8b0b-63b32c634bd41707042390819
@@ -58,7 +58,7 @@ element {
 
 element {
   interactable = true
-  source = 请选择你的终端
+  source = Choose the terminal
   source_mode = direct
   shadow = true
   scale = 1.0

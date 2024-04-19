@@ -1,57 +1,118 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = io.123smallmushroom.update
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1712638771080
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:b6732704-66c7-4e21-9361-8e30dd043bb3-1712638738843] = [groups:][instances:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115;]
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115] = zh_cn
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  orientation = bottom-centered
-  loopbackgroundanimations = true
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = cba8000d-32b1-43d7-b54b-d05935c7cddb-1710515396770
+  [executable_action_instance:52320b1f-2e54-4c81-9ec0-275551fcd5a8-1712638742006][action_type:runcmd] = [windows:]; [macos:]; [linux:chmod 777 ./Update.sh];
+  [executable_action_instance:9c2e6cd4-574d-44ed-8b8d-f28763f1710e-1710515396770][action_type:opengui] = io.123smallmushroom.updatechoose
+  [executable_block:cba8000d-32b1-43d7-b54b-d05935c7cddb-1710515396770][type:generic] = [executables:52320b1f-2e54-4c81-9ec0-275551fcd5a8-1712638742006;9c2e6cd4-574d-44ed-8b8d-f28763f1710e-1710515396770;]
   restartbackgroundanimations = true
-  buttonaction = opengui;io.123smallmushroom.updatechoose%btnaction_splitter_fm%
-  x = 21
-  width = 100
-  action = addbutton
-  actionid = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
-  y = -66
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
   label = 使用脚本更新
-  height = 20
-}
-
-customization {
-  orientation = bottom-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = opengui;com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen%btnaction_splitter_fm%
-  x = -117
-  width = 100
-  action = addbutton
-  actionid = aca61669-8bcb-4b02-89f9-5f968d74d3e21706345394975
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-centered
+  x = 21
   y = -66
-  label = 使用模组更新（未实现）
+  width = 100
   height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 5227c247-8314-4dac-8841-ce684db4fac8-1710515396770
+  [loading_requirement_container_meta:5227c247-8314-4dac-8841-ce684db4fac8-1710515396770] = [groups:][instances:]
 }
 
-customization {
-  orientation = top-left
-  loopbackgroundanimations = true
+element {
+  button_element_executable_block_identifier = bd519e61-ddf5-44b7-bffd-d23f987135bd-1710515396770
+  [executable_action_instance:abbb282d-cfae-4ec4-8e74-690b143d5d1e-1710515396770][action_type:opengui] = com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen
+  [executable_block:bd519e61-ddf5-44b7-bffd-d23f987135bd-1710515396770][type:generic] = [executables:abbb282d-cfae-4ec4-8e74-690b143d5d1e-1710515396770;]
   restartbackgroundanimations = true
-  buttonaction = closegui%btnaction_splitter_fm%
-  x = 184
-  width = 115
-  action = addbutton
-  actionid = d3f5e7c1-6ef9-4131-b602-d9226bcea5d31706964540895
-  y = 255
-  label = 返回
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 检查更新
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = aca61669-8bcb-4b02-89f9-5f968d74d3e21706345394975
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-centered
+  x = -117
+  y = -66
+  width = 100
   height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = db14f92b-e6e4-4608-9d4b-c2e043153a2c-1710515396770
+  [loading_requirement_container_meta:db14f92b-e6e4-4608-9d4b-c2e043153a2c-1710515396770] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 95b2ad9c-0a7d-4586-9c3c-6eb766a1542b-1710515396771
+  [executable_action_instance:125f385b-8356-4be5-99a7-62debb82a7a6-1710515396771][action_type:closegui] = 
+  [executable_block:95b2ad9c-0a7d-4586-9c3c-6eb766a1542b-1710515396771][type:generic] = [executables:125f385b-8356-4be5-99a7-62debb82a7a6-1710515396771;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 返回
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = d3f5e7c1-6ef9-4131-b602-d9226bcea5d31706964540895
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
+  x = -78
+  y = 34
+  width = 115
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 9495b619-c802-42e3-b9b5-b8387d6cf1ff-1710515396771
+  [loading_requirement_container_meta:9495b619-c802-42e3-b9b5-b8387d6cf1ff-1710515396771] = [groups:][instances:]
 }
 

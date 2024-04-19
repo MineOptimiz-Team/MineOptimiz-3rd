@@ -1,3 +1,0 @@
-identifier = io.123smallmushroom.quitgame
-title = 
-allowesc = true

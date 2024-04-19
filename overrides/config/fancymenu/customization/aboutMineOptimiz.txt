@@ -1,89 +1,141 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = io.123smallmushroom.about
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1710547174319
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:9fe12904-a0ee-4e54-91c1-57199820ad01-1710547069749] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  orientation = mid-centered
-  shadow = false
-  x = -69
-  action = addtext
-  actionid = 98ba340c-4ad2-4817-9079-ca24db7edecc1705820353264
-  y = -39
-  scale = 1.0
-  alignment = left
-  value = MineOptimiz Version:{"placeholder":"mpuc:current-modpack-version"}
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
 }
 
-customization {
-  orientation = mid-centered
-  shadow = false
-  x = -69
-  action = addtext
-  actionid = d30455d5-2e7f-4f05-9b92-08f0daa38f291705820480550
-  y = -25
-  scale = 1.0
-  alignment = left
-  value = Minecraft Version:%mcversion%
-}
-
-customization {
-  orientation = mid-centered
-  shadow = false
-  x = -69
-  action = addtext
-  actionid = 0f962544-09f3-4461-a070-3d3f370cb5211705820512195
-  y = -13
-  scale = 1.0
-  alignment = left
-  value = ModLoader:NeoForge %version:forge%
-}
-
-customization {
-  orientation = mid-centered
-  shadow = false
-  x = -69
-  action = addtext
-  actionid = 8927dcec-4f3d-4467-a96b-7614bf8601ce1705820562463
-  y = 11
-  scale = 1.0
-  alignment = left
-  value = You:%playername%
-}
-
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
+element {
+  button_element_executable_block_identifier = 7e654eb0-5e09-4ca6-90ec-a8cdcc075f89-1710515396686
+  [executable_action_instance:887c5392-18fe-4698-a271-fb7964206bda-1710515396686][action_type:closegui] = 
+  [executable_block:7e654eb0-5e09-4ca6-90ec-a8cdcc075f89-1710515396686][type:generic] = [executables:887c5392-18fe-4698-a271-fb7964206bda-1710515396686;]
   restartbackgroundanimations = true
-  buttonaction = closegui;%btnaction_splitter_fm%
-  x = -54
-  width = 100
-  action = addbutton
-  actionid = 10f1cad7-43f2-45f2-a3ab-e30ea0e005841705820700989
-  y = 66
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
   label = 返回
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 10f1cad7-43f2-45f2-a3ab-e30ea0e005841705820700989
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -54
+  y = 80
+  width = 100
   height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 04fbc984-fa78-475d-b912-e481f4dba685-1710515396686
+  [loading_requirement_container_meta:04fbc984-fa78-475d-b912-e481f4dba685-1710515396686] = [groups:][instances:]
 }
 
-customization {
-  orientation = mid-centered
-  shadow = false
-  x = -69
-  action = addtext
-  actionid = 1be0148f-5af3-4753-99c1-bb805c05b2bd1705829854156
-  y = -1
+element {
+  interactable = true
+  source = MineOptimiz Version:{"placeholder":"mpuc:current-modpack-version"}%n%Minecraft Version:{"placeholder":"mcversion"}%n%Mod Loader:{"placeholder":"loadername"} {"placeholder":"modversion","values":{"modid":"fabricloader"}}
+  source_mode = direct
+  shadow = true
   scale = 1.0
-  alignment = left
-  value = Sinytra Connector Version:%version:connectormod%
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = a4ceb438-fbe3-4faa-b7c1-ef7ce6bfba47-1710545660341
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -101
+  y = -55
+  width = 200
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c27b0047-f956-4cc6-9011-6f06a5c29496-1710545660341
+  [loading_requirement_container_meta:c27b0047-f956-4cc6-9011-6f06a5c29496-1710545660341] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = Java Version:{"placeholder":"javaver"}%n%OpenGL:{"placeholder":"glver"}%n%You:{"placeholder":"playername"}
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 983963a9-d6f8-4f08-8d8e-4958ca7e1964-1710546877478
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -102
+  y = -23
+  width = 200
+  height = 51
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c770dc6b-f694-490a-b41d-164d78f3eb0f-1710546877478
+  [loading_requirement_container_meta:c770dc6b-f694-490a-b41d-164d78f3eb0f-1710546877478] = [groups:][instances:]
 }
 

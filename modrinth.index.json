@@ -3,7 +3,23 @@
         "neoforge": "47.1.84",
         "minecraft": "1.20.1"
     },
-    "files": [],
+    "files": [
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jXQg9Trb/fancymenu_forge_3.1.5_MC_1.20.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 2688669,
+            "hashes": {
+                "sha1": "11b5711db4b2811c590aa228b7ff6b42cb4f5e50",
+                "sha512": "eafb7620cf4008abd5f4dc686e595d2c172ee8c5d49a5b743bc4228f3098a6feb062ad56cccc7f273d996f814755b0fff5a2e146ca2453d12cacc4974159db20"
+            },
+            "path": "mods/fancymenu_forge_3.1.5_MC_1.20.1.jar"
+        }
+    ],
     "formatVersion": 1,
     "game": "minecraft",
     "name": "MineOptimiz v3.201.0-forge+buildtype",
