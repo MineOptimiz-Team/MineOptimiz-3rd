@@ -33,6 +33,36 @@
                 "sha512": "d972a0ec4cbfb86530c7e8eaa1cda0a5fa94708368e6c38938d9fd983341ba0515a9074c10760502921e4b6c281abb796dfe83466a47a45a9f15e1f6e26ab7c5"
             },
             "path": "mods/modpack-update-checker-1.20.1-forge-0.12.2.jar"
+        },
+        {
+            "downloads": [
+                "https://mirror.ghproxy.com/https://github.com/tr7zw/NotEnoughAnimations/releases/download/1.7.1/notenoughanimations-forge-1.7.1-mc1.20.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 420640,
+            "hashes": {
+                "sha1": "a840645473508e28eb5f48afc197d187a3a4c178",
+                "sha512": "70a45be6285d23c4bd792ac1213da667ceab467d84373000c06cf3e8b66845942dfc83bb47ffa76974fad390dcefc74d5b09ece46158b3b0da97b68996b44171"
+            },
+            "path": "mods/notenoughanimations-forge-1.7.1-mc1.20.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/zV5r3pPn/versions/z7pEP8p7/skinlayers3d-forge-1.6.2-mc1.20.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 469610,
+            "hashes": {
+                "sha1": "b0ad1fe442d5442a0758b5ac7a0a77e2f68b0967",
+                "sha512": "6f5fa7ee75cfe8410080504f76d92d8fc5c514a28644c5579110f76fe5cad5d210662c2ea20ead7d381bab6de8cd0b7b403cefd2376f9539a6cbf910af136e07"
+            },
+            "path": "mods/skinlayers3d-forge-1.6.2-mc1.20.1.jar"
         }
     ],
     "formatVersion": 1,
