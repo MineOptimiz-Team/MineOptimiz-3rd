@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.20.1-neoforge-Dev
+      - 1.20.1-forge-Dev
   workflow_dispatch:
 
 jobs:
