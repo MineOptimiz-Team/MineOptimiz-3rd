@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.20.1-Forge-Dev
+      - 1.20.1-neoforge-Dev
   workflow_dispatch:
 
 jobs:
@@ -28,24 +28,24 @@ jobs:
       
       - name: Package Modpack
         run: |
-          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(Forge-1.20.1)/Update.sh" -O ./overrides/Update.sh
-          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(Forge-1.20.1)/Update.bat" -O ./overrides/Update.bat
+          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(neoforge-1.20.1)/Update.sh" -O ./overrides/Update.sh
+          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(neoforge-1.20.1)/Update.bat" -O ./overrides/Update.bat
           mkdir -p ./overrides/config/fancymenu/assets/Update/
           mkdir -p ./overrides/guirequired/Update
-          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(Forge-1.20.1)/Update.ps1" -O ./overrides/config/fancymenu/assets/Update/Update.ps1
-          wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Forge-Dev/overrides/guirequired/Update/update-dev.sh" -O ./overrides/guirequired/Update/update-dev.sh
-          wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Forge-Dev/overrides/guirequired/Update/update-stable.sh" -O ./overrides/guirequired/Update/update-stable.sh
-          wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Forge-Dev/overrides/guirequired/Update/Update.bat" -O ./overrides/guirequired/Update/Update.bat
+          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(neoforge-1.20.1)/Update.ps1" -O ./overrides/config/fancymenu/assets/Update/Update.ps1
+          wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-neoforge-Dev/overrides/guirequired/Update/update-dev.sh" -O ./overrides/guirequired/Update/update-dev.sh
+          wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-neoforge-Dev/overrides/guirequired/Update/update-stable.sh" -O ./overrides/guirequired/Update/update-stable.sh
+          wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-neoforge-Dev/overrides/guirequired/Update/Update.bat" -O ./overrides/guirequired/Update/Update.bat
           rm -rf .github
           rm -rf .git
           rm README.md
           cd overrides
           cd ..
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.0-forge+${{ env.SHORT_SHA }}.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.201.0-neoforge+${{ env.SHORT_SHA }}.mrpack"
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz v3.201.0-forge+${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz v3.201.0-forge+${{ env.SHORT_SHA }}.mrpack"
+          name: MineOptimiz v3.201.0-neoforge+${{ env.SHORT_SHA }}.zip
+          path: "./MineOptimiz v3.201.0-neoforge+${{ env.SHORT_SHA }}.mrpack"
      
