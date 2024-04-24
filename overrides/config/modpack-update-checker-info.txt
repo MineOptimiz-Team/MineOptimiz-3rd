@@ -1,2 +1,2 @@
- ## MineOptimiz OptiFabric
+ ## MineOptimiz NeoForge
 [The latest dev release](https://nightly.link/SmallMushroom-offical/MineOptimiz/workflows/main/1.20.1-Forge-Dev)

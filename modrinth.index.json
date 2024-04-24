@@ -67,6 +67,6 @@
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz v3.201.0-forge+buildtype",
-    "versionId": "3.201.0-forge+buildtype"
+    "name": "MineOptimiz v3.201.0-neoforge+buildtype",
+    "versionId": "3.201.0-neoforge+buildtype"
 }

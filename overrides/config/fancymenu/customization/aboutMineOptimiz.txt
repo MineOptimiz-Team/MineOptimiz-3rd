@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.about
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710547174319
+  last_edited_time = 1713937094672
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:9fe12904-a0ee-4e54-91c1-57199820ad01-1710547069749] = [groups:][instances:]
+  [loading_requirement_container_meta:881688e6-1c6a-4a28-8746-6e6fe3897a6d-1713936955889] = [groups:][instances:]
 }
 
 customization {
@@ -57,7 +57,7 @@ element {
 
 element {
   interactable = true
-  source = MineOptimiz Version:{"placeholder":"mpuc:current-modpack-version"}%n%Minecraft Version:{"placeholder":"mcversion"}%n%Mod Loader:{"placeholder":"loadername"} {"placeholder":"modversion","values":{"modid":"fabricloader"}}
+  source = MineOptimiz Version:{"placeholder":"mpuc:current-modpack-version"}%n%Minecraft Version:{"placeholder":"mcversion"}%n%Mod Loader:NeoForge {"placeholder":"modversion","values":{"modid":"forge"}}
   source_mode = direct
   shadow = true
   scale = 1.0
