@@ -21,33 +21,33 @@
         },
         {
             "downloads": [
-                "https://gh.ddlc.top/https://github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.2/skinlayers3d-fabric-1.6.2-mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/zV5r3pPn/versions/EiRKrXtw/skinlayers3d-fabric-1.6.3-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 466157,
+            "fileSize": 471378,
             "hashes": {
-                "sha1": "95eb34ed56dc03d1e2476a5aa98b442a0662a6c1",
-                "sha512": "3c289fd8a8d90ef25692f480bf00ae2a9833ffcc7917cecdfb09dff3fcee246d1d1f7b30d94f70d26776aa9c38896ab789b8335489abb6bf0aebc4d6973764a3"
+                "sha1": "fb05f74164c58e356fe5e97ad5a9ca5e044f4ee8",
+                "sha512": "f032d43a1063b4b2c2f355d91cedccee8e265afba7a99086d8bf419b32f1cc615778f0a7de0ac883df1da6b9c33606d0123ae56088950cb9d6ad2238d5bef7fd"
             },
-            "path": "mods/skinlayers3d-fabric-1.6.2-mc1.20.1.jar"
+            "path": "mods/skinlayers3d-fabric-1.6.3-mc1.20.1.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/VNTtoT5a/fancymenu_fabric_3.1.4_MC_1.20.1.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/pqlDnCPi/fancymenu_fabric_3.1.7_MC_1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2677817,
+            "fileSize": 2659337,
             "hashes": {
-                "sha1": "1f530c5d3ad49e1b54d22f64ed644caa9cab9c22",
-                "sha512": "23474023b90e3f803176261b6dfd1afc8179bafba3ac044fc080694e9526e17ca77e2cca904df3dfa3cefdf0e92d86b9d42f3529483232aacd10468e863a284b"
+                "sha1": "cf4cb00e93c0feec8ef4b9edd73b9c24f51ae9db",
+                "sha512": "76bfc2e51c1d4041ff97eb8af635d9516d5a2e78e3504e4a6b3c74f85aa628f79bea3a218e0ee6c55b363bf171dccf5e31be4f5a95880f356324fc553aed3732"
             },
-            "path": "mods/fancymenu_fabric_3.1.4_MC_1.20.1.jar"
+            "path": "mods/fancymenu_fabric_3.1.7_MC_1.20.1.jar"
         },
         {
             "downloads": [
