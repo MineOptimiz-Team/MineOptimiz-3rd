@@ -6,18 +6,18 @@
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jXQg9Trb/fancymenu_forge_3.1.5_MC_1.20.1.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/S14qTUt6/fancymenu_forge_3.1.7_MC_1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2688669,
+            "fileSize": 2670254,
             "hashes": {
-                "sha1": "11b5711db4b2811c590aa228b7ff6b42cb4f5e50",
-                "sha512": "eafb7620cf4008abd5f4dc686e595d2c172ee8c5d49a5b743bc4228f3098a6feb062ad56cccc7f273d996f814755b0fff5a2e146ca2453d12cacc4974159db20"
+                "sha1": "7bc8a557621792456c35fda77f694c53cf8c42f4",
+                "sha512": "799ea2129d6d56e241f10a61d3f70946325a0b72b306558d416f1e71db88a38a3f0e6cae574eb973420a18d6cfed47432d1796c462c1df525ee06249c71014e5"
             },
-            "path": "mods/fancymenu_forge_3.1.5_MC_1.20.1.jar"
+            "path": "mods/fancymenu_forge_3.1.7_MC_1.20.1.jar"
         },
         {
             "downloads": [
@@ -27,7 +27,7 @@
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2688669,
+            "fileSize": 365762,
             "hashes": {
                 "sha1": "2f03029edef9ab83d2bdb3dfc8f45ab8b756542e",
                 "sha512": "d972a0ec4cbfb86530c7e8eaa1cda0a5fa94708368e6c38938d9fd983341ba0515a9074c10760502921e4b6c281abb796dfe83466a47a45a9f15e1f6e26ab7c5"
@@ -51,18 +51,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/zV5r3pPn/versions/z7pEP8p7/skinlayers3d-forge-1.6.2-mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/zV5r3pPn/versions/XSez7fHy/skinlayers3d-forge-1.6.3-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 469610,
+            "fileSize": 475356,
             "hashes": {
-                "sha1": "b0ad1fe442d5442a0758b5ac7a0a77e2f68b0967",
-                "sha512": "6f5fa7ee75cfe8410080504f76d92d8fc5c514a28644c5579110f76fe5cad5d210662c2ea20ead7d381bab6de8cd0b7b403cefd2376f9539a6cbf910af136e07"
+                "sha1": "63bb5e40688bb4f6ef158c76b4c364f74683f6bc",
+                "sha512": "59837faa171e55e629da3043e6f8b1389c3531dc983aa2021b52d54617285543fb2648a06d54d975d7f311ac4b4f1e7a317266b514c696aa032af0b2879bce0b"
             },
-            "path": "mods/skinlayers3d-forge-1.6.2-mc1.20.1.jar"
+            "path": "mods/skinlayers3d-forge-1.6.3-mc1.20.1.jar"
         }
     ],
     "formatVersion": 1,
