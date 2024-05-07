@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.about
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1713937094672
+  last_edited_time = 1715089337823
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:881688e6-1c6a-4a28-8746-6e6fe3897a6d-1713936955889] = [groups:][instances:]
+  [loading_requirement_container_meta:42b75cca-022e-4d23-879e-d1523115a244-1715089324451] = [groups:][instances:]
 }
 
 customization {
@@ -99,7 +99,7 @@ element {
 
 element {
   interactable = true
-  source = Java Version:{"placeholder":"javaver"}%n%OpenGL:{"placeholder":"glver"}%n%You:{"placeholder":"playername"}
+  source = Sinytra Connector:{"placeholder":"modversion","values":{"modid":"connectormod"}}%n%Java Version:{"placeholder":"javaver"}%n%OpenGL:{"placeholder":"glver"}%n%You:{"placeholder":"playername"}
   source_mode = direct
   shadow = true
   scale = 1.0
