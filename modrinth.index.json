@@ -6,18 +6,18 @@
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/5rm89VPm/fancymenu_forge_3.2.0_MC_1.20.1.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jXQg9Trb/fancymenu_forge_3.1.5_MC_1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2693853,
+            "fileSize": 2688669,
             "hashes": {
-                "sha1": "0b805fa18fb979892d1eb036752005b559ce9925",
-                "sha512": "b0be3844d28780d18c418d8317a2c28b45d45793cc4137be33d6f46d8e91435e7b84ab392471f8c735e8fc13ce40d89ea9f3588a195da3d1d9343c1492af8be8"
+                "sha1": "11b5711db4b2811c590aa228b7ff6b42cb4f5e50",
+                "sha512": "eafb7620cf4008abd5f4dc686e595d2c172ee8c5d49a5b743bc4228f3098a6feb062ad56cccc7f273d996f814755b0fff5a2e146ca2453d12cacc4974159db20"
             },
-            "path": "mods/fancymenu_forge_3.2.0_MC_1.20.1.jar"
+            "path": "mods/fancymenu_forge_3.1.5_MC_1.20.1.jar"
         },
         {
             "downloads": [
