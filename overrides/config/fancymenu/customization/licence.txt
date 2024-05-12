@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.licence
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1712616841788
+  last_edited_time = 1715499846129
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:6b796482-c417-4bdc-9f4f-1167c67a59c6-1712616789410] = [groups:][instances:]
+  [loading_requirement_container_meta:ca78e4fd-e51b-42cd-8e91-9cd6b0af207d-1715499827900] = [groups:][instances:]
 }
 
 customization {
@@ -145,7 +145,7 @@ element {
 
 element {
   interactable = true
-  source = [source:web]https://mirror.ghproxy.com/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/licenceofmods.txt
+  source = [source:web]https://gh.ddlc.top/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/licenceofmods.txt
   source_mode = resource
   shadow = true
   scale = 1.0
