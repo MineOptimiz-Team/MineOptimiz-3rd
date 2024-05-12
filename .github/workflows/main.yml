@@ -23,8 +23,8 @@ jobs:
 
       - name: Append short SHA to file content
         run: |
-          sed -i "s/\(buildtype\)/1/g" modrinth.index.json
-          sed -i "s/\(buildtype\)/1/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(buildtype\)/2/g" modrinth.index.json
+          sed -i "s/\(buildtype\)/2/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
@@ -41,10 +41,10 @@ jobs:
           cd overrides
           cd ..
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.0-neoforge+1.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.201.0-neoforge+2.mrpack"
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz v3.201.0-neoforge+1.zip
-          path: "./MineOptimiz v3.201.0-neoforge+1.mrpack"
+          name: MineOptimiz v3.201.0-neoforge+2.zip
+          path: "./MineOptimiz v3.201.0-neoforge+2.mrpack"
      
