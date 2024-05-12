@@ -42,10 +42,10 @@
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 420640,
+            "fileSize": 425317,
             "hashes": {
-                "sha1": "a840645473508e28eb5f48afc197d187a3a4c178",
-                "sha512": "70a45be6285d23c4bd792ac1213da667ceab467d84373000c06cf3e8b66845942dfc83bb47ffa76974fad390dcefc74d5b09ece46158b3b0da97b68996b44171"
+                "sha1": "e51e63167f18672a8d34cdec9c1efe75914d18cb",
+                "sha512": "57eabf4723aaeb9c1256ada00667b7d4954f093ddb549fcb55c034ac28f55a8ba74cc742ed406451c1e785bc0a6ad7e0afcd47c185d957f9b78877b6c6944d87"
             },
             "path": "mods/notenoughanimations-forge-1.7.3-mc1.20.1.jar"
         },
@@ -59,8 +59,8 @@
             },
             "fileSize": 475379,
             "hashes": {
-                "sha1": "63bb5e40688bb4f6ef158c76b4c364f74683f6bc",
-                "sha512": "59837faa171e55e629da3043e6f8b1389c3531dc983aa2021b52d54617285543fb2648a06d54d975d7f311ac4b4f1e7a317266b514c696aa032af0b2879bce0b"
+                "sha1": "6b3994abd20b342448d5f966fd51df2ea8acffd4",
+                "sha512": "7714fb46adf756f868c8d88287fc363919934731d416ebaefac25d359734909a69fc7ae4ac82c85e42ee32c9fb9736d5dbede4ddbbd033c7d068ce88deecfdab"
             },
             "path": "mods/skinlayers3d-forge-1.6.4-mc1.20.1.jar"
         }
