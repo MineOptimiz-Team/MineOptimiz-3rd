@@ -38,6 +38,8 @@ jobs:
           wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Forge-Dev/overrides/guirequired/Update/Update.bat" -O ./overrides/guirequired/Update/Update.bat
           rm -rf .github
           rm -rf .git
+          rm -rf versions
+          rm meta.json
           rm README.md
           cd overrides
           cd ..

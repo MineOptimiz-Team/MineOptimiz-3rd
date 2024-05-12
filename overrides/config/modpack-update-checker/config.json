@@ -4,7 +4,7 @@
   "modpackName": "MineOptimiz NeoForge",
   "modpackAuthor": "Small__Mushroom",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://123smallmushroom.github.io/check-update-mineoptimiz/1.20.1-Forge/",
+  "updateCheckerId": "https://gh.ddlc.top/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Forge-Dev/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
