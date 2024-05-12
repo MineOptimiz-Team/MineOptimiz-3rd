@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.20.1-Forge-Dev
+      - 1.20.1-Forge
   workflow_dispatch:
 
 jobs:
@@ -23,8 +23,8 @@ jobs:
 
       - name: Append short SHA to file content
         run: |
-          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" modrinth.index.json
-          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(buildtype\)/1/g" modrinth.index.json
+          sed -i "s/\(buildtype\)/1/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
@@ -34,7 +34,7 @@ jobs:
           mkdir -p ./overrides/guirequired/Update
           wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(Forge-1.20.1)/Update.ps1" -O ./overrides/config/fancymenu/assets/Update/Update.ps1
           wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Forge-Dev/overrides/guirequired/Update/update-dev.sh" -O ./overrides/guirequired/Update/update-dev.sh
-          wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Forge-Dev/overrides/guirequired/Update/update-stable.sh" -O ./overrides/guirequired/Update/update-stable.sh
+          wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Forge-Dev/overrides/guirequired/Update/update.sh" -O ./overrides/guirequired/Update/update.sh
           wget "https://raw.githubusercontent.com/SmallMushroom-offical/MineOptimiz-Next/1.20.1-Forge-Dev/overrides/guirequired/Update/Update.bat" -O ./overrides/guirequired/Update/Update.bat
           rm -rf .github
           rm -rf .git
@@ -42,10 +42,10 @@ jobs:
           cd overrides
           cd ..
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.0-neoforge+${{ env.SHORT_SHA }}.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.201.0-neoforge+1.mrpack"
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz v3.201.0-neoforge+${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz v3.201.0-neoforge+${{ env.SHORT_SHA }}.mrpack"
+          name: MineOptimiz v3.201.0-neoforge+1.zip
+          path: "./MineOptimiz v3.201.0-neoforge+1.mrpack"
      
