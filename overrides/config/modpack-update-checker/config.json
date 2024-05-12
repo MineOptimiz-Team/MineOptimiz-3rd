@@ -1,10 +1,10 @@
- {
+{
   "schemaVersion": 7,
   "currentVersion": "3.201.0-neoforge+buildtype",
   "modpackName": "MineOptimiz NeoForge",
   "modpackAuthor": "Small__Mushroom",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://gh.ddlc.top/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Forge-Dev/",
+  "updateCheckerId": "https://123smallmushroom.github.io/check-update-mineoptimiz/1.20.1-Forge/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
