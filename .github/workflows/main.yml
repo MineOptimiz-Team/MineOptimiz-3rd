@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.20.1-Forge
+      - 1.20.1-Forge-Stable
   workflow_dispatch:
 
 jobs:
