@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = true
-  world = ganshity.lcf.icu:28103
-}
-

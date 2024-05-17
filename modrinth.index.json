@@ -1,102 +1,87 @@
 {
     "dependencies": {
-        "fabric-loader": "0.15.10",
-        "minecraft": "1.20.1"
+        "fabric-loader": "0.15.11",
+        "minecraft": "1.20.6"
     },
     "files": [
         {
             "downloads": [
-                "https://gh.ddlc.top/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar"
+                "https://cdn.modrinth.com/data/zV5r3pPn/versions/5JRnfHHV/skinlayers3d-fabric-1.6.4-mc1.20.6.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 130004,
+            "fileSize": 469298,
             "hashes": {
-                "sha1": "831590b1082e5ca8fee5821589105ec536d7dcff",
-                "sha512": "953431761903b106afba773d4d609beceb6db0e1eaeffc213a13e43cc632097cff22058b55de24fdbada97f550f6b78ccf9445336e20583496785da2290cb6e4"
+                "sha1": "944ee66cfb80868991a7fa30a94fb0aa10d64ee8",
+                "sha512": "dc860e54f7728f6747fa11182ddc6d174488ec287d440ba7b999135a6f1e896c50a87aa45ea8dda096fb7f64690801b4a1d80be8e34e719962bd5a442e4698bc"
             },
-            "path": "mods/exordium-fabric-1.0.3-mc1.20.jar"
+            "path": "mods/skinlayers3d-fabric-1.6.4-mc1.20.6.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/zV5r3pPn/versions/EiRKrXtw/skinlayers3d-fabric-1.6.3-mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/PPRVToaV/fancymenu_fabric_3.1.6_MC_1.20.5.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 471378,
+            "fileSize": 2686539,
             "hashes": {
-                "sha1": "fb05f74164c58e356fe5e97ad5a9ca5e044f4ee8",
-                "sha512": "f032d43a1063b4b2c2f355d91cedccee8e265afba7a99086d8bf419b32f1cc615778f0a7de0ac883df1da6b9c33606d0123ae56088950cb9d6ad2238d5bef7fd"
+                "sha1": "cc0485636cd9498fd737f77a2455c8f5e05af262",
+                "sha512": "595a93f9623ad8b196cd684c4db5c435f01632b18f535ede63841b9e875edee2d74e69f8f750f11760645fb0647248248d550be2d2d5702506b8e8059add7745"
             },
-            "path": "mods/skinlayers3d-fabric-1.6.3-mc1.20.1.jar"
+            "path": "mods/fancymenu_fabric_3.1.6_MC_1.20.5.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/VNTtoT5a/fancymenu_fabric_3.1.4_MC_1.20.1.jar"
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/sXviAk4G/entityculling-fabric-1.6.4-mc1.20.6.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2677817,
+            "fileSize": 63693,
             "hashes": {
-                "sha1": "1f530c5d3ad49e1b54d22f64ed644caa9cab9c22",
-                "sha512": "23474023b90e3f803176261b6dfd1afc8179bafba3ac044fc080694e9526e17ca77e2cca904df3dfa3cefdf0e92d86b9d42f3529483232aacd10468e863a284b"
+                "sha1": "a3eb167ad8d469d36548ea0fa900c2188ddcf33f",
+                "sha512": "afcb672e12b55084d22b3ed9b687b92d03151fa00a81591c2f84f69a44f2b221f0828e7414571c9e6ce3ac8f0b5aa38295ab1101c1accf8a04b51412bd43506c"
             },
-            "path": "mods/fancymenu_fabric_3.1.4_MC_1.20.1.jar"
+            "path": "mods/entityculling-fabric-1.6.4-mc1.20.6.jar"
         },
         {
             "downloads": [
-                "https://gh.ddlc.top/https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar"
+                "https://cdn.modrinth.com/data/MPCX6s5C/versions/roq966Ei/notenoughanimations-fabric-1.7.3-mc1.20.6.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 57722,
+            "fileSize": 418311,
             "hashes": {
-                "sha1": "cf43e7a58fb62f75d664cce1b14a6064774e6547",
-                "sha512": "d041998579b5b814c2e1c8deab3aa3cb76132c9130fd5abdbedbe4fda8d503cb333922ab5f33c40b2649c6e0504cd9f65c44246c6e346b8e9cfd8f7895fd7334"
+                "sha1": "48a98bbf919d71b74e40a3cbd2dcbe4e31293f7a",
+                "sha512": "338a29eb7926785703520471949041f7aeddccf480a703735f2fdacdad856983c7b019b7c94f3eb59b7bbd502a668338bd60c6ad5c28c60c5f3f2d22d22b0fbc"
             },
-            "path": "mods/entityculling-fabric-1.6.2-mc1.20.jar"
+            "path": "mods/notenoughanimations-fabric-1.7.3-mc1.20.6.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/MPCX6s5C/versions/YbSMjtFY/notenoughanimations-fabric-1.7.1-mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/rIC2XJV4/versions/apfXMRSv/ViaFabricPlus-3.2.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 415129,
+            "fileSize": 10845490,
             "hashes": {
-                "sha1": "c001e4abfeff9252635bab7c9b8d852082ba0fab",
-                "sha512": "d9729d824f1aac0e4118b65b4f0f81ba7e7fcf3d6c95ad9d98c17a6ad2595ca3e72c1f8b41ead3dfeb550e297d769a2a82ac97533086c15d0f7903dfc7f025e1"
+                "sha1": "d9199d9de4f19cbd5249ed600a724cdb9960650e",
+                "sha512": "5b189861f00697e5a7b4eb50fd6c064d41c5169cda34718c7af320c2ac7d72bcabb896693b60c23b6138341e7a691a7b2a3e2787ea9ac3a8b8e3d2e2f91f6d35"
             },
-            "path": "mods/notenoughanimations-fabric-1.7.1-mc1.20.1.jar"
+            "path": "mods/viafabricplus-3.2.1.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/rIC2XJV4/versions/MZzBB2Tu/viafabricplus-2.8.7.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 14644552,
-            "hashes": {
-                "sha1": "894642738f79793f4cfbe634441eabca147745a0",
-                "sha512": "0139ccd3413a22978f5774f35e5d7c63317e56eacc74c229c25cf0a5fe2d03f51adf4aca3fb7bd072b0590225b1e767cf6231f08197e9b7f88008afa0133e0a4"
-            },
-            "path": "mods/viafabricplus-2.8.7.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/9eGKb6K1/versions/blva78z9/voicechat-fabric-1.20.1-2.5.9.jar"
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/3DlfbtC3/voicechat-fabric-1.20.6-2.5.14.jar"
             ],
             "env": {
                 "client": "required",
@@ -104,14 +89,74 @@
             },
             "fileSize": 8060433,
             "hashes": {
-                "sha1": "e1644d397191c05181036b7054d4f6d18d3129f6",
-                "sha512": "992128e63b658d6b531c593d9c4b583082622424d65f66ea9e1bf2f53c0120c86736016c303f62873f0a6abcd9ffb192b0de9657dee269e423903e7c28dab323"
+                "sha1": "598739f5ca87945f6b0c4d12601b86a5724e6a4f",
+                "sha512": "1ac6b44888f97ec452094b3f811ab586dded82e6d4a86c2d6b5d9ca4025fd9dca5717a978e959191a96e16a2780bd478b7cf0159610a2d010fef87015ffe0356"
             },
-            "path": "mods/voicechat-fabric-1.20.1-2.5.9.jar"
+            "path": "mods/voicechat-fabric-1.20.6-2.5.14.jar"
+        },
+        {
+            "downloads": [
+                "https://mirror.ghproxy.com/https://github.com/sakura-ryoko/tweakeroo/releases/download/1.20.6-sakura.6/tweakeroo-fabric-1.20.6-0.19.999-sakura.6.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 544183,
+            "hashes": {
+                "sha1": "41752a5589c3831d03a6418c5f8f075aea645007",
+                "sha512": "e4f7dd65d141dc4bac1edb78b32ad51ef600fc851b02f5ea42704a0bf4b433db180aa19b3511bc7fac567c4af778a21e37bffba3245e79f841aa76411e7a2c66"
+            },
+            "path": "mods/tweakeroo-fabric-1.20.6-0.19.999-sakura.6.jar"
+        },
+        {
+            "downloads": [
+                "https://mirror.ghproxy.com/https://github.com/ImFalling/Inventory-Profiles/releases/download/%23v1.10.10-SNAPSHOT/InventoryProfilesNext-fabric-1.20.6-1.10.10-SNAPSHOT.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1475638,
+            "hashes": {
+                "sha1": "b8ffdced3891b68ee86cf10be9098563cbee0963",
+                "sha512": "fe922ac6e78a1d79532765c4390b1adfb5bbcda61c814ea3803df7474ed141b84b527bb99726eb1f9e94a1b899e4afa75647cf6dd270eea236ff312cf05bf132"
+            },
+            "path": "mods/InventoryProfilesNext-fabric-1.20.6-1.10.10-SNAPSHOT.jar"
+        },
+        {
+            "downloads": [
+                "https://mirror.ghproxy.com/https://github.com/sakura-ryoko/malilib/releases/download/1.20.6-sakura.4/malilib-fabric-1.20.6-0.18.999-sakura.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 786075,
+            "hashes": {
+                "sha1": "4dcd2f5ad7b7bd49daf231114160a01365092348",
+                "sha512": "814544b56134d2911962fbe47649126e36a38622b7e9136d2e3ce321601caf95ce121c59eb26fd4501d688a864c45582cb61c803265c35fd310a7f3ababaa591"
+            },
+            "path": "mods/malilib-fabric-1.20.6-0.18.999-sakura.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/rR4tY6Cw/versions/5qxYpAsr/modpack-update-checker-1.20.5-fabric-0.12.3.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 350496,
+            "hashes": {
+                "sha1": "8148bb3c041ffbcb7e24e2b7635ef8a6bf715a86",
+                "sha512": "e7d8352a1c63e8cb8d2fe81b72934c13f40363b3e3e75a0ecfa7e0258a188baa283128352e772bf5a9276bb2278de25fcca217d0c59491c429501f9968af8792"
+            },
+            "path": "mods/modpack-update-checker-1.20.5-fabric-0.12.3.jar"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz v3.201.0-fabric+buildtype",
-    "versionId": "3.201.0-fabric+buildtype"
+    "name": "MineOptimiz v3.206.0-fabric+buildtype",
+    "versionId": "3.206.0-fabric+buildtype"
 }

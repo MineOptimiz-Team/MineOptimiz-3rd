@@ -14,6 +14,7 @@
     "handRestockPre": true,
     "hangableEntityBypassInverse": false,
     "itemUsePacketCheckBypass": true,
+    "mapPreviewRequireShift": true,
     "permanentSneakAllowInGUIs": false,
     "placementRestrictionTiedToFast": true,
     "potionWarningBeneficialOnly": true,
@@ -39,8 +40,10 @@
     "snapAimIndicatorColor": "#603030FF",
     "afterClickerClickCount": 1,
     "blockReachDistance": 4.5,
+    "angelBlockPlacementDistance": 3.0,
     "breakingGridSize": 3,
     "customInventoryGuiScale": 2,
+    "entityReachDistance": 3.0,
     "fastBlockPlacementCount": 2,
     "fastLeftClickCount": 10,
     "fastRightClickCount": 10,
@@ -235,17 +238,6 @@
       "minecraft:budding_amethyst"
     ],
     "blockTypeBreakRestrictionWhiteList": [],
-    "creativeExtraItems": [
-      "minecraft:command_block",
-      "minecraft:chain_command_block",
-      "minecraft:repeating_command_block",
-      "minecraft:dragon_egg",
-      "minecraft:structure_void",
-      "minecraft:structure_block",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"SAVE\"}}",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"LOAD\"}}",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"CORNER\"}}"
-    ],
     "entityTypeAttackRestrictionListType": "blacklist",
     "entityTypeAttackRestrictionBlackList": [
       "minecraft:villager"
@@ -730,6 +722,7 @@
     "tweakCustomFlyDeceleration": false,
     "tweakCustomInventoryScreenScale": false,
     "tweakElytraCamera": false,
+    "tweakEntityReachOverride": false,
     "tweakEntityTypeAttackRestriction": false,
     "tweakEmptyShulkerBoxesStack": false,
     "tweakEmptyShulkerBoxesStackOnGround": false,
@@ -837,6 +830,9 @@
       "keys": ""
     },
     "tweakElytraCamera": {
+      "keys": ""
+    },
+    "tweakEntityReachOverride": {
       "keys": ""
     },
     "tweakEntityTypeAttackRestriction": {

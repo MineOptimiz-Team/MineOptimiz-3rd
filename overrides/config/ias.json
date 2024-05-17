@@ -1,1 +1,1 @@
-{"version":2,"accounts":[],"titleScreenText":false,"titleScreenTextAlignment":"CENTER","titleScreenButton":false,"multiplayerScreenButton":false,"experimentalJavaFXBrowser":false}
+{"titleText":false,"titleTextAlign":"CENTER","titleButton":false,"serversText":false,"serversTextAlign":"LEFT","serversButton":false,"allowNoCrypt":false,"nickWarns":false,"unexpectedPigs":true,"barNick":false,"server":"AVAILABLE","passwordEchoing":false,"version":3}

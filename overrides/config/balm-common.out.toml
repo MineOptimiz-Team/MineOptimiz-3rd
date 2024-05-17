@@ -1,19 +1,10 @@
 
-# This is an example boolean property
-exampleBoolean = true
-exampleEnum = "Hello"
-exampleEnumList = [ "Hello", "World" ]
-exampleInt = 42
-exampleIntList = [ 12, 24 ]
-exampleMultilineString = "Hello World"
-exampleString = "Hello World"
-exampleStringList = [ "Hello", "World" ]
+# IDs of mods whose compatibility should be disabled.
+disabledCompat = [  ]
 
+# Set to true to have KleeSlabs dump a list of items containing the word 'slab' in their name upon world load
+dumpSlabs = false
 
-# This is an example category
-[exampleCategory]
-exampleFloat = 42.84
-
-# This is an example string inside a category
-innerField = "I am inside"
+# Control whether KleeSlabs should trigger ALWAYS, ONLY_WHEN_SNEAKING or ONLY_WHEN_NOT_SNEAKING
+mode = "ALWAYS"
 

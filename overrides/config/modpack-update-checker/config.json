@@ -1,17 +1,17 @@
  {
   "schemaVersion": 7,
-  "currentVersion": "3.201.0-fabric+buildtype",
+  "currentVersion": "3.206.0-fabric+buildtype",
   "modpackName": "MineOptimiz",
   "modpackAuthor": "Small__Mushroom",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/",
+  "updateCheckerId": "https://123smallmushroom.github.io/check-update-mineoptimiz/1.20.6-Fabric/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
     "updateCheckerType": 2,
-    "addButton": true,
+    "addButton": false,
     "mainMenuCreditsIntegration": true,
-    "retroWarning": false,
+    "retroWarning": true,
     "modpackMods": []
   }
 }
