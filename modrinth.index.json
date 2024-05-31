@@ -108,6 +108,21 @@
                 "sha512": "992128e63b658d6b531c593d9c4b583082622424d65f66ea9e1bf2f53c0120c86736016c303f62873f0a6abcd9ffb192b0de9657dee269e423903e7c28dab323"
             },
             "path": "mods/voicechat-fabric-1.20.1-2.5.9.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/TjOXlt9Y/versions/LGrBLgMp/Midnighttiggers-ACT-Default_1.20.1_V2.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 47208,
+            "hashes": {
+                "sha1": "7e5ae3206f362d71a3236351cac3d7b0b8a1f2db",
+                "sha512": "64b31af2b0b426d48d31b9e01ada0ba8b079f4c4dcf98f91a5dab885dda5c425c03b05ac67097316b7b884de4843b48c97e9923680c80dc74ea3b7f4dad053b3"
+            },
+            "path": "resourcepacks/Midnighttiggers-ACT-Default_1.20.1_V2.zip"
         }
     ],
     "formatVersion": 1,
