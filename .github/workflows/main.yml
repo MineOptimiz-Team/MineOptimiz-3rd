@@ -38,6 +38,7 @@ jobs:
           rm -rf .git
           rm meta.json
           rm licenceofmods.txt
+          rm pack.sh
           rm -rf versions
           rm README.md
           cd overrides
