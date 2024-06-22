@@ -36,33 +36,33 @@
         },
         {
             "downloads": [
-                "https://gh.ddlc.top/https://github.com/tr7zw/NotEnoughAnimations/releases/download/1.7.3/notenoughanimations-forge-1.7.3-mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/MPCX6s5C/versions/Wse7FiBl/notenoughanimations-forge-1.7.4-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 425317,
+            "fileSize": 429049,
             "hashes": {
-                "sha1": "e51e63167f18672a8d34cdec9c1efe75914d18cb",
-                "sha512": "57eabf4723aaeb9c1256ada00667b7d4954f093ddb549fcb55c034ac28f55a8ba74cc742ed406451c1e785bc0a6ad7e0afcd47c185d957f9b78877b6c6944d87"
+                "sha1": "022e79d95a0f36aa585f4a33fc7c934b425950e5",
+                "sha512": "ad8b2f37bc6abe82274f000ae827cf806fb0798cb05f8d3066a7130452d9af99c5dd061e2930079777f4c4fd4d1d1923878c78af0b28569d4215b6bd3a4d7787"
             },
-            "path": "mods/notenoughanimations-forge-1.7.3-mc1.20.1.jar"
+            "path": "mods/notenoughanimations-forge-1.7.4-mc1.20.1.jar"
         },
         {
             "downloads": [
-            "https://cdn.modrinth.com/data/zV5r3pPn/versions/bl6wOfz3/skinlayers3d-forge-1.6.4-mc1.20.1.jar"
+            "https://cdn.modrinth.com/data/zV5r3pPn/versions/qgzIF2oI/skinlayers3d-forge-1.6.6-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 475379,
+            "fileSize": 476791,
             "hashes": {
-                "sha1": "6b3994abd20b342448d5f966fd51df2ea8acffd4",
-                "sha512": "7714fb46adf756f868c8d88287fc363919934731d416ebaefac25d359734909a69fc7ae4ac82c85e42ee32c9fb9736d5dbede4ddbbd033c7d068ce88deecfdab"
+                "sha1": "4648dd206e13cf8b25f665e0462f29757787e683",
+                "sha512": "bb0db2cbc5bd0c0c07781f6a946f4c58025e4a93b9fc42091a1d0f229e75c0179c079eb6c8514a7ba054fdce8fbeb27f60f650fc4d11cb71247ce096a88372d8"
             },
-            "path": "mods/skinlayers3d-forge-1.6.4-mc1.20.1.jar"
+            "path": "mods/skinlayers3d-forge-1.6.6-mc1.20.1.jar"
         }
     ],
     "formatVersion": 1,
