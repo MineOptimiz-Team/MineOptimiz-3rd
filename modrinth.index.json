@@ -63,6 +63,21 @@
                 "sha512": "bb0db2cbc5bd0c0c07781f6a946f4c58025e4a93b9fc42091a1d0f229e75c0179c079eb6c8514a7ba054fdce8fbeb27f60f650fc4d11cb71247ce096a88372d8"
             },
             "path": "mods/skinlayers3d-forge-1.6.6-mc1.20.1.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/NNAgCjsB/versions/DHBIGCNn/entityculling-forge-1.6.6-mc1.20.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 71139,
+            "hashes": {
+                "sha1": "cc2e44cd3260f98ef35297854e5154a36add36cc",
+                "sha512": "0d4c1262af012d8bc18acbf7640fe05f20bbd007410160b404c94b409997e8df1230bd851bcc21697938b24f2237a62c025db68fe61aadde316b490d76b73b75"
+            },
+            "path": "mods/entityculling-forge-1.6.6-mc1.20.1.jar"
         }
     ],
     "formatVersion": 1,
