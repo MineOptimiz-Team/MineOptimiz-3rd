@@ -28,12 +28,23 @@ jobs:
       
       - name: Package Modpack
         run: |
-          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(Fabric-1.20.1)/Update.sh" -O ./overrides/Update.sh
-          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(Fabric-1.20.1)/Update.bat" -O ./overrides/Update.bat
           mkdir -p ./overrides/config/fancymenu/assets/Update/
-          wget "https://github.com/MineOptimiz-Team/MineOptimiz-Updater/releases/download/v1.1.2(Fabric-1.20.1)/Update.ps1" -O ./overrides/config/fancymenu/assets/Update/Update.ps1
-          wget "https://123smallmushroom.github.io/update-dev.sh" -O ./overrides/config/fancymenu/assets/Update/update-dev.sh
-          wget "https://123smallmushroom.github.io/update-stable.sh" -O ./overrides/config/fancymenu/assets/Update/update-stable.sh
+          modpackdir=./overrides
+          configdir=$modpackdir/config
+          updatedir=$configdir/fancymenu/assets/Update/
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/Update.bat" -O "$modpackdir/Update.bat"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/Update.sh" -O "$modpackdir/Update.sh"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/config/fancymenu/assets/Update/update-dev.sh" -O "$updatedir/update-dev.sh"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/config/fancymenu/assets/Update/update-stable.sh" -O "$updatedir/update-stable.sh"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/config/fancymenu/assets/Update/update-mirror-dev.sh" -O "$updatedir/update-mirror-dev.sh"
+          sed -i "s~%stabledownloadlink%~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1~g" $modpackdir/Update.bat
+          sed -i "s~%devdownloadlink%~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Dev~g" $modpackdir/Update.bat
+          sed -i "s~devdownloadlink~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Dev~g" $updatedir/update-dev.sh
+          sed -i "s~stabledownloadlink~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1~g" $updatedir/update-stable.sh
+          sed -i "s~mirrorname1~mirror_of_mineoptimiz~g" $updatedir/update-mirror-dev.sh
+          sed -i "s~owner1~jxk370~g" $updatedir/update-mirror-dev.sh
+          sed -i "s~examplewebsite~gitee.com~g" $updatedir/update-mirror-dev.sh
+          sed -i "s~branch~1.20.1-Dev~g" $updatedir/update-mirror-dev.sh
           rm -rf .github
           rm -rf .git
           rm meta.json
