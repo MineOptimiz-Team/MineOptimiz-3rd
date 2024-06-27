@@ -1,5 +1,5 @@
 {
-  "version": "14.18.3",
+  "version": "14.19.1",
   "buildNumber": 23,
   "loadlist": [
     {
@@ -33,19 +33,14 @@
       "elytra": "LocalSkin/elytras/{USERNAME}.png"
     },
     {
-      "name": "ͳһͨ��֤",
+      "name": "Red֤stoneSkin",
       "type": "CustomSkinAPI",
-      "root": "https://auth2.nide8.com:233/89a13930ff3711eb9cdc00163e095b49/csl/"
+      "root": "https://mcskin.com.cn/csl/"
     },
     {
       "name": "VlssuSkin",
       "type": "CustomSkinAPI",
       "root": "https://skin.vlssu.com/csl/"
-    },
-    {
-      "name": "Minecraft Skin",
-      "type": "CustomSkinAPI",
-      "root": "https://www.mcpeau.com/csl/"
     }
   ],
   "enableDynamicSkull": true,
