@@ -58,8 +58,6 @@ jobs:
           rm -rf .github
           rm -rf .git
           rm README.md
-          cd overrides
-          cd ..
           zip -r "./MineOptimiz.zip" ./*
           mv MineOptimiz.zip "MineOptimiz v3.201.0-neoforge+${{ env.SHORT_SHA }}.mrpack"
       
