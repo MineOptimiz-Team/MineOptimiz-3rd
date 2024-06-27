@@ -31,7 +31,7 @@ jobs:
           mkdir -p ./overrides/config/fancymenu/assets/Update/
           modpackdir=./overrides
           configdir=$modpackdir/config
-          updatedir=$configdir/fancymenu/assets/Update/
+          updatedir=$configdir/fancymenu/assets/Update
           wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/Update.bat" -O "$modpackdir/Update.bat"
           wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/Update.sh" -O "$modpackdir/Update.sh"
           wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/config/fancymenu/assets/Update/update-dev.sh" -O "$updatedir/update-dev.sh"
