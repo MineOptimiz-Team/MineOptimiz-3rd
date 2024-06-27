@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.update
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1712466518758
+  last_edited_time = 1719452169926
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:410935d6-ccc2-44b7-a358-f1b035733570-1712466486630] = [groups:][instances:f17e4f77-6f1b-4c06-b53a-45ce26f65c68-1710550479068;]
+  [loading_requirement_container_meta:fd77b010-ccb4-436e-9a5b-b612f2c5d797-1719452150677] = [groups:][instances:f17e4f77-6f1b-4c06-b53a-45ce26f65c68-1710550479068;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:f17e4f77-6f1b-4c06-b53a-45ce26f65c68-1710550479068] = en_us
 }
 
@@ -30,7 +30,8 @@ scroll_list_customization {
 element {
   button_element_executable_block_identifier = a23e274c-706a-422a-a3aa-b2dc29e3c6b4-1710515396620
   [executable_action_instance:d8e520ea-ce98-4b0e-bf06-f051d32185d1-1710515396620][action_type:opengui] = io.123smallmushroom.updatechoose
-  [executable_block:a23e274c-706a-422a-a3aa-b2dc29e3c6b4-1710515396620][type:generic] = [executables:d8e520ea-ce98-4b0e-bf06-f051d32185d1-1710515396620;]
+  [executable_action_instance:3a7d8f5c-7098-4bdb-a747-7271d4f7d944-1719452153228][action_type:runcmd] = [windows:]; [macos:]; [linux:chmod 777 ./Update.sh];
+  [executable_block:a23e274c-706a-422a-a3aa-b2dc29e3c6b4-1710515396620][type:generic] = [executables:d8e520ea-ce98-4b0e-bf06-f051d32185d1-1710515396620;3a7d8f5c-7098-4bdb-a747-7271d4f7d944-1719452153228;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false

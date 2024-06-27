@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.update
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1712638771080
+  last_edited_time = 1719452138781
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:b6732704-66c7-4e21-9361-8e30dd043bb3-1712638738843] = [groups:][instances:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115;]
+  [loading_requirement_container_meta:076bed21-60aa-407f-aad7-45ce849f4b94-1719452127784] = [groups:][instances:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115] = zh_cn
 }
 
