@@ -78,6 +78,21 @@
                 "sha512": "0d4c1262af012d8bc18acbf7640fe05f20bbd007410160b404c94b409997e8df1230bd851bcc21697938b24f2237a62c025db68fe61aadde316b490d76b73b75"
             },
             "path": "mods/entityculling-forge-1.6.6-mc1.20.1.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/o6qsdrrQ/versions/EDf05717/zume-1.0.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 806912,
+            "hashes": {
+                "sha1": "715ddabe93038089d553a0c73bb0868186e9173c",
+                "sha512": "2d367311833ab32a3d39b4c573cd37a3997535fdab79020745df0bad04d2d5971fc116cac27f3ca06b9d2ba59a6ebbc868ce647a62d9958d40e9446874568ea7"
+            },
+            "path": "mods/zume-1.0.0.jar"
         }
     ],
     "formatVersion": 1,
