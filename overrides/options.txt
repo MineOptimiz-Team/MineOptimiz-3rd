@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"]
+resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","file/Masa Family Bucket Translation Pack v1.0.3.zip"]
 incompatibleResourcePacks:["lambdabettergrass:default"]
 lastServer:
 lang:zh_cn
@@ -175,6 +175,7 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
+key_key.ryoamiclights.dyn_light:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
