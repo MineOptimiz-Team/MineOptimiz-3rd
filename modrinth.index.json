@@ -6,18 +6,18 @@
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jXQg9Trb/fancymenu_forge_3.1.5_MC_1.20.1.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/P4AHpQ6f/fancymenu_forge_3.2.3_MC_1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2688669,
+            "fileSize": 2696876,
             "hashes": {
-                "sha1": "11b5711db4b2811c590aa228b7ff6b42cb4f5e50",
-                "sha512": "eafb7620cf4008abd5f4dc686e595d2c172ee8c5d49a5b743bc4228f3098a6feb062ad56cccc7f273d996f814755b0fff5a2e146ca2453d12cacc4974159db20"
+                "sha1": "15512ce60a2aba724edc28f81c46b2fdeb2b94f3",
+                "sha512": "6915dfd79509d2839247dd0aade828ededd5fb448a9cc1e35258615d73bf8b2980ca4aa862416a178b80d32cefd056e06fba1c88dd40238155e2a4823bd171d2"
             },
-            "path": "mods/fancymenu_forge_3.1.5_MC_1.20.1.jar"
+            "path": "mods/fancymenu_forge_3.2.3_MC_1.20.1.jar"
         },
         {
             "downloads": [
@@ -87,12 +87,27 @@
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 806912,
+            "fileSize": 98523,
             "hashes": {
                 "sha1": "715ddabe93038089d553a0c73bb0868186e9173c",
                 "sha512": "2d367311833ab32a3d39b4c573cd37a3997535fdab79020745df0bad04d2d5971fc116cac27f3ca06b9d2ba59a6ebbc868ce647a62d9958d40e9446874568ea7"
             },
             "path": "mods/zume-1.0.0.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/i9oIemgf/versions/pfk4Tavr/fmsia_forge_1.0.1_MC_1.20.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 214526,
+            "hashes": {
+                "sha1": "32dc24355b1b73a4ea1e767a60b5d3e312d25a5c",
+                "sha512": "677be3b9e5258c48b2eee8db1a37d5e7ae838cfb02749c1d319baacfefa7dc3e3fb2005b1311034659df846f7d060632baa45fceda7f44ad130aa02e339989c37"
+            },
+            "path": "mods/fmsia_forge_1.0.1_MC_1.20.1.jar"
         }
     ],
     "formatVersion": 1,
