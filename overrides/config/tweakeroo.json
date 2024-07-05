@@ -490,7 +490,7 @@
       }
     },
     "disableRainEffects": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
@@ -744,7 +744,7 @@
     "tweakFlySpeed": false,
     "tweakFlexibleBlockPlacement": false,
     "tweakFreeCamera": false,
-    "tweakGammaOverride": true,
+    "tweakGammaOverride": false,
     "tweakHandRestock": false,
     "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,
