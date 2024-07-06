@@ -123,6 +123,21 @@
                 "sha512": "64b31af2b0b426d48d31b9e01ada0ba8b079f4c4dcf98f91a5dab885dda5c425c03b05ac67097316b7b884de4843b48c97e9923680c80dc74ea3b7f4dad053b3"
             },
             "path": "resourcepacks/Midnighttiggers-ACT-Default_1.20.1_V2.zip"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/o6qsdrrQ/versions/EDf05717/zume-1.0.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 98523,
+            "hashes": {
+                "sha1": "715ddabe93038089d553a0c73bb0868186e9173c",
+                "sha512": "2d367311833ab32a3d39b4c573cd37a3997535fdab79020745df0bad04d2d5971fc116cac27f3ca06b9d2ba59a6ebbc868ce647a62d9958d40e9446874568ea7"
+            },
+            "path": "mods/zume-1.0.0.jar"
         }
     ],
     "formatVersion": 1,
