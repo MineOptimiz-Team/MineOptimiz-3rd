@@ -61,9 +61,6 @@ jobs:
           rm licenceofmods.txt
           rm -rf versions
           rm README.md
-          cd overrides
-          mv h.txt options.txt
-          cd ..
           zip -r "./MineOptimiz.zip" ./*
           mv MineOptimiz.zip "MineOptimiz v3.201.0-fabric+${{ env.SHORT_SHA }}.mrpack"
       
