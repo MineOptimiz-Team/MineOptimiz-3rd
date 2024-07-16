@@ -46,7 +46,7 @@
   "enableDynamicSkull": true,
   "enableTransparentSkin": true,
   "forceIgnoreHttpsCertificate": false,
-  "forceLoadAllTextures": true,
+  "forceLoadAllTextures": false,
   "enableCape": true,
   "threadPoolSize": 3,
   "enableLogStdOut": false,
