@@ -1,0 +1,244 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = io.123smallmushroom.linuxrepair
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1721182559162
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:7c24c28d-c759-44de-a162-5035af53d223-1721182549692] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = 4ba9fb3a-12bb-46f2-aad3-082904be655b-1721181428897
+  [executable_action_instance:5a2ef408-c8ff-4b6f-be7b-e08ad3132ac8-1721182552150][action_type:closegui] = 
+  [executable_block:4ba9fb3a-12bb-46f2-aad3-082904be655b-1721181428897][type:generic] = [executables:5a2ef408-c8ff-4b6f-be7b-e08ad3132ac8-1721182552150;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 返回
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 002013c0-11b4-4078-9f01-619633f978cc-1721181428897
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -51
+  y = 145
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 813d186a-50c8-46d6-b264-90cfa7ea6199-1721181428897
+  [loading_requirement_container_meta:813d186a-50c8-46d6-b264-90cfa7ea6199-1721181428897] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 8dab4a05-9974-459a-93ba-3bd4f809584f-1721181450333
+  [executable_action_instance:b5978f4a-5808-418d-8bd7-013e1f4250f6-1721181599262][action_type:runcmd] = [windows:]; [macos:]; [linux:gnome-terminal -- ./repair.sh];
+  [executable_block:8dab4a05-9974-459a-93ba-3bd4f809584f-1721181450333][type:generic] = [executables:b5978f4a-5808-418d-8bd7-013e1f4250f6-1721181599262;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = GNOME Terminal
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 1bebcb20-49ae-45ce-bf50-0f6274fd9228-1721181450333
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -128
+  y = 40
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e4f54e25-b643-46f8-8325-a7d83f40f940-1721181450333
+  [loading_requirement_container_meta:e4f54e25-b643-46f8-8325-a7d83f40f940-1721181450333] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = ce97e72d-7c7b-41b4-b1c1-6ba0e78c5fd4-1721181480646
+  [executable_action_instance:9a4d73eb-86d5-4bac-9a0f-ee63bd151859-1721181719576][action_type:runcmd] = [windows:]; [macos:]; [linux:konsole -e ./repair.sh];
+  [executable_block:ce97e72d-7c7b-41b4-b1c1-6ba0e78c5fd4-1721181480646][type:generic] = [executables:9a4d73eb-86d5-4bac-9a0f-ee63bd151859-1721181719576;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Konsole
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 76332a16-6a05-4782-bdb8-72bc4daccf6a-1721181480646
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = 28
+  y = 41
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 309bec68-8b5b-46f8-8e37-75f160968fe4-1721181480646
+  [loading_requirement_container_meta:309bec68-8b5b-46f8-8e37-75f160968fe4-1721181480646] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 7641ae3a-d322-48b4-b007-acfc9a34f4c0-1721181504066
+  [executable_action_instance:1e1179b1-0364-4946-a431-73f9fdb33099-1721181873993][action_type:runcmd] = [windows:]; [macos:]; [linux:deepin-terminal -e ./repair.sh];
+  [executable_block:7641ae3a-d322-48b4-b007-acfc9a34f4c0-1721181504066][type:generic] = [executables:1e1179b1-0364-4946-a431-73f9fdb33099-1721181873993;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Deepin Terminal
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 34fb99cb-6876-48a8-8f22-fae38dae4383-1721181504066
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -127
+  y = 71
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 84884c8b-e988-4c01-bdff-b057f2f255b6-1721181504066
+  [loading_requirement_container_meta:84884c8b-e988-4c01-bdff-b057f2f255b6-1721181504066] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = a8c75291-54a3-4e56-a13e-123c26cd2a4e-1721181522184
+  [executable_action_instance:6d43cff1-b534-4b7a-a7ab-a35f1c8d5198-1721182085400][action_type:runcmd] = [windows:]; [macos:]; [linux:mate-terminal -- ./repair.sh];
+  [executable_block:a8c75291-54a3-4e56-a13e-123c26cd2a4e-1721181522184][type:generic] = [executables:6d43cff1-b534-4b7a-a7ab-a35f1c8d5198-1721182085400;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = MATE Terminal
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 5d7f3f7d-64ba-4741-a7c5-0f5dd60b15b1-1721181522184
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = 28
+  y = 71
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = ad214b54-fca6-4f8b-9df2-a3af31174d97-1721181522184
+  [loading_requirement_container_meta:ad214b54-fca6-4f8b-9df2-a3af31174d97-1721181522184] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 3bba4cc6-9595-47aa-8c83-1f3201ff8c5d-1721181543985
+  [executable_action_instance:6ab920b6-377d-4810-9ba1-864baa44841e-1721182159111][action_type:runcmd] = [windows:]; [macos:]; [linux:xfce4-terminal --command ./repair.sh];
+  [executable_block:3bba4cc6-9595-47aa-8c83-1f3201ff8c5d-1721181543985][type:generic] = [executables:6ab920b6-377d-4810-9ba1-864baa44841e-1721182159111;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Xfce Terminal
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 18da8ed5-8ce5-473a-8afb-0d154a140b66-1721181543985
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -129
+  y = 99
+  width = 256
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 6389c321-d884-4ed0-a468-197164196fc8-1721181543984
+  [loading_requirement_container_meta:6389c321-d884-4ed0-a468-197164196fc8-1721181543984] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = 请选择您所使用的终端
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 9daea846-22ce-4223-947d-adf6c387c5c5-1721182194920
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -55
+  y = -20
+  width = 200
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b12d1b64-efb4-49b8-ab30-8f6028e6b378-1721182194920
+  [loading_requirement_container_meta:b12d1b64-efb4-49b8-ab30-8f6028e6b378-1721182194920] = [groups:][instances:]
+}
+

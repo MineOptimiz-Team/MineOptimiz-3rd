@@ -1,0 +1,158 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = io.123smallmushroom.runrepair
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1721181352879
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:2ea848ee-2248-4ed2-982e-ebdf35a1c350-1721181097440] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = feb6318d-a1ee-4823-ae2e-4f699f2b2bd5-1721181113443
+  [executable_action_instance:2f860523-c6fc-4b85-bb25-6cd66fa9ba3a-1721181204516][action_type:openfile] = repair.bat
+  [executable_block:feb6318d-a1ee-4823-ae2e-4f699f2b2bd5-1721181113443][type:generic] = [executables:2f860523-c6fc-4b85-bb25-6cd66fa9ba3a-1721181204516;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Windows
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 2d7f0c37-2ba9-45ff-8132-f8a03cf74fbc-1721181113443
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -119
+  y = 100
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = cccfb645-117b-46fe-9f0b-7f56808f3b88-1721181113443
+  [loading_requirement_container_meta:cccfb645-117b-46fe-9f0b-7f56808f3b88-1721181113443] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 8096e1ce-a897-4d28-86d1-74f3de201192-1721181126947
+  [executable_action_instance:1f33a3da-c82a-48c6-b843-dadbbb36e8eb-1721181225241][action_type:runcmd] = [windows:]; [macos:]; [linux:chmod 777 ./repair.sh];
+  [executable_action_instance:7e6f06e5-7de3-49fc-bb02-c10365274891-1721181251944][action_type:opengui] = io.123smallmushroom.linuxrepair
+  [executable_block:8096e1ce-a897-4d28-86d1-74f3de201192-1721181126947][type:generic] = [executables:1f33a3da-c82a-48c6-b843-dadbbb36e8eb-1721181225241;7e6f06e5-7de3-49fc-bb02-c10365274891-1721181251944;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Linux
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 9a62dfd6-2c0b-4ae0-a5ff-d06e42ce908e-1721181126947
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = 16
+  y = 100
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 1a01a149-a097-424a-9875-9a9699d02d47-1721181126947
+  [loading_requirement_container_meta:1a01a149-a097-424a-9875-9a9699d02d47-1721181126947] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 09f040f5-5039-4d61-8ee9-b5e8b8f5a866-1721181142930
+  [executable_action_instance:1ae34d91-a387-4db6-b0b7-f49d3bf719ef-1721181164207][action_type:closegui] = 
+  [executable_block:09f040f5-5039-4d61-8ee9-b5e8b8f5a866-1721181142930][type:generic] = [executables:1ae34d91-a387-4db6-b0b7-f49d3bf719ef-1721181164207;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 返回
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 00f25044-6e87-4392-8e08-6336329e3cfc-1721181142930
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -53
+  y = 137
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 988c2853-2658-4d4d-a987-28e803db9acf-1721181142930
+  [loading_requirement_container_meta:988c2853-2658-4d4d-a987-28e803db9acf-1721181142930] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = 选择您所使用的系统
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 2637dc58-ea8a-4008-aa10-972c7823e8a9-1721181177977
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -38
+  y = -8
+  width = 200
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = bdc65128-62e5-44cb-84ef-f00c4c5164ca-1721181177977
+  [loading_requirement_container_meta:bdc65128-62e5-44cb-84ef-f00c4c5164ca-1721181177977] = [groups:][instances:]
+}
+
