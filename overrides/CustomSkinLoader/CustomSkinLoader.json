@@ -1,5 +1,5 @@
 {
-  "version": "14.19.1",
+  "version": "14.20",
   "buildNumber": 23,
   "loadlist": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "name": "LittleSkin",
-      "type": "CustomSkinAPI",
+      "type": "Legacy",
       "root": "https://littleskin.cn/csl/",
       "checkPNG": true,
       "skin": "https://littleskin.cn/skin/{USERNAME}.png",
@@ -46,7 +46,7 @@
   "enableDynamicSkull": true,
   "enableTransparentSkin": true,
   "forceIgnoreHttpsCertificate": false,
-  "forceLoadAllTextures": false,
+  "forceLoadAllTextures": true,
   "enableCape": true,
   "threadPoolSize": 3,
   "enableLogStdOut": false,
@@ -54,5 +54,5 @@
   "forceUpdateSkull": false,
   "enableLocalProfileCache": false,
   "enableCacheAutoClean": true,
-  "forceDisableCache": true
+  "forceDisableCache": false
 }
