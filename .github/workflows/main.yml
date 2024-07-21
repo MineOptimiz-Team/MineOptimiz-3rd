@@ -47,9 +47,9 @@ jobs:
           sed -i "s~%stabledownloadlink%~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Forge~g" $modpackdir/Update.bat
           sed -i "s~%devdownloadlink%~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Forge-Dev~g" $modpackdir/Update.bat
           sed -i "s~ghproxymirror~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-Forge-Dev.zip~g" $modpackdir/Update.bat
-          sed -i "s~ghproxymirror-stable~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-Forge-Stable.zip~g" $modpackdir/Update.bat
+          sed -i "s~ghproxymirror-stable~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-Forge.zip~g" $modpackdir/Update.bat
           sed -i "s~branch~1.20.1-Forge-Dev~g" $modpackdir/Update.bat
-          sed -i "s~branch-stable~1.20.1-Forge-Stable~g" $modpackdir/Update.bat
+          sed -i "s~branch-stable~1.20.1-Forge~g" $modpackdir/Update.bat
           sed -i "s~devdownloadlink~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Forge-Dev~g" $updatedir/update-dev.sh 
           sed -i "s~stabledownloadlink~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Forge~g" $updatedir/update-stable.sh
           sed -i "s~mirrorname1~mirror_of_mineoptimiz~g" $updatedir/update-mirror-gitee-dev.sh
@@ -58,8 +58,8 @@ jobs:
           sed -i "s~branch~1.20.1-Forge-Dev~g" $updatedir/update-mirror-gitee-dev.sh
           sed -i "s~branch~1.20.1-Forge-Dev~g" $updatedir/update-mirror-ghproxy-dev.sh
           sed -i "s~ghproxymirror~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-Forge-Dev.zip~g" $updatedir/update-mirror-ghproxy-dev.sh
-          sed -i "s~ghproxymirror-stable~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-Forge-Stable.zip~g" $updatedir/update-mirror-ghproxy-stable.sh
-          sed -i "s~branch~1.20.1-Forge-Stable~g" $updatedir/update-mirror-ghproxy-stable.sh
+          sed -i "s~ghproxymirror-stable~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-Forge.zip~g" $updatedir/update-mirror-ghproxy-stable.sh
+          sed -i "s~branch~1.20.1-Forge~g" $updatedir/update-mirror-ghproxy-stable.sh
           rm -rf .github
           rm -rf .git
           rm README.md
