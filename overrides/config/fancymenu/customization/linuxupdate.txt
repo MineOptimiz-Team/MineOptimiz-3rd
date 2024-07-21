@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.linuxupdate
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1712639015607
+  last_edited_time = 1719452194372
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:406cabf1-cc61-4ee2-bddc-2fa6ad481839-1712638993105] = [groups:][instances:480d7523-b0de-403f-97ee-9bce2dda8a7f-1712638997462;]
+  [loading_requirement_container_meta:d0fb19cd-d613-45e1-be75-9d6b176ac0a7-1719452169958] = [groups:][instances:480d7523-b0de-403f-97ee-9bce2dda8a7f-1712638997462;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:480d7523-b0de-403f-97ee-9bce2dda8a7f-1712638997462] = zh_cn
 }
 
@@ -116,8 +116,8 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -136
-  y = 44
+  x = -137
+  y = 27
   width = 126
   height = 20
   stretch_x = false
@@ -145,8 +145,8 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 4
-  y = 44
+  x = 5
+  y = 27
   width = 133
   height = 20
   stretch_x = false
@@ -174,9 +174,9 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 4
-  y = 73
-  width = 134
+  x = 6
+  y = 80
+  width = 132
   height = 20
   stretch_x = false
   stretch_y = false
@@ -204,13 +204,42 @@ element {
   fade_in_speed = 1.0
   anchor_point = mid-centered
   x = -136
-  y = 72
-  width = 125
+  y = 54
+  width = 273
   height = 20
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = 9560afe9-8b73-4547-ad10-1d142891ac09-1712638363617
   [loading_requirement_container_meta:9560afe9-8b73-4547-ad10-1d142891ac09-1712638363617] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 8cf7f3cc-a86a-4f77-8425-1d96c8faf3f1-1719452041630
+  [executable_action_instance:2ca874d2-e86a-419a-abc7-6ff0cea88f8b-1719452104120][action_type:runcmd] = [windows:]; [macos:]; [linux:mate-terminal -- ./Update.sh];
+  [executable_block:8cf7f3cc-a86a-4f77-8425-1d96c8faf3f1-1719452041630][type:generic] = [executables:2ca874d2-e86a-419a-abc7-6ff0cea88f8b-1719452104120;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = MATE Terminal(MATE)
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 51d6c788-4ae4-4146-8ced-6ace8ac47f4e-1719452041630
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -136
+  y = 80
+  width = 125
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = cf413347-ffc2-408c-8fb6-f6243fd0c834-1719452041630
+  [loading_requirement_container_meta:cf413347-ffc2-408c-8fb6-f6243fd0c834-1719452041630] = [groups:][instances:]
 }
 

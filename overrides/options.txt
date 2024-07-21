@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"]
+resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","file/Masa Family Bucket Translation Pack v1.0.3.zip","file/fmsia_chinese.zip","file/fmsia_mineoptimiz.zip"]
 incompatibleResourcePacks:["lambdabettergrass:default"]
 lastServer:
 lang:zh_cn
@@ -126,6 +126,9 @@ key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
+key_zume.zoom:key.keyboard.c
+key_zume.zoom_in:key.keyboard.equal
+key_zume.zoom_out:key.keyboard.minus
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
@@ -135,10 +138,7 @@ key_key.midnightcontrols.look_down:key.keyboard.keypad.2
 key_key.midnightcontrols.look_left:key.keyboard.keypad.4
 key_key.midnightcontrols.ring:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.backslash
-key_key.okzoomer.zoom:key.keyboard.c
-key_key.okzoomer.decrease_zoom:key.keyboard.unknown
-key_key.okzoomer.increase_zoom:key.keyboard.unknown
-key_key.okzoomer.reset_zoom:key.keyboard.unknown
+key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.grave.accent
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.caps.lock
@@ -175,8 +175,7 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
-key_Reload Menu | CTRL + ALT + :key.keyboard.r
-key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_key.ryoamiclights.dyn_light:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0

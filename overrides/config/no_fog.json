@@ -1,8 +1,8 @@
 {
   "globalToggles": {
-    "skyFog": "DEFAULT",
-    "terrainFog": "DEFAULT",
-    "thickFog": "DEFAULT",
+    "skyFog": "TRUE",
+    "terrainFog": "FALSE",
+    "thickFog": "FALSE",
     "waterFog": "DEFAULT",
     "lavaFog": "DEFAULT",
     "powderSnowFog": "DEFAULT",
@@ -673,6 +673,16 @@
       "darknessFog": "DEFAULT"
     },
     "minecraft:wooded_badlands": {
+      "skyFog": "DEFAULT",
+      "terrainFog": "DEFAULT",
+      "thickFog": "DEFAULT",
+      "waterFog": "DEFAULT",
+      "lavaFog": "DEFAULT",
+      "powderSnowFog": "DEFAULT",
+      "blindnessFog": "DEFAULT",
+      "darknessFog": "DEFAULT"
+    },
+    "minecraft:cherry_grove": {
       "skyFog": "DEFAULT",
       "terrainFog": "DEFAULT",
       "thickFog": "DEFAULT",
