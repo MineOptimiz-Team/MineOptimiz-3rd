@@ -24,13 +24,8 @@
     },
     {
       "name": "LittleSkin",
-      "type": "Legacy",
-      "root": "https://littleskin.cn/csl/",
-      "checkPNG": true,
-      "skin": "https://littleskin.cn/skin/{USERNAME}.png",
-      "model": "auto",
-      "cape": "https://littleskin.cn/cape/{USERNAME}.png",
-      "elytra": "LocalSkin/elytras/{USERNAME}.png"
+      "type": "CustomSkinAPI",
+      "root": "https://littleskin.cn/csl/"
     },
     {
       "name": "Red֤stoneSkin",
