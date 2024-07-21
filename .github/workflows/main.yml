@@ -32,18 +32,18 @@ jobs:
           modpackdir=./overrides
           configdir=$modpackdir/config
           updatedir=$configdir/fancymenu/assets/Update
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/Update.bat" -O "$modpackdir/Update.bat"
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/Update.sh" -O "$modpackdir/Update.sh"
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/config/fancymenu/assets/Update/update-dev.sh" -O "$updatedir/update-dev.sh"
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/config/fancymenu/assets/Update/update-stable.sh" -O "$updatedir/update-stable.sh"
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/config/fancymenu/assets/Update/update-mirror-gitee-dev.sh" -O "$updatedir/update-mirror-gitee-dev.sh"
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/config/fancymenu/assets/Update/update-mirror-ghproxy-dev.sh" -O "$updatedir/update-mirror-ghproxy-dev.sh"
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/config/fancymenu/assets/Update/update-mirror-ghproxy-stable.sh" -O "$updatedir/update-mirror-ghproxy-stable.sh"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/Update.bat" -O "$modpackdir/Update.bat"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/Update.sh" -O "$modpackdir/Update.sh"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/config/fancymenu/assets/Update/update-dev.sh" -O "$updatedir/update-dev.sh"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/config/fancymenu/assets/Update/update-stable.sh" -O "$updatedir/update-stable.sh"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/config/fancymenu/assets/Update/update-mirror-gitee-dev.sh" -O "$updatedir/update-mirror-gitee-dev.sh"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/config/fancymenu/assets/Update/update-mirror-ghproxy-dev.sh" -O "$updatedir/update-mirror-ghproxy-dev.sh"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/config/fancymenu/assets/Update/update-mirror-ghproxy-stable.sh" -O "$updatedir/update-mirror-ghproxy-stable.sh"
           mkdir -p $updatedir/7z
           mkdir -p $updatedir/aria2
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/config/fancymenu/assets/Update/7z/7z.dll" -O "$updatedir/7z/7z.dll"
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/config/fancymenu/assets/Update/7z/7z.exe" -O "$updatedir/7z/7z.exe"
-          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.1/config/fancymenu/assets/Update/aria2/aria2c.exe" -O "$updatedir/aria2/aria2c.exe"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/config/fancymenu/assets/Update/7z/7z.dll" -O "$updatedir/7z/7z.dll"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/config/fancymenu/assets/Update/7z/7z.exe" -O "$updatedir/7z/7z.exe"
+          wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/v1.2.2/config/fancymenu/assets/Update/aria2/aria2c.exe" -O "$updatedir/aria2/aria2c.exe"
           sed -i "s~%stabledownloadlink%~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Forge~g" $modpackdir/Update.bat
           sed -i "s~%devdownloadlink%~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Forge-Dev~g" $modpackdir/Update.bat
           sed -i "s~ghproxymirror~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-Forge-Dev.zip~g" $modpackdir/Update.bat
