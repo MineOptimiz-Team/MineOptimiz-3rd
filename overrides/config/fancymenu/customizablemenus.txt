@@ -9,9 +9,9 @@ net.minecraft.client.gui.screens.TitleScreen {
 com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
 }
 
-net.minecraft.client.gui.screens.OptionsScreen {
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
 }
 
-net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+net.minecraft.client.gui.screens.OptionsScreen {
 }
 
