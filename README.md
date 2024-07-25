@@ -1,7 +1,7 @@
 # MineOptimiz NeoForge
 ~~[English.md](https://github.com/SmallMushroom-offical/MineOptimiz/blob/1.19.4-OptiFabric-Stable/English.md)~~
 ## 短小的介绍
-在MineOptimiz的基础上，使用[NeoForge](https://neoforged.net/)与[Sinytra Connector](https://github.com/Sinytra/Connector)以同时支持(Neo)Forge模组与大部分Fabric模组
+兼顾性能与兼容性的优化整合包，使用[NeoForge](https://neoforged.net/)与[Sinytra Connector](https://github.com/Sinytra/Connector)以同时支持(Neo)Forge模组与大部分Fabric模组
 ## 功能
  - 定制化菜单(Provide by FancyMenu)
  ![主菜单](https://123smallmushroom.github.io/pictures/2024-07-15_23.42.19.png)
