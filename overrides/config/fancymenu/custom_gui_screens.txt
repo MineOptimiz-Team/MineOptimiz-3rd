@@ -5,7 +5,7 @@ overridden_screens {
 
 custom_gui {
   identifier = io.123smallmushroom.engmode
-  title = Enable English Mode/启用英语模式
+  title = English Support of GUI
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
