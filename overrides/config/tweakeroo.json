@@ -5,7 +5,8 @@
     "ravagerClientBlockBreakFix": true
   },
   "Generic": {
-    "carpetAccuratePlacementProtocol": true,
+    "accuratePlacementProtocolMode": "auto",
+    "accuratePlacementProtocol": true,
     "clientPlacementRotation": true,
     "fastLeftClickAllowTools": true,
     "fastPlacementRememberOrientation": false,
@@ -14,6 +15,7 @@
     "handRestockPre": true,
     "hangableEntityBypassInverse": false,
     "itemUsePacketCheckBypass": true,
+    "mapPreviewRequireShift": true,
     "permanentSneakAllowInGUIs": false,
     "placementRestrictionTiedToFast": true,
     "potionWarningBeneficialOnly": true,
@@ -39,8 +41,10 @@
     "snapAimIndicatorColor": "#603030FF",
     "afterClickerClickCount": 1,
     "blockReachDistance": 4.5,
+    "angelBlockPlacementDistance": 3.0,
     "breakingGridSize": 3,
     "customInventoryGuiScale": 2,
+    "entityReachDistance": 3.0,
     "fastBlockPlacementCount": 2,
     "fastLeftClickCount": 10,
     "fastRightClickCount": 10,
@@ -77,6 +81,8 @@
     "structureBlockMaxSize": 128,
     "toolSwitchableSlots": "1-9",
     "toolSwitchIgnoredSlots": "",
+    "toolSwapBetterEnchants": false,
+    "weaponSwapBetterEnchants": false,
     "zoomFov": 29.00999999999999
   },
   "GenericHotkeys": {
@@ -206,7 +212,7 @@
     "swapElytraChestplate": {
       "keys": ""
     },
-    "toggleCarpetAccuratePlacementProtocol": {
+    "toggleAccuratePlacementProtocol": {
       "keys": ""
     },
     "toggleGrabCursor": {
@@ -235,17 +241,6 @@
       "minecraft:budding_amethyst"
     ],
     "blockTypeBreakRestrictionWhiteList": [],
-    "creativeExtraItems": [
-      "minecraft:command_block",
-      "minecraft:chain_command_block",
-      "minecraft:repeating_command_block",
-      "minecraft:dragon_egg",
-      "minecraft:structure_void",
-      "minecraft:structure_block",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"SAVE\"}}",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"LOAD\"}}",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"CORNER\"}}"
-    ],
     "entityTypeAttackRestrictionListType": "blacklist",
     "entityTypeAttackRestrictionBlackList": [
       "minecraft:villager"
@@ -340,6 +335,12 @@
       }
     },
     "disableBlockBreakingParticles": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBlockBreakCooldown": {
       "enabled": false,
       "hotkey": {
         "keys": ""
@@ -596,6 +597,9 @@
     "disableBlockBreakingParticles": {
       "keys": ""
     },
+    "disableBlockBreakCooldown": {
+      "keys": ""
+    },
     "disableDoubleTapSprint": {
       "keys": ""
     },
@@ -719,7 +723,8 @@
     "tweakAfterClicker": false,
     "tweakAimLock": false,
     "tweakAngelBlock": false,
-    "tweakBlockReachOverride": false,
+    "tweakAutoSwitchElytra": false,
+    "§6tweakBlockReachOverride§r": false,
     "tweakBlockTypeBreakRestriction": false,
     "tweakBreakingGrid": false,
     "tweakBreakingRestriction": false,
@@ -730,9 +735,9 @@
     "tweakCustomFlyDeceleration": false,
     "tweakCustomInventoryScreenScale": false,
     "tweakElytraCamera": false,
+    "§6tweakEntityReachOverride§r": false,
     "tweakEntityTypeAttackRestriction": false,
-    "tweakEmptyShulkerBoxesStack": false,
-    "tweakEmptyShulkerBoxesStackOnGround": false,
+    "§6tweakEmptyShulkerBoxesStack§r": false,
     "tweakExplosionReducedParticles": false,
     "tweakF3Cursor": false,
     "tweakFakeSneaking": false,
@@ -740,7 +745,7 @@
     "tweakFastBlockPlacement": false,
     "tweakFastLeftClick": false,
     "tweakFastRightClick": false,
-    "tweakFillCloneLimit": false,
+    "§6tweakFillCloneLimit§r": false,
     "tweakFlySpeed": false,
     "tweakFlexibleBlockPlacement": false,
     "tweakFreeCamera": false,
@@ -753,7 +758,7 @@
     "tweakHotbarSlotCycle": false,
     "tweakHotbarSlotRandomizer": false,
     "tweakHotbarSwap": false,
-    "tweakInventoryPreview": false,
+    "§6tweakInventoryPreview§r": false,
     "tweakItemUnstackingProtection": false,
     "tweakLavaVisibility": false,
     "tweakMapPreview": false,
@@ -778,14 +783,15 @@
     "tweakRenderInvisibleEntities": false,
     "tweakRenderLimitEntities": false,
     "tweakRepairMode": false,
-    "tweakSculkPulseLength": false,
+    "§6tweakSculkPulseLength§r": false,
+    "tweakServerDataSync": false,
     "tweakShulkerBoxDisplay": false,
     "tweakSignCopy": false,
     "tweakSnapAim": false,
     "tweakSnapAimLock": false,
     "tweakSneak_1.15.2": false,
     "tweakSpectatorTeleport": false,
-    "tweakStructureBlockLimit": false,
+    "§6tweakStructureBlockLimit§r": false,
     "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": false,
     "tweakToolSwitch": false,
@@ -806,7 +812,10 @@
     "tweakAngelBlock": {
       "keys": ""
     },
-    "tweakBlockReachOverride": {
+    "tweakAutoSwitchElytra": {
+      "keys": ""
+    },
+    "§6tweakBlockReachOverride§r": {
       "keys": ""
     },
     "tweakBlockTypeBreakRestriction": {
@@ -839,13 +848,13 @@
     "tweakElytraCamera": {
       "keys": ""
     },
+    "§6tweakEntityReachOverride§r": {
+      "keys": ""
+    },
     "tweakEntityTypeAttackRestriction": {
       "keys": ""
     },
-    "tweakEmptyShulkerBoxesStack": {
-      "keys": ""
-    },
-    "tweakEmptyShulkerBoxesStackOnGround": {
+    "§6tweakEmptyShulkerBoxesStack§r": {
       "keys": ""
     },
     "tweakExplosionReducedParticles": {
@@ -869,7 +878,7 @@
     "tweakFastRightClick": {
       "keys": ""
     },
-    "tweakFillCloneLimit": {
+    "§6tweakFillCloneLimit§r": {
       "keys": ""
     },
     "tweakFlySpeed": {
@@ -908,7 +917,7 @@
     "tweakHotbarSwap": {
       "keys": ""
     },
-    "tweakInventoryPreview": {
+    "§6tweakInventoryPreview§r": {
       "keys": ""
     },
     "tweakItemUnstackingProtection": {
@@ -983,7 +992,10 @@
     "tweakRepairMode": {
       "keys": ""
     },
-    "tweakSculkPulseLength": {
+    "§6tweakSculkPulseLength§r": {
+      "keys": ""
+    },
+    "tweakServerDataSync": {
       "keys": ""
     },
     "tweakShulkerBoxDisplay": {
@@ -1004,7 +1016,7 @@
     "tweakSpectatorTeleport": {
       "keys": ""
     },
-    "tweakStructureBlockLimit": {
+    "§6tweakStructureBlockLimit§r": {
       "keys": ""
     },
     "tweakSwapAlmostBrokenTools": {

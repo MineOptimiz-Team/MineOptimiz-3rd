@@ -9,10 +9,12 @@
   "foliageSoundsVolume": 100,
   "maxSteppingEntities": 50,
   "disabled": false,
-  "firstRun": true,
+  "firstRun": false,
   "multiplayer": true,
   "global": true,
   "footwear": true,
+  "visualiser": false,
+  "exclusive": false,
   "stance": "NONE",
   "targetEntities": "ALL"
 }

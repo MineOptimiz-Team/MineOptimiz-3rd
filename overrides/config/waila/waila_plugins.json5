@@ -245,7 +245,7 @@
     "energy.enabled_entity": true,
     // Energy Blacklist
     // Custom config, open the following file
-    // D:\.minecraft\versions\MineOptimiz v3.201.1-neoforge+4\config\waila\extra\energy_blacklist.json5
+    // D:\.minecraft\versions\MineOptimiz Play\config\waila\extra\energy_blacklist.json5
     "energy.blacklist": null,
     // Show Block Fluid Contents
     // Require server to have WTHIT installed, if not, will be locked to false
@@ -261,7 +261,7 @@
     "fluid.display_unit": "MILLIBUCKETS",
     // Fluid Contents Blacklist
     // Custom config, open the following file
-    // D:\.minecraft\versions\MineOptimiz v3.201.1-neoforge+4\config\waila\extra\fluid_blacklist.json5
+    // D:\.minecraft\versions\MineOptimiz Play\config\waila\extra\fluid_blacklist.json5
     "fluid.blacklist": null,
     // Show Block Crafting Progress
     // Require server to have WTHIT installed, if not, will be locked to false
@@ -273,7 +273,7 @@
     "progress.enabled_entity": true,
     // Crafting Progress Blacklist
     // Custom config, open the following file
-    // D:\.minecraft\versions\MineOptimiz v3.201.1-neoforge+4\config\waila\extra\progress_blacklist.json5
+    // D:\.minecraft\versions\MineOptimiz Play\config\waila\extra\progress_blacklist.json5
     "progress.blacklist": null,
     // Show Block Item Contents
     // Require server to have WTHIT installed, if not, will be locked to false
@@ -302,7 +302,7 @@
     "item.sort_by_count": true,
     // Item Contents Blacklist
     // Custom config, open the following file
-    // D:\.minecraft\versions\MineOptimiz v3.201.1-neoforge+4\config\waila\extra\item_blacklist.json5
+    // D:\.minecraft\versions\MineOptimiz Play\config\waila\extra\item_blacklist.json5
     "item.blacklist": null
   }
 }

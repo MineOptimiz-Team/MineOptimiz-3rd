@@ -74,7 +74,7 @@
     color: {
       // Background Alpha
       // Default value: 204
-      backgroundAlpha: 184,
+      backgroundAlpha: 204,
       // Custom Themes
       themes: [],
       // Theme

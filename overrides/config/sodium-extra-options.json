@@ -29,7 +29,8 @@
     "fog_start": 100,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
-      "minecraft:overworld": 0
+      "minecraft:overworld": 0,
+      "minecraft:the_nether": 0
     },
     "light_updates": true,
     "item_frame": true,
@@ -37,6 +38,7 @@
     "painting": true,
     "piston": true,
     "beacon_beam": true,
+    "limit_beacon_beam_height": false,
     "enchanting_table_book": true,
     "item_frame_name_tag": true,
     "player_name_tag": true
@@ -60,11 +62,5 @@
     "prevent_shaders": true,
     "steady_debug_hud": true,
     "steady_debug_hud_refresh_interval": 1
-  },
-  "super_secret_settings": {
-    "fetch_sodium_extra_crowdin_translations": false,
-    "sodium_extra_crowdin_project_identifier": "sodium-extra",
-    "fetch_sodium_crowdin_translations": false,
-    "sodium_crowdin_project_identifier": "sodium-fabric"
   }
 }

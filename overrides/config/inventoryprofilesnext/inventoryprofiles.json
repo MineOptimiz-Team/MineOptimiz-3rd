@@ -15,5 +15,10 @@
     },
     "GuiSettings": {
         "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "auto_refill_enable_per_slot_config": {
+            "value": false
+        }
     }
 }

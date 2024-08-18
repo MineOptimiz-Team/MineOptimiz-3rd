@@ -1,5 +1,5 @@
 renderSavingScreen = false
 showToasts = true
-showSavingTime = "text.cloth-config.boolean.value.true"
+showSavingTime = "TRUE"
 backgroundPriority = 2
 allowMultipleServers = true

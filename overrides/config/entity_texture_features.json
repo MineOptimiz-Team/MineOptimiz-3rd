@@ -10,6 +10,8 @@
   "alwaysCheckVanillaEmissiveSuffix": true,
   "enableArmorAndTrims": true,
   "skinFeaturesEnabled": true,
+  "skinTransparencyMode": "ETF_SKINS_ONLY",
+  "skinTransparencyInExtraPixels": true,
   "skinFeaturesEnableTransparency": true,
   "skinFeaturesEnableFullTransparency": false,
   "tryETFTransparencyForAllSkins": false,
