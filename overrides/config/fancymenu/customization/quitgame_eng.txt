@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.quitgame
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710517498819
+  last_edited_time = 1723966386185
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:ca2e760e-c6e1-44dc-8630-042cd9828aa8-1710517301923] = [groups:][instances:925a013d-2e54-4442-9fc6-cb27968231cb-1710517365424;]
+  [loading_requirement_container_meta:e146529d-6d09-476d-8eb6-fd2eaf5cc939-1723966383673] = [groups:][instances:925a013d-2e54-4442-9fc6-cb27968231cb-1710517365424;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:925a013d-2e54-4442-9fc6-cb27968231cb-1710517365424] = en_us
 }
 
@@ -121,8 +121,8 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -44
-  y = -55
+  x = -53
+  y = -54
   width = 200
   height = 40
   stretch_x = false

@@ -86,7 +86,7 @@
 	"functionality": {
 		"inputMethod": "rei:pinyin",
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": true,
+		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.
 		"leftSideMobEffects": false,
 		// Declares whether subsets is enabled.
@@ -191,7 +191,8 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
 			]
 		}
 	}
