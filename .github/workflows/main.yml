@@ -62,10 +62,10 @@ jobs:
           rm -rf versions
           rm README.md
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.0-fabric+${{ env.SHORT_SHA }}.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.201.1-fabric+${{ env.SHORT_SHA }}.mrpack"
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz v3.201.0-fabric+${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz v3.201.0-fabric+${{ env.SHORT_SHA }}.mrpack"
+          name: MineOptimiz v3.201.1-fabric+${{ env.SHORT_SHA }}.zip
+          path: "./MineOptimiz v3.201.1-fabric+${{ env.SHORT_SHA }}.mrpack"
      
