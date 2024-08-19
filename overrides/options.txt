@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","fabric","presencefootsteps:default_sound_pack","black_icons","file/fmsia_chinese.zip","file/fmsia_mineoptimiz.zip"]
+resourcePacks:["vanilla","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","fabric","presencefootsteps:default_sound_pack","black_icons","file/fmsia_chinese.zip","file/fmsia_mineoptimiz.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -181,8 +181,9 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
-key_zoomify.key.zoom:key.keyboard.c
-key_zoomify.key.zoom.secondary:key.keyboard.f6
+key_zume.zoom:key.keyboard.c
+key_zume.zoom_in:key.keyboard.equal
+key_zume.zoom_out:key.keyboard.minus
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
