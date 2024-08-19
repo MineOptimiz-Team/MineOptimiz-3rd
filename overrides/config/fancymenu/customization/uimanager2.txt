@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.uimanager2
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710518757030
+  last_edited_time = 1724052659078
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:7350e01c-5e67-4a39-be64-34a56764bb62-1710518728885] = [groups:][instances:]
+  [loading_requirement_container_meta:38f25c9b-7a1f-46d9-8aea-1d5462277171-1724052617912] = [groups:][instances:]
 }
 
 customization {
@@ -27,7 +27,7 @@ scroll_list_customization {
 }
 
 element {
-  source = 在OptiFabric-0.9.18作者添加了一个新的MineOptimiz设置界面%n%如果您不喜欢这个界面，您可以将其禁用
+  source = 已弃用
   source_mode = direct
   shadow = true
   case_mode = normal
@@ -43,8 +43,8 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -124
-  y = -107
+  x = -135
+  y = -42
   width = 268
   height = 40
   stretch_x = false
@@ -52,64 +52,6 @@ element {
   stay_on_screen = false
   element_loading_requirement_container_identifier = e43fbd17-48c8-4284-a5da-82543641b6e9-1710518271485
   [loading_requirement_container_meta:e43fbd17-48c8-4284-a5da-82543641b6e9-1710518271485] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = 07573a84-6bef-4ab1-8968-c7c08f4b981f-1710515396768
-  [executable_action_instance:667f4cf7-683f-4e10-9136-8b47040ae90c-1710518414596][action_type:set_variable] = legacy_settings:0
-  [executable_block:07573a84-6bef-4ab1-8968-c7c08f4b981f-1710515396768][type:generic] = [executables:667f4cf7-683f-4e10-9136-8b47040ae90c-1710518414596;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = 启用
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = 159a9aa1-05cc-4a52-9f9d-06c39218e9521706966171091
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -105
-  y = 56
-  width = 100
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 3b7c63ef-ade2-4d1e-94ff-e9a4e446ff1f-1710515396768
-  [loading_requirement_container_meta:3b7c63ef-ade2-4d1e-94ff-e9a4e446ff1f-1710515396768] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = dc2150cb-b399-428e-a3cf-737c450014fd-1710515396768
-  [executable_action_instance:6544e071-260e-4beb-ab20-0e6373f9e5ad-1710518477740][action_type:set_variable] = legacy_settings:1
-  [executable_block:dc2150cb-b399-428e-a3cf-737c450014fd-1710515396768][type:generic] = [executables:6544e071-260e-4beb-ab20-0e6373f9e5ad-1710518477740;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = 禁用
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = ef505022-efa4-450b-86be-37cd13ac44b81706966222321
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = 25
-  y = 56
-  width = 100
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 5dc5fc7a-3148-4d2b-9a1c-ecbbf2999b68-1710515396768
-  [loading_requirement_container_meta:5dc5fc7a-3148-4d2b-9a1c-ecbbf2999b68-1710515396768] = [groups:][instances:]
 }
 
 element {
@@ -130,9 +72,9 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -41
-  y = 88
-  width = 100
+  x = -100
+  y = 64
+  width = 197
   height = 20
   stretch_x = false
   stretch_y = false
