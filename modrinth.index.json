@@ -6,7 +6,7 @@
     "files": [
         {
             "downloads": [
-                "https://gh.ddlc.top/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar"
+                "https://mirror.ghproxy.com/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar"
             ],
             "env": {
                 "client": "required",
@@ -21,18 +21,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/zV5r3pPn/versions/EiRKrXtw/skinlayers3d-fabric-1.6.3-mc1.20.1.jar"
+                "https://mirror.ghproxy.com/github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.6/skinlayers3d-fabric-1.6.6-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 471378,
+            "fileSize": 472719,
             "hashes": {
-                "sha1": "fb05f74164c58e356fe5e97ad5a9ca5e044f4ee8",
-                "sha512": "f032d43a1063b4b2c2f355d91cedccee8e265afba7a99086d8bf419b32f1cc615778f0a7de0ac883df1da6b9c33606d0123ae56088950cb9d6ad2238d5bef7fd"
+                "sha1": "4c623a908a1a712002eee9387923f5cf7fa049bb",
+                "sha512": "203912f3de6587680b557df6721de59ac0db88720f03e05d438614b6c284b3243c615feffe630430dc0a9393a28d39fc1f40fe7d4da72610e6d6cbe8b6ae7dc8"
             },
-            "path": "mods/skinlayers3d-fabric-1.6.3-mc1.20.1.jar"
+            "path": "mods/skinlayers3d-fabric-1.6.6-mc1.20.1.jar"
         },
         {
             "downloads": [
@@ -51,16 +51,16 @@
         },
         {
             "downloads": [
-                "https://gh.ddlc.top/https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar"
+                "https://mirror.ghproxy.com/https://github.com/tr7zw/EntityCulling/releases/download/1.6.6/entityculling-fabric-1.6.6-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 57722,
+            "fileSize": 66648,
             "hashes": {
-                "sha1": "cf43e7a58fb62f75d664cce1b14a6064774e6547",
-                "sha512": "d041998579b5b814c2e1c8deab3aa3cb76132c9130fd5abdbedbe4fda8d503cb333922ab5f33c40b2649c6e0504cd9f65c44246c6e346b8e9cfd8f7895fd7334"
+                "sha1": "d6894508d74e5f01fb525b5b89d20ac4e54257b6",
+                "sha512": "1e272086c2a63bfaba910d98d1d048629d1f22a953b0caaf7349fd75ec6c80f17219cc67d938c7524d2bade2c0074117091237184f7bf72f30989294f84af66e"
             },
             "path": "mods/entityculling-fabric-1.6.2-mc1.20.jar"
         },
