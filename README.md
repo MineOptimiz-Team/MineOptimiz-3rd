@@ -22,4 +22,4 @@
  ## Bug 反馈
  - [Issues](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/issues)
 ## 关于1.21更新
- - 目前正在
+ - 计划在下周三左右开始更新1.21.1fabric
