@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - 1.20.1-fabric-stable
-        paths-ignore: 
+    paths-ignore: 
       - 'README.md'
       - 'versions/*'
       - 'meta.json'
