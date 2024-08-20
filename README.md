@@ -1,29 +1,25 @@
-# MineOptimiz
-[English.md](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/blob/1.19.4-OptiFabric-Stable/English.md)
-## 这是啥？
-一个Minecraft优化整合包
-## 它支持什么版本？
-| Version（版本）       | Support（支持）            | End-of-life time   |
-|-----------------------|----------------------------|--------------------|
-| 1.20.1(Forge/NeoForge)| 活跃                        | 无计划              |
-| 1.20.1(Fabric/Quilt)  | 活跃                        | 无计划              |
-| 1.19.4(OptiFabric)    | 活跃(LTS 0.9.19)            | 2024/5/12          |
-| 1.19.4(FabricSodium)  | 结束支持                     | 已结束支持           |
-| 1.17.1                | 结束支持                     | 已结束支持           |
-| [1.12.2](https://www.123pan.com/s/jtiDVv-XMmWA.html)                | 活跃(不在Github)           | 无计划             |
-## 下载
- - 你可以在[Github Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载稳定版或者在[Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions)下载测试版
- - 除此之外，你也可以在[MineOptimiz的网站](https://123smallmushroom.github.io)下载
- - [1.12.2下载](https://www.123pan.com/s/jtiDVv-XMmWA.html) 
- ## 内置模组的Licence
- - [看这里](https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/licenceofmods.txt)
- - MineOptimiz的一些旧版本可能无法遵守这些模组的licence，很抱歉
- ## Licence?
- - MineOptimiz本质上是一个整合包，不存在开源协议，但[MineOptimiz Updater](https://github.com/SmallMushroom-offical/MineOptimiz-Updater)使用[LGPLv2.1](https://github.com/SmallMushroom-offical/MineOptimiz-Updater/blob/main/LICENSE)协议
- ## 旧版本
- - [旧的仓库(MineOptimiz-Next)](https://github.com/SmallMushroom-offical/MineOptimiz-Next)
- - [旧的仓库(MineOptimiz)](https://github.com/123SmallMushroom/MineOptimiz)
- - 有一段时间MineOptimiz没有在Github上传，如果你想查看或下载这些版本，请前往[网盘下载](https://www.123pan.com/s/jtiDVv-oEmWA.html)
- ## 注意事项
- - 建议使用960x576以上的16:9分辨率，否则GUI会出Bug
-
+# MineOptimiz Fabric
+~~[English.md](https://github.com/SmallMushroom-offical/MineOptimiz/blob/1.19.4-OptiFabric-Stable/English.md)~~
+## 短小的介绍
+兼顾性能与兼容性的优化整合包，使用[Fabric](https://fabricmc.net)与[Embeddium](https://github.com/embeddedt/embeddium)以获得更好的性能与兼容性
+## 功能
+ - 定制化菜单(Provide by FancyMenu)
+ ![主菜单](https://123smallmushroom.github.io/pictures/2024-07-15_23.42.19.png)
+ ![“开始游戏”菜单](https://123smallmushroom.github.io/pictures/2024-07-15_23.44.24.png)
+ - 游戏内下载资源包/光影包(Provide by Resourcify)
+  ![下载资源包](https://123smallmushroom.github.io/pictures/2024-07-15_23.44.48.png)
+ - 聊天栏图片支持(Provide by ChatImage)
+ ![聊天栏图片支持](https://123smallmushroom.github.io/pictures/2024-07-15_23.47.26.png)
+ - 兼容1.20.2-所有服务器
+## 系统要求
+ - 系统: Windows 7+ , 支持Java17与OpenGL渲染的现代Linux发行版(不保证支持macOS)
+ - 分配内存要求: 998MB+(推荐1172MB+)
+ - GPU: 支持OpenGL 3.3+即可
+ - 窗口分辨率: 960x576以上
+ ## 下载
+ - 稳定版：在[Github Release](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载
+ - 测试版：[下载](https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Dev)
+ ## Bug 反馈
+ - [Issues](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/issues)
+## 关于1.21更新
+ - 计划在下周三左右开始更新1.21.1fabric
