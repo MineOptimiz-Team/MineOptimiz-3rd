@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.20.1-Dev
+      - 1.20.1-fabric-stable
   workflow_dispatch:
 
 jobs:
@@ -23,8 +23,8 @@ jobs:
 
       - name: Append short SHA to file content
         run: |
-          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" modrinth.index.json
-          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(buildtype\)/1/g" modrinth.index.json
+          sed -i "s/\(buildtype\)/1/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
@@ -44,17 +44,17 @@ jobs:
           wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/config/fancymenu/assets/Update/7z/7z.exe" -O "$updatedir/7z/7z.exe"
           wget "https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/config/fancymenu/assets/Update/aria2/aria2c.exe" -O "$updatedir/aria2/aria2c.exe"
           sed -i "s~%stabledownloadlink%~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1~g" $modpackdir/Update.bat
-          sed -i "s~%devdownloadlink%~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Dev~g" $modpackdir/Update.bat
-          sed -i "s~ghproxymirror~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-Dev.zip~g" $modpackdir/Update.bat
-          sed -i "s~branch~1.20.1-Dev~g" $modpackdir/Update.bat
-          sed -i "s~devdownloadlink~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Dev~g" $updatedir/update-dev.sh
+          sed -i "s~%devdownloadlink%~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-fabric-stable~g" $modpackdir/Update.bat
+          sed -i "s~ghproxymirror~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-fabric-stable.zip~g" $modpackdir/Update.bat
+          sed -i "s~branch~1.20.1-fabric-stable~g" $modpackdir/Update.bat
+          sed -i "s~devdownloadlink~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-fabric-stable~g" $updatedir/update-dev.sh
           sed -i "s~stabledownloadlink~https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1~g" $updatedir/update-stable.sh
           sed -i "s~mirrorname1~mirror_of_mineoptimiz~g" $updatedir/update-mirror-gitee-dev.sh
           sed -i "s~owner1~jxk370~g" $updatedir/update-mirror-gitee-dev.sh
           sed -i "s~examplewebsite~gitee.com~g" $updatedir/update-mirror-gitee-dev.sh
-          sed -i "s~branch~1.20.1-Dev~g" $updatedir/update-mirror-gitee-dev.sh
-          sed -i "s~ghproxymirror~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-Dev.zip~g" $updatedir/update-mirror-ghproxy-dev.sh
-          sed -i "s~branch~1.20.1-Dev~g" $updatedir/update-mirror-ghproxy-dev.sh
+          sed -i "s~branch~1.20.1-fabric-stable~g" $updatedir/update-mirror-gitee-dev.sh
+          sed -i "s~ghproxymirror~https://mirror.ghproxy.com/https://github.com/MineOptimiz-Team/MineOptimiz-3rd/archive/refs/heads/1.20.1-fabric-stable.zip~g" $updatedir/update-mirror-ghproxy-dev.sh
+          sed -i "s~branch~1.20.1-fabric-stable~g" $updatedir/update-mirror-ghproxy-dev.sh
           rm -rf .github
           rm -rf .git
           rm meta.json
@@ -62,10 +62,10 @@ jobs:
           rm -rf versions
           rm README.md
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.1-fabric+${{ env.SHORT_SHA }}.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.201.1-fabric+1.mrpack"
       
       - uses: actions/upload-artifact@v2
         with:
-          name: MineOptimiz v3.201.1-fabric+${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz v3.201.1-fabric+${{ env.SHORT_SHA }}.mrpack"
+          name: MineOptimiz v3.201.1-fabric+1.zip
+          path: "./MineOptimiz v3.201.1-fabric+1.mrpack"
      
