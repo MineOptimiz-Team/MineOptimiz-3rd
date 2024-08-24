@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.engmode
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710633698365
+  last_edited_time = 1724528613790
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:bf7c12fe-3aee-4651-b0c5-4b4f0934be41-1710633680767] = [groups:][instances:]
+  [loading_requirement_container_meta:37747ad7-eed9-4bca-a2f1-2ed6de190262-1724528607840] = [groups:][instances:]
 }
 
 customization {
@@ -24,6 +24,8 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
 }
 
 element {
@@ -53,47 +55,5 @@ element {
   stay_on_screen = false
   element_loading_requirement_container_identifier = a4ed9c2b-b37a-4fed-8030-6275b7345d88-1710515396699
   [loading_requirement_container_meta:a4ed9c2b-b37a-4fed-8030-6275b7345d88-1710515396699] = [groups:][instances:]
-}
-
-element {
-  interactable = true
-  source = English mode is update,and now it is auto enable :)
-  source_mode = direct
-  shadow = true
-  scale = 1.0
-  base_color = #FFFFFFFF
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = true
-  auto_line_wrapping = true
-  remove_html_breaks = true
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = true
-  element_type = text_v2
-  instance_identifier = 74393da4-17c2-4266-959f-8314606ba058-1710550536323
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -96
-  y = -19
-  width = 200
-  height = 40
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 4b921c7f-c09c-43c7-b062-207b9b99985c-1710550536323
-  [loading_requirement_container_meta:4b921c7f-c09c-43c7-b062-207b9b99985c-1710550536323] = [groups:][instances:]
 }
 

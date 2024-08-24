@@ -14,7 +14,7 @@ custom_gui {
 
 custom_gui {
   identifier = io.123smallmushroom.choosegame
-  title = 开始游戏
+  title = 开始游戏/Start Game
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
@@ -77,7 +77,7 @@ custom_gui {
 
 custom_gui {
   identifier = io.123smallmushroom.settings
-  title = MineOptimiz设置
+  title = MineOptimiz设置/MineOptimiz Settings
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true

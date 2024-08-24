@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.update
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1721093629399
+  last_edited_time = 1724528573300
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:db66b04e-9500-4a62-86ca-52f89a92d505-1721093401288] = [groups:][instances:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115;]
+  [loading_requirement_container_meta:25204d76-256e-433d-9673-d3497d1cbae7-1724528555644] = [groups:][instances:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115] = zh_cn
 }
 
@@ -25,36 +25,8 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
-}
-
-element {
-  button_element_executable_block_identifier = cba8000d-32b1-43d7-b54b-d05935c7cddb-1710515396770
-  [executable_action_instance:52320b1f-2e54-4c81-9ec0-275551fcd5a8-1712638742006][action_type:runcmd] = [windows:]; [macos:]; [linux:chmod 777 ./Update.sh];
-  [executable_action_instance:9c2e6cd4-574d-44ed-8b8d-f28763f1710e-1710515396770][action_type:opengui] = io.123smallmushroom.updatechoose
-  [executable_block:cba8000d-32b1-43d7-b54b-d05935c7cddb-1710515396770][type:generic] = [executables:52320b1f-2e54-4c81-9ec0-275551fcd5a8-1712638742006;9c2e6cd4-574d-44ed-8b8d-f28763f1710e-1710515396770;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = 使用脚本更新
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -58
-  y = -10
-  width = 116
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 5227c247-8314-4dac-8841-ce684db4fac8-1710515396770
-  [loading_requirement_container_meta:5227c247-8314-4dac-8841-ce684db4fac8-1710515396770] = [groups:][instances:]
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
 }
 
 element {
@@ -75,7 +47,7 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -58
+  x = -57
   y = -53
   width = 114
   height = 20
@@ -103,10 +75,9 @@ element {
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
-  anchor_point = element
-  anchor_point_element = d3fc9ffd-1bfb-40aa-b5f9-ebfd92b777611706345331976
-  x = 1
-  y = 119
+  anchor_point = mid-centered
+  x = -57
+  y = 96
   width = 115
   height = 20
   stretch_x = false
@@ -114,34 +85,5 @@ element {
   stay_on_screen = false
   element_loading_requirement_container_identifier = 9495b619-c802-42e3-b9b5-b8387d6cf1ff-1710515396771
   [loading_requirement_container_meta:9495b619-c802-42e3-b9b5-b8387d6cf1ff-1710515396771] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = a6786f85-a3fa-4f60-bfdb-2176dcef658b-1721093428446
-  [executable_action_instance:fd0f242b-b6d3-41ab-b81c-b4d379923cf1-1721093600864][action_type:opengui] = io.123smallmushroom.repair
-  [executable_block:a6786f85-a3fa-4f60-bfdb-2176dcef658b-1721093428446][type:generic] = [executables:fd0f242b-b6d3-41ab-b81c-b4d379923cf1-1721093600864;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = 修复
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = b20349d2-bdda-4af1-ad14-802e367458f4-1721093428446
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -58
-  y = 29
-  width = 115
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 5a73b0c7-a72e-4605-a15d-ece39c63239a-1721093428446
-  [loading_requirement_container_meta:5a73b0c7-a72e-4605-a15d-ece39c63239a-1721093428446] = [groups:][instances:]
 }
 

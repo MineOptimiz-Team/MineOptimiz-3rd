@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.settings
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710964042682
+  last_edited_time = 1724528228589
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:717ddcfe-08bb-4404-8405-78f9bdc2592e-1710963999377] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;a29d8dda-fee7-45bc-b43e-903b50dfa83f-1710518630713;]
+  [loading_requirement_container_meta:e8fa2bf1-44c0-4545-8a97-cb845b2739d9-1724528184635] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;a29d8dda-fee7-45bc-b43e-903b50dfa83f-1710518630713;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475] = zh_cn
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:a29d8dda-fee7-45bc-b43e-903b50dfa83f-1710518630713] = legacy_settings:0
 }
@@ -26,6 +26,8 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
 }
 
 element {
@@ -59,7 +61,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 7ec31592-24f2-489d-a92e-2954ece44647-1710515396741
-  [executable_action_instance:df70abea-fe02-4c8c-9e23-f2c2eb678799-1710515396741][action_type:openlink] = https://github.com/SmallMushroom-offical/MineOptimiz/issues
+  [executable_action_instance:df70abea-fe02-4c8c-9e23-f2c2eb678799-1710515396741][action_type:openlink] = https://github.com/MineOptimiz-Team/MineOptimiz-3rd/issues
   [executable_block:7ec31592-24f2-489d-a92e-2954ece44647-1710515396741][type:generic] = [executables:df70abea-fe02-4c8c-9e23-f2c2eb678799-1710515396741;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
@@ -124,7 +126,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 英语模式/English mode
+  label = English Support of GUI
   navigatable = true
   element_type = custom_button
   instance_identifier = ad9f1553-b6a5-43d5-86d2-95b1bcde31e31706182912577
