@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "neoforge": "21.1.23",
+        "neoforge": "21.1.26",
         "minecraft": "1.21.1"
     },
     "files": [
