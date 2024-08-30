@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.21.1-Neo-Dev
+      - 1.21.1-neo-sodium
     paths-ignore: 
       - 'README.md'
   workflow_dispatch:
