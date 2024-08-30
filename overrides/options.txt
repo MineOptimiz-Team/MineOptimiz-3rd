@@ -48,7 +48,7 @@ mouseSensitivity:0.7676056338028169
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","file/Fast Better Grass.zip","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r671725_MC1.21.x.zip","file/Masa Family Bucket Translation Pack v1.0.4.zip","file/SodiumTranslations.zip"]
+resourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","file/Fast Better Grass.zip","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r671725_MC1.21.x.zip","file/Masa Family Bucket Translation Pack v1.0.4.zip"]
 incompatibleResourcePacks:["file/Midnighttiggers-ACT-Default_1.20.1_V2.zip"]
 lastServer:
 lang:zh_cn
