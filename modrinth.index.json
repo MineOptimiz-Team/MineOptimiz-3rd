@@ -93,21 +93,6 @@
                 "sha512": "2d367311833ab32a3d39b4c573cd37a3997535fdab79020745df0bad04d2d5971fc116cac27f3ca06b9d2ba59a6ebbc868ce647a62d9958d40e9446874568ea7"
             },
             "path": "mods/zume-1.0.0.jar"
-        },
-        {
-            "downloads": [
-            "https://cdn.modrinth.com/data/i9oIemgf/versions/pfk4Tavr/fmsia_forge_1.0.1_MC_1.20.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 214526,
-            "hashes": {
-                "sha1": "32dc24355b1b73a4ea1e767a60b5d3e312d25a5c",
-                "sha512": "677be3b9e5258c48b2eee8db1a37d5e7ae838cfb02749c1d319baacfefa7dc3e3fb2005b1311034659df846f7d060632baa45fceda7f44ad130aa02e339989c37"
-            },
-            "path": "mods/fmsia_forge_1.0.1_MC_1.20.1.jar"
         }
     ],
     "formatVersion": 1,
