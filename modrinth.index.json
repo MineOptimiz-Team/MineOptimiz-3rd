@@ -123,21 +123,6 @@
                 "sha512": "2d367311833ab32a3d39b4c573cd37a3997535fdab79020745df0bad04d2d5971fc116cac27f3ca06b9d2ba59a6ebbc868ce647a62d9958d40e9446874568ea7"
             },
             "path": "mods/zume-1.0.0.jar"
-        },
-        {
-            "downloads": [
-            "https://cdn.modrinth.com/data/i9oIemgf/versions/sNxG4Wjk/fmsia_fabric_1.0.1_MC_1.20.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 210957,
-            "hashes": {
-                "sha1": "87618bbed90256346c61504a2648790e66bab66b",
-                "sha512": "49280dee1cf338270440cd9335bc80413927f290827f7d4e5db29d1c2e8624e84f2c22216c838fa53cdcc1aaa20fd1b968e10889339de2f1c538375e12ccac44"
-            },
-            "path": "mods/fmsia_fabric_1.0.1_MC_1.20.1.jar"
         }
     ],
     "formatVersion": 1,
