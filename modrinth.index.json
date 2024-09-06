@@ -96,21 +96,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/9eGKb6K1/versions/blva78z9/voicechat-fabric-1.20.1-2.5.9.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 8060433,
-            "hashes": {
-                "sha1": "e1644d397191c05181036b7054d4f6d18d3129f6",
-                "sha512": "992128e63b658d6b531c593d9c4b583082622424d65f66ea9e1bf2f53c0120c86736016c303f62873f0a6abcd9ffb192b0de9657dee269e423903e7c28dab323"
-            },
-            "path": "mods/voicechat-fabric-1.20.1-2.5.9.jar"
-        },
-        {
-            "downloads": [
             "https://cdn.modrinth.com/data/o6qsdrrQ/versions/EDf05717/zume-1.0.0.jar"
             ],
             "env": {
