@@ -92,7 +92,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 349d643f-c6d9-425d-942e-ccb0714e9adc-1710515396754
-  [executable_action_instance:48e33a4a-cd94-46d7-b76e-a0c68a6b1143-1710515396754][action_type:opengui] = net.burningtnt.accountsx.gui.AccountScreen
+  [executable_action_instance:48e33a4a-cd94-46d7-b76e-a0c68a6b1143-1710515396754][action_type:opengui] = net.burningtnt.accountsx.adapters.mc.ui.AccountScreen
   [executable_block:349d643f-c6d9-425d-942e-ccb0714e9adc-1710515396754][type:generic] = [executables:48e33a4a-cd94-46d7-b76e-a0c68a6b1143-1710515396754;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
