@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","fabric","presencefootsteps:default_sound_pack","black_icons","file/fmsia_chinese.zip","file/fmsia_mineoptimiz.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","fabric","presencefootsteps:default_sound_pack","black_icons","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","lambdabettergrass:default"]
+incompatibleResourcePacks:["lambdabettergrass:default"]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -131,11 +131,6 @@ key_key.toomanyplayers.fastMenu:key.keyboard.unknown
 key_key.toomanyplayers.openConfigKey:key.keyboard.unknown
 key_config.chatimage.key:key.keyboard.end
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.jade.config:key.keyboard.keypad.0
-key_key.jade.show_overlay:key.keyboard.keypad.1
-key_key.jade.toggle_liquid:key.keyboard.keypad.2
-key_key.jade.narrate:key.keyboard.keypad.5
-key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.midnightcontrols.look_up:key.keyboard.keypad.8
 key_key.midnightcontrols.look_right:key.keyboard.keypad.6
 key_key.midnightcontrols.look_down:key.keyboard.keypad.2
@@ -144,6 +139,7 @@ key_key.midnightcontrols.ring:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.backslash
 key_key.presencefootsteps.toggle:key.keyboard.unknown
+key_key.ryoamiclights.dyn_light:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.grave.accent
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.caps.lock
@@ -154,6 +150,11 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.waila.config:key.keyboard.unknown
+key_key.waila.show_overlay:key.keyboard.unknown
+key_key.waila.toggle_liquid:key.keyboard.unknown
+key_key.waila.show_recipe_input:key.keyboard.unknown
+key_key.waila.show_recipe_output:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
