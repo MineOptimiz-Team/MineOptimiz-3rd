@@ -47,9 +47,20 @@ hideSplashTexts:false
 mouseSensitivity:0.7676056338028169
 damageTiltStrength:1.0
 highContrast:false
-narratorHotkey:true
-resourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","file/Fast Better Grass.zip","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r671725_MC1.21.x.zip","file/Masa Family Bucket Translation Pack v1.0.4.zip"]
-incompatibleResourcePacks:["file/Midnighttiggers-ACT-Default_1.20.1_V2.zip"]
+gamma:1.0
+renderDistance:8
+simulationDistance:6
+entityDistanceScaling:0.5
+guiScale:0
+particles:1
+maxFps:260
+graphicsMode:0
+ao:true
+prioritizeChunkUpdates:0
+biomeBlendRadius:2
+renderClouds:"false"
+resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","file/Masa Family Bucket Translation Pack v1.0.3.zip"]
+incompatibleResourcePacks:["lambdabettergrass:default"]
 lastServer:
 lang:zh_cn
 chatVisibility:0
@@ -128,6 +139,14 @@ key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
+key_zume.zoom:key.keyboard.c
+key_zume.zoom_in:key.keyboard.equal
+key_zume.zoom_out:key.keyboard.minus
+key_key.waila.config:key.keyboard.unknown
+key_key.waila.show_overlay:key.keyboard.unknown
+key_key.waila.toggle_liquid:key.keyboard.unknown
+key_key.waila.show_recipe_input:key.keyboard.unknown
+key_key.waila.show_recipe_output:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
@@ -151,8 +170,6 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.presencefootsteps.settings:key.keyboard.backslash
-key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
