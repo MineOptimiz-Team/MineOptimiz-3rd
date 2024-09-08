@@ -1,12 +1,8 @@
 name: Package Modpack
 
-on:
-  push:
-    branches:
-      - 1.20.1-Forge-Dev
+on: [push, pull_request,workflow_dispatch]
     paths-ignore: 
       - 'README.md'
-  workflow_dispatch:
 
 jobs:
   Package-Modpack:
