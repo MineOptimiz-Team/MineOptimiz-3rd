@@ -41,7 +41,7 @@ jobs:
           zip -r "./MineOptimiz.zip" ./*
           mv MineOptimiz.zip "MineOptimiz v3.201.2-fabric+${{ env.SHORT_SHA }}.mrpack"
       
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: MineOptimiz v3.201.2-fabric+${{ env.SHORT_SHA }}.zip
           path: "./MineOptimiz v3.201.2-fabric+${{ env.SHORT_SHA }}.mrpack"
