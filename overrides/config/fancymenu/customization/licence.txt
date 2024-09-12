@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.licence
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1715499846129
+  last_edited_time = 1726116701382
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:ca78e4fd-e51b-42cd-8e91-9cd6b0af207d-1715499827900] = [groups:][instances:]
+  [loading_requirement_container_meta:2c2bbb04-9dc5-4c67-9a7e-f1ee2c834ef3-1726116686936] = [groups:][instances:]
 }
 
 customization {
@@ -24,6 +24,8 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
 }
 
 element {
@@ -44,8 +46,8 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -51
-  y = 92
+  x = -48
+  y = 72
   width = 100
   height = 20
   stretch_x = false
@@ -87,10 +89,10 @@ element {
   fade_in_speed = 1.0
   anchor_point = element
   anchor_point_element = 0de358a2-d00f-4c0c-9ddb-b0e61f977450-1710684496714
-  x = 36
+  x = 37
   y = 3
-  width = 200
-  height = 40
+  width = 24
+  height = 17
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -130,11 +132,11 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = element
-  anchor_point_element = 0de358a2-d00f-4c0c-9ddb-b0e61f977450-1710684496714
-  x = 38
-  y = 2
-  width = 200
-  height = 40
+  anchor_point_element = 5eff5a17-72f0-433c-9ee7-3a341a924a3d-1710684532313
+  x = 3
+  y = -1
+  width = 22
+  height = 21
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -145,7 +147,7 @@ element {
 
 element {
   interactable = true
-  source = [source:web]https://gh.ddlc.top/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/licenceofmods.txt
+  source = [source:web]https://mirror.ghproxy.com/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/licenceofmods.txt
   source_mode = resource
   shadow = true
   scale = 1.0
