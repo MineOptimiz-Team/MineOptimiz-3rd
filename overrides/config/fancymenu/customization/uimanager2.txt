@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.uimanager2
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1723966045976
+  last_edited_time = 1726205323539
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:6f9399d9-6464-4f32-a2f4-cf584c6c412f-1723966005263] = [groups:][instances:]
+  [loading_requirement_container_meta:992e6de7-fa29-4a3c-8447-cb1ca7a77b4c-1726205081602] = [groups:][instances:]
 }
 
 customization {
@@ -27,7 +27,7 @@ scroll_list_customization {
 }
 
 element {
-  source = 已弃用
+  source = 在3.201.2之后，MineOptimiz调大了界面尺寸%n%如果觉得GUI过大，可以在这里禁用分辨率缩放并将界面尺寸改为2x
   source_mode = direct
   shadow = true
   case_mode = normal
@@ -72,14 +72,88 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -70
+  x = -46
   y = 71
-  width = 138
+  width = 90
   height = 20
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
   element_loading_requirement_container_identifier = b9bea3bd-92d0-4651-a7d8-43dfa87cd874-1710515396768
   [loading_requirement_container_meta:b9bea3bd-92d0-4651-a7d8-43dfa87cd874-1710515396768] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = df3c1786-fdc2-439e-84cf-15e0108545d4-1726204339963
+  [executable_action_instance:dd0dc7b6-5729-4354-9288-c6a83a896ca4-1726204343287][action_type:edit_minecraft_option] = guiScale:2
+  [executable_action_instance:128663b9-02eb-48ae-89e3-9e1337785770-1726204744200][action_type:enable_layout] = edited_main_menu_2x
+  [executable_action_instance:cc9810c1-ccd8-44c7-8113-bec2ddc00143-1726204763718][action_type:enable_layout] = startgame2x
+  [executable_action_instance:5613a4f6-dc70-416f-b7a7-624ecce18887-1726204772839][action_type:enable_layout] = quitgame2x
+  [executable_action_instance:01eeeba7-b5fd-4c05-90c2-453847ffd7ce-1726204795424][action_type:enable_layout] = addtesting2x
+  [executable_action_instance:e865aa40-2575-4cf2-95a3-86f3ef7b6563-1726204805954][action_type:disable_layout] = edited_main_menu
+  [executable_action_instance:c3bb1e50-fa40-4ca8-847b-0b0227334826-1726204821173][action_type:disable_layout] = startgame
+  [executable_action_instance:f26d0629-a5b0-4cc6-97c3-edf5c13d38e6-1726204885896][action_type:disable_layout] = quitgame
+  [executable_action_instance:b436e70f-f6a9-48d3-a705-5e2e4ccd2b28-1726204898762][action_type:disable_layout] = addtesting
+  [executable_block:df3c1786-fdc2-439e-84cf-15e0108545d4-1726204339963][type:generic] = [executables:dd0dc7b6-5729-4354-9288-c6a83a896ca4-1726204343287;128663b9-02eb-48ae-89e3-9e1337785770-1726204744200;cc9810c1-ccd8-44c7-8113-bec2ddc00143-1726204763718;5613a4f6-dc70-416f-b7a7-624ecce18887-1726204772839;01eeeba7-b5fd-4c05-90c2-453847ffd7ce-1726204795424;e865aa40-2575-4cf2-95a3-86f3ef7b6563-1726204805954;c3bb1e50-fa40-4ca8-847b-0b0227334826-1726204821173;f26d0629-a5b0-4cc6-97c3-edf5c13d38e6-1726204885896;b436e70f-f6a9-48d3-a705-5e2e4ccd2b28-1726204898762;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 应用上述更改
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = f0647127-4ff9-4995-8b8a-ec5b2bd802a1-1726204339963
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -91
+  y = 32
+  width = 82
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 66d08c6d-7bc0-420a-aec3-41219582e2f8-1726204339962
+  [loading_requirement_container_meta:66d08c6d-7bc0-420a-aec3-41219582e2f8-1726204339962] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 17417918-e774-4813-a2e6-a3a3d3620c65-1726204383908
+  [executable_action_instance:d5c4405f-481a-4169-97fe-ef0832e58ea5-1726204487255][action_type:edit_minecraft_option] = guiScale:0
+  [executable_action_instance:411e3844-f2ad-426a-bd7f-386af1995fc6-1726205083975][action_type:enable_layout] = edited_main_menu
+  [executable_action_instance:2efdff42-2525-4e13-80c8-d2c866566c21-1726205127838][action_type:disable_layout] = edited_main_menu_2x
+  [executable_action_instance:1a3b03a2-8bed-4499-a1cd-0c8d89af7645-1726205143038][action_type:enable_layout] = startgame
+  [executable_action_instance:4a070c94-fd01-4a39-81f0-2fa75f51347f-1726205168039][action_type:enable_layout] = quitgame
+  [executable_action_instance:3688f069-f467-4886-b97e-558340ff4b25-1726205190509][action_type:enable_layout] = addtesting
+  [executable_action_instance:d3868b3f-5313-45c0-9d67-0a548193a18e-1726205256791][action_type:disable_layout] = startgame2x
+  [executable_action_instance:94789038-69af-4be9-9db3-ce4e17898245-1726205266973][action_type:disable_layout] = quitgame2x
+  [executable_action_instance:72eadd57-a374-4e71-bf3e-d0fb2e782855-1726205276289][action_type:disable_layout] = addtesting2x
+  [executable_block:17417918-e774-4813-a2e6-a3a3d3620c65-1726204383908][type:generic] = [executables:d5c4405f-481a-4169-97fe-ef0832e58ea5-1726204487255;411e3844-f2ad-426a-bd7f-386af1995fc6-1726205083975;2efdff42-2525-4e13-80c8-d2c866566c21-1726205127838;1a3b03a2-8bed-4499-a1cd-0c8d89af7645-1726205143038;4a070c94-fd01-4a39-81f0-2fa75f51347f-1726205168039;3688f069-f467-4886-b97e-558340ff4b25-1726205190509;d3868b3f-5313-45c0-9d67-0a548193a18e-1726205256791;94789038-69af-4be9-9db3-ce4e17898245-1726205266973;72eadd57-a374-4e71-bf3e-d0fb2e782855-1726205276289;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 还原设置
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = bc6004a7-4ce4-4e5b-82f1-2974e7c2fca7-1726204383908
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = 7
+  y = 32
+  width = 85
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a36b34ed-b465-4a2d-87e3-e4a4103f5810-1726204383908
+  [loading_requirement_container_meta:a36b34ed-b465-4a2d-87e3-e4a4103f5810-1726204383908] = [groups:][instances:]
 }
 
