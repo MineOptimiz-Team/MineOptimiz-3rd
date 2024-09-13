@@ -4,7 +4,7 @@ layout-meta {
   identifier = options_screen
   render_custom_elements_behind_vanilla = false
   last_edited_time = 1726204621597
-  is_enabled = false
+  is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
