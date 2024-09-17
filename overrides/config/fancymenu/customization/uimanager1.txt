@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.uimanager1
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710547207664
+  last_edited_time = 1726581214593
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:04c571d2-0bf3-4e79-83cd-36d16e243312-1710547201137] = [groups:][instances:]
+  [loading_requirement_container_meta:e1392088-86df-4d05-91cf-7ee450825a0e-1726581151386] = [groups:][instances:]
 }
 
 customization {
@@ -56,7 +56,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 7369dd63-32d5-491e-8e33-ed5407c62e38-1710515396765
-  [executable_action_instance:8bc3e79c-43a2-40d4-8b65-92e7e6d5f547-1710515396765][action_type:enable_layout] = titlescreenvanilla
+  [executable_action_instance:8bc3e79c-43a2-40d4-8b65-92e7e6d5f547-1710515396765][action_type:enable_layout] = edited_main_menu
   [executable_block:7369dd63-32d5-491e-8e33-ed5407c62e38-1710515396765][type:generic] = [executables:8bc3e79c-43a2-40d4-8b65-92e7e6d5f547-1710515396765;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
@@ -72,7 +72,7 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -108
+  x = 10
   y = 53
   width = 100
   height = 20
@@ -85,7 +85,7 @@ element {
 
 element {
   button_element_executable_block_identifier = c89e5bb7-4a24-4de6-932e-1e370be303ed-1710515396766
-  [executable_action_instance:3e6981e4-4b01-402d-b297-ac1fa8565d78-1710515396766][action_type:disable_layout] = titlescreenvanilla
+  [executable_action_instance:3e6981e4-4b01-402d-b297-ac1fa8565d78-1710515396766][action_type:disable_layout] = edited_main_menu
   [executable_block:c89e5bb7-4a24-4de6-932e-1e370be303ed-1710515396766][type:generic] = [executables:3e6981e4-4b01-402d-b297-ac1fa8565d78-1710515396766;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
@@ -101,7 +101,7 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 5
+  x = -105
   y = 53
   width = 101
   height = 20
