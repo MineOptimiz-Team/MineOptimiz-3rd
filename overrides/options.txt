@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","fabric","presencefootsteps:default_sound_pack","black_icons","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","lambdabettergrass:default"]
-incompatibleResourcePacks:["lambdabettergrass:default"]
+resourcePacks:["vanilla","file/VanillaTweaks_r729861.zip","fabric","presencefootsteps:default_sound_pack","black_icons","file/Midnighttiggers-FCT-Default_1.20_V4.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","lambdabettergrass:default"]
+incompatibleResourcePacks:["file/Midnighttiggers-FCT-Default_1.20_V4.zip","lambdabettergrass:default"]
 lastServer:
 lang:zh_cn
 soundDevice:""
