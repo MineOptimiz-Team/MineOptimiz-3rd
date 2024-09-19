@@ -1,0 +1,14 @@
+# FastQuit Config
+version:1.2.2+1.18.2
+
+## Determines whether a toast gets shown when a world finishes saving
+showToasts:true
+
+## When playing on high render distance, quitting the world can still take a bit because the client-side chunk storage has to be cleared.
+## By enabling this setting the 'Saving world' screen will be rendered.
+renderSavingScreen:false
+
+## Sets the thread priority of the server when saving worlds in the background
+## This is done to improve client performance while saving, but will make the saving take longer over all
+## Value has to be between 0 and 10, setting it to 0 will disable changing thread priority
+backgroundPriority:2

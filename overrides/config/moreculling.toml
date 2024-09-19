@@ -1,26 +1,10 @@
 enableSodiumMenu = true
-cloudCulling = true
-signTextCulling = true
-rainCulling = true
 useBlockStateCulling = true
 useCustomItemFrameRenderer = true
-itemFrameMapCulling = true
 useItemFrameLOD = true
-itemFrameLODRange = 384
+itemFrameLODRange = 20
 useItemFrame3FaceCulling = true
-itemFrame3FaceCullingRange = 12.0
+itemFrame3FaceCullingRange = 3.4641016
 leavesCullingMode = "CHECK"
-leavesCullingAmount = 2
-includeMangroveRoots = false
+leavesCullingDepth = 2
 powderSnowCulling = true
-entityModelCulling = false
-useOnModdedBlocksByDefault = true
-
-[modCompatibility]
-bountiful = true
-travelersbackpack = true
-betterfurnacesreforged = true
-waystones = true
-advancednetherite = true
-friendsandfoes = true
-minecraft = true

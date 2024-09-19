@@ -1,117 +1,87 @@
 {
     "dependencies": {
         "fabric-loader": "0.16.5",
-        "minecraft": "1.20.1"
+        "minecraft": "1.18.2"
     },
     "files": [
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar"
+                "https://cdn.modrinth.com/data/DynYZEae/versions/jWOt1f90/exordium-fabric-1.0.1-mc1.18.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 130004,
+            "fileSize": 132957,
             "hashes": {
-                "sha1": "831590b1082e5ca8fee5821589105ec536d7dcff",
-                "sha512": "953431761903b106afba773d4d609beceb6db0e1eaeffc213a13e43cc632097cff22058b55de24fdbada97f550f6b78ccf9445336e20583496785da2290cb6e4"
+                "sha1": "5f1e8064d303eef366f7e2fc8599cdf2a6254843",
+                "sha512": "5445f0cf8ff77ceaadeda83b3348c644882c6d83b539d348a636a162fd9060c65b48a7672718d1f36b7e84d1dd161f2dfc0736e502c38aad59ae5f63744e3353"
             },
-            "path": "mods/exordium-fabric-1.0.3-mc1.20.jar"
+            "path": "mods/exordium-fabric-1.0.1-mc1.18.jar"
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.6/skinlayers3d-fabric-1.6.6-mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/zV5r3pPn/versions/d0qbKmr8/skinlayers3d-fabric-1.6.7-mc1.18.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 472719,
+            "fileSize": 473325,
             "hashes": {
-                "sha1": "4c623a908a1a712002eee9387923f5cf7fa049bb",
-                "sha512": "203912f3de6587680b557df6721de59ac0db88720f03e05d438614b6c284b3243c615feffe630430dc0a9393a28d39fc1f40fe7d4da72610e6d6cbe8b6ae7dc8"
+                "sha1": "fe9c4c3b6a4b1e26036932a31627a192ab7916d1",
+                "sha512": "052baad24f466b3276aba85edfc6daec0c7c2e4412147e79cc046ca0d04a4cd2b1d7edc586f921df7703465f406d980abbb96f47fa1d6482cf120668a1110f91"
             },
-            "path": "mods/skinlayers3d-fabric-1.6.6-mc1.20.1.jar"
+            "path": "mods/skinlayers3d-fabric-1.6.7-mc1.18.2.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/3dDslDXq/fancymenu_fabric_3.2.3_MC_1.20.1.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/CjkGEJQz/fancymenu_fabric_3.2.3_MC_1.18.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2686178,
+            "fileSize": 2788980,
             "hashes": {
-                "sha1": "ac5c44bd127ce01040db73e234ae73fa7ed3fbfb",
-                "sha512": "fb5574b32484425cc293937d331b0674b28bf6b05be1ca045769f6e458ed179b851322df68dbfbb6cd84c1deebf37a7343a6243dfde50d0bfeac36feb0b1a451"
+                "sha1": "9054cec7b8415caad819a05b362fb4976494eede",
+                "sha512": "e3c6efef7e0cab9f6b524a27cc97c4f8c30986ee2f05258b0d5a31a8fe4a7ea51de1d265fe02f0ed44c40b6a3b5a3add49470f26cc36866071f080e67811984b"
             },
-            "path": "mods/fancymenu_fabric_3.2.3_MC_1.20.1.jar"
+            "path": "mods/fancymenu_fabric_3.2.3_MC_1.18.2.jar"
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/tr7zw/EntityCulling/releases/download/1.6.6/entityculling-fabric-1.6.6-mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/MPCX6s5C/versions/zcI1gILO/notenoughanimations-fabric-1.7.6-mc1.18.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 66648,
+            "fileSize": 426880,
             "hashes": {
-                "sha1": "d6894508d74e5f01fb525b5b89d20ac4e54257b6",
-                "sha512": "1e272086c2a63bfaba910d98d1d048629d1f22a953b0caaf7349fd75ec6c80f17219cc67d938c7524d2bade2c0074117091237184f7bf72f30989294f84af66e"
+                "sha1": "3234d5e658d69f47a474c6b3154a23aff12b18f6",
+                "sha512": "a10a20dba4c6a4219a9eb9ecef58db5db675c77a770c6373cc3d06edd9bb038f692d91da3ba330a66200b864a7dff204881b14d054208c5c4991f49ab611919a"
             },
-            "path": "mods/entityculling-fabric-1.6.2-mc1.20.jar"
+            "path": "mods/notenoughanimations-fabric-1.7.6-mc1.18.2.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/MPCX6s5C/versions/YbSMjtFY/notenoughanimations-fabric-1.7.1-mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/d3CbGntl/entityculling-fabric-1.6.1-mc1.18.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 415129,
+            "fileSize": 57098,
             "hashes": {
-                "sha1": "c001e4abfeff9252635bab7c9b8d852082ba0fab",
-                "sha512": "d9729d824f1aac0e4118b65b4f0f81ba7e7fcf3d6c95ad9d98c17a6ad2595ca3e72c1f8b41ead3dfeb550e297d769a2a82ac97533086c15d0f7903dfc7f025e1"
+                "sha1": "b0822232e9d7bdd5d084ebcf40e8ce9b37a96734",
+                "sha512": "0a7076cea4619d8fadf114c68a9eb3880c6199a80dfe8f38f332960e03b887bd4f30a8bb2aef850b8f781887d6b9be37358b492546b45a270582190511d1b1e6"
             },
-            "path": "mods/notenoughanimations-fabric-1.7.1-mc1.20.1.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/rIC2XJV4/versions/MZzBB2Tu/viafabricplus-2.8.7.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 14644552,
-            "hashes": {
-                "sha1": "894642738f79793f4cfbe634441eabca147745a0",
-                "sha512": "0139ccd3413a22978f5774f35e5d7c63317e56eacc74c229c25cf0a5fe2d03f51adf4aca3fb7bd072b0590225b1e767cf6231f08197e9b7f88008afa0133e0a4"
-            },
-            "path": "mods/viafabricplus-2.8.7.jar"
-        },
-        {
-            "downloads": [
-            "https://cdn.modrinth.com/data/o6qsdrrQ/versions/EDf05717/zume-1.0.0.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 98523,
-            "hashes": {
-                "sha1": "715ddabe93038089d553a0c73bb0868186e9173c",
-                "sha512": "2d367311833ab32a3d39b4c573cd37a3997535fdab79020745df0bad04d2d5971fc116cac27f3ca06b9d2ba59a6ebbc868ce647a62d9958d40e9446874568ea7"
-            },
-            "path": "mods/zume-1.0.0.jar"
+            "path": "mods/entityculling-fabric-1.6.1-mc1.18.2.jar"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz v3.201.2-fabric+buildtype",
-    "versionId": "3.201.2-fabric+buildtype"
+    "name": "MineOptimiz v3.182.0-fabric+buildtype",
+    "versionId": "3.182.0-fabric+buildtype"
 }

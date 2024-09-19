@@ -1,0 +1,13 @@
+filename = 'dark-loading-screen-1.6.11.jar'
+name = 'Dark Loading Screen'
+side = 'client'
+
+[download]
+hash = '6ae5ab19cda2eb7e1006cfeef477e8fd4229cd175bdfc51f14c1f477ec8e189b8d2f12f49546b7e821b090770c94707ed0b1a1b2d1b7599a1de68fcdd8092f45'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/h3XWIuzM/versions/PfFRkNwR/dark-loading-screen-1.6.11.jar'
+
+[update.modrinth]
+mod-id = 'h3XWIuzM'
+version = 'PfFRkNwR'

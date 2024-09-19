@@ -1,0 +1,13 @@
+filename = 'fancymenu_fabric_3.2.3_MC_1.18.2.jar'
+name = 'FancyMenu'
+side = 'both'
+
+[download]
+hash = 'e3c6efef7e0cab9f6b524a27cc97c4f8c30986ee2f05258b0d5a31a8fe4a7ea51de1d265fe02f0ed44c40b6a3b5a3add49470f26cc36866071f080e67811984b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wq5SjeWM/versions/CjkGEJQz/fancymenu_fabric_3.2.3_MC_1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'Wq5SjeWM'
+version = 'CjkGEJQz'

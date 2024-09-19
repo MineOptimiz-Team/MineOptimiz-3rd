@@ -1,0 +1,42 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				axolotl = true
+				cow = true
+				chest_minecart = true
+				tropical_fish = true
+				pig = true
+				skeleton = true
+				bat = true
+				rabbit = true
+				zombie = true
+				firework_rocket = true
+				armor_stand = true
+				sheep = true
+				player = true
+				item = true
+				wolf = true
+				villager = true
+				salmon = true
+				zombie_villager = true
+				boat = true
+				item_frame = true
+				horse = true
+				witch = true
+				glow_squid = true
+				cod = true
+				squid = true
+				wither = true
+				spider = true
+				creeper = true
+

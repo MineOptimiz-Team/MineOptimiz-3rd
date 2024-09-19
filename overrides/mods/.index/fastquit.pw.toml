@@ -1,0 +1,13 @@
+filename = 'fastquit-1.2.2+1.18.2.jar'
+name = 'FastQuit'
+side = 'client'
+
+[download]
+hash = 'fa28809ce7f0710ec11159664953a19cef69da88bc446eef1392e8e05c6170b895ac2bdd2a44c37ff4e462417c63968cbe82b1eedfe7bfc8d612d03f462f0b94'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/x1hIzbuY/versions/GKzeP8Zr/fastquit-1.2.2%2B1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'x1hIzbuY'
+version = 'GKzeP8Zr'

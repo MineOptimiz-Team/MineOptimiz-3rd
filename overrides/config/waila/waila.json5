@@ -1,0 +1,111 @@
+{
+  general: {
+    // 显示提示框
+    // 收集数据并渲染提示框
+    // Default value: [true]
+    displayTooltip: true,
+    // 潜行详情
+    // 仅当潜行时显示主体内容
+    // Default value: [false]
+    shiftForDetails: false,
+    // 隐藏潜行文本
+    // 当潜行详情启用时，隐藏“潜行显示详情”文本
+    // Default value: [false]
+    hideShiftText: false,
+    // 显示模式
+    // 提示框显示方式
+    // 切换：显示按键会切换开关
+    // 按住：必须按住显示按键
+    // Default value: [TOGGLE]
+    // Available values: [HOLD_KEY, TOGGLE]
+    displayMode: "TOGGLE",
+    // 玩家列表隐藏
+    // 当玩家列表打开时隐藏提示框
+    // Default value: [true]
+    hideFromPlayerList: true,
+    // 调试隐藏
+    // 当调试菜单打开时隐藏提示框
+    // Default value: [true]
+    hideFromDebug: true,
+    // 启用系统讲述人
+    // 使用系统讲述人读出方块和实体名
+    // Default value: [false]
+    enableTextToSpeech: false,
+    // 速率限制
+    // 每个服务器请求之间的延迟是多少毫秒
+    // 必须至少为250毫秒
+    // Default value: [250]
+    rateLimit: 250
+  },
+  overlay: {
+    position: {
+      align: {
+        // Default value: [CENTER]
+        // Available values: [LEFT, CENTER, RIGHT]
+        x: "CENTER",
+        // Default value: [TOP]
+        // Available values: [TOP, MIDDLE, BOTTOM]
+        y: "TOP"
+      },
+      anchor: {
+        // Default value: [CENTER]
+        // Available values: [LEFT, CENTER, RIGHT]
+        x: "CENTER",
+        // Default value: [TOP]
+        // Available values: [TOP, MIDDLE, BOTTOM]
+        y: "TOP"
+      },
+      // X轴偏移
+      // 相对于屏幕锚点的X坐标
+      // 坐标受尺寸影响
+      // Default value: [0]
+      x: 0,
+      // Y轴偏移
+      // 相对于屏幕锚点的Y坐标
+      // 坐标受尺寸影响
+      // Default value: [0]
+      y: 0,
+      // Boss栏重叠
+      // 如果设为否，当Boss栏可见时工具框将向下移动
+      // 仅影响顶部中心对齐
+      // Default value: [false]
+      bossBarsOverlap: false
+    },
+    color: {
+      // 背景不透明度
+      // Default value: [204]
+      backgroundAlpha: 204,
+      // Custom Themes
+      themes: [],
+      // 主题
+      // Default value: [waila:vanilla]
+      activeTheme: "waila:vanilla"
+    },
+    // 尺寸
+    // 提示框的尺寸是多少
+    // 默认为1.0
+    // Default value: [1.0]
+    scale: 1.0,
+    // 叠加FPS
+    // 降低叠加FPS可能会提高整个游戏的FPS
+    // 设置为0以解锁
+    // Default value: [30]
+    fps: 30
+  },
+  // Text formatters
+  formatter: {
+    // Default value: [§9§o%s]
+    modName: "§9§o%s",
+    // Default value: [§f%s]
+    blockName: "§f%s",
+    // Default value: [§f%s]
+    fluidName: "§f%s",
+    // Default value: [§f%s]
+    entityName: "§f%s",
+    // Default value: [§8%s]
+    registryName: "§8%s"
+  },
+  // Internal value, DO NOT TOUCH!
+  // Default value: [0]
+  configVersion: 1
+}

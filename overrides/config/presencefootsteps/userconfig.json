@@ -3,10 +3,7 @@
   "clientPlayerVolume": 100,
   "otherPlayerVolume": 100,
   "runningVolumeIncrease": 0,
-  "wetSoundsVolume": 50,
-  "maxSteppingEntities": 50,
-  "stance": "UNKNOWN",
+  "stance": "NONE",
   "multiplayer": true,
-  "global": true,
-  "targetEntities": "ALL"
+  "global": true
 }

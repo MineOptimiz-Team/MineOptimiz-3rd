@@ -3,7 +3,7 @@ name: Package Modpack
 on:
   push:
     branches:
-      - 1.20.1-Dev
+      - 1.18.2-Dev
     paths-ignore: 
       - 'README.md'
       - 'versions/*'
@@ -40,10 +40,10 @@ jobs:
           rm -rf versions
           rm README.md
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.2-fabric+${{ env.SHORT_SHA }}.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.182.0-fabric+${{ env.SHORT_SHA }}.mrpack"
       
       - uses: actions/upload-artifact@v3
         with:
-          name: MineOptimiz v3.201.2-fabric+${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz v3.201.2-fabric+${{ env.SHORT_SHA }}.mrpack"
+          name: MineOptimiz v3.182.0-fabric+${{ env.SHORT_SHA }}.zip
+          path: "./MineOptimiz v3.182.0-fabric+${{ env.SHORT_SHA }}.mrpack"
      

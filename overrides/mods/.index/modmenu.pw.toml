@@ -1,0 +1,13 @@
+filename = 'modmenu-3.2.5.jar'
+name = 'Mod Menu'
+side = 'client'
+
+[download]
+hash = 'dbf767ed1f5a9c297db004dee65e10abda4bd328899e0337934b50f3e1d9f0866092dca67aa19ac4883528de539c0362f7e7d3f27ecfa9690ff0345389351759'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mOgUt4GM/versions/nVxObSbX/modmenu-3.2.5.jar'
+
+[update.modrinth]
+mod-id = 'mOgUt4GM'
+version = 'nVxObSbX'

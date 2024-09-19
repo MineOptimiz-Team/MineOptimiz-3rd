@@ -1,0 +1,13 @@
+filename = 'Controlling-fabric-1.18.2-9.0+23.jar'
+name = 'Controlling'
+side = 'client'
+
+[download]
+hash = '4f7daa47c35dd3c9cdd042bb9599d143d22017e15794ea187a520cba6f287b97bef57d7bee6238be89a83848e194414d8d961c4cd52c316bb6586163f5e91f6b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xv94TkTM/versions/dK5FXxsD/Controlling-fabric-1.18.2-9.0%2B23.jar'
+
+[update.modrinth]
+mod-id = 'xv94TkTM'
+version = 'dK5FXxsD'

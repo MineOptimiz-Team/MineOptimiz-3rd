@@ -1,7 +1,5 @@
 {
 	"offsetNonPlayerText": true,
 	"senderDetection": "HEURISTIC_ONLY",
-	"smartHeuristics": true,
-	"handleSystemMessages": true,
-	"nameAliases": { }
+	"smartHeuristics": true
 }

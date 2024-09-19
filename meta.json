@@ -3,24 +3,8 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.20.1-Stable-0.10.6",
+      "id": "3.182.0",
       "releasedAt": 0
-    },
-    {
-      "id": "1.20.1-Stable-0.10.6(Update.1)",
-      "releasedAt": 1
-    },
-    {
-      "id": "1.20.1-Stable-0.10.6(Update.2)",
-      "releasedAt": 2
-    },
-    {
-      "id": "1.20.1-Stable-0.10.6(Update.3)",
-      "releasedAt": 3
-    },
-    {
-      "id": "3.201.1-fabric+1",
-      "releasedAt": 4
     }
   ]
 }
