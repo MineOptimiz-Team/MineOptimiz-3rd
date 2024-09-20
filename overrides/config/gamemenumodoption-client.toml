@@ -2,5 +2,6 @@
 [General]
 	"Show notification mod update" = true
 	"Render mod list background" = true
-	"ModMenu style" = false
+	"Slide up game menu buttons" = true
+	"MineTogether Compatibility" = true
 
