@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.licence
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1715499846129
+  last_edited_time = 1726825722251
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:ca78e4fd-e51b-42cd-8e91-9cd6b0af207d-1715499827900] = [groups:][instances:]
+  [loading_requirement_container_meta:cc301313-eb26-4f02-b876-4799ede15836-1726825709274] = [groups:][instances:]
 }
 
 customization {
@@ -28,7 +28,7 @@ scroll_list_customization {
 
 element {
   button_element_executable_block_identifier = 9a8dc90e-37cf-4862-83d1-250cdd90f583-1710684496714
-  [executable_action_instance:4164ac25-4cbc-49e0-849a-28ae5a6ab997-1710684781480][action_type:closegui] = 
+  [executable_action_instance:4164ac25-4cbc-49e0-849a-28ae5a6ab997-1710684781480][action_type:opengui] = credits_and_attribution_screen
   [executable_block:9a8dc90e-37cf-4862-83d1-250cdd90f583-1710684496714][type:generic] = [executables:4164ac25-4cbc-49e0-849a-28ae5a6ab997-1710684781480;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
@@ -45,7 +45,7 @@ element {
   fade_in_speed = 1.0
   anchor_point = mid-centered
   x = -51
-  y = 92
+  y = 71
   width = 100
   height = 20
   stretch_x = false

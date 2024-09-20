@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.uimanager
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1726204141077
+  last_edited_time = 1726825403503
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:2e5313de-2def-4456-8814-52e158b24a0e-1726204120658] = [groups:][instances:]
+  [loading_requirement_container_meta:8e62c6c4-1e36-40b1-90bd-6818abf1ef1b-1726825392024] = [groups:][instances:]
 }
 
 customization {
@@ -86,7 +86,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 4a584e02-b49e-485c-90c2-edce543c36d1-1710515396763
-  [executable_action_instance:80fdaebb-b327-486b-8ccd-a4f7a92a23bd-1710515396763][action_type:closegui] = 
+  [executable_action_instance:80fdaebb-b327-486b-8ccd-a4f7a92a23bd-1710515396763][action_type:opengui] = io.123smallmushroom.settings
   [executable_block:4a584e02-b49e-485c-90c2-edce543c36d1-1710515396763][type:generic] = [executables:80fdaebb-b327-486b-8ccd-a4f7a92a23bd-1710515396763;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
