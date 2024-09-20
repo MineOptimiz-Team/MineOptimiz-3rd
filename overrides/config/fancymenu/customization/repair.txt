@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.repair
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1721181058155
+  last_edited_time = 1726825324039
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:9b4531f2-0033-40fd-9aec-fd608b3a5833-1721181037669] = [groups:][instances:]
+  [loading_requirement_container_meta:2ea2dc06-c3c5-4bc9-9ad4-6c3888f0851e-1726825300573] = [groups:][instances:]
 }
 
 customization {
@@ -27,39 +27,8 @@ scroll_list_customization {
 }
 
 element {
-  button_element_executable_block_identifier = 47138ecc-5223-46b3-935c-dd45a934204d-1721140384376
-  [executable_action_instance:42688792-3111-414f-9cbd-96fbb01d7a14-1721180573830][action_type:downloadfile] = https://mirror.ghproxy.com/raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/repair.sh;repair.sh
-  [executable_action_instance:5540be31-3997-4039-bfad-7bc7d43c7142-1721180614147][action_type:downloadfile] = https://mirror.ghproxy.com/raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/repair.bat;repair.bat
-  [executable_action_instance:1ad7408a-2215-4fb9-b0c3-69b5add032e0-1721180670910][action_type:downloadfile] = https://mirror.ghproxy.com/raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-Updater/master/runpair.ps1;runrepair.ps1
-  [executable_block:47138ecc-5223-46b3-935c-dd45a934204d-1721140384376][type:generic] = [executables:42688792-3111-414f-9cbd-96fbb01d7a14-1721180573830;5540be31-3997-4039-bfad-7bc7d43c7142-1721180614147;1ad7408a-2215-4fb9-b0c3-69b5add032e0-1721180670910;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = 下载修复程序
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = c1e0a82c-6531-471a-a010-7459746f9fd7-1721140384376
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -163
-  y = 90
-  width = 100
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 3477dffd-11be-4a9d-9a60-0460d469308a-1721140384376
-  [loading_requirement_container_meta:3477dffd-11be-4a9d-9a60-0460d469308a-1721140384376] = [groups:][instances:]
-}
-
-element {
   button_element_executable_block_identifier = f90b3fc9-fff2-49fa-b10a-135754f9e16a-1721140954079
-  [executable_action_instance:e4717f0b-ee3b-46ba-889a-40e996675957-1721140967241][action_type:closegui] = 
+  [executable_action_instance:e4717f0b-ee3b-46ba-889a-40e996675957-1721140967241][action_type:opengui] = io.123smallmushroom.update
   [executable_block:f90b3fc9-fff2-49fa-b10a-135754f9e16a-1721140954079][type:generic] = [executables:e4717f0b-ee3b-46ba-889a-40e996675957-1721140967241;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
@@ -75,8 +44,8 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 60
-  y = 90
+  x = -50
+  y = 72
   width = 100
   height = 20
   stretch_x = false
@@ -84,76 +53,5 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 119a3d56-5b15-4e5b-8692-3c13c7d15a12-1721140954079
   [loading_requirement_container_meta:119a3d56-5b15-4e5b-8692-3c13c7d15a12-1721140954079] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = bb68b482-7365-4b7f-8399-7ca56d293890-1721179474683
-  [executable_action_instance:b6b6edbc-d2f4-4047-9550-b72d7271a044-1721180717994][action_type:opengui] = io.123smallmushroom.runrepair
-  [executable_block:bb68b482-7365-4b7f-8399-7ca56d293890-1721179474683][type:generic] = [executables:b6b6edbc-d2f4-4047-9550-b72d7271a044-1721180717994;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = 运行修复程序
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = 8f88b6e1-b26b-4d73-b64b-e3e84aa4070e-1721179474683
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -52
-  y = 90
-  width = 100
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 3f9d7e30-1969-459e-a6f8-82955973f9a7-1721179474683
-  [loading_requirement_container_meta:3f9d7e30-1969-459e-a6f8-82955973f9a7-1721179474683] = [groups:][instances:]
-}
-
-element {
-  interactable = true
-  source = 由于3.201.1-neoforge产生了一些Updater无法应用的更改，从3.201.0-neoforge升级需要修复整合包以应用所有更改
-  source_mode = direct
-  shadow = true
-  scale = 1.0
-  base_color = #FFFFFFFF
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = true
-  auto_line_wrapping = true
-  remove_html_breaks = true
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = true
-  element_type = text_v2
-  instance_identifier = 4e505887-d88e-47bd-901c-46fcb18d2863-1721180781482
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -227
-  y = -31
-  width = 455
-  height = 40
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 30f3d43d-1596-4e2d-9725-41a46da4c990-1721180781482
-  [loading_requirement_container_meta:30f3d43d-1596-4e2d-9725-41a46da4c990-1721180781482] = [groups:][instances:]
 }
 
