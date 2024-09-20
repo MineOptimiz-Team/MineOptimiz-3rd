@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.update
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1712466518758
+  last_edited_time = 1726825278345
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:410935d6-ccc2-44b7-a358-f1b035733570-1712466486630] = [groups:][instances:f17e4f77-6f1b-4c06-b53a-45ce26f65c68-1710550479068;]
+  [loading_requirement_container_meta:5a8dee95-e6c0-44fa-aa00-195176f81fc9-1726825262308] = [groups:][instances:f17e4f77-6f1b-4c06-b53a-45ce26f65c68-1710550479068;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:f17e4f77-6f1b-4c06-b53a-45ce26f65c68-1710550479068] = en_us
 }
 
@@ -87,7 +87,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 43bb93f0-38f4-4dad-9349-9a3f84ed7830-1710515396624
-  [executable_action_instance:803eb5f2-c6d2-4a21-b8e9-2933354d6ab4-1710515396624][action_type:closegui] = 
+  [executable_action_instance:803eb5f2-c6d2-4a21-b8e9-2933354d6ab4-1710515396624][action_type:opengui] = io.123smallmushroom.settings
   [executable_block:43bb93f0-38f4-4dad-9349-9a3f84ed7830-1710515396624][type:generic] = [executables:803eb5f2-c6d2-4a21-b8e9-2933354d6ab4-1710515396624;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true

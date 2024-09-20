@@ -396,8 +396,8 @@ vanilla_button {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = f7820797-890d-4a50-9a19-f641c9aa927b-1710515718213
-  [executable_block:f7820797-890d-4a50-9a19-f641c9aa927b-1710515718213][type:generic] = [executables:]
+  button_element_executable_block_identifier = 3d28f93c-f366-430b-9dcb-05ab297b77ff-1713559785876
+  [executable_block:3d28f93c-f366-430b-9dcb-05ab297b77ff-1713559785876][type:generic] = [executables:]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -405,7 +405,7 @@ vanilla_button {
   nine_slice_border_y = 5
   navigatable = true
   element_type = vanilla_button
-  instance_identifier = mc_titlescreen_copyright_button
+  instance_identifier = 376298
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in = false
