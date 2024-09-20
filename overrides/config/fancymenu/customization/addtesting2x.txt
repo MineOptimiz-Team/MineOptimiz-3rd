@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = options_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1726221225680
+  last_edited_time = 1726825430202
   is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:661a0597-312b-48eb-98b1-75ae27610391-1726221425188] = [groups:][instances:a6337332-6806-4a5a-bfb0-c279b3a7e69f-1710518112092;]
+  [loading_requirement_container_meta:44ee7194-5ab9-4298-8551-ddadef24248e-1726825807551] = [groups:][instances:a6337332-6806-4a5a-bfb0-c279b3a7e69f-1710518112092;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:a6337332-6806-4a5a-bfb0-c279b3a7e69f-1710518112092] = zh_cn
 }
 
@@ -72,6 +72,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
+  label = 完成
   navigatable = true
   element_type = vanilla_button
   instance_identifier = 400974

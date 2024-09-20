@@ -9,7 +9,7 @@ layout-meta {
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:fc78e34e-381e-40ae-a234-4059bcade3d3-1726289669545] = [groups:][instances:b04e9e03-d672-490d-b0f6-a6548b1913de-1710518063073;]
+  [loading_requirement_container_meta:651d42a1-bd74-437b-8354-29efefb17b13-1726825807544] = [groups:][instances:b04e9e03-d672-490d-b0f6-a6548b1913de-1710518063073;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:b04e9e03-d672-490d-b0f6-a6548b1913de-1710518063073] = zh_cn
 }
 
