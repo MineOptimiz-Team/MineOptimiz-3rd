@@ -1,8 +1,8 @@
  {
   "schemaVersion": 7,
   "currentVersion": "3.182.0-forge+b01f82c",
-  "modpackName": "MineOptimiz",
-  "modpackAuthor": "Small__Mushroom",
+  "modpackName": "MineOptimiz Forge",
+  "modpackAuthor": "smallmushroomovo",
   "modpackReleaseType": "beta",
   "updateCheckerId": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/",
   "advanced": {
