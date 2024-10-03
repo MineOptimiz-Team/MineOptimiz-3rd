@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.settings
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1727940811274
+  last_edited_time = 1727942540316
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:ea7fb179-168f-423b-b878-fc46bf95f75d-1727940765442] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;a29d8dda-fee7-45bc-b43e-903b50dfa83f-1710518630713;]
+  [loading_requirement_container_meta:bc7c09e3-683e-4453-b3a1-1c3cad6e3258-1727942470196] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;a29d8dda-fee7-45bc-b43e-903b50dfa83f-1710518630713;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475] = zh_cn
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:a29d8dda-fee7-45bc-b43e-903b50dfa83f-1710518630713] = legacy_settings:0
 }
@@ -46,9 +46,9 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -146
+  x = -147
   y = -50
-  width = 133
+  width = 137
   height = 19
   stretch_x = false
   stretch_y = false
@@ -75,7 +75,7 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -154
+  x = -147
   y = -19
   width = 137
   height = 20
@@ -133,7 +133,7 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 9
+  x = 11
   y = -51
   width = 138
   height = 20
@@ -162,7 +162,7 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 7
+  x = 11
   y = -19
   width = 138
   height = 20
