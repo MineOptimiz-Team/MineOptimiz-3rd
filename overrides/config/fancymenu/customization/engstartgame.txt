@@ -3,19 +3,25 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.choosegame
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710518095825
+  last_edited_time = 1725703641378
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:0220c606-0a0d-43c3-bb69-e0a7b19933e2-1710518095845] = [groups:][instances:135125e1-5876-4a02-83d3-9c8e3c1695c7-1710518083161;]
+  [loading_requirement_container_meta:f6236301-95f0-4cfe-a3a3-b8d0bbb3affb-1725703625716] = [groups:][instances:135125e1-5876-4a02-83d3-9c8e3c1695c7-1710518083161;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:135125e1-5876-4a02-83d3-9c8e3c1695c7-1710518083161] = en_us
 }
 
 customization {
   action = setscale
   scale = 2.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 960
+  baseheight = 540
 }
 
 customization {
@@ -117,34 +123,5 @@ element {
   stay_on_screen = false
   element_loading_requirement_container_identifier = 023fa57c-b02e-4236-9a35-713439b56cb4-1710515396598
   [loading_requirement_container_meta:023fa57c-b02e-4236-9a35-713439b56cb4-1710515396598] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = 2b7fda51-d5c0-4c6e-9e5c-92c0b489cef3-1710515396598
-  [executable_action_instance:cbe070aa-f8d4-481f-8fc6-03fdda9ff96f-1710515396598][action_type:opengui] = com.mojang.realmsclient.RealmsMainScreen
-  [executable_block:2b7fda51-d5c0-4c6e-9e5c-92c0b489cef3-1710515396598][type:generic] = [executables:cbe070aa-f8d4-481f-8fc6-03fdda9ff96f-1710515396598;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = Minecraft Realms
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = b73f36fc-7e31-4790-aed3-86842b8661631692549145109
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -76
-  y = 21
-  width = 155
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = a8086263-6260-4955-b311-6d94aee51cb6-1710515396598
-  [loading_requirement_container_meta:a8086263-6260-4955-b311-6d94aee51cb6-1710515396598] = [groups:][instances:]
 }
 

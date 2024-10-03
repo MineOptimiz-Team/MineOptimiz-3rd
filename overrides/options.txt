@@ -34,7 +34,7 @@ gamma:1.0
 renderDistance:8
 simulationDistance:6
 entityDistanceScaling:0.5
-guiScale:2
+guiScale:0
 particles:1
 maxFps:260
 graphicsMode:0
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/Midnighttiggers-ACT-Default_1.20.1_V2.zip","file/VanillaTweaks_r729861.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","file/Masa Family Bucket Translation Pack v1.0.3.zip","file/fmsia_chinese.zip","file/fmsia_mineoptimiz.zip"]
-incompatibleResourcePacks:["lambdabettergrass:default"]
+resourcePacks:["vanilla","mod_resources","black_icons","presencefootsteps:default_sound_pack","fabric","lambdabettergrass:default","file/VanillaTweaks_r729861.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","file/Masa Family Bucket Translation Pack v1.0.3.zip","file/Midnighttiggers-FCT-Default_1.20_V4.zip"]
+incompatibleResourcePacks:["lambdabettergrass:default","file/Midnighttiggers-FCT-Default_1.20_V4.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -129,6 +129,11 @@ key_key.modernfix.config:key.keyboard.unknown
 key_zume.zoom:key.keyboard.c
 key_zume.zoom_in:key.keyboard.equal
 key_zume.zoom_out:key.keyboard.minus
+key_key.waila.config:key.keyboard.unknown
+key_key.waila.show_overlay:key.keyboard.unknown
+key_key.waila.toggle_liquid:key.keyboard.unknown
+key_key.waila.show_recipe_input:key.keyboard.unknown
+key_key.waila.show_recipe_output:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
@@ -149,11 +154,6 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.jade.config:key.keyboard.keypad.0
-key_key.jade.show_overlay:key.keyboard.keypad.1
-key_key.jade.toggle_liquid:key.keyboard.keypad.2
-key_key.jade.narrate:key.keyboard.keypad.5
-key_key.jade.show_details:scancode.125
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown

@@ -3,19 +3,25 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.quitgame
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710517425716
+  last_edited_time = 1726204704847
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:ca2e760e-c6e1-44dc-8630-042cd9828aa8-1710517301923] = [groups:][instances:925a013d-2e54-4442-9fc6-cb27968231cb-1710517365424;]
+  [loading_requirement_container_meta:5fa046c5-c9ae-4f34-b4cb-093f63af0ddc-1726825807545] = [groups:][instances:925a013d-2e54-4442-9fc6-cb27968231cb-1710517365424;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:925a013d-2e54-4442-9fc6-cb27968231cb-1710517365424] = zh_cn
 }
 
 customization {
   action = setscale
   scale = 2.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 960
+  baseheight = 540
 }
 
 customization {

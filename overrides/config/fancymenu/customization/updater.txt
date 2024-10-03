@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.update
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1721093629399
+  last_edited_time = 1726825252308
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:db66b04e-9500-4a62-86ca-52f89a92d505-1721093401288] = [groups:][instances:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115;]
+  [loading_requirement_container_meta:325a7a5c-ba00-4596-baa3-4a854a61ff1f-1726825240113] = [groups:][instances:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:4ee4a227-d7e5-413a-8276-2861d844c5dc-1710550436115] = zh_cn
 }
 
@@ -29,9 +29,8 @@ scroll_list_customization {
 
 element {
   button_element_executable_block_identifier = cba8000d-32b1-43d7-b54b-d05935c7cddb-1710515396770
-  [executable_action_instance:52320b1f-2e54-4c81-9ec0-275551fcd5a8-1712638742006][action_type:runcmd] = [windows:]; [macos:]; [linux:chmod 777 ./Update.sh];
   [executable_action_instance:9c2e6cd4-574d-44ed-8b8d-f28763f1710e-1710515396770][action_type:opengui] = io.123smallmushroom.updatechoose
-  [executable_block:cba8000d-32b1-43d7-b54b-d05935c7cddb-1710515396770][type:generic] = [executables:52320b1f-2e54-4c81-9ec0-275551fcd5a8-1712638742006;9c2e6cd4-574d-44ed-8b8d-f28763f1710e-1710515396770;]
+  [executable_block:cba8000d-32b1-43d7-b54b-d05935c7cddb-1710515396770][type:generic] = [executables:9c2e6cd4-574d-44ed-8b8d-f28763f1710e-1710515396770;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -88,7 +87,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 95b2ad9c-0a7d-4586-9c3c-6eb766a1542b-1710515396771
-  [executable_action_instance:125f385b-8356-4be5-99a7-62debb82a7a6-1710515396771][action_type:closegui] = 
+  [executable_action_instance:125f385b-8356-4be5-99a7-62debb82a7a6-1710515396771][action_type:opengui] = io.123smallmushroom.settings
   [executable_block:95b2ad9c-0a7d-4586-9c3c-6eb766a1542b-1710515396771][type:generic] = [executables:125f385b-8356-4be5-99a7-62debb82a7a6-1710515396771;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true

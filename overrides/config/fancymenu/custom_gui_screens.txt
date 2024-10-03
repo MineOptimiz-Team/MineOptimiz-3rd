@@ -67,6 +67,15 @@ custom_gui {
 }
 
 custom_gui {
+  identifier = io.123smallmushroom.drop_key
+  title = 设置丢弃键位
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
   identifier = io.123smallmushroom.runrepair
   title = 运行修复程序
   allow_esc = true
@@ -96,6 +105,15 @@ custom_gui {
 custom_gui {
   identifier = io.123smallmushroom.licence
   title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.keysettings
+  title = 键位设置
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true

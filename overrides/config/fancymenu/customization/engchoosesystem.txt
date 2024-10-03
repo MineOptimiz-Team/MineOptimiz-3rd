@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.updatechoose
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1710930261896
+  last_edited_time = 1726825370242
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:b5d431b6-f4d1-4316-aa53-d7774d19c2c8-1710930231248] = [groups:][instances:8463fb08-0822-4c4e-91a0-94e6ef4ac245-1710550124457;]
+  [loading_requirement_container_meta:c8f5fa7d-410e-44c7-be13-cc024470f55d-1726825353418] = [groups:][instances:8463fb08-0822-4c4e-91a0-94e6ef4ac245-1710550124457;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:8463fb08-0822-4c4e-91a0-94e6ef4ac245-1710550124457] = en_us
 }
 
@@ -28,7 +28,7 @@ scroll_list_customization {
 }
 
 element {
-  source = Choose your system
+  source = MineOptimiz Updater no longer has support .%n%If you want to update this modpack , you should use the launcher to update MineOptimiz .
   source_mode = direct
   shadow = true
   case_mode = normal
@@ -44,9 +44,9 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -96
-  y = -49
-  width = 200
+  x = -265
+  y = -42
+  width = 530
   height = 40
   stretch_x = false
   stretch_y = false
@@ -56,66 +56,8 @@ element {
 }
 
 element {
-  button_element_executable_block_identifier = 065b1a76-e909-417c-bced-ada3103195f1-1710515396571
-  [executable_action_instance:28f97d6c-d0fd-4ae6-932f-91f9630902d7-1710515396571][action_type:openfile] = Update.bat
-  [executable_block:065b1a76-e909-417c-bced-ada3103195f1-1710515396571][type:generic] = [executables:28f97d6c-d0fd-4ae6-932f-91f9630902d7-1710515396571;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = Windows
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = 766d3fef-070b-4e58-9241-c2f3d9af81261706955168767
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -109
-  y = 62
-  width = 98
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = b72336ee-dd91-46ca-a083-e260dc3b49aa-1710515396583
-  [loading_requirement_container_meta:b72336ee-dd91-46ca-a083-e260dc3b49aa-1710515396583] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = f54b83c7-0ba9-4c43-88de-c1b5877ac7de-1710515396584
-  [executable_action_instance:9629b4aa-0019-47b5-a0b1-e71f24fe13a2-1710515396584][action_type:opengui] = io.123smallmushroom.linuxupdate
-  [executable_block:f54b83c7-0ba9-4c43-88de-c1b5877ac7de-1710515396584][type:generic] = [executables:9629b4aa-0019-47b5-a0b1-e71f24fe13a2-1710515396584;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = Linux
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = c07cd94c-4c46-4334-a92a-c890192f83211706955184880
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = 20
-  y = 62
-  width = 100
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = e5986aeb-4115-46f9-b5fc-aaf309051c0a-1710515396584
-  [loading_requirement_container_meta:e5986aeb-4115-46f9-b5fc-aaf309051c0a-1710515396584] = [groups:][instances:]
-}
-
-element {
   button_element_executable_block_identifier = 4649200c-e1bd-4008-8912-83b1d7b71a42-1710515396586
-  [executable_action_instance:a4603d84-29ae-40af-abe9-619b8cdb6eef-1710515396586][action_type:closegui] = 
+  [executable_action_instance:a4603d84-29ae-40af-abe9-619b8cdb6eef-1710515396586][action_type:opengui] = io.123smallmushroom.update
   [executable_block:4649200c-e1bd-4008-8912-83b1d7b71a42-1710515396586][type:generic] = [executables:a4603d84-29ae-40af-abe9-619b8cdb6eef-1710515396586;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
