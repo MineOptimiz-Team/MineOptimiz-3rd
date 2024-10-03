@@ -1,25 +1,23 @@
-# MineOptimiz NeoForge
-~~[English.md](https://github.com/SmallMushroom-offical/MineOptimiz/blob/1.19.4-OptiFabric-Stable/English.md)~~
-## 短小的介绍
-兼顾性能与兼容性的优化整合包，使用[NeoForge](https://neoforged.net/)与[Sinytra Connector](https://github.com/Sinytra/Connector)以同时支持(Neo)Forge模组与大部分Fabric模组
-## 功能
- - 定制化菜单(Provide by FancyMenu)
- ![主菜单](https://123smallmushroom.github.io/pictures/2024-07-15_23.42.19.png)
- ![“开始游戏”菜单](https://123smallmushroom.github.io/pictures/2024-07-15_23.44.24.png)
- - 游戏内下载资源包/光影包(Provide by Resourcify)
-  ![下载资源包](https://123smallmushroom.github.io/pictures/2024-07-15_23.44.48.png)
- - 聊天栏图片支持(Provide by ChatImage)
- ![聊天栏图片支持](https://123smallmushroom.github.io/pictures/2024-07-15_23.47.26.png)
-## 系统要求
- - 系统: Windows 7+ , 支持Java17的现代Linux发行版(不保证支持macOS)
- - 分配内存要求: 998MB+(推荐1336MB+)
- - GPU: 支持OpenGL 3.3+即可
- - 窗口分辨率: 960x576以上
- ## 下载
- - 稳定版(不经常更新)：在[Github Release](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载
- - 测试版：[下载](https://nightly.link/MineOptimiz-Team/MineOptimiz-3rd/workflows/main/1.20.1-Forge-Dev)
- ## Bug 反馈
- - [Issues](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/issues)
-## 关于1.21更新
- - 目前1.21更新正在筹备中，但由于部分模组暂未正式发布且不稳定，因此暂不提交到此存储库
- - 如果需要下载先行版，请点[此链接](https://github.com/SmallMushroom-official/MineOptimiz-1.21-alpha)
+# MineOptimiz
+## 介绍
+MineOptimiz是一个支持fabric, (neo)forge双端的优化+辅助整合包
+## 支持的Minecraft版本
+| 版本                  | 加载器                                | 维护状态            |
+|-----------------------|--------------------------------------|--------------------|
+| 1.20.1                | neoforge, fabric                     | 持续更新            |
+| 1.21.1                | neoforge                             | 持续更新            |
+| 1.20.6                | fabric                               | 不再更新（半成品）   |
+| 1.18.2                | forge, fabric                        | 持续更新            |
+| 1.19.4                | fabric(sodium), fabric(optifine)     | 不再更新            |
+| 1.17.1                | fabric                               | 不再更新            |
+| [1.12.2](https://www.123pan.com/s/jtiDVv-XMmWA.html)   | forge( also can load on cleanroom)  | none             |
+## 下载
+ - 你可以在[Github Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载稳定版或者在[Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions)下载测试版
+ - 除此之外，你也可以在[MineOptimiz的网站](https://123smallmushroom.github.io/mineoptimizindex.html)下载
+ - [1.12.2下载](https://www.123pan.com/s/jtiDVv-XMmWA.html) 
+ ## 关于模组的许可协议
+ - [看这里](https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/licenceofmods.txt)
+ ## 旧版本
+ - [旧的仓库(MineOptimiz-Next)](https://github.com/SmallMushroom-offical/MineOptimiz-Next)
+ - [旧的仓库(MineOptimiz)](https://github.com/123SmallMushroom/MineOptimiz)
+ - [网盘下载(仅旧版)](https://www.123pan.com/s/jtiDVv-oEmWA.html)
