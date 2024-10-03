@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.settings
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1726825542303
+  last_edited_time = 1727940760319
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:9696a50a-d23e-4508-8d3a-10177f0c7115-1726825526333] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;]
+  [loading_requirement_container_meta:ce2e5a0d-0c7a-47b8-8e19-5f4b427e6b65-1727940689638] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475] = en_us
 }
 
@@ -74,9 +74,9 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 7
+  x = -150
   y = -19
-  width = 138
+  width = 133
   height = 20
   stretch_x = false
   stretch_y = false
@@ -102,9 +102,9 @@ element {
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -75
-  y = 77
+  anchor_point = bottom-centered
+  x = -73
+  y = -44
   width = 146
   height = 20
   stretch_x = false
@@ -112,35 +112,6 @@ element {
   stay_on_screen = false
   element_loading_requirement_container_identifier = a4709923-0a8a-4fcb-82ab-5aeff5156eb8-1710515396742
   [loading_requirement_container_meta:a4709923-0a8a-4fcb-82ab-5aeff5156eb8-1710515396742] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = d7ea9e9c-5fd0-42c3-a8a5-35dbae6d063e-1710515396742
-  [executable_action_instance:f4f0f6f3-3588-4b5c-81b1-ed4d1fccbbdd-1710515396742][action_type:opengui] = io.123smallmushroom.engmode
-  [executable_block:d7ea9e9c-5fd0-42c3-a8a5-35dbae6d063e-1710515396742][type:generic] = [executables:f4f0f6f3-3588-4b5c-81b1-ed4d1fccbbdd-1710515396742;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = English Support of GUI
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = ad9f1553-b6a5-43d5-86d2-95b1bcde31e31706182912577
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -150
-  y = -19
-  width = 133
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 7c42d46b-c26a-463c-8f3e-ba94b7f38e2c-1710515396742
-  [loading_requirement_container_meta:7c42d46b-c26a-463c-8f3e-ba94b7f38e2c-1710515396742] = [groups:][instances:]
 }
 
 element {
@@ -190,9 +161,9 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -150
-  y = 14
-  width = 294
+  x = 7
+  y = -18
+  width = 138
   height = 20
   stretch_x = false
   stretch_y = false
