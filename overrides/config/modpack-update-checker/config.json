@@ -1,8 +1,8 @@
  {
   "schemaVersion": 7,
   "currentVersion": "3.201.2-fabric+buildtype",
-  "modpackName": "MineOptimiz",
-  "modpackAuthor": "Small__Mushroom",
+  "modpackName": "MineOptimiz Fabric",
+  "modpackAuthor": "smallmushroomovo",
   "modpackReleaseType": "beta",
   "updateCheckerId": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/",
   "advanced": {
