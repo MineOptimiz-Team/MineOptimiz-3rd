@@ -1,27 +1,12 @@
 {
     "dependencies": {
-        "fabric-loader": "0.16.2",
+        "fabric-loader": "0.16.5",
         "minecraft": "1.20.1"
     },
     "files": [
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/ImGRUI/Exordium/releases/download/1.0.3-1.20/exordium-fabric-1.0.3-mc1.20.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 130004,
-            "hashes": {
-                "sha1": "831590b1082e5ca8fee5821589105ec536d7dcff",
-                "sha512": "953431761903b106afba773d4d609beceb6db0e1eaeffc213a13e43cc632097cff22058b55de24fdbada97f550f6b78ccf9445336e20583496785da2290cb6e4"
-            },
-            "path": "mods/exordium-fabric-1.0.3-mc1.20.jar"
-        },
-        {
-            "downloads": [
-                "https://mirror.ghproxy.com/github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.6/skinlayers3d-fabric-1.6.6-mc1.20.1.jar"
+                "https://ghproxy.cn/github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.6/skinlayers3d-fabric-1.6.6-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
@@ -51,7 +36,7 @@
         },
         {
             "downloads": [
-                "https://mirror.ghproxy.com/https://github.com/tr7zw/EntityCulling/releases/download/1.6.6/entityculling-fabric-1.6.6-mc1.20.1.jar"
+                "https://ghproxy.cn/https://github.com/tr7zw/EntityCulling/releases/download/1.6.6/entityculling-fabric-1.6.6-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
@@ -96,21 +81,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/9eGKb6K1/versions/blva78z9/voicechat-fabric-1.20.1-2.5.9.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 8060433,
-            "hashes": {
-                "sha1": "e1644d397191c05181036b7054d4f6d18d3129f6",
-                "sha512": "992128e63b658d6b531c593d9c4b583082622424d65f66ea9e1bf2f53c0120c86736016c303f62873f0a6abcd9ffb192b0de9657dee269e423903e7c28dab323"
-            },
-            "path": "mods/voicechat-fabric-1.20.1-2.5.9.jar"
-        },
-        {
-            "downloads": [
             "https://cdn.modrinth.com/data/o6qsdrrQ/versions/EDf05717/zume-1.0.0.jar"
             ],
             "env": {
@@ -123,25 +93,10 @@
                 "sha512": "2d367311833ab32a3d39b4c573cd37a3997535fdab79020745df0bad04d2d5971fc116cac27f3ca06b9d2ba59a6ebbc868ce647a62d9958d40e9446874568ea7"
             },
             "path": "mods/zume-1.0.0.jar"
-        },
-        {
-            "downloads": [
-            "https://cdn.modrinth.com/data/i9oIemgf/versions/sNxG4Wjk/fmsia_fabric_1.0.1_MC_1.20.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 210957,
-            "hashes": {
-                "sha1": "87618bbed90256346c61504a2648790e66bab66b",
-                "sha512": "49280dee1cf338270440cd9335bc80413927f290827f7d4e5db29d1c2e8624e84f2c22216c838fa53cdcc1aaa20fd1b968e10889339de2f1c538375e12ccac44"
-            },
-            "path": "mods/fmsia_fabric_1.0.1_MC_1.20.1.jar"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz v3.201.1-fabric+buildtype",
-    "versionId": "3.201.1-fabric+buildtype"
+    "name": "MineOptimiz Fabric 1.20.1",
+    "versionId": "v3.201.2-fabric+buildtype"
 }

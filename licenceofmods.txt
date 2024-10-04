@@ -1,4 +1,4 @@
-以下内容都是一些不允许分发且原来MineOptimiz内置的模组
+以下内容都是一些不允许分发且原来MineOptimiz整合包压缩文件中内置的模组
 为防止争议，特编写此文本
 If you cannot speak Chinese,you should use a translator.DeepL.com is well,I suggest it :)(not an ad!)
 
@@ -33,7 +33,7 @@ More Culling：
 作者只要求整合包在使用这个模组的时候提及到它（指More Culling），仅此而已
 以及，该模组的许可证是LGPL-2.1-only
 
-截止到2024/5/17，所有以上提到的模组都已在1.20.1-Fabric,1.19.4-OptiFabric(Dev),1.20.1-Forge,1.20.6-Fabric(Dev)中自动下载（通过Modrinth整合包
+截止到2024/09/12，所有以上提到的模组都已在目前仍在更新的整合包各版本中自动下载（通过Modrinth整合包
 格式的方式），而不是违规地分发
 
 其他待编写...

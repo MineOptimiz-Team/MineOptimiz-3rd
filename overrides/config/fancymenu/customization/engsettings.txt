@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.settings
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1724052836792
+  last_edited_time = 1727942588002
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:396cec7f-b3d9-4762-bd0e-c7904f195e1c-1724052808117] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;]
+  [loading_requirement_container_meta:13f3b0c2-9ae1-479a-abd1-07919e8eb801-1727942553079] = [groups:][instances:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:83d1119b-8e4d-415d-947b-316f432c78c8-1710518155475] = en_us
 }
 
@@ -45,7 +45,7 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -146
+  x = -145
   y = -50
   width = 133
   height = 19
@@ -74,9 +74,9 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 10
+  x = -145
   y = -19
-  width = 138
+  width = 133
   height = 20
   stretch_x = false
   stretch_y = false
@@ -87,7 +87,7 @@ element {
 
 element {
   button_element_executable_block_identifier = a7f5d7f2-9ea1-4326-855d-b85e6fb06b4b-1710515396742
-  [executable_action_instance:f2e05a92-757f-4f67-afea-a172942ef553-1710550369382][action_type:closegui] = 
+  [executable_action_instance:f2e05a92-757f-4f67-afea-a172942ef553-1710550369382][action_type:opengui] = options_screen
   [executable_block:a7f5d7f2-9ea1-4326-855d-b85e6fb06b4b-1710515396742][type:generic] = [executables:f2e05a92-757f-4f67-afea-a172942ef553-1710550369382;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
@@ -102,9 +102,9 @@ element {
   appearance_delay_seconds = 1.0
   fade_in = false
   fade_in_speed = 1.0
-  anchor_point = mid-centered
+  anchor_point = bottom-centered
   x = -73
-  y = 77
+  y = -44
   width = 146
   height = 20
   stretch_x = false
@@ -112,35 +112,6 @@ element {
   stay_on_screen = false
   element_loading_requirement_container_identifier = a4709923-0a8a-4fcb-82ab-5aeff5156eb8-1710515396742
   [loading_requirement_container_meta:a4709923-0a8a-4fcb-82ab-5aeff5156eb8-1710515396742] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = d7ea9e9c-5fd0-42c3-a8a5-35dbae6d063e-1710515396742
-  [executable_action_instance:f4f0f6f3-3588-4b5c-81b1-ed4d1fccbbdd-1710515396742][action_type:opengui] = io.123smallmushroom.engmode
-  [executable_block:d7ea9e9c-5fd0-42c3-a8a5-35dbae6d063e-1710515396742][type:generic] = [executables:f4f0f6f3-3588-4b5c-81b1-ed4d1fccbbdd-1710515396742;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = English Support of GUI
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = ad9f1553-b6a5-43d5-86d2-95b1bcde31e31706182912577
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -146
-  y = -19
-  width = 133
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 7c42d46b-c26a-463c-8f3e-ba94b7f38e2c-1710515396742
-  [loading_requirement_container_meta:7c42d46b-c26a-463c-8f3e-ba94b7f38e2c-1710515396742] = [groups:][instances:]
 }
 
 element {
@@ -161,7 +132,7 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 9
+  x = 14
   y = -51
   width = 138
   height = 20
@@ -181,7 +152,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = UI Manager
+  label = Tweaks
   navigatable = true
   element_type = custom_button
   instance_identifier = 53de9d7a-ca44-4ca3-adbd-0d017d81c2061706965155471
@@ -190,9 +161,9 @@ element {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = -146
-  y = 14
-  width = 294
+  x = 14
+  y = -19
+  width = 138
   height = 20
   stretch_x = false
   stretch_y = false

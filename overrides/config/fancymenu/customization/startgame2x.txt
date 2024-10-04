@@ -1,0 +1,121 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = io.123smallmushroom.choosegame
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1726204608131
+  is_enabled = false
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:651d42a1-bd74-437b-8354-29efefb17b13-1726825807544] = [groups:][instances:b04e9e03-d672-490d-b0f6-a6548b1913de-1710518063073;]
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:b04e9e03-d672-490d-b0f6-a6548b1913de-1710518063073] = zh_cn
+}
+
+customization {
+  action = setscale
+  scale = 2.0
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = d66879a0-c500-45b8-93c9-644eb9d77926-1710515396744
+  [executable_action_instance:5c4823f3-e77a-4c0b-887e-274c6c7f012f-1710515396744][action_type:opengui] = net.minecraft.class_526
+  [executable_block:d66879a0-c500-45b8-93c9-644eb9d77926-1710515396744][type:generic] = [executables:5c4823f3-e77a-4c0b-887e-274c6c7f012f-1710515396744;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 单人游戏
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 350bcd79-e81c-4ebe-89e0-22f27f43961a1686459089834
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -76
+  y = -49
+  width = 156
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 33d5e4c0-7185-4dce-924e-6ff577138b9e-1710515396745
+  [loading_requirement_container_meta:33d5e4c0-7185-4dce-924e-6ff577138b9e-1710515396745] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = eaf55ccd-b434-48c2-98b0-9528066d61f2-1710515396745
+  [executable_action_instance:f493b4e3-cf04-4f61-b0c2-efab02a81f8d-1710515396745][action_type:opengui] = net.minecraft.class_500
+  [executable_block:eaf55ccd-b434-48c2-98b0-9528066d61f2-1710515396745][type:generic] = [executables:f493b4e3-cf04-4f61-b0c2-efab02a81f8d-1710515396745;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 多人游戏
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 59737c62-6760-4d82-989f-d56f0a9ddcef1686459113219
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -76
+  y = -13
+  width = 155
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 3e380a7d-5434-4f81-9598-7f2cba51304f-1710515396745
+  [loading_requirement_container_meta:3e380a7d-5434-4f81-9598-7f2cba51304f-1710515396745] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = a6dc7b04-8874-4bdf-88b1-b1d9341fd386-1710515396745
+  [executable_action_instance:e5c30409-ff89-408c-9198-7b72b70bee7a-1710515396745][action_type:closegui] = 
+  [executable_block:a6dc7b04-8874-4bdf-88b1-b1d9341fd386-1710515396745][type:generic] = [executables:e5c30409-ff89-408c-9198-7b72b70bee7a-1710515396745;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 返回菜单
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 88e401b6-94e6-4dbc-8617-b9dd2227a6b61686459335370
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -76
+  y = 60
+  width = 155
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 218866f1-3613-4a1e-b62d-75ac2714bf25-1710515396745
+  [loading_requirement_container_meta:218866f1-3613-4a1e-b62d-75ac2714bf25-1710515396745] = [groups:][instances:]
+}
+
