@@ -21,6 +21,10 @@
     {
       "id": "3.201.1-fabric+1",
       "releasedAt": 4
+    },
+    {
+      "id": "3.201.2-fabric+1",
+      "releasedAt": 5
     }
   ]
 }
