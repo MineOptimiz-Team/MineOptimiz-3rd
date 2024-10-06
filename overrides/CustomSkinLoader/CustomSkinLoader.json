@@ -12,6 +12,12 @@
       "elytra": "LocalSkin/elytras/{USERNAME}.png"
     },
     {
+      "name": "Optifine Capes",
+      "type": "Legacy",
+      "checkPNG": true,
+      "cape": "http://s.optifine.net/capes/{USERNAME}.png"
+    },
+    {
       "name": "MinecraftCapes",
       "type": "MinecraftCapesAPI",
       "root": "https://api.minecraftcapes.net/profile/"
