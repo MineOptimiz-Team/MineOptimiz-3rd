@@ -34,7 +34,7 @@ jobs:
           rm -rf .git
           rm README.md
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.2-neoforge+1.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.201.2-neoforge+2.mrpack"
       
       - uses: actions/upload-artifact@v3
         with:
