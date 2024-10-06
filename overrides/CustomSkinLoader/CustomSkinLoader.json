@@ -1,6 +1,6 @@
 {
-  "version": "14.19.1",
-  "buildNumber": 26,
+  "version": "14.20",
+  "buildNumber": 27,
   "loadlist": [
     {
       "name": "LocalSkin",
@@ -10,6 +10,12 @@
       "model": "auto",
       "cape": "LocalSkin/capes/{USERNAME}.png",
       "elytra": "LocalSkin/elytras/{USERNAME}.png"
+    },
+    {
+      "name": "Optifine Capes",
+      "type": "Legacy",
+      "checkPNG": true,
+      "cape": "http://s.optifine.net/capes/{USERNAME}.png"
     },
     {
       "name": "MinecraftCapes",
@@ -25,12 +31,12 @@
     {
       "name": "LittleSkin",
       "type": "CustomSkinAPI",
-      "root": "https://littleskin.cn/csl/",
-      "checkPNG": true,
-      "skin": "https://littleskin.cn/skin/{USERNAME}.png",
-      "model": "auto",
-      "cape": "https://littleskin.cn/cape/{USERNAME}.png",
-      "elytra": "LocalSkin/elytras/{USERNAME}.png"
+      "root": "https://littleskin.cn/csl/"
+    },
+    {
+      "name": "Red֤stoneSkin",
+      "type": "CustomSkinAPI",
+      "root": "https://mcskin.com.cn/csl/"
     },
     {
       "name": "VlssuSkin",
@@ -48,5 +54,5 @@
   "forceUpdateSkull": false,
   "enableLocalProfileCache": false,
   "enableCacheAutoClean": true,
-  "forceDisableCache": true
+  "forceDisableCache": false
 }
