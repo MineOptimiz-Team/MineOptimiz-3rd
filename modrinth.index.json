@@ -1,87 +1,87 @@
 {
     "dependencies": {
-        "neoforge": "21.1.65",
+        "fabric-loader": "0.16.5",
         "minecraft": "1.21.1"
     },
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gEmbR8dL/fancymenu_neoforge_3.2.5_MC_1.21.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/I03OyM2D/fancymenu_fabric_3.2.5_MC_1.21.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2523075,
+            "fileSize": 2691793,
             "hashes": {
-                "sha1": "9c6492894c0e446ff935b9e7b8d413d18e039185",
-                "sha512": "d61e191c7f18b1e8e398cb76d5d0d90aac86453926756d028d0a1e84904b5d1d9e20e2b0600e2f94e561d0ef15b64827baf46dd19a41fdbeb6b2884399c674f7"
+                "sha1": "4b6d9269ff83e0ba70dc713a83a352ffbada437f",
+                "sha512": "ae30e45f881748558df55a43511032fd601124724d204556009841e74e15721ce391e6bb50a5401239888241cc6c24ecf40e56969438c00b51963ecc3fa20f9b"
             },
-            "path": "mods/fancymenu_neoforge_3.2.5_MC_1.21.jar"
+            "path": "mods/fancymenu_fabric_3.2.5_MC_1.21.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/rR4tY6Cw/versions/OK3CpBtK/modpack-update-checker-1.21-neoforge-0.15.2.jar"
+                "https://cdn.modrinth.com/data/rR4tY6Cw/versions/DEWAczGP/modpack-update-checker-1.21-fabric-0.15.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 423019,
+            "fileSize": 413603,
             "hashes": {
-                "sha1": "64596341313469666fc8bbdc936759e608ac4517",
-                "sha512": "9996c6cf66b69725aefd191ecb93de9f52c371c4136cbe047f422a57f2c5c9ff9a875aee6ee1b3dc6810e0d594f0b55dedb20a328f6b6bc578e5183d6d675ac5"
+                "sha1": "ef95da920a7455637eace5f1eea68970b3a8f5c2",
+                "sha512": "68f32a0fdfcf4906045bca82966568c2c16e01e2dbecf840b3419bffceb9dc369b1debf011ff372559051c105a5e053b7b1dfa6b3a49cd91982f8430deef2446"
             },
-            "path": "mods/modpack-update-checker-1.21-neoforge-0.15.2.jar"
+            "path": "mods/modpack-update-checker-1.21-fabric-0.15.2.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/MPCX6s5C/versions/7QccBGoR/notenoughanimations-neoforge-1.7.4-mc1.21.jar"
+                "https://cdn.modrinth.com/data/MPCX6s5C/versions/EXt7Kt2t/notenoughanimations-fabric-1.7.6-mc1.21.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 425553,
+            "fileSize": 422391,
             "hashes": {
-                "sha1": "1630b692487fe0a9b0ea7de05db9e378d2859481",
-                "sha512": "c521df81c8db6f9a213654e3529c2b07a08d5fb73e36e6a5200ca8250cfcb037c539953638d78c21040e38729237ebb2191141caa9ba3994e287840ec9c18913"
+                "sha1": "17230802228483e0924974936768a71d7e44f5fe",
+                "sha512": "da35a6207a8cfcc7cd7227bff2987716795ba36ffe8fcb084bcd4fa51fc7b16e5fbe96b8a9fdeeaa618417905ba22f47fd6af48651b84608b8a21566bed26ec1"
             },
-            "path": "mods/notenoughanimations-neoforge-1.7.4-mc1.21.jar"
+            "path": "mods/notenoughanimations-fabric-1.7.6-mc1.21.jar"
         },
         {
             "downloads": [
-            "https://cdn.modrinth.com/data/zV5r3pPn/versions/4FdHhrXI/skinlayers3d-neoforge-1.6.6-mc1.21.jar"
+            "https://cdn.modrinth.com/data/zV5r3pPn/versions/h12GehRH/skinlayers3d-fabric-1.6.7-mc1.21.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 473019,
+            "fileSize": 470954,
             "hashes": {
-                "sha1": "27446a41c059fcb3509c3e2f5f10df889a3bca80",
-                "sha512": "9bf3072a35a62f57f03b503451caa95d78bf2352d2b758dce9c2563cc903aebb1c749c38a5ff39f4b2ac0fcbe210c6356f7b531536138f95ecd52dd68f033f1f"
+                "sha1": "6b5866792943f299fed7ff79688a8c8d42676115",
+                "sha512": "724fe57fc7b46c05d741d081dfa62cd5ac99856d032a5105b2e992ac11cbbc97092dd7fd5b54b1617c96b84266b75f1b0ff5d50882c62f3afe6122e1c2c9f06d"
             },
-            "path": "mods/skinlayers3d-neoforge-1.6.6-mc1.21.jar"
+            "path": "mods/skinlayers3d-fabric-1.6.7-mc1.21.jar"
         },
         {
             "downloads": [
-            "https://cdn.modrinth.com/data/NNAgCjsB/versions/LXLEbjiC/entityculling-neoforge-1.6.6-mc1.21.jar"
+            "https://cdn.modrinth.com/data/NNAgCjsB/versions/kPbJu8eF/entityculling-fabric-1.7.0-mc1.21.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 68136,
+            "fileSize": 65591,
             "hashes": {
-                "sha1": "91cdc482e11e66cf7e61b6ddaa1c47e14f6f73df",
-                "sha512": "ae9dbfcf51b54eb7551d8ab5a90f050b11176fd4406580734e0e5b1a3baea37760a203a815b4382e4fd2a08893a8f23b2e11e9801380f66abedd92a837ea1eb2"
+                "sha1": "ef4acec15876eafba8ce1618d2c2a6b3de27e58f",
+                "sha512": "6a43e3309add2ba9944df9dee18812ca5f0f2fad9dd69333b55f7c9ac4f70f1f8b661bc2ce63214d5ba089f46bed6b76e58f1926e83a8e6ee474a272766232aa"
             },
-            "path": "mods/entityculling-neoforge-1.6.6-mc1.21.jar"
+            "path": "mods/entityculling-fabric-1.7.0-mc1.21.jar"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz NeoForge 1.21.1",
-    "versionId": "v3.211.0-neoforge+buildtype"
+    "name": "MineOptimiz Fabric 1.21.1",
+    "versionId": "v3.211.0-fabric+buildtype"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 7,
-  "currentVersion": "3.211.0-neoforge+buildtype",
-  "modpackName": "MineOptimiz NeoForge",
+  "currentVersion": "3.211.0-fabric+buildtype",
+  "modpackName": "MineOptimiz Fabric",
   "modpackAuthor": "smallmushroomovo",
   "modpackReleaseType": "beta",
   "updateCheckerId": "",

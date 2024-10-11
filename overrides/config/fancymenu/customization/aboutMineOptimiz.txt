@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.about
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1726825181660
+  last_edited_time = 1728448901176
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:419a7ce3-7816-4966-9382-4485be01df91-1726825167272] = [groups:][instances:]
+  [loading_requirement_container_meta:b5b0cb6a-c11a-45d2-b3c4-11642aff227d-1728448758943] = [groups:][instances:]
 }
 
 customization {
@@ -59,7 +59,7 @@ element {
 
 element {
   interactable = true
-  source = MineOptimiz Version:{"placeholder":"mpuc:current-modpack-version"}%n%Minecraft Version:{"placeholder":"mcversion"}%n%Mod Loader:NeoForge {"placeholder":"modversion","values":{"modid":"neoforge"}}
+  source = MineOptimiz Version:{"placeholder":"mpuc:current-modpack-version"}%n%Minecraft Version:{"placeholder":"mcversion"}%n%Mod Loader:Fabric Loader {"placeholder":"modversion","values":{"modid":"fabricloader"}}
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -101,7 +101,7 @@ element {
 
 element {
   interactable = true
-  source = Sinytra Connector:{"placeholder":"modversion","values":{"modid":"connector"}}%n%Java Version:{"placeholder":"javaver"}%n%OpenGL:{"placeholder":"glver"}%n%You:{"placeholder":"playername"}
+  source = Fabric API:{"placeholder":"modversion","values":{"modid":"fabric"}}%n%Java Version:{"placeholder":"javaver"}%n%OpenGL:{"placeholder":"glver"}%n%You:{"placeholder":"playername"}
   source_mode = direct
   shadow = true
   scale = 1.0
