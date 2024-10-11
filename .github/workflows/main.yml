@@ -1,12 +1,6 @@
 name: Package Modpack
 
-on:
-  push:
-    branches:
-      - 1.21.1-Neo-Dev
-    paths-ignore: 
-      - 'README.md'
-  workflow_dispatch:
+on: [push, workflow_dispatchs]
 
 jobs:
   Package-Modpack:
