@@ -1,6 +1,6 @@
 name: Package Modpack
 
-on: [push, workflow_dispatchs]
+on: [push, workflow_dispatch]
 
 jobs:
   Package-Modpack:
