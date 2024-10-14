@@ -23,16 +23,16 @@
       "root": "https://api.minecraftcapes.net/profile/"
     },
     {
-      "name": "LabyMod Capes",
-      "type": "Legacy",
-      "checkPNG": true,
-      "cape": "https://dl.labymod.net/capes/{UUID}"
-    },
-    {
       "name": "Mojang",
       "type": "MojangAPI",
       "apiRoot": "https://api.mojang.com/",
       "sessionRoot": "https://sessionserver.mojang.com/"
+    },
+    {
+      "name": "LabyMod Capes",
+      "type": "Legacy",
+      "checkPNG": true,
+      "cape": "https://dl.labymod.net/capes/{UUID}"
     },
     {
       "name": "LittleSkin",
