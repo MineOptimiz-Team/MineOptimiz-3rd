@@ -18,15 +18,15 @@
       "cape": "http://s.optifine.net/capes/{USERNAME}.png"
     },
     {
+      "name": "MinecraftCapes",
+      "type": "MinecraftCapesAPI",
+      "root": "https://api.minecraftcapes.net/profile/"
+    },
+    {
       "name": "LabyMod Capes",
       "type": "Legacy",
       "checkPNG": true,
       "cape": "https://dl.labymod.net/capes/{UUID}"
-    },
-    {
-      "name": "MinecraftCapes",
-      "type": "MinecraftCapesAPI",
-      "root": "https://api.minecraftcapes.net/profile/"
     },
     {
       "name": "Mojang",
