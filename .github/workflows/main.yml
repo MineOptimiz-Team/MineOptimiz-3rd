@@ -28,8 +28,8 @@ jobs:
 
       - name: Append short SHA to file content
         run: |
-          sed -i "s/\(buildtype\)/2/g" modrinth.index.json
-          sed -i "s/\(buildtype\)/2/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(buildtype\)/3/g" modrinth.index.json
+          sed -i "s/\(buildtype\)/3/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
@@ -40,10 +40,10 @@ jobs:
           rm -rf versions
           rm README.md
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.2-fabric+2.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.201.2-fabric+3.mrpack"
       
       - uses: actions/upload-artifact@v3
         with:
-          name: MineOptimiz v3.201.2-fabric+2.zip
-          path: "./MineOptimiz v3.201.2-fabric+2.mrpack"
+          name: MineOptimiz v3.201.2-fabric+3.zip
+          path: "./MineOptimiz v3.201.2-fabric+3.mrpack"
      
