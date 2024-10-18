@@ -36,33 +36,33 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/MPCX6s5C/versions/7QccBGoR/notenoughanimations-neoforge-1.7.4-mc1.21.jar"
+                "https://cdn.modrinth.com/data/MPCX6s5C/versions/EXt7Kt2t/notenoughanimations-fabric-1.7.6-mc1.21.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 425553,
+            "fileSize": 422391,
             "hashes": {
-                "sha1": "1630b692487fe0a9b0ea7de05db9e378d2859481",
-                "sha512": "c521df81c8db6f9a213654e3529c2b07a08d5fb73e36e6a5200ca8250cfcb037c539953638d78c21040e38729237ebb2191141caa9ba3994e287840ec9c18913"
+                "sha1": "17230802228483e0924974936768a71d7e44f5fe",
+                "sha512": "da35a6207a8cfcc7cd7227bff2987716795ba36ffe8fcb084bcd4fa51fc7b16e5fbe96b8a9fdeeaa618417905ba22f47fd6af48651b84608b8a21566bed26ec1"
             },
-            "path": "mods/notenoughanimations-neoforge-1.7.4-mc1.21.jar"
+            "path": "mods/notenoughanimations-fabric-1.7.6-mc1.21.jar"
         },
         {
             "downloads": [
-            "https://cdn.modrinth.com/data/zV5r3pPn/versions/4FdHhrXI/skinlayers3d-neoforge-1.6.6-mc1.21.jar"
+            "https://cdn.modrinth.com/data/zV5r3pPn/versions/h12GehRH/skinlayers3d-fabric-1.6.7-mc1.21.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 473019,
+            "fileSize": 470954,
             "hashes": {
-                "sha1": "27446a41c059fcb3509c3e2f5f10df889a3bca80",
-                "sha512": "9bf3072a35a62f57f03b503451caa95d78bf2352d2b758dce9c2563cc903aebb1c749c38a5ff39f4b2ac0fcbe210c6356f7b531536138f95ecd52dd68f033f1f"
+                "sha1": "6b5866792943f299fed7ff79688a8c8d42676115",
+                "sha512": "724fe57fc7b46c05d741d081dfa62cd5ac99856d032a5105b2e992ac11cbbc97092dd7fd5b54b1617c96b84266b75f1b0ff5d50882c62f3afe6122e1c2c9f06d"
             },
-            "path": "mods/skinlayers3d-neoforge-1.6.6-mc1.21.jar"
+            "path": "mods/skinlayers3d-fabric-1.6.7-mc1.21.jar"
         },
         {
             "downloads": [
