@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.uimanager
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1726876787252
+  last_edited_time = 1729301606356
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:4af98435-755c-470f-9ba4-9594e395c846-1726876770249] = [groups:][instances:]
+  [loading_requirement_container_meta:0e2f7c33-3171-4dc3-9331-b8a1b152530a-1729301517824] = [groups:][instances:]
 }
 
 customization {
@@ -24,64 +24,8 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
-}
-
-element {
-  button_element_executable_block_identifier = f92b3c29-f3ee-415a-be61-3bb82478d761-1710515396763
-  [executable_action_instance:359a532a-497c-4d73-9c57-89d336925463-1710515396763][action_type:opengui] = io.123smallmushroom.uimanager1
-  [executable_block:f92b3c29-f3ee-415a-be61-3bb82478d761-1710515396763][type:generic] = [executables:359a532a-497c-4d73-9c57-89d336925463-1710515396763;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = 主菜单
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = 431e8743-67a9-4aca-a31e-95260a79571f1706965022364
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -62
-  y = -57
-  width = 125
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = ba47e347-9d81-4508-999e-6bf5ef9dc16b-1710515396763
-  [loading_requirement_container_meta:ba47e347-9d81-4508-999e-6bf5ef9dc16b-1710515396763] = [groups:][instances:]
-}
-
-element {
-  button_element_executable_block_identifier = 7ffd3f16-d70d-45f1-a565-980bc315bbfc-1710515396763
-  [executable_action_instance:1f1c6f9b-f923-4173-9aab-11edbb0ce504-1710515396763][action_type:opengui] = io.123smallmushroom.uimanager2
-  [executable_block:7ffd3f16-d70d-45f1-a565-980bc315bbfc-1710515396763][type:generic] = [executables:1f1c6f9b-f923-4173-9aab-11edbb0ce504-1710515396763;]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label = 分辨率缩放
-  navigatable = true
-  element_type = custom_button
-  instance_identifier = 23e34583-4851-4755-9147-967c4461aede1706965054958
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -62
-  y = -21
-  width = 125
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = e18b3a6c-9ae2-45f9-a798-35d330f1d579-1710515396763
-  [loading_requirement_container_meta:e18b3a6c-9ae2-45f9-a798-35d330f1d579-1710515396763] = [groups:][instances:]
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
 }
 
 element {
@@ -95,15 +39,24 @@ element {
   nine_slice_border_y = 5
   label = 返回
   navigatable = true
+  widget_active_state_requirement_container_identifier = d979ff18-7339-4959-a7d5-e0235d07a804-1729301517825
+  [loading_requirement_container_meta:d979ff18-7339-4959-a7d5-e0235d07a804-1729301517825] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = 00582438-aec5-4901-b175-d4b6ea8cb8a91706965091264
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
   anchor_point = mid-centered
-  x = -63
-  y = 52
+  x = -62
+  y = 67
   width = 125
   height = 20
   stretch_x = false
@@ -124,15 +77,24 @@ element {
   nine_slice_border_y = 5
   label = 键位设置
   navigatable = true
+  widget_active_state_requirement_container_identifier = f419f6e5-ac1c-4938-b8bd-67657c46b6cd-1729301517825
+  [loading_requirement_container_meta:f419f6e5-ac1c-4938-b8bd-67657c46b6cd-1729301517825] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = a18c78d6-fb71-4014-956f-a938ad95fc57-1726876590448
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 848
+  sticky_anchor = false
   anchor_point = mid-centered
-  x = -63
-  y = 15
+  x = -62
+  y = -53
   width = 125
   height = 20
   stretch_x = false
