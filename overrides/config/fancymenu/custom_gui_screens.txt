@@ -41,7 +41,7 @@ custom_gui {
 
 custom_gui {
   identifier = io.123smallmushroom.uimanager
-  title = UI管理
+  title = 游戏设置
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
@@ -78,6 +78,15 @@ custom_gui {
 custom_gui {
   identifier = io.123smallmushroom.runrepair
   title = 运行修复程序
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = com.github.smallmushroomovo.bugreport_website
+  title = 
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
@@ -130,6 +139,24 @@ custom_gui {
 }
 
 custom_gui {
+  identifier = com.github.smallmushroomovo.dis_realms_button
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = com.github.smallmushroomovo.uisettings
+  title = UI设置
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
   identifier = io.123smallmushroom.linuxupdate
   title = 
   allow_esc = true
@@ -141,6 +168,15 @@ custom_gui {
 custom_gui {
   identifier = io.123smallmushroom.linuxrepair
   title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = com.github.smallmushroomovo.about
+  title = 关于
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
