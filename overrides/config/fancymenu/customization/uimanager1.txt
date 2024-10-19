@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.uimanager1
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1726825609274
+  last_edited_time = 1729299256834
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:9313c7a0-ff29-4b43-ba64-409da9bc1eba-1726825598230] = [groups:][instances:]
+  [loading_requirement_container_meta:c32921aa-9156-403f-bd16-4017a99b581c-1729299239825] = [groups:][instances:]
 }
 
 customization {
@@ -24,6 +24,8 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
 }
 
 element {
@@ -40,8 +42,15 @@ element {
   instance_identifier = 8372300b-86a0-4e3f-8d3b-95a70af1445e1706965436067
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -100
   y = -20
@@ -65,12 +74,21 @@ element {
   nine_slice_border_y = 5
   label = 启用
   navigatable = true
+  widget_active_state_requirement_container_identifier = 1105ec9c-bded-4c9f-acfb-3f32f96950ce-1729299239826
+  [loading_requirement_container_meta:1105ec9c-bded-4c9f-acfb-3f32f96950ce-1729299239826] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = d0f9c219-5b87-4d95-bb33-8a9a324d6bb21706965596980
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = 10
   y = 53
@@ -94,12 +112,21 @@ element {
   nine_slice_border_y = 5
   label = 禁用
   navigatable = true
+  widget_active_state_requirement_container_identifier = 6b810ffc-5daa-40dc-b445-483e28cd8ac3-1729299239826
+  [loading_requirement_container_meta:6b810ffc-5daa-40dc-b445-483e28cd8ac3-1729299239826] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = 1f7d09c6-d73d-4664-ac65-d37ed95890941706965656416
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -105
   y = 53
@@ -114,7 +141,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 153254d5-fd1f-43c6-a4d7-6c946a045695-1710515396766
-  [executable_action_instance:a6438e70-5a3d-469a-8111-9f9b9b856d8b-1710515396766][action_type:opengui] = io.123smallmushroom.uimanager
+  [executable_action_instance:a6438e70-5a3d-469a-8111-9f9b9b856d8b-1710515396766][action_type:opengui] = com.github.smallmushroomovo.uisettings
   [executable_block:153254d5-fd1f-43c6-a4d7-6c946a045695-1710515396766][type:generic] = [executables:a6438e70-5a3d-469a-8111-9f9b9b856d8b-1710515396766;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
@@ -123,12 +150,21 @@ element {
   nine_slice_border_y = 5
   label = 返回
   navigatable = true
+  widget_active_state_requirement_container_identifier = c0453e69-55e4-4218-95bb-2df9f73f3b7d-1729299239826
+  [loading_requirement_container_meta:c0453e69-55e4-4218-95bb-2df9f73f3b7d-1729299239826] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = 467be5eb-a2ea-46b0-aab1-c2b3384252031706965679009
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = mid-centered
   x = -49
   y = 87
