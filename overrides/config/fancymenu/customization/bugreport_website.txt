@@ -1,0 +1,243 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = com.github.smallmushroomovo.bugreport_website
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1729302881494
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:e89efd50-9528-4c7c-a845-9fb486e688a3-1729302628107] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+element {
+  interactable = true
+  source = 确定要打开网页：%n%%n%吗？
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 64b5b6d1-7e90-4d93-83e8-a5f40f892e71-1729302634043
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 848
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -37
+  y = -32
+  width = 200
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 2e0980ad-eee3-4ea1-819c-a1ca1353de7d-1729302634043
+  [loading_requirement_container_meta:2e0980ad-eee3-4ea1-819c-a1ca1353de7d-1729302634043] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = https://github.com/MineOptimiz-Team/MineOptimiz-3rd/issues
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 1ca15673-efbb-4d5d-8f72-daa777e27cbb-1729302669363
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 848
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = 64b5b6d1-7e90-4d93-83e8-a5f40f892e71-1729302634043
+  x = -88
+  y = 11
+  width = 252
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 761fda1f-0474-42c9-a79f-bfab08afd10d-1729302669363
+  [loading_requirement_container_meta:761fda1f-0474-42c9-a79f-bfab08afd10d-1729302669363] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 908a9ca2-57a1-4246-8da5-299266fd135c-1729302753819
+  [executable_action_instance:a1d21fa5-a9e7-4086-bbfa-aed299615315-1729302797691][action_type:openlink] = https://github.com/MineOptimiz-Team/MineOptimiz-3rd/issues
+  [executable_block:908a9ca2-57a1-4246-8da5-299266fd135c-1729302753819][type:generic] = [executables:a1d21fa5-a9e7-4086-bbfa-aed299615315-1729302797691;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 在浏览器中打开
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 9f17bf0a-4ea0-49e4-a9e0-cc44e8e292b2-1729302753819
+  [loading_requirement_container_meta:9f17bf0a-4ea0-49e4-a9e0-cc44e8e292b2-1729302753819] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 11a49056-8580-480e-9328-7bc3c233b215-1729302753819
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 848
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -119
+  y = 27
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 3ee0761c-6644-47cf-bbee-6dd90ec81ce9-1729302753819
+  [loading_requirement_container_meta:3ee0761c-6644-47cf-bbee-6dd90ec81ce9-1729302753819] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 4241ed3f-0e40-4e9e-bb05-811f0c30eaca-1729302773579
+  [executable_action_instance:15bcbe59-d7e2-4413-a6d4-fed418ed6f8d-1729302810763][action_type:copytoclipboard] = https://github.com/MineOptimiz-Team/MineOptimiz-3rd/issues
+  [executable_block:4241ed3f-0e40-4e9e-bb05-811f0c30eaca-1729302773579][type:generic] = [executables:15bcbe59-d7e2-4413-a6d4-fed418ed6f8d-1729302810763;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 复制到剪切板
+  navigatable = true
+  widget_active_state_requirement_container_identifier = bcb90db7-b061-452f-a46e-ec94a09e67eb-1729302773579
+  [loading_requirement_container_meta:bcb90db7-b061-452f-a46e-ec94a09e67eb-1729302773579] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = fb4b3f97-3ffa-4480-90c0-aecefff1b813-1729302773579
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 848
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 18
+  y = 27
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c95e913b-ae0e-476f-aee6-f0798b847460-1729302773579
+  [loading_requirement_container_meta:c95e913b-ae0e-476f-aee6-f0798b847460-1729302773579] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = faf90598-8091-439f-80b4-3136c56b8811-1729302829861
+  [executable_action_instance:a63146ad-f0f1-4cfd-904b-2ba01e824db9-1729302847010][action_type:opengui] = com.github.smallmushroomovo.about
+  [executable_block:faf90598-8091-439f-80b4-3136c56b8811-1729302829861][type:generic] = [executables:a63146ad-f0f1-4cfd-904b-2ba01e824db9-1729302847010;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 返回
+  navigatable = true
+  widget_active_state_requirement_container_identifier = a1517745-b7f5-40c5-8fea-ae76a4f6b59b-1729302829861
+  [loading_requirement_container_meta:a1517745-b7f5-40c5-8fea-ae76a4f6b59b-1729302829861] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = b9b585c0-a85d-40c8-8230-dc7816c126c0-1729302829861
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 848
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -51
+  y = 56
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = ff27ff82-497c-4f3e-9ecd-1817f74d26c9-1729302829861
+  [loading_requirement_container_meta:ff27ff82-497c-4f3e-9ecd-1817f74d26c9-1729302829861] = [groups:][instances:]
+}
+
