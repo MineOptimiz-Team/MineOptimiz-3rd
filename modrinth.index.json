@@ -6,18 +6,18 @@
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gEmbR8dL/fancymenu_neoforge_3.2.5_MC_1.21.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zgTnw09B/fancymenu_neoforge_3.3.0_MC_1.21.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2523075,
+            "fileSize": 2714859,
             "hashes": {
-                "sha1": "9c6492894c0e446ff935b9e7b8d413d18e039185",
-                "sha512": "d61e191c7f18b1e8e398cb76d5d0d90aac86453926756d028d0a1e84904b5d1d9e20e2b0600e2f94e561d0ef15b64827baf46dd19a41fdbeb6b2884399c674f7"
+                "sha1": "52095deda85fab9edb2986a2806edede540e24c0",
+                "sha512": "e111bf9c08c3ec9c60d56f7267de47fd1b6193a295664df171e8ec719bb74e1bfe186d1c7a299e053282f0a7b92373be5aa7dcabb7a8ffbbd1731d75bf0fde8e"
             },
-            "path": "mods/fancymenu_neoforge_3.2.5_MC_1.21.jar"
+            "path": "mods/fancymenu_neoforge_3.3.0_MC_1.21.1.jar"
         },
         {
             "downloads": [

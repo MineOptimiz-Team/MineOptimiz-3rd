@@ -1,0 +1,183 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = io.123smallmushroom.settings
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1729302148795
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:2b0e45c5-10c5-4e57-bc14-32e984a415e2-1729302133982] = [groups:][instances:a5fe6da7-9202-4e07-b7f1-c0b0e5a409cf-1729302141307;]
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:a5fe6da7-9202-4e07-b7f1-c0b0e5a409cf-1729302141307] = en_us
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+element {
+  button_element_executable_block_identifier = 648bf1fe-cf17-49db-81f8-c4e2f21d7da5-1729298292555
+  [executable_action_instance:867cfaef-3c76-467c-9970-a5c7aea55acc-1729298515642][action_type:opengui] = options_screen
+  [executable_block:648bf1fe-cf17-49db-81f8-c4e2f21d7da5-1729298292555][type:generic] = [executables:867cfaef-3c76-467c-9970-a5c7aea55acc-1729298515642;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Back
+  navigatable = true
+  widget_active_state_requirement_container_identifier = b8590672-1447-479f-b5ff-b816ae5f1d45-1729298292555
+  [loading_requirement_container_meta:b8590672-1447-479f-b5ff-b816ae5f1d45-1729298292555] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = bea9684c-4f0d-46bc-bbe2-01516d97d0e6-1729298292555
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -55
+  y = 94
+  width = 108
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = ae35e67a-b93e-47bc-9afd-8074334bb8d9-1729298292555
+  [loading_requirement_container_meta:ae35e67a-b93e-47bc-9afd-8074334bb8d9-1729298292555] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 68f1aa59-0548-4fc0-884f-8475a39b03ec-1729298356859
+  [executable_action_instance:76ecaecb-b839-42a2-b7f7-dc72a3d7d3e1-1729299018802][action_type:opengui] = com.github.smallmushroomovo.uisettings
+  [executable_block:68f1aa59-0548-4fc0-884f-8475a39b03ec-1729298356859][type:generic] = [executables:76ecaecb-b839-42a2-b7f7-dc72a3d7d3e1-1729299018802;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = UI Settings
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 03b23051-f84c-407a-aca1-809547b9cc8f-1729298356859
+  [loading_requirement_container_meta:03b23051-f84c-407a-aca1-809547b9cc8f-1729298356859] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 7145bef7-c4ec-4f03-b217-ba4f49852120-1729298356859
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -129
+  y = -37
+  width = 109
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e02e0ed8-376f-4792-baa8-36b716974384-1729298356859
+  [loading_requirement_container_meta:e02e0ed8-376f-4792-baa8-36b716974384-1729298356859] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = f6d238af-c15c-4110-8b5f-2146628b08de-1729298414667
+  [executable_action_instance:08d7c571-f9f8-408d-ae6d-89021b4b0f15-1729301426083][action_type:opengui] = io.123smallmushroom.uimanager
+  [executable_block:f6d238af-c15c-4110-8b5f-2146628b08de-1729298414667][type:generic] = [executables:08d7c571-f9f8-408d-ae6d-89021b4b0f15-1729301426083;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Game Settings
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 9efe462e-f072-4940-8b22-3035c2557fad-1729298414667
+  [loading_requirement_container_meta:9efe462e-f072-4940-8b22-3035c2557fad-1729298414667] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 9df087e3-c51a-40e2-904c-b18e0ec7a89f-1729298414667
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 19
+  y = -37
+  width = 109
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 9397a1f3-f697-4898-b174-c8d72f735073-1729298414667
+  [loading_requirement_container_meta:9397a1f3-f697-4898-b174-c8d72f735073-1729298414667] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = f9a5e849-15d3-4703-87d8-0519bcc8f54f-1729298575682
+  [executable_action_instance:b8093d90-7ce8-4552-9fb9-0da37a9d07dc-1729300895571][action_type:opengui] = com.github.smallmushroomovo.about
+  [executable_block:f9a5e849-15d3-4703-87d8-0519bcc8f54f-1729298575682][type:generic] = [executables:b8093d90-7ce8-4552-9fb9-0da37a9d07dc-1729300895571;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = About MineOptimiz...
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 6f28145a-2b42-495f-b2c9-a0db53912113-1729298575682
+  [loading_requirement_container_meta:6f28145a-2b42-495f-b2c9-a0db53912113-1729298575682] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 602c20d9-ff55-4700-a9c4-9bb449188059-1729298575682
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -129
+  y = -5
+  width = 257
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 69254281-04ea-4060-b9f3-120f2c3b5a35-1729298575682
+  [loading_requirement_container_meta:69254281-04ea-4060-b9f3-120f2c3b5a35-1729298575682] = [groups:][instances:]
+}
+
