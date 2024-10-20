@@ -8,7 +8,7 @@ variable {
 
 variable {
   name = disable_realms_button
-  value = 0
+  value = 1
   reset_on_launch = false
 }
 
