@@ -13,15 +13,6 @@ custom_gui {
 }
 
 custom_gui {
-  identifier = io.123smallmushroom.choosegame
-  title = 开始游戏
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
   identifier = io.123smallmushroom.about
   title = 关于MineOptimiz
   allow_esc = true
@@ -67,15 +58,6 @@ custom_gui {
 }
 
 custom_gui {
-  identifier = io.123smallmushroom.drop_key
-  title = 设置丢弃键位
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
   identifier = io.123smallmushroom.runrepair
   title = 运行修复程序
   allow_esc = true
@@ -86,24 +68,6 @@ custom_gui {
 
 custom_gui {
   identifier = com.github.smallmushroomovo.bugreport_website
-  title = 
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
-  identifier = io.123smallmushroom.settings
-  title = MineOptimiz设置
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
-  identifier = io.123smallmushroom.quitgame
   title = 
   allow_esc = true
   transparent_world_background = true
@@ -204,15 +168,6 @@ custom_gui {
 custom_gui {
   identifier = io.123smallmushroom.jubao
   title = 彩蛋
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
-  identifier = io.123smallmushroom.updatechoose
-  title = 
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
