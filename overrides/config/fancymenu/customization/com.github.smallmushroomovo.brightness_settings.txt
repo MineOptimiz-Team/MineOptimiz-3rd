@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.brightness_settings
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1729746480351
+  last_edited_time = 1729749297216
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:c4b58263-2f51-4773-bfaf-17fbfe8ca84a-1729746460599] = [groups:][instances:]
+  [loading_requirement_container_meta:9fbf2bb9-d3cc-4521-bc48-18597162e35f-1729749285954] = [groups:][instances:]
 }
 
 customization {
@@ -142,14 +142,14 @@ element {
 
 element {
   button_element_executable_block_identifier = ad57185a-3390-4251-9e55-de09264d25ee-1729744901304
-  [executable_action_instance:3c813e55-5ceb-421d-b07d-2104e81566ff-1729744963452][action_type:sendmessage] = /gamma max
+  [executable_action_instance:3c813e55-5ceb-421d-b07d-2104e81566ff-1729744963452][action_type:edit_minecraft_option] = gamma:100.0
   [executable_block:ad57185a-3390-4251-9e55-de09264d25ee-1729744901304][type:generic] = [executables:3c813e55-5ceb-421d-b07d-2104e81566ff-1729744963452;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = 效果类似于夜视，需进入游戏后设置
+  description = 效果类似于夜视
   label = 设置为“超亮”
   navigatable = true
   widget_active_state_requirement_container_identifier = b51260dc-3163-412d-ae19-ee73931a4f0c-1729744901304
