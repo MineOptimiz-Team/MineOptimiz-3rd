@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.uimanager
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1729301606356
+  last_edited_time = 1729744191897
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:0e2f7c33-3171-4dc3-9331-b8a1b152530a-1729301517824] = [groups:][instances:]
+  [loading_requirement_container_meta:03f675cf-b4b9-4e2d-8596-1f1439af053d-1729724774543] = [groups:][instances:]
 }
 
 customization {
@@ -24,8 +24,6 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
-  show_screen_background_overlay_on_custom_background = false
-  apply_vanilla_background_blur = false
 }
 
 element {
@@ -89,8 +87,8 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 1600
-  auto_sizing_base_screen_height = 848
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
   sticky_anchor = false
   anchor_point = mid-centered
   x = -62
@@ -102,5 +100,43 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = e4fc8769-ce82-4f3f-99c6-27d23d803d9b-1726876590448
   [loading_requirement_container_meta:e4fc8769-ce82-4f3f-99c6-27d23d803d9b-1726876590448] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = f6d34a2c-816b-468c-a9d8-3b5b14adbf27-1729724776752
+  [executable_action_instance:7ed4d00b-b959-410e-adc9-2b5905546413-1729744167004][action_type:opengui] = com.github.smallmushroomovo.brightness_settings
+  [executable_block:f6d34a2c-816b-468c-a9d8-3b5b14adbf27-1729724776752][type:generic] = [executables:7ed4d00b-b959-410e-adc9-2b5905546413-1729744167004;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 亮度设置
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 99412ab3-3c5b-4313-aa18-2dd99b77045b-1729724776752
+  [loading_requirement_container_meta:99412ab3-3c5b-4313-aa18-2dd99b77045b-1729724776752] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 9f39d4b0-ccd0-4e84-b03f-9a263ec9dcf5-1729724776752
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -62
+  y = -20
+  width = 125
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 5c2a8785-8e5f-4756-8bc9-e5770c6944c6-1729724776752
+  [loading_requirement_container_meta:5c2a8785-8e5f-4756-8bc9-e5770c6944c6-1729724776752] = [groups:][instances:]
 }
 
