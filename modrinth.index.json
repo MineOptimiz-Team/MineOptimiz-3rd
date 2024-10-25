@@ -6,18 +6,18 @@
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/I03OyM2D/fancymenu_fabric_3.2.5_MC_1.21.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/G8ceGymd/fancymenu_fabric_3.3.2_MC_1.21.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2691793,
+            "fileSize": 2915241,
             "hashes": {
-                "sha1": "4b6d9269ff83e0ba70dc713a83a352ffbada437f",
-                "sha512": "ae30e45f881748558df55a43511032fd601124724d204556009841e74e15721ce391e6bb50a5401239888241cc6c24ecf40e56969438c00b51963ecc3fa20f9b"
+                "sha1": "89cc7fea8fc31d826f80cda1bffb09b2090b3f8f",
+                "sha512": "b53f52a19d92f277c226852b2f4799364be9a3671c9b873340471810816f066366698ed5c2247bc7910077ae4236ce23f3881a3be082e84feb62469557e7e40e"
             },
-            "path": "mods/fancymenu_fabric_3.2.5_MC_1.21.jar"
+            "path": "mods/fancymenu_fabric_3.3.2_MC_1.21.1.jar"
         },
         {
             "downloads": [
