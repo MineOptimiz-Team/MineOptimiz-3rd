@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "neoforge": "47.1.106",
+        "forge": "47.3.11",
         "minecraft": "1.20.1"
     },
     "files": [
@@ -97,6 +97,6 @@
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz NeoForge 1.20.1",
-    "versionId": "v3.201.3-neoforge+buildtype"
+    "name": "MineOptimiz Forge 1.20.1",
+    "versionId": "v3.201.3-forge+buildtype"
 }

@@ -66,7 +66,7 @@ element {
 
 element {
   interactable = true
-  source = MineOptimiz Version:{"placeholder":"mpuc:current-modpack-version"}%n%Minecraft Version:{"placeholder":"mcversion"}%n%Mod Loader:NeoForge {"placeholder":"modversion","values":{"modid":"forge"}}
+  source = MineOptimiz Version:{"placeholder":"mpuc:current-modpack-version"}%n%Minecraft Version:{"placeholder":"mcversion"}%n%Mod Loader:Forge {"placeholder":"modversion","values":{"modid":"forge"}}
   source_mode = direct
   shadow = true
   scale = 1.0
