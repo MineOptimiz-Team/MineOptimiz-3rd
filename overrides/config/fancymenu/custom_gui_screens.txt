@@ -4,6 +4,15 @@ overridden_screens {
 }
 
 custom_gui {
+  identifier = com.github.smallmushroomovo.brightness_settings
+  title = 亮度设置
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
   identifier = io.123smallmushroom.engmode
   title = Enable English Mode/启用英语模式
   allow_esc = true
@@ -59,6 +68,15 @@ custom_gui {
 
 custom_gui {
   identifier = io.123smallmushroom.repair
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.drop_key
   title = 
   allow_esc = true
   transparent_world_background = true
@@ -132,6 +150,15 @@ custom_gui {
 custom_gui {
   identifier = com.github.smallmushroomovo.dis_realms_button
   title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = com.github.smallmushroomovo.uisettings
+  title = UI设置
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
