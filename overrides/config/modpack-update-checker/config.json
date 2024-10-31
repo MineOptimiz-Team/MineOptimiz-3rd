@@ -3,7 +3,7 @@
   "currentVersion": "3.211.0-neoforge+buildtype",
   "modpackName": "MineOptimiz NeoForge",
   "modpackAuthor": "smallmushroomovo",
-  "modpackReleaseType": "beta",
+  "modpackReleaseType": "stable",
   "updateCheckerId": "https://123smallmushroom.github.io/check-update-mineoptimiz/1.21.1-Neo/",
   "advanced": {
     "bccEnabled": false,
