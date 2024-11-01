@@ -1,0 +1,8 @@
+ - 重写设置界面
+ - 添加快捷亮度设置
+ - 升级了Fabric Loader
+ - 升级了部分模组
+ - 将REI替换为JEI
+ - 禁用了xaerosmaps的更新检测器
+ - 更新了整合包信息
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.2-fabric+3...3.201.3-fabric+1
