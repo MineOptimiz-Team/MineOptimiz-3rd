@@ -1,4 +1,0 @@
-花了四个月的时间才发布fabric版本（
-一些更改大致与(neo)forge版相同，所以更新日志就懒得写了（主要也是太多了）
-为了同步版本号，fabric版跳过了3.201.0
-**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/commits/3.201.1-fabric+1

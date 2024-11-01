@@ -1,5 +1,0 @@
-PLEASE TURN OFF MARKDOWN WHEN YOU SEE THIS CHANGELOG!!!
-
-
-Fix config of tweakeroo
-Update embeddium
