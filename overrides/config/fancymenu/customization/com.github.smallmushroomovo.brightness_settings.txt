@@ -1,0 +1,181 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = com.github.smallmushroomovo.brightness_settings
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1729749297216
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:9fbf2bb9-d3cc-4521-bc48-18597162e35f-1729749285954] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = e174ace1-a913-4358-89a0-e6c72528886b-1729724717040
+  [executable_action_instance:8107b0d9-8f14-48cf-a8f7-9d888c8b2937-1729724728844][action_type:opengui] = io.123smallmushroom.uimanager
+  [executable_block:e174ace1-a913-4358-89a0-e6c72528886b-1729724717040][type:generic] = [executables:8107b0d9-8f14-48cf-a8f7-9d888c8b2937-1729724728844;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 返回
+  navigatable = true
+  widget_active_state_requirement_container_identifier = cbec774d-c8d9-4911-a261-5b7d853e8277-1729724717040
+  [loading_requirement_container_meta:cbec774d-c8d9-4911-a261-5b7d853e8277-1729724717040] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = e9105293-6294-4c28-8189-f32e06fa298b-1729724717040
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -96
+  y = 88
+  width = 190
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 283bc932-72a3-4150-89ca-214aadb7ba05-1729724717040
+  [loading_requirement_container_meta:283bc932-72a3-4150-89ca-214aadb7ba05-1729724717040] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 35fe909a-7c53-4569-9168-10e04c954d97-1729744207273
+  [executable_action_instance:e2e6209c-01b5-43ad-95c6-f6bd834d8ebb-1729744669443][action_type:edit_minecraft_option] = gamma:0.0
+  [executable_block:35fe909a-7c53-4569-9168-10e04c954d97-1729744207273][type:generic] = [executables:e2e6209c-01b5-43ad-95c6-f6bd834d8ebb-1729744669443;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 设置为“昏暗”
+  navigatable = true
+  widget_active_state_requirement_container_identifier = c2a0240f-f303-4372-b6e1-dfa6da43da14-1729744207273
+  [loading_requirement_container_meta:c2a0240f-f303-4372-b6e1-dfa6da43da14-1729744207273] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 031ed4ab-9b11-41f6-ba83-53564c836aa3-1729744207273
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -157
+  y = 53
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = bf334096-3d01-4a29-80f3-96c6ffe7117c-1729744207273
+  [loading_requirement_container_meta:bf334096-3d01-4a29-80f3-96c6ffe7117c-1729744207273] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 847d0415-58b0-49c9-b546-f45bf0f3f5ed-1729744661540
+  [executable_action_instance:121c1f54-bc47-4d65-9655-4e1dd07523ff-1729744867675][action_type:edit_minecraft_option] = gamma:1.0
+  [executable_block:847d0415-58b0-49c9-b546-f45bf0f3f5ed-1729744661540][type:generic] = [executables:121c1f54-bc47-4d65-9655-4e1dd07523ff-1729744867675;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 设置为“明亮”
+  navigatable = true
+  widget_active_state_requirement_container_identifier = db922841-106f-4c30-bce2-6f871a4d84da-1729744661540
+  [loading_requirement_container_meta:db922841-106f-4c30-bce2-6f871a4d84da-1729744661540] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 4efece75-1c2a-4ab4-b4f4-31993519eade-1729744661540
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -47
+  y = 53
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = fd9e5df4-b179-45fa-b6b2-5373015b5cf7-1729744661540
+  [loading_requirement_container_meta:fd9e5df4-b179-45fa-b6b2-5373015b5cf7-1729744661540] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = ad57185a-3390-4251-9e55-de09264d25ee-1729744901304
+  [executable_action_instance:3c813e55-5ceb-421d-b07d-2104e81566ff-1729744963452][action_type:edit_minecraft_option] = gamma:100.0
+  [executable_block:ad57185a-3390-4251-9e55-de09264d25ee-1729744901304][type:generic] = [executables:3c813e55-5ceb-421d-b07d-2104e81566ff-1729744963452;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  description = 效果类似于夜视
+  label = 设置为“超亮”
+  navigatable = true
+  widget_active_state_requirement_container_identifier = b51260dc-3163-412d-ae19-ee73931a4f0c-1729744901304
+  [loading_requirement_container_meta:b51260dc-3163-412d-ae19-ee73931a4f0c-1729744901304] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 73caca8b-dea7-429b-9660-8245da0d88b6-1729744901304
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 960
+  auto_sizing_base_screen_height = 576
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 60
+  y = 53
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 042a6170-fe66-4dbd-8dde-83674d236d8f-1729744901304
+  [loading_requirement_container_meta:042a6170-fe66-4dbd-8dde-83674d236d8f-1729744901304] = [groups:][instances:]
+}
+

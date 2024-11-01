@@ -3,8 +3,8 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.settings
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1727942588002
-  is_enabled = true
+  last_edited_time = 1727940760319
+  is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false

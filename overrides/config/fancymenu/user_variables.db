@@ -6,3 +6,9 @@ variable {
   reset_on_launch = false
 }
 
+variable {
+  name = disable_realms_button
+  value = 1
+  reset_on_launch = false
+}
+
