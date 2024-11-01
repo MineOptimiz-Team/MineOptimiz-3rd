@@ -1,23 +1,23 @@
 {
     "dependencies": {
-        "neoforge": "21.1.72",
+        "neoforge": "21.1.73",
         "minecraft": "1.21.1"
     },
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zgTnw09B/fancymenu_neoforge_3.3.0_MC_1.21.1.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/vi8qFKyU/fancymenu_neoforge_3.3.2_MC_1.21.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2714859,
+            "fileSize": 2715234,
             "hashes": {
-                "sha1": "52095deda85fab9edb2986a2806edede540e24c0",
-                "sha512": "e111bf9c08c3ec9c60d56f7267de47fd1b6193a295664df171e8ec719bb74e1bfe186d1c7a299e053282f0a7b92373be5aa7dcabb7a8ffbbd1731d75bf0fde8e"
+                "sha1": "cedb8ccd1c703ecd399e522a4a7516cef22f1454",
+                "sha512": "fe3751b7aeaa7e494cdfe2317ecfacaeea90b6e27fb75ff6b6e207fe5f9489ebbdc9183a1b0ecde71daf08d7d41d7fa34c2bf0802a412ad186249e6539499bf4"
             },
-            "path": "mods/fancymenu_neoforge_3.3.0_MC_1.21.1.jar"
+            "path": "mods/fancymenu_neoforge_3.3.2_MC_1.21.1.jar"
         },
         {
             "downloads": [
