@@ -3,8 +3,8 @@
   "currentVersion": "3.182.0-forge+buildtype",
   "modpackName": "MineOptimiz Forge",
   "modpackAuthor": "smallmushroomovo",
-  "modpackReleaseType": "beta",
-  "updateCheckerId": "",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://123smallmushroom.github.io/check-update-mineoptimiz/1.18.2-Forge/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,

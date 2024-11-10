@@ -2,12 +2,8 @@ name: Package Modpack
 
 on:
   push:
-    branches:
-      - 1.18.2-Forge-Dev
     paths-ignore: 
       - 'README.md'
-      - 'versions/*'
-      - 'meta.json'
       - 'licenceofmods.txt'
   workflow_dispatch:
 
@@ -28,20 +24,18 @@ jobs:
 
       - name: Append short SHA to file content
         run: |
-          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" modrinth.index.json
-          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(buildtype\)/1/g" modrinth.index.json
+          sed -i "s/\(buildtype\)/1/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
           rm -rf .github
           rm -rf .git
-          rm licenceofmods.txt
-          rm README.md
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.182.0-forge+${{ env.SHORT_SHA }}.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.182.0-forge+1.mrpack"
       
       - uses: actions/upload-artifact@v3
         with:
-          name: MineOptimiz v3.182.0-forge+${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz v3.182.0-forge+${{ env.SHORT_SHA }}.mrpack"
+          name: MineOptimiz v3.182.0-forge+1.zip
+          path: "./MineOptimiz v3.182.0-forge+1.mrpack"
      
