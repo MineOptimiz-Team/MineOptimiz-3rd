@@ -11,7 +11,7 @@
     "updateCheckerType": 2,
     "addButton": true,
     "mainMenuCreditsIntegration": true,
-    "retroWarning": false,
+    "retroWarning": true,
     "modpackMods": []
   }
 }
