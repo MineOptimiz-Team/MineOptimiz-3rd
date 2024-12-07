@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "neoforge": "21.1.73",
+        "neoforge": "21.1.84",
         "minecraft": "1.21.1"
     },
     "files": [
@@ -78,6 +78,21 @@
                 "sha512": "ae9dbfcf51b54eb7551d8ab5a90f050b11176fd4406580734e0e5b1a3baea37760a203a815b4382e4fd2a08893a8f23b2e11e9801380f66abedd92a837ea1eb2"
             },
             "path": "mods/entityculling-neoforge-1.6.6-mc1.21.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/yYE9h4iu/versions/jmXuPrG1/citresewn_neopatcher-1.0.0-1.2.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 21276,
+            "hashes": {
+                "sha1": "16e9a980ffe888e03c627ab55f14a7c829bef42b",
+                "sha512": "bfe1ffb74e7cad9a558ab7fd2809afff1fcd5229bbcc8f0bc27bdf7b0d0fff55766dfabacdf35c3dcd018ff7d23e43de6c08fb4bca1b24f84e9f0511c1f7921b"
+            },
+            "path": "mods/citresewn_neopatcher-1.0.0-1.2.2.jar"
         }
     ],
     "formatVersion": 1,
