@@ -10,7 +10,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 2915241,
             "hashes": {
@@ -25,7 +25,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 413603,
             "hashes": {
@@ -40,7 +40,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 422391,
             "hashes": {
@@ -55,7 +55,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 470954,
             "hashes": {
@@ -70,7 +70,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 65591,
             "hashes": {
@@ -78,6 +78,21 @@
                 "sha512": "6a43e3309add2ba9944df9dee18812ca5f0f2fad9dd69333b55f7c9ac4f70f1f8b661bc2ce63214d5ba089f46bed6b76e58f1926e83a8e6ee474a272766232aa"
             },
             "path": "mods/entityculling-fabric-1.7.0-mc1.21.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/AANobbMI/versions/Hd6ChVqe/sodium-fabric-0.6.3%2Bmc1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 1293527,
+            "hashes": {
+                "sha1": "7e75f9d2dedfa158be6391052dccdfe91ed0cb29",
+                "sha512": "4e622cbe639705a3106803a06ef4aa8b873d2739b835e7f6f94464a7fdf2543528de06aaf37609104eb791ba00e13c270861615eb79bec7476f2b620843e303e"
+            },
+            "path": "mods/sodium-fabric-0.6.3+mc1.21.1.jar"
         }
     ],
     "formatVersion": 1,
