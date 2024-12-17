@@ -108,6 +108,21 @@
                 "sha512": "e1f754197c244169d7da6feaf3f8d324d730e676559da934426beaec0628b44ae56938771e4b7a7812a9c3d86b52afb2e47c85afa6febe3783928b48b78eff15"
             },
             "path": "mods/journeymap-fabric-1.21.1-6.0.0-beta.32.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/rIC2XJV4/versions/9aI7gGPn/ViaFabricPlus-3.4.9.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 11559457,
+            "hashes": {
+                "sha1": "33edb94ab4ca5e20bafabaead0cedc5c3c09abf0",
+                "sha512": "60ca891a915af4345c3b982bf2e3a3914e4b5dd1d6c175918845a39a49748cf97c1d315608a398cb58e91e813c035095e4b763626c99b5e64d94f3052bbe2f56"
+            },
+            "path": "mods/ViaFabricPlus-3.4.9.jar"
         }
     ],
     "formatVersion": 1,
