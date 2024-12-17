@@ -123,6 +123,21 @@
                 "sha512": "60ca891a915af4345c3b982bf2e3a3914e4b5dd1d6c175918845a39a49748cf97c1d315608a398cb58e91e813c035095e4b763626c99b5e64d94f3052bbe2f56"
             },
             "path": "mods/ViaFabricPlus-3.4.9.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/yfDziwn1/versions/IhmUucgL/SodiumTranslations.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 216620,
+            "hashes": {
+                "sha1": "379b696a049e66683650f188239c1718773a9af5",
+                "sha512": "fdb37ba5d12f0f55f72fe7d2e892855ed85e1a1b8aefdd49e55663be385d2ad348dfb4ae28c2a8e6907bcc646b340d3e1bfe6a087efb93ee5ed04aefd875a3bd"
+            },
+            "path": "resourcepacks/SodiumTranslations.zip"
         }
     ],
     "formatVersion": 1,

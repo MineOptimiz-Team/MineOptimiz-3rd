@@ -48,7 +48,7 @@ mouseSensitivity:0.7676056338028169
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","vanilla","black_icons","fabric","file/Fast Better Grass.zip","file/Masa Family Bucket Translation Pack v1.0.4.zip","continuity:glass_pane_culling_fix","continuity:default"]
+resourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","vanilla","black_icons","fabric","file/Fast Better Grass.zip","file/Masa Family Bucket Translation Pack v1.0.4.zip","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
