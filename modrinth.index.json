@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "neoforge": "21.1.84",
+        "neoforge": "21.1.90",
         "minecraft": "1.21.1"
     },
     "files": [
@@ -10,7 +10,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 2715234,
             "hashes": {
@@ -25,7 +25,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 423019,
             "hashes": {
@@ -40,7 +40,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 422391,
             "hashes": {
@@ -55,7 +55,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 470954,
             "hashes": {
@@ -70,7 +70,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 68136,
             "hashes": {
@@ -85,7 +85,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 21276,
             "hashes": {
@@ -93,6 +93,21 @@
                 "sha512": "bfe1ffb74e7cad9a558ab7fd2809afff1fcd5229bbcc8f0bc27bdf7b0d0fff55766dfabacdf35c3dcd018ff7d23e43de6c08fb4bca1b24f84e9f0511c1f7921b"
             },
             "path": "mods/citresewn_neopatcher-1.0.0-1.2.2.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/lfHFW1mp/versions/IDctQZb0/journeymap-neoforge-1.21.1-6.0.0-beta.32.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "optional"
+            },
+            "fileSize": 3369986,
+            "hashes": {
+                "sha1": "aff42ab4ad20317deaf334ff246e97aebd9f923e",
+                "sha512": "5a7a23bdf300f7332d83d61dcd0673ecb18c9621be17b200faf4e2d48fb517115051aabd6361c8e84664c82a7992b308923bd937173a6904fe412670a8eac68d"
+            },
+            "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.32.jar"
         }
     ],
     "formatVersion": 1,
