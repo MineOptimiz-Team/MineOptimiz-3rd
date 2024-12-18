@@ -123,13 +123,13 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.ingameime.hotkey:key.keyboard.home
-key_key.jei.toggleOverlay:key.keyboard.o
+key_key.jei.toggleOverlay:key.keyboard.unknown
 key_key.jei.focusSearch:key.keyboard.unknown
 key_key.jei.previousPage:key.keyboard.unknown
 key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 key_key.jei.bookmark:key.keyboard.a
-key_key.jei.showRecipe:key.keyboard.r
+key_key.jei.showRecipe:key.keyboard.unknown
 key_key.jei.showRecipe2:key.mouse.left
 key_key.jei.showUses:key.keyboard.u
 key_key.jei.showUses2:key.mouse.right
@@ -164,7 +164,7 @@ key_key.journeymap.toggle_render_waypoints_world:key.keyboard.unknown
 key_key.journeymap.toggle_render_waypoints_map:key.keyboard.unknown
 key_key.journeymap.toggle_waypoints:key.keyboard.unknown
 key_key.journeymap.fullscreen_create_waypoint:key.keyboard.b
-key_key.journeymap.fullscreen_chat_position:key.keyboard.c
+key_key.journeymap.fullscreen_chat_position:key.keyboard.unknown
 key_key.journeymap.map_toggle_alt:key.keyboard.m
 key_key.journeymap.fullscreen_waypoints:key.keyboard.n
 key_key.journeymap.minimap_toggle_alt:key.keyboard.unknown
@@ -175,7 +175,7 @@ key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen_follow_player:key.keyboard.unknown
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
-key_key.journeymap.toggle_entity_names:key.keyboard.g
+key_key.journeymap.toggle_entity_names:key.keyboard.unknown
 key_key.midnightcontrols.look_up:key.keyboard.keypad.8
 key_key.midnightcontrols.look_right:key.keyboard.keypad.6
 key_key.midnightcontrols.look_down:key.keyboard.keypad.2
@@ -186,8 +186,8 @@ key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
-key_key.disable_voice_chat:key.keyboard.n
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
@@ -199,9 +199,9 @@ key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
-key_zume.zoom:key.keyboard.z
-key_zume.zoom_in:key.keyboard.equal
-key_zume.zoom_out:key.keyboard.minus
+key_zume.zoom:key.keyboard.c
+key_zume.zoom_in:key.keyboard.unknown
+key_zume.zoom_out:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
