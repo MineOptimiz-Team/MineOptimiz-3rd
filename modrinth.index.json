@@ -21,21 +21,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/rR4tY6Cw/versions/DEWAczGP/modpack-update-checker-1.21-fabric-0.15.2.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 413603,
-            "hashes": {
-                "sha1": "ef95da920a7455637eace5f1eea68970b3a8f5c2",
-                "sha512": "68f32a0fdfcf4906045bca82966568c2c16e01e2dbecf840b3419bffceb9dc369b1debf011ff372559051c105a5e053b7b1dfa6b3a49cd91982f8430deef2446"
-            },
-            "path": "mods/modpack-update-checker-1.21-fabric-0.15.2.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/MPCX6s5C/versions/EXt7Kt2t/notenoughanimations-fabric-1.7.6-mc1.21.jar"
             ],
             "env": {
@@ -78,21 +63,6 @@
                 "sha512": "6a43e3309add2ba9944df9dee18812ca5f0f2fad9dd69333b55f7c9ac4f70f1f8b661bc2ce63214d5ba089f46bed6b76e58f1926e83a8e6ee474a272766232aa"
             },
             "path": "mods/entityculling-fabric-1.7.0-mc1.21.jar"
-        },
-        {
-            "downloads": [
-            "https://cdn.modrinth.com/data/AANobbMI/versions/EoNKHoLH/sodium-fabric-0.6.5%2Bmc1.21.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 1289453,
-            "hashes": {
-                "sha1": "68469cfbcb1b7fcdb0d11c8b984a657adfac5684",
-                "sha512": "d8979d318af75def36d60e823b50063a8f83bb22db602f04e4112a891eb564abd85c6c87a2ee6fad312c11703b3f586c6ca72f2ee13883a76ea3f655525603ee"
-            },
-            "path": "mods/sodium-fabric-0.6.5+mc1.21.1.jar"
         },
         {
             "downloads": [
@@ -142,6 +112,6 @@
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz Fabric 1.21.1",
-    "versionId": "v3.211.0-fabric+buildtype"
+    "name": "MineOptimiz Fabric 1.21.1 with Vulkanmod",
+    "versionId": "v3.211.0-vulkanfabric+buildtype"
 }
