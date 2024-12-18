@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.about
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1729303007845
+  last_edited_time = 1734500081204
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:665dd4d2-d5ae-4d81-acd8-770f22212e24-1729302970587] = [groups:][instances:62ac23d6-7800-43cd-8d78-89af170876cf-1729302502115;]
+  [loading_requirement_container_meta:f8d450c6-dc9f-44fd-9c3c-b0e2bc1ce80e-1734500054584] = [groups:][instances:62ac23d6-7800-43cd-8d78-89af170876cf-1729302502115;]
   [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:62ac23d6-7800-43cd-8d78-89af170876cf-1729302502115] = en_us
 }
 
@@ -145,7 +145,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 6c1bb4d1-8202-41b4-9c8a-c47532791a1d-1729300739270
-  [executable_action_instance:08c6596c-b55d-4feb-94bc-a1b3d85117c9-1729302187586][action_type:opengui] = com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen
+  [executable_action_instance:08c6596c-b55d-4feb-94bc-a1b3d85117c9-1729302187586][action_type:opengui] = com.github.smallmushroomovo.unsupportedcheckupdate
   [executable_block:6c1bb4d1-8202-41b4-9c8a-c47532791a1d-1729300739270][type:generic] = [executables:08c6596c-b55d-4feb-94bc-a1b3d85117c9-1729302187586;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
