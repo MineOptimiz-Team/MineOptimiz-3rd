@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","black_icons","file/Midnighttiggers-FCT-Default_1.20_V4.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","lambdabettergrass:default","file/Masa Family Bucket Translation Pack v1.0.3.zip"]
-incompatibleResourcePacks:["file/Midnighttiggers-FCT-Default_1.20_V4.zip","lambdabettergrass:default"]
+resourcePacks:["vanilla","fabric","black_icons","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","lambdabettergrass:default","file/Masa Family Bucket Translation Pack v1.0.3.zip","continuity:glass_pane_culling_fix","continuity:default"]
+incompatibleResourcePacks:["lambdabettergrass:default"]
 lastServer:
 lang:zh_cn
 soundDevice:""
