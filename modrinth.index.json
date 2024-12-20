@@ -102,7 +102,7 @@
                 "client": "required",
                 "server": "optional"
             },
-            "fileSize": 98523,
+            "fileSize": 7209180,
             "hashes": {
                 "sha1": "79c73992c1f0240144e49d946cd62f8033d796cf",
                 "sha512": "0e6d7e5a179fcc531eea19ac5333b90abc45bf1a5b63daddf5266ba14e317eab160d209592dda9593575e0b4346604215ba94be037cb2ab1910db29ab6d63a75"
