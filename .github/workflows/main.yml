@@ -28,10 +28,10 @@ jobs:
           rm -rf .git
           rm README.md
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.211.0-vulkanfabric+${{ env.SHORT_SHA }}.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.211.1-vulkanfabric+${{ env.SHORT_SHA }}.mrpack"
       
       - uses: actions/upload-artifact@v3
         with:
-          name: MineOptimiz v3.211.0-vulkanfabric+${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz v3.211.0-vulkanfabric+${{ env.SHORT_SHA }}.mrpack"
+          name: MineOptimiz v3.211.1-vulkanfabric+${{ env.SHORT_SHA }}.zip
+          path: "./MineOptimiz v3.211.1-vulkanfabric+${{ env.SHORT_SHA }}.mrpack"
      
