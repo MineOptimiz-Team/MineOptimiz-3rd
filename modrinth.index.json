@@ -21,21 +21,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/rR4tY6Cw/versions/DEWAczGP/modpack-update-checker-1.21-fabric-0.15.2.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 413603,
-            "hashes": {
-                "sha1": "ef95da920a7455637eace5f1eea68970b3a8f5c2",
-                "sha512": "68f32a0fdfcf4906045bca82966568c2c16e01e2dbecf840b3419bffceb9dc369b1debf011ff372559051c105a5e053b7b1dfa6b3a49cd91982f8430deef2446"
-            },
-            "path": "mods/modpack-update-checker-1.21-fabric-0.15.2.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/MPCX6s5C/versions/66URmjAA/notenoughanimations-fabric-1.9.0-mc1.21.jar"
             ],
             "env": {
