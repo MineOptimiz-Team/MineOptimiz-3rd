@@ -1,4 +1,5 @@
 # MineOptimiz
+![主界面](https://123smallmushroom.github.io/mineoptimiz/main_menu.jpg)
 ## 介绍
 MineOptimiz是一个支持fabric, (neo)forge双端的优化+辅助整合包
 ## 支持的Minecraft版本
