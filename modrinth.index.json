@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "forge": "47.3.11",
+        "forge": "47.3.22",
         "minecraft": "1.20.1"
     },
     "files": [
@@ -10,7 +10,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 2897882,
             "hashes": {
@@ -25,7 +25,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 365762,
             "hashes": {
@@ -40,7 +40,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 429049,
             "hashes": {
@@ -55,7 +55,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 476791,
             "hashes": {
@@ -70,7 +70,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 71139,
             "hashes": {
@@ -85,7 +85,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 98523,
             "hashes": {
@@ -93,6 +93,21 @@
                 "sha512": "2d367311833ab32a3d39b4c573cd37a3997535fdab79020745df0bad04d2d5971fc116cac27f3ca06b9d2ba59a6ebbc868ce647a62d9958d40e9446874568ea7"
             },
             "path": "mods/zume-1.0.0.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/lfHFW1mp/versions/r7FWVNCs/journeymap-1.20.1-5.10.3-forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "optional"
+            },
+            "fileSize": 7160406,
+            "hashes": {
+                "sha1": "fdd97a782bdc6d0e28a851a9715abb190df47aa6",
+                "sha512": "9d9892ab5775755fb09cc1fb31d77c712abe781c735bb67642257b4f7aa4607e269a157090d70f8a651d9f5b58ad78afa3b3c9cf30b3745d43f4c0bc7759b990"
+            },
+            "path": "mods/journeymap-1.20.1-5.10.3-forge.jar"
         }
     ],
     "formatVersion": 1,
