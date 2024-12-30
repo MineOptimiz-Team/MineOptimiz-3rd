@@ -110,7 +110,6 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_config.chatimage.key:key.keyboard.end
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.midnightcontrols.look_up:key.keyboard.keypad.8
 key_key.midnightcontrols.look_right:key.keyboard.keypad.6
@@ -121,7 +120,7 @@ key_presencefootsteps.settings.key:key.keyboard.f10
 key_key.ryoamiclights.dyn_light:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
+key_key.mute_microphone:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
