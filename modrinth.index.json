@@ -63,6 +63,21 @@
                 "sha512": "0a7076cea4619d8fadf114c68a9eb3880c6199a80dfe8f38f332960e03b887bd4f30a8bb2aef850b8f781887d6b9be37358b492546b45a270582190511d1b1e6"
             },
             "path": "mods/entityculling-fabric-1.6.1-mc1.18.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/lfHFW1mp/versions/WY3WPcG7/journeymap-1.18.2-5.9.8-fabric.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "optional"
+            },
+            "fileSize": 7226351,
+            "hashes": {
+                "sha1": "55c69c1a7efe87899e047686935b6caa3e30dd86",
+                "sha512": "03986c8ab9e3b7db8dd3465da7b894f7ed5f7450fea015d3d16cd6b143adc922b0d14370e446c38c67e01e32db268b493788c96d55f101aeb4868a6df3083d33"
+            },
+            "path": "mods/journeymap-1.18.2-5.9.8-fabric.jar"
         }
     ],
     "formatVersion": 1,
