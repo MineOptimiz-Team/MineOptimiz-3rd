@@ -10,7 +10,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 473325,
             "hashes": {
@@ -21,18 +21,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/CjkGEJQz/fancymenu_fabric_3.2.3_MC_1.18.2.jar"
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/yOLVdusM/fancymenu_fabric_3.3.2_MC_1.18.2.jar"
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
-            "fileSize": 2788980,
+            "fileSize": 2899898,
             "hashes": {
-                "sha1": "9054cec7b8415caad819a05b362fb4976494eede",
-                "sha512": "e3c6efef7e0cab9f6b524a27cc97c4f8c30986ee2f05258b0d5a31a8fe4a7ea51de1d265fe02f0ed44c40b6a3b5a3add49470f26cc36866071f080e67811984b"
+                "sha1": "77e0cb72c54730d939412163b3da8c7f8b1f6d21",
+                "sha512": "ffa20b3d5d9a6d1e3aba11134f72b42b41d31194e14479aa5b4b91b0fdb9a3dd8e6960f927648a691b3ae13182467833a1486a9e8224604a686e1e6098ffcc93"
             },
-            "path": "mods/fancymenu_fabric_3.2.3_MC_1.18.2.jar"
+            "path": "mods/fancymenu_fabric_3.3.2_MC_1.18.2.jar"
         },
         {
             "downloads": [
@@ -40,7 +40,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 426880,
             "hashes": {
@@ -55,7 +55,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 57098,
             "hashes": {
