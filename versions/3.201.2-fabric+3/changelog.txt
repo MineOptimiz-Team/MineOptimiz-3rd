@@ -1,0 +1,5 @@
+支持Labymod披风显示
+删除了chatimage以修复无法拖放资源包、光影包的问题
+升级fabric加载器
+删除了cullleaves以修复可能存在的冲突
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.2-fabric+2...3.201.2-fabric+3

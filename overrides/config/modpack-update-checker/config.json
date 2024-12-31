@@ -1,10 +1,10 @@
  {
   "schemaVersion": 7,
-  "currentVersion": "3.201.3-fabric+buildtype",
+  "currentVersion": "3.201.4-fabric+commitid",
   "modpackName": "MineOptimiz Fabric",
   "modpackAuthor": "smallmushroomovo",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://ghproxy.cn/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/",
+  "updateCheckerId": "https://ghgo.xyz/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/20.1/fabric_testing/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
