@@ -1,0 +1,7 @@
+- 更新模组
+- 将xaeros maps替换为旅行地图
+- 删除了部分模组
+- 将imblocker替换为ContingameIME
+- 修改了一些引起冲突的键位
+- 使用continuity实现无缝玻璃，删除了fusion与midnighttiggers资源包
+- 添加了fabricskyboxes和fsb-interop以支持自定义天空资源包
