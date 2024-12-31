@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "neoforge": "21.1.90",
+        "neoforge": "21.1.92",
         "minecraft": "1.21.1"
     },
     "files": [
@@ -128,5 +128,5 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "MineOptimiz NeoForge 1.21.1 with Sodium",
-    "versionId": "v3.211.0-neo_sodium+buildtype"
+    "versionId": "v3.211.1-neo_sodium+commitid"
 }
