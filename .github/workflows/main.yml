@@ -14,13 +14,13 @@ jobs:
       - run: git config user.name "${{ github.actor }}"
         if: ${{ github.repository_owner != 'github-actions' }}   
         
-      - name: Get short SHA
+      - name: Get commit id
         run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
 
-      - name: Append short SHA to file content
+      - name: Write commit id to files
         run: |
-          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" modrinth.index.json
-          sed -i "s/\(buildtype\)/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(commitid\)/${{ env.SHORT_SHA }}/g" modrinth.index.json
+          sed -i "s/\(commitid\)/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
@@ -30,7 +30,7 @@ jobs:
           zip -r "./MineOptimiz.zip" ./*
           mv MineOptimiz.zip "MineOptimiz v3.211.1-fabric+${{ env.SHORT_SHA }}.mrpack"
       
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: MineOptimiz v3.211.1-fabric+${{ env.SHORT_SHA }}.zip
           path: "./MineOptimiz v3.211.1-fabric+${{ env.SHORT_SHA }}.mrpack"
