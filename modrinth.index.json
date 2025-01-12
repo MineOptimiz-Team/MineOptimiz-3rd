@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "forge": "40.2.21",
+        "forge": "40.3.0",
         "minecraft": "1.18.2"
     },
     "files": [
@@ -10,7 +10,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 477569,
             "hashes": {
@@ -25,7 +25,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 2916389,
             "hashes": {
@@ -40,7 +40,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 432175,
             "hashes": {
@@ -55,7 +55,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 59875,
             "hashes": {
@@ -63,10 +63,25 @@
                 "sha512": "1dec64ce8bd2864e7f2a6bcf374b907de4eecc7f41e8a4990c5e61fb2ea861120530ba83a7dfe8fe76034a6ebc895319ddee176fec6cb6c628e718cef3a05dce"
             },
             "path": "mods/entityculling-forge-1.6.1-mc1.18.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/lfHFW1mp/versions/Q3tpDCFf/journeymap-1.18.2-5.9.8-forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "optional"
+            },
+            "fileSize": 7084169,
+            "hashes": {
+                "sha1": "f8daf78b0e16c56aa3038cc6b97926630a13bd32",
+                "sha512": "e8388f76b709a124894df8a8d8112079485954ca85bca2262e04c5cb4bfce25ef93ee7fcd64f304d05964d818e00c2f33d478f0d4cc5b1a2d390740a22773521"
+            },
+            "path": "mods/journeymap-1.18.2-5.9.8-forge.jar"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
     "name": "MineOptimiz Forge 1.18.2",
-    "versionId": "v3.182.0-forge+buildtype"
+    "versionId": "v3.182.1-forge+commitid"
 }

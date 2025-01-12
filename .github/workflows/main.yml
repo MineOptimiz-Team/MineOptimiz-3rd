@@ -18,24 +18,21 @@ jobs:
 
       - run: git config user.name "${{ github.actor }}"
         if: ${{ github.repository_owner != 'github-actions' }}   
-        
-      - name: Get short SHA
-        run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
 
-      - name: Append short SHA to file content
+      - name: Write release id to the file
         run: |
-          sed -i "s/\(buildtype\)/2/g" modrinth.index.json
-          sed -i "s/\(buildtype\)/2/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(commitid\)/1/g" modrinth.index.json
+          sed -i "s/\(commitid\)/1/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
           rm -rf .github
           rm -rf .git
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.182.0-forge+2.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.182.1-forge+1.mrpack"
       
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
-          name: MineOptimiz v3.182.0-forge+2.zip
-          path: "./MineOptimiz v3.182.0-forge+2.mrpack"
+          name: MineOptimiz v3.182.1-forge+1.zip
+          path: "./MineOptimiz v3.182.1-forge+1.mrpack"
      
