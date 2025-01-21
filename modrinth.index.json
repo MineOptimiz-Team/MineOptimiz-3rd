@@ -6,7 +6,7 @@
     "files": [
         {
             "downloads": [
-                "https://ghgo.xyz/github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.6/skinlayers3d-fabric-1.6.6-mc1.20.1.jar"
+                "https://ghproxy.cn/github.com/tr7zw/3d-Skin-Layers/releases/download/1.6.6/skinlayers3d-fabric-1.6.6-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
@@ -36,7 +36,7 @@
         },
         {
             "downloads": [
-                "https://ghgo.xyz/https://github.com/tr7zw/EntityCulling/releases/download/1.6.6/entityculling-fabric-1.6.6-mc1.20.1.jar"
+                "https://ghproxy.cn/https://github.com/tr7zw/EntityCulling/releases/download/1.6.6/entityculling-fabric-1.6.6-mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
