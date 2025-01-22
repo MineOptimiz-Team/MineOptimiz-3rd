@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "neoforge": "21.1.73",
+        "neoforge": "21.1.97",
         "minecraft": "1.21.1"
     },
     "files": [
@@ -10,7 +10,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 2715234,
             "hashes": {
@@ -25,7 +25,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 423019,
             "hashes": {
@@ -40,7 +40,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 422391,
             "hashes": {
@@ -55,7 +55,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 470954,
             "hashes": {
@@ -70,7 +70,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 68136,
             "hashes": {
@@ -78,10 +78,55 @@
                 "sha512": "ae9dbfcf51b54eb7551d8ab5a90f050b11176fd4406580734e0e5b1a3baea37760a203a815b4382e4fd2a08893a8f23b2e11e9801380f66abedd92a837ea1eb2"
             },
             "path": "mods/entityculling-neoforge-1.6.6-mc1.21.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/yYE9h4iu/versions/9M6IhSgw/citresewn_neopatcher-1.1.0-1.2.2.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 23777,
+            "hashes": {
+                "sha1": "4342bfcecf3397ff15c5315a4254459c4b2553c7",
+                "sha512": "4e13521ae4d01f36e90ddfafe944d791b144696dab606fd42f1fdf5da5f7fe141e8538b6bad2b57fc0bfce4c0a28619d5c2cb2093396086b66505fac7bf32a67"
+            },
+            "path": "mods/citresewn_neopatcher-1.1.0-1.2.2.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/lfHFW1mp/versions/zuCkQO5t/journeymap-neoforge-1.21.1-6.0.0-beta.34.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "optional"
+            },
+            "fileSize": 3374855,
+            "hashes": {
+                "sha1": "d71f34b4c29cacf63338e064136967a212ca1b1a",
+                "sha512": "c3aebdbf06cd40ae2c30183c1fc6f07a33dbcdabf3eafa2e25fb2ad499b8ebf5adbfb91f06f7696453a547f988db38a7dfe4e528ad046bd3b2da03df932f7c6f"
+            },
+            "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.34.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/AANobbMI/versions/zBRij2cH/sodium-neoforge-0.6.5%2Bmc1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 1154654,
+            "hashes": {
+                "sha1": "d3d04d6e8577623a826d3ab69787bf25fe62d5d2",
+                "sha512": "e73ec4bdf812bdc31f268598e72db031a1cd7720b384bc6b68dc3c77978f10ac79e282375fe28a434394e4c8c40a529e81726a49549c41c91210aaf941a1cbf4"
+            },
+            "path": "mods/sodium-neoforge-0.6.5+mc1.21.1.jar"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "MineOptimiz NeoForge 1.21.1",
-    "versionId": "v3.211.0-neo_sodium+buildtype"
+    "name": "MineOptimiz NeoForge 1.21.1 with Sodium",
+    "versionId": "v3.211.1-neo_sodium+commitid"
 }

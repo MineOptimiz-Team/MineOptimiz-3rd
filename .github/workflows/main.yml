@@ -18,13 +18,13 @@ jobs:
       - run: git config user.name "${{ github.actor }}"
         if: ${{ github.repository_owner != 'github-actions' }}   
         
-      - name: Get short SHA
+      - name: Get commit id
         run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
 
-      - name: Append short SHA to file content
+      - name: Write commit id to files
         run: |
-          sed -i "s/\(buildtype\)/1/g" modrinth.index.json
-          sed -i "s/\(buildtype\)/1/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(commitid\)/1/g" modrinth.index.json
+          sed -i "s/\(commitid\)/1/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
@@ -32,10 +32,10 @@ jobs:
           rm -rf .git
           rm README.md
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.211.0-neo_sodium+1.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.211.1-neo_sodium+1.mrpack"
       
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
-          name: MineOptimiz v3.211.0-neo_sodium+1.zip
-          path: "./MineOptimiz v3.211.0-neo_sodium+1.mrpack"
+          name: MineOptimiz v3.211.1-neo_sodium+1.zip
+          path: "./MineOptimiz v3.211.1-neo_sodium+1.mrpack"
      
