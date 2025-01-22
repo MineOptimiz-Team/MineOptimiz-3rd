@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "neoforge": "21.1.77",
+        "neoforge": "21.1.97",
         "minecraft": "1.21.1"
     },
     "files": [
@@ -10,7 +10,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 2715234,
             "hashes": {
@@ -25,7 +25,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 423019,
             "hashes": {
@@ -40,7 +40,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 422391,
             "hashes": {
@@ -55,7 +55,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 470954,
             "hashes": {
@@ -70,7 +70,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 68136,
             "hashes": {
@@ -81,22 +81,37 @@
         },
         {
             "downloads": [
-            "https://cdn.modrinth.com/data/yYE9h4iu/versions/jmXuPrG1/citresewn_neopatcher-1.0.0-1.2.2.jar"
+            "https://cdn.modrinth.com/data/yYE9h4iu/versions/9M6IhSgw/citresewn_neopatcher-1.1.0-1.2.2.jar"
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
-            "fileSize": 21276,
+            "fileSize": 23777,
             "hashes": {
-                "sha1": "16e9a980ffe888e03c627ab55f14a7c829bef42b",
-                "sha512": "bfe1ffb74e7cad9a558ab7fd2809afff1fcd5229bbcc8f0bc27bdf7b0d0fff55766dfabacdf35c3dcd018ff7d23e43de6c08fb4bca1b24f84e9f0511c1f7921b"
+                "sha1": "4342bfcecf3397ff15c5315a4254459c4b2553c7",
+                "sha512": "4e13521ae4d01f36e90ddfafe944d791b144696dab606fd42f1fdf5da5f7fe141e8538b6bad2b57fc0bfce4c0a28619d5c2cb2093396086b66505fac7bf32a67"
             },
-            "path": "mods/citresewn_neopatcher-1.0.0-1.2.2.jar"
+            "path": "mods/citresewn_neopatcher-1.1.0-1.2.2.jar"
+        },
+        {
+            "downloads": [
+            "https://cdn.modrinth.com/data/lfHFW1mp/versions/zuCkQO5t/journeymap-neoforge-1.21.1-6.0.0-beta.34.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "optional"
+            },
+            "fileSize": 3374855,
+            "hashes": {
+                "sha1": "d71f34b4c29cacf63338e064136967a212ca1b1a",
+                "sha512": "c3aebdbf06cd40ae2c30183c1fc6f07a33dbcdabf3eafa2e25fb2ad499b8ebf5adbfb91f06f7696453a547f988db38a7dfe4e528ad046bd3b2da03df932f7c6f"
+            },
+            "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.34.jar"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
     "name": "MineOptimiz NeoForge 1.21.1",
-    "versionId": "v3.211.0-neoforge+buildtype"
+    "versionId": "v3.211.1-neoforge+commitid"
 }
