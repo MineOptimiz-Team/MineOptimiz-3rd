@@ -1058,11 +1058,6 @@ hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "5dd3823b0b4160a5f6f9199bdc5be179897c2b0afd0059f52496793687182b70"
-metafile = true
-
-[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
 metafile = true
@@ -1115,11 +1110,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
-metafile = true
-
-[[files]]
-file = "mods/collective.pw.toml"
-hash = "a0f2e11e55aa98b13ca469e8cee71d38a16a2ed0fba99b95fb0664adfc93e838"
 metafile = true
 
 [[files]]
