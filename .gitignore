@@ -1,2 +1,4 @@
 *.mrpack
 */packwiz.exe
+*.zip
+*/packwiz*
