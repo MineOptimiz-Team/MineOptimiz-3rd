@@ -1,0 +1,13 @@
+name = "ThreatenGL"
+filename = "threatengl-fabric-1.3.3-release.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RSFrpoou/versions/k1wPsUJP/threatengl-fabric-1.3.3-release.1.jar"
+hash-format = "sha512"
+hash = "61f061a7d8a8a8f22cbc31a788cd3e81dc2abbef8ca96650b2df552f2523506c73cf194f16a4632b9a8d8c23724aa47a72696025cc0d10517ea6adb21f389f24"
+
+[update]
+[update.modrinth]
+mod-id = "RSFrpoou"
+version = "k1wPsUJP"
