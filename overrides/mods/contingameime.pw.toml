@@ -1,0 +1,13 @@
+name = "ContingameIME"
+filename = "ContingameIME-1.0.7-1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Z2YdwIT/versions/V0QAGw3U/ContingameIME-1.0.7-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "212a22430f78e570f3ad17cef818737885221fb61a8cba0689451e5975003d3a5f92f8113aa29fb37cea34020d3a04c0bed7e669ffba05af7d4d3a3b55ba47ce"
+
+[update]
+[update.modrinth]
+mod-id = "5Z2YdwIT"
+version = "V0QAGw3U"

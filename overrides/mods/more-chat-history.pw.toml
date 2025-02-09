@@ -1,0 +1,7 @@
+name = "more-chat-history"
+filename = "morechathistory-1.3.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/8qkXwOnk/versions/PLfxrDkh/morechathistory-1.3.0.jar"
+hash-format = "sha256"
+hash = "87dd00a8b62b10bed3bb201d5aaf220fd72a6d77ef284c1fc65ddb5e262d4c8c"

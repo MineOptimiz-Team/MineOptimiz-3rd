@@ -1,0 +1,13 @@
+name = "FancyMenu"
+filename = "fancymenu_forge_3.4.0_MC_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/81YKZaoT/fancymenu_forge_3.4.0_MC_1.20.1.jar"
+hash-format = "sha512"
+hash = "1b813b670989ec9bac22818ea14747b68d9983a6794948119f783e35965ba30fa2932fe726229b9ce3e065d16cf153294911c33cea08d8a25ece7d524a8f8ae1"
+
+[update]
+[update.modrinth]
+mod-id = "Wq5SjeWM"
+version = "81YKZaoT"

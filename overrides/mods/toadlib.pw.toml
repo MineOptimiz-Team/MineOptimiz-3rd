@@ -1,0 +1,13 @@
+name = "ToadLib"
+filename = "ToadLib-1.20-1.20.4-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CYQ7VYrM/versions/aySWRfHs/ToadLib-1.20-1.20.4-1.1.5.jar"
+hash-format = "sha512"
+hash = "06443eed884eeb9cb18c995307afe72446ffe3fdffb014452802f5d43e547456828a84b488956bb0f7891161220a5a64bc9ac3dbf2b0de6989a049c88367516d"
+
+[update]
+[update.modrinth]
+mod-id = "CYQ7VYrM"
+version = "aySWRfHs"

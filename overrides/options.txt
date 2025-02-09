@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","fabric","lambdabettergrass:default","black_icons","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","file/Masa Family Bucket Translation Pack v1.0.3.zip","continuity:glass_pane_culling_fix","continuity:default"]
-incompatibleResourcePacks:["lambdabettergrass:default"]
+resourcePacks:["vanilla","mod_resources","fabric","black_icons","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","continuity:glass_pane_culling_fix","continuity:default","file/1.20-masa-mods-chinese.zip"]
+incompatibleResourcePacks:["file/1.20-masa-mods-chinese.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""

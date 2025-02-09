@@ -1,0 +1,7 @@
+name = "krypton"
+filename = "krypton-0.2.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/jiDwS0W1/krypton-0.2.3.jar"
+hash-format = "sha256"
+hash = "69ad1810206ce12181b1b083640f044e7e250781c36c96c655eac36209057698"
