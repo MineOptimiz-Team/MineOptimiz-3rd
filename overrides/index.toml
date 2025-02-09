@@ -394,11 +394,7 @@ hash = "e2337bfdfe609e159aabbafd12a36a06a97be6d46433cd9f2c41a727d0521f11"
 
 [[files]]
 file = "config/fancymenu/customization/addtesting.txt"
-hash = "d121d88b7c40032c5c2cf3fdc8f5cdb490e537ef2c989b1118db33c5fa74ab70"
-
-[[files]]
-file = "config/fancymenu/customization/addtesting2x.txt"
-hash = "cb81a590bc1e673d49ec3cd16bded60095055a987dd5567903ddbdc426d257cf"
+hash = "8c6ce58404442af918a0ee7f8b297263b1bc81d08d2b19d3a5793d89a93f38cd"
 
 [[files]]
 file = "config/fancymenu/customization/bugreport_website.txt"
@@ -426,15 +422,11 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "1df1906c8e9eecd6aa58eedff26178b6f139892d0948a4cdcc02948ebc5e574b"
-
-[[files]]
-file = "config/fancymenu/customization/edited_main_menu_2x.txt"
-hash = "6eeb931b16ef8edb69665d719c4040fa6706b65d031257380f77423af482aace"
+hash = "5652019383040e5d629dc90d8f6017b8669fce7732b05beb0db839c342567cb3"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
-hash = "ed6ea186657bce1fa677e7251ae00ad5cf2a20952d988395234b5857ddd71b90"
+hash = "7c9c9260018305f771994e9ed6ce49d2c63606cae4986d5b1a8c9ab08746e631"
 
 [[files]]
 file = "config/fancymenu/customization/engchoosesystem.txt"
@@ -454,11 +446,11 @@ hash = "a7549aa260d09c7ee0f132644f593d7f8738ae06949a568c84b263152830bcc3"
 
 [[files]]
 file = "config/fancymenu/customization/engstartgame.txt"
-hash = "d210b417785e6a54ae65f9ea26de78345038db7edca6e5936628a0af701fabd7"
+hash = "c189cb0dcc76f2ecc3fa3cdf0dba1704ea0e513dfa25440bad1bff8efe74efad"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreen.txt"
-hash = "a91c288412952d5e3fd78daccd2d096ddee0b6e398b6f7a69329e2713da57458"
+hash = "152e258f86c1acb8b0b02a09a3d4eebc17826debee4e8d13c3aa94c2acfc2800"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -502,15 +494,11 @@ hash = "8467cbb1a1311dff7453c1bb268a203bd2ef6260111596f366771b49b66ddde6"
 
 [[files]]
 file = "config/fancymenu/customization/quitgame.txt"
-hash = "d0f2566360042181553843a4cb8efcf9cc1bd72517d2961b272117f4c33304d9"
-
-[[files]]
-file = "config/fancymenu/customization/quitgame2x.txt"
-hash = "29b3f04a29562f3dbfb48e46dc52728e283a81f7efd49b5b47595fe80e35bf6b"
+hash = "fb862f125e0826a2adefdcf2c01096b258ac733f87f50ecb641ed47069448351"
 
 [[files]]
 file = "config/fancymenu/customization/quitgame_eng.txt"
-hash = "ba803fe5fe954dd66464725bb1a514a6066550a2a4623bd289b91aa460f20aab"
+hash = "b9191aa637ae21406680d99934722078fe6a323d0ebd2d0573a7c9d8923fa2f0"
 
 [[files]]
 file = "config/fancymenu/customization/repair.txt"
@@ -530,7 +518,7 @@ hash = "6be4d0ff80e6fac964e6c008289710932a35d8f61ab1cc8265bf302fc94c5932"
 
 [[files]]
 file = "config/fancymenu/customization/startgame.txt"
-hash = "337e19bda05dead67a811736feac4863c28296a680ee016c985d4badae71820c"
+hash = "2477e9394bcb16460148023c472ce87a21c126c6265091e56d5664ebea64ed5c"
 
 [[files]]
 file = "config/fancymenu/customization/startgame2x.txt"
@@ -550,11 +538,11 @@ hash = "547ba4eebf6860890611b5927a0d4b98aaeedd010e34afa07c24e2924d0fd3df"
 
 [[files]]
 file = "config/fancymenu/customization/uisettings.txt"
-hash = "5243f446bf72f305d0e5bf0cde8dbc3466b5aa99a1cc2fde1d4edea500bf5f95"
+hash = "655127453217fd3f1fb6bc950cfe24ee4415531a0aaa36486816cf2ae9efa03b"
 
 [[files]]
 file = "config/fancymenu/customization/uisettings_eng.txt"
-hash = "46c73a5a98404d7be91490ba8cd34a015dea6a17ef76b3910fa1d14fd98e6d65"
+hash = "c8ef05020941bfcb10d5bbd4bf06bfadb857aacdcb2387e222e277a54351e621"
 
 [[files]]
 file = "config/fancymenu/customization/updater.txt"
@@ -1146,7 +1134,7 @@ hash = "7cc4c696f14db7203ac5bfb27d19345d7e0744e8fcedb63fabf386acb45dcaf0"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "e24c284a47d5c3af30e104d6a0ee48bf6b0a01d14d06f77504503f5a066302f6"
+hash = "ebd79b22fb46a67cc5a72b21ac9c805dc6760ccd59b05e4bc0c768be85fbfa6c"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -1778,7 +1766,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8582e276b7434786de16be617fe10d036667bbce10160f5c0719bfe04abdd676"
+hash = "b56ec7b0098b2d33e6d9080819eb83aaeead32452b385713990c3f043e7adb81"
 
 [[files]]
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
