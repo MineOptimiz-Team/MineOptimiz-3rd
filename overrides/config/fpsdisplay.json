@@ -1,0 +1,11 @@
+{
+    "enabled": true,
+    "advancedStats": true,
+    "textSize": 1.0,
+    "textColor": 15658734,
+    "textAlpha": 230,
+    "textShadows": true,
+    "offsetTop": 4,
+    "offsetLeft": 4,
+    "keybindMode": "Toggle"
+  }

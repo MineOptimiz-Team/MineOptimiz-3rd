@@ -1201,6 +1201,11 @@ hash = "f589af424489f99ee6310a9f7b29e2f03151522efcb181038e8bd18529f3c187"
 metafile = true
 
 [[files]]
+file = "mods/fpsdisplay.pw.toml"
+hash = "316fedfe4980be862ff26153ae4d5603ab4e2637fa6e1125b91f5d5989b06753"
+metafile = true
+
+[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
 metafile = true
@@ -1288,6 +1293,11 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "99addd4953f9187de1e45174f5c10ab42748f743ccaebf74f5405bde5fb441e6"
+metafile = true
+
+[[files]]
+file = "mods/no_fog.pw.toml"
+hash = "d432070dc0c24e8a3ea94af1fea8a5128616cb1fa5b5cef66dcd711f68e1f14d"
 metafile = true
 
 [[files]]
