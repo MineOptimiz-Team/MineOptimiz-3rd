@@ -1201,13 +1201,13 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
-file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "f589af424489f99ee6310a9f7b29e2f03151522efcb181038e8bd18529f3c187"
+file = "mods/get-it-together-drops.pw.toml"
+hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
 metafile = true
 
 [[files]]
-file = "mods/get-it-together-drops.pw.toml"
-hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
+file = "mods/gputape.pw.toml"
+hash = "3dbbe88bcb85142955f776a9542daec9eb5c5c7c349e56306cc7b8dbe4a84c4c"
 metafile = true
 
 [[files]]
