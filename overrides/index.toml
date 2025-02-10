@@ -278,7 +278,7 @@ hash = "0f237cfe9d511cd9c17693933e288c3bf92f4aca6ef5f90f03110b1ba962d0f5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "bd7f1b5f7c183d5a3364449a651dc7cbae4870bf435a41242cbfb04010af8e5b"
+hash = "6f388efe4b6679d4309a8c371df532a9ebf8536c33f667eb544926451b9d5706"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -346,7 +346,7 @@ hash = "04bed7050ec3efd7ac1a672b474985d43d10b7619340442d53262bb10fa95584"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "ead618d39088d511d196a62a3bfdee5cb83cad63c45e780121c93fd914d140ac"
+hash = "b441ecd5986a616c2aeee77e64b612461cf6c93537fa0e24b528fd73e1545ccd"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
@@ -354,15 +354,11 @@ hash = "8051ffeb6c22315a3cb382e9bc3815a5aaba248e5603a543b1c92afc2b8c6304"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
-hash = "46ba963f4fad9ee93f2987be502c590c6b80dded4bcea522eb652e630a8f1c07"
+hash = "06cce3d74ea0eb86136bee7ab06dccf021d84870ef62d8ada1b858da12eaaaf6"
 
 [[files]]
 file = "config/fancymenu/customization/addtesting.txt"
-hash = "ad365a1cf789bf796ef0b64af1f4324cd5b53fdc69f9a611a50af6a957685517"
-
-[[files]]
-file = "config/fancymenu/customization/addtesting2x.txt"
-hash = "558637e1c58bcf5181c44f1fa806eaa8716cb0d4cbae4e31b06a17fbc7699ec4"
+hash = "ee25bd1beb72d9e40e68a22425f48b1a3a7dd14e31e61f3137f68a9687656dfc"
 
 [[files]]
 file = "config/fancymenu/customization/bugreport_website.txt"
@@ -390,15 +386,11 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "57694183fe09133088b24615e0ca58a541dca3083c57415894b17eb646188f2a"
-
-[[files]]
-file = "config/fancymenu/customization/edited_main_menu_2x.txt"
-hash = "90150a526bc72660816d168ca448d5a67d9e5468610451f18414dbfbdb6b80a4"
+hash = "08063f36b397169cfff8264917fb38491b2864ced47181fc940600461c63bc59"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
-hash = "8eae693708d3c1acb1ebfe671be1edb944a3631cfb54081ea5561767be6b234b"
+hash = "b56a81ad958734ad48ced2d316e76fa00d8cccaa897047818383df48ba9db032"
 
 [[files]]
 file = "config/fancymenu/customization/engchoosesystem.txt"
@@ -418,11 +410,11 @@ hash = "6b4a52ead20e2964a7dbd6b9ea35fe7a0ad0101f6cdbd4c52e70e0a9f84448b5"
 
 [[files]]
 file = "config/fancymenu/customization/engstartgame.txt"
-hash = "a0c0be87e0410a8059eb57f720d54784b431586f6580f6b7edcb7f41e8085545"
+hash = "c0f398a4bb2dcd483d5ad3140aeffa7136e5d7ba21ce846ddec3e7a84da0aa99"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
-hash = "e113f723a00fb2a87312e184af1d3c9e399cd27ea03097bd512f5c5857a6cb91"
+hash = "304ed8de2284ce30e0aca761a21d50b3aa681f99b8ec1cb24d05f3381a8128f9"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -486,15 +478,11 @@ hash = "8467cbb1a1311dff7453c1bb268a203bd2ef6260111596f366771b49b66ddde6"
 
 [[files]]
 file = "config/fancymenu/customization/quitgame.txt"
-hash = "d0f2566360042181553843a4cb8efcf9cc1bd72517d2961b272117f4c33304d9"
-
-[[files]]
-file = "config/fancymenu/customization/quitgame2x.txt"
-hash = "29b3f04a29562f3dbfb48e46dc52728e283a81f7efd49b5b47595fe80e35bf6b"
+hash = "b429c173791fb121a55a5554d4137df2b78aaf084987437e82eca41068387144"
 
 [[files]]
 file = "config/fancymenu/customization/quitgame_eng.txt"
-hash = "ba803fe5fe954dd66464725bb1a514a6066550a2a4623bd289b91aa460f20aab"
+hash = "4a6853bb44b2443e5bb7ce3c32750337f0488ebf1f596811f82c04372f476d92"
 
 [[files]]
 file = "config/fancymenu/customization/repair.txt"
@@ -514,11 +502,7 @@ hash = "29786b2afebcd5e6007c1b16f3ed9c20f04435c433cf87de8eb6841a519143d6"
 
 [[files]]
 file = "config/fancymenu/customization/startgame.txt"
-hash = "b0d6fdc5e880f5f341b94b52c52ea6e0453930de0e977bf2d03c60fc0caa5c63"
-
-[[files]]
-file = "config/fancymenu/customization/startgame2x.txt"
-hash = "e265d72009680c6744a97026c184e31eba9d2792586c7b4764b7e0061ccc058d"
+hash = "d0b1726f273b47bc8b39549b556810105aecdd3dd55f4f22470bf8eb645788f3"
 
 [[files]]
 file = "config/fancymenu/customization/testing.txt"
@@ -538,11 +522,15 @@ hash = "514504f3dd7d039b82cf3e5315c2bb5c2e13b880b8a352b1e6da2d89db8e1f51"
 
 [[files]]
 file = "config/fancymenu/customization/uisettings.txt"
-hash = "5243f446bf72f305d0e5bf0cde8dbc3466b5aa99a1cc2fde1d4edea500bf5f95"
+hash = "8773ce67f65ff11a46c96f64fd3ec9389be05857fe1baa0a6d6657209bb040aa"
 
 [[files]]
 file = "config/fancymenu/customization/uisettings_eng.txt"
-hash = "46c73a5a98404d7be91490ba8cd34a015dea6a17ef76b3910fa1d14fd98e6d65"
+hash = "fe8dccc3213afadab893c680520dce20220c8b519c406e50c005fa2a4b5e54e1"
+
+[[files]]
+file = "config/fancymenu/customization/unsupported_check_update.txt"
+hash = "59e51c10cdb63f95cb128ee55315e671d44fe5003b7dd186b2911bb231bbce20"
 
 [[files]]
 file = "config/fancymenu/customization/updater.txt"
@@ -643,6 +631,10 @@ hash = "ac070ed460bf105be08b98392544e52093232aaf2cee8e3db826bb709ed535cd"
 [[files]]
 file = "config/fps-client.toml"
 hash = "40800c445010f4d56fff80ad6169552c9af6ed0def42bd34ef7558a87dfabb35"
+
+[[files]]
+file = "config/fpsdisplay.json"
+hash = "b24ba38b1e749851c35fbaaadcce7dc1101848bcc240063fb253cdc6d422cdea"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -810,7 +802,7 @@ hash = "7cc4c696f14db7203ac5bfb27d19345d7e0744e8fcedb63fabf386acb45dcaf0"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "c0d700f4aa896d1338443f8e0657f74ceb6dbee1ec6a01af048290bbfb2b7014"
+hash = "a5bc7ffb3b5ccc2e6949f4e0ce4e6a03e1418c876c3b85c47fecac7870d13544"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -963,6 +955,10 @@ hash = "7d49f4a92ed5c5490880869e52a58d291f787f42d93923697aa388830cab3e62"
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
 hash = "33afebdb8ef07a3d774086931dec8d899f4da7aeba5b448fd4eee540ba5e02a2"
+
+[[files]]
+file = "config/vulkanmod_settings.json"
+hash = "80776983ecb41acdcde550b075bd369002adf0f38726b5fe93c730ccda01284b"
 
 [[files]]
 file = "config/waila/blacklist.json5"
@@ -1196,11 +1192,6 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
-file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "f589af424489f99ee6310a9f7b29e2f03151522efcb181038e8bd18529f3c187"
-metafile = true
-
-[[files]]
 file = "mods/fpsdisplay.pw.toml"
 hash = "316fedfe4980be862ff26153ae4d5603ab4e2637fa6e1125b91f5d5989b06753"
 metafile = true
@@ -1208,6 +1199,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
+metafile = true
+
+[[files]]
+file = "mods/gputape.pw.toml"
+hash = "3dbbe88bcb85142955f776a9542daec9eb5c5c7c349e56306cc7b8dbe4a84c4c"
 metafile = true
 
 [[files]]
