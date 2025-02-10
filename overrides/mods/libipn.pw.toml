@@ -1,0 +1,13 @@
+name = "libIPN"
+filename = "libIPN-neoforge-1.21-6.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/2Udx6CE2/libIPN-neoforge-1.21-6.3.1.jar"
+hash-format = "sha512"
+hash = "d3ac4a656a3a530d9aa88c06776d63e561198fd632e33d0bad407651ff5dd5665a9e980cfada628a96506623596b055c7f0eab42430dad8057ccb0f5ef597131"
+
+[update]
+[update.modrinth]
+mod-id = "onSQdWhM"
+version = "2Udx6CE2"

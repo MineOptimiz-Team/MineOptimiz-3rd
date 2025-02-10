@@ -1,0 +1,13 @@
+name = "Resourcify"
+filename = "Resourcify (1.21.1-neoforge)-1.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/3He5dVwH/Resourcify%20%281.21.1-neoforge%29-1.7.0.jar"
+hash-format = "sha512"
+hash = "d825bd4f1ebc3ad1ebeba5731beec0a128c20164862bbf5e8a9b5ab091c639c456f6be28cf7c07e69d6c896bc23e95c7376bd0c14280f851843d192dab3028a3"
+
+[update]
+[update.modrinth]
+mod-id = "RLzHAoZe"
+version = "3He5dVwH"

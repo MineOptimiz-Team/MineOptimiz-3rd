@@ -1,0 +1,13 @@
+name = "Controlling"
+filename = "Controlling-neoforge-1.21.1-19.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/zPQmabzR/Controlling-neoforge-1.21.1-19.0.4.jar"
+hash-format = "sha512"
+hash = "01d2f4be8400d3111064b6d337480917206a0bc6c57a2c20e91083943df908771e1ca36b353a9a59da7d21bfac833b23a01513cfa5569e3b3464d4846342ac5c"
+
+[update]
+[update.modrinth]
+mod-id = "xv94TkTM"
+version = "zPQmabzR"

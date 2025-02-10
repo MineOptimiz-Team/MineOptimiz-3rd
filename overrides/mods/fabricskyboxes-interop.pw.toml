@@ -1,0 +1,7 @@
+name = "fabricskyboxes-interop"
+filename = "fsb-interop-1.4.0+mc1.21-build.54.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/A3n8pliV/fsb-interop-1.4.0%2Bmc1.21-build.54.jar"
+hash-format = "sha256"
+hash = "2910e0dbf307409801b36bda5ac353bfe3e48d7d0891bcdbe397ee27b6e0d455"

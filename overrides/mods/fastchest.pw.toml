@@ -1,0 +1,7 @@
+name = "fastchest"
+filename = "fast-chest-1.7+1.20.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/WNcgffMw/versions/LEoU9Ccr/fast-chest-1.7%2B1.20.2.jar"
+hash-format = "sha256"
+hash = "79c6b4ff3fed1c9b749066f617b16d5871bcf91803d49b4db647397af7a345c4"

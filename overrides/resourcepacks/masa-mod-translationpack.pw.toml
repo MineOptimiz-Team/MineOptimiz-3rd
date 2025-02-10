@@ -1,0 +1,13 @@
+name = "Masa Mod Translation Pack"
+filename = "masa-mods-chinese.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IEt3hTCe/versions/YIUkoYeQ/masa-mods-chinese.zip"
+hash-format = "sha512"
+hash = "9f8c3f8d87f3bb8ae639cb76f39d45ecdca24794932a44968d5f14dd52b8e8702fa83689764acb5f844bb41759f2c6db2796069b4874d897dacb14b865202719"
+
+[update]
+[update.modrinth]
+mod-id = "IEt3hTCe"
+version = "YIUkoYeQ"
