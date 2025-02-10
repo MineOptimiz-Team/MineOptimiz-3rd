@@ -70,7 +70,7 @@ chatWidth:1.0
 notificationDisplayTime:1.0
 useNativeTransport:true
 mainHand:"right"
-attackIndicator:2
+attackIndicator:1
 tutorialStep:none
 mouseWheelSensitivity:1.288249551693134
 rawMouseInput:true
