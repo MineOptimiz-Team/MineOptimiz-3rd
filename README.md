@@ -7,11 +7,11 @@ MineOptimiz是一个支持fabric, (neo)forge双端的优化+辅助整合包
 |-----------------------|---------------------------------------------------------------|--------------------|
 | 1.20.1                | forge, fabric                                                 | 持续更新            |
 | 1.21.1                | neoforge(embeddium, sodium), fabric(sodium, vulkanmod)        | 持续更新            |
-| 1.18.2                | forge, fabric                                                 | 持续更新            |
+| 1.18.2                | forge, fabric                                                 | 持续更新（fabric停更）            |
 | 1.20.6                | fabric                                                        | 不再更新（半成品）   |
 | 1.19.4                | fabric(sodium, optifine)                                      | 不再更新            |
 | 1.17.1                | fabric                                                        | 不再更新            |
-| [1.12.2](https://www.123pan.com/s/jtiDVv-XMmWA.html)   | forge                        | none               |
+| [1.12.2](https://www.123pan.com/s/jtiDVv-XMmWA.html)   | forge                        | 不再更新               |
 ## 下载
  - 你可以在[Github Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载稳定版或者在[Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions)下载测试版
  - 除此之外，你也可以在[MineOptimiz的网站](https://123smallmushroom.github.io/mineoptimizindex.html)下载
