@@ -1,0 +1,13 @@
+name = "No Fog"
+filename = "NoFog-1.3.6+1.16.5-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QSzy55SB/versions/NrEJbYuZ/NoFog-1.3.6%2B1.16.5-1.21.jar"
+hash-format = "sha512"
+hash = "d3ff5e7fdd1ca771582ae190157f71d202a4cef287c6925fb1248953446a90dfd5cfd319c283712c15807af3e45cf5f1c12e5ce371ccd06b2fe28395a64cca19"
+
+[update]
+[update.modrinth]
+mod-id = "QSzy55SB"
+version = "NrEJbYuZ"
