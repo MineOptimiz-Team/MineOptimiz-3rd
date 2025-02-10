@@ -1,13 +1,13 @@
 name = "Axolotl Bucket Fix"
-filename = "axolotl-item-fix-1.1.9.jar"
+filename = "axolotl-item-fix-1.1.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UyUmjIeI/versions/Cdis21oa/axolotl-item-fix-1.1.9.jar"
+url = "https://cdn.modrinth.com/data/UyUmjIeI/versions/uAxfGJLa/axolotl-item-fix-1.1.10.jar"
 hash-format = "sha512"
-hash = "13f634c9860dda96c3b14afb88f1536684177d95d23b2c4117652686bc1a084d815db77e5b895e737c7ce11525a1f8bcb00157777f9288b2379f2f06ad4c3083"
+hash = "3a5b5b6d545840324fb6f89d28af539d5d61f7157856232b769311d842960e54278aeacf3d6984a7d703f5ccd0a4328e1a4106fabd24e97c62122815b1a8c806"
 
 [update]
 [update.modrinth]
 mod-id = "UyUmjIeI"
-version = "Cdis21oa"
+version = "uAxfGJLa"
