@@ -318,11 +318,7 @@ hash = "46ba963f4fad9ee93f2987be502c590c6b80dded4bcea522eb652e630a8f1c07"
 
 [[files]]
 file = "config/fancymenu/customization/addtesting.txt"
-hash = "386af380dd6dcd6b7041e359e1675128efc81635e40a0451cc0b30642fa9bdbf"
-
-[[files]]
-file = "config/fancymenu/customization/addtesting2x.txt"
-hash = "8258901608473f056c8b4f2760b23d13d73fde979dd046cdd6164938912e3513"
+hash = "26c2eec9f91ec61c026c9ede5ac18c22a213f204247cd4dd2946d05740655de9"
 
 [[files]]
 file = "config/fancymenu/customization/bugreport_website.txt"
@@ -350,15 +346,11 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "74ab2cf2f800ce13bf9a9a71579d1b093aa345d8454544aeca70c3578a4ea268"
-
-[[files]]
-file = "config/fancymenu/customization/edited_main_menu_2x.txt"
-hash = "72199d86e84fd6ff787c2644cb9c772952f2e7d762528ea682255ca7cbf87196"
+hash = "f5bd89933932fa8d5c813c725e836c554a30c3924b2f266cfbf5a427dee192b4"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
-hash = "388171dd56809c9fb1d58db2f62d64aefa420e518015dda213d1445c61d6e26f"
+hash = "faa561279be48c3ecee2fe1b64e1a1f831dacd8ce574d37589712de1da6ab515"
 
 [[files]]
 file = "config/fancymenu/customization/engchoosesystem.txt"
@@ -378,11 +370,11 @@ hash = "854dfb2a67295cff0d1933dae55ed7b486051b7d41542ff86c91d39feaf18e0e"
 
 [[files]]
 file = "config/fancymenu/customization/engstartgame.txt"
-hash = "9f9df3bd8f0c0cd7b2e3c28b0b71c279ea065898d2937ebbda2a767acd6129d6"
+hash = "5c555972611e3d81af547ac2f842caafd13308f6a581b2f83d95d4d70222437f"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
-hash = "d2fcd15acd42fe8f32ceac534e566652a21cbef93b33c9e00ee09055f6b79dcd"
+hash = "9f8f436eb7cb07a17a5613be843d12f5adb9852dc9621f2032e754e53c9ef364"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -446,15 +438,11 @@ hash = "8467cbb1a1311dff7453c1bb268a203bd2ef6260111596f366771b49b66ddde6"
 
 [[files]]
 file = "config/fancymenu/customization/quitgame.txt"
-hash = "b52c45e4cbbea9dc9e1dc86a26dc2a415be134ef4e2d4cd063ed010eaeaa84a0"
-
-[[files]]
-file = "config/fancymenu/customization/quitgame2x.txt"
-hash = "c7756bd39d7c50e7cc9a9c5c97f8c9dc90ffec06bbcb523a57c37258891dc64b"
+hash = "0fc6188e1e9bad456692847cdd719f0dabeb4978f71bf986b254c78b49258846"
 
 [[files]]
 file = "config/fancymenu/customization/quitgame_eng.txt"
-hash = "bea91359f62dddcac0765b9939a69297ff5b6cd258aa86e92665cb9ef10af13c"
+hash = "6790d7eab3a5c26380e07e9f2d4bf7cf0e8195d84967ef4959ca7e6379c61735"
 
 [[files]]
 file = "config/fancymenu/customization/repair.txt"
@@ -474,11 +462,7 @@ hash = "436504132eab57e233ba0cc91a23d05969ea1eb9478d52a636866c029a98889f"
 
 [[files]]
 file = "config/fancymenu/customization/startgame.txt"
-hash = "bfcacbd4b42e69f139344fdf467fe3207dfe924cbacd93983a7ea39c532b0e62"
-
-[[files]]
-file = "config/fancymenu/customization/startgame2x.txt"
-hash = "28b0abb3d6d9c54b36e530f3dcff0d905f74f7e8b32704a7056c877a4417eeb1"
+hash = "5c2edf4e223af532dec3023124b5a6ebabf85390bb5d64cbe5c3d9b6578ad50c"
 
 [[files]]
 file = "config/fancymenu/customization/testing.txt"
