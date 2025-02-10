@@ -1,7 +1,7 @@
 name = "sodium"
-filename = "sodium-fabric-0.6.5+mc1.21.1.jar"
+filename = "sodium-fabric-0.6.6+mc1.21.4.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/EoNKHoLH/sodium-fabric-0.6.5%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/tu8qILqH/sodium-fabric-0.6.6%2Bmc1.21.4.jar"
 hash-format = "sha256"
-hash = "477054eb00f4f9004f0829d7a8be2c7f59e08bc304db8d0534336962331c2f27"
+hash = "2edd03c3563094543d3f3d6b94107e0f5845b682f841728ee7f8cd5d5c0f8e83"
