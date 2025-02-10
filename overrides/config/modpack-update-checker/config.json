@@ -1,10 +1,10 @@
 {
   "schemaVersion": 7,
-  "currentVersion": "3.211.1-fabric+commitid",
-  "modpackName": "MineOptimiz Fabric",
+  "currentVersion": "3.211.1-vulkanfabric+commitid",
+  "modpackName": "MineOptimiz Fabric with Vulkanmod",
   "modpackAuthor": "smallmushroomovo",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://123smallmushroom.github.io/check-update-mineoptimiz/1.21.1-Fabric/",
+  "updateCheckerId": "",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,

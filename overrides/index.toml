@@ -1141,11 +1141,6 @@ hash = "46821865a5198d54cf4affaea827b084cf6be7e0e1ff8349973177c65bdeebf9"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
@@ -1216,18 +1211,8 @@ hash = "6f8fa473a74b8411cb9c639118a1a2f2e1e28c8582b8e85731225b9dd27d4739"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "caa3a76f43559cbf5c8387b51b89f03834c2c72e4af8669be7a9ef947077e90a"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "f97cc8ad639b378d68bcf0169740735a9ca14fff6f36baac3745427097078d46"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
 
 [[files]]
@@ -1301,16 +1286,6 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "38c6e499d6571667114e57699f65efb811cbb747cac8f178d190c77ad4f44023"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "704461376cef8a624cdd810f5e7c60e9dc6dae2b39b0e33e222c5ff5dc740540"
-metafile = true
-
-[[files]]
 file = "mods/nerb.pw.toml"
 hash = "99addd4953f9187de1e45174f5c10ab42748f743ccaebf74f5405bde5fb441e6"
 metafile = true
@@ -1341,11 +1316,6 @@ hash = "eedefcefb935f2f4526f0f63d3a702a1594e747c34ded51df71bd64e76340e96"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
-metafile = true
-
-[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "c7c237f590d79e2d7c183e18d6eb3301ac61a7f23c366b46ec4d23360ebcb2c9"
 metafile = true
@@ -1371,26 +1341,6 @@ hash = "31824b27e7cfef5ff4091fdb37cce9e42be93dbbef6610874ed7b7158d44fd08"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
-metafile = true
-
-[[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "4e44aaa93f55061c321cf8ea6a8015552f44c54db8ed0b9e8c3a7e9f8bf523ec"
-metafile = true
-
-[[files]]
-file = "mods/threatengl.pw.toml"
-hash = "fc5922e84359f94917d10c6fe9dcb332ebfc16ea3881885c113469a219a85aae"
-metafile = true
-
-[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "d918a7fd39a42c5510da9646649da38ece86c71f23b943dcec9fbfde5258722f"
 metafile = true
@@ -1398,6 +1348,11 @@ metafile = true
 [[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "c9ffa90c6e4445ac75b9f6d6bfcf93c054133d1cc71e7e42ec6ec789dce731d1"
+metafile = true
+
+[[files]]
+file = "mods/vulkanmod.pw.toml"
+hash = "853222ecb9ea36f40e87c8d89851d880ffcf5993514b5e7a916c786ca3299775"
 metafile = true
 
 [[files]]
