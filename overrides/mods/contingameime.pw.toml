@@ -1,0 +1,13 @@
+name = "ContingameIME"
+filename = "ContingameIME-1.0.7-1.20.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Z2YdwIT/versions/ZKNh0y2c/ContingameIME-1.0.7-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "3a451d794079c7d192a871a27116a60f0991cd1c79681f21a64d4807184fdd04731573988695047111eaa47c32de2bf6cc220012df3e1fc5352fa51057fb3e38"
+
+[update]
+[update.modrinth]
+mod-id = "5Z2YdwIT"
+version = "ZKNh0y2c"

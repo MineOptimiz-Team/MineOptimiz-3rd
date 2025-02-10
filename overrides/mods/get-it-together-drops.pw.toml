@@ -1,0 +1,13 @@
+name = "Get It Together, Drops!"
+filename = "getittogetherdrops-fabric-1.20-1.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/T0OUgf8P/versions/ATcsrMNy/getittogetherdrops-fabric-1.20-1.3.1.jar"
+hash-format = "sha512"
+hash = "f0d1ad74deb3743bead24fb314fc7a25a442fbaaad5ced37455a8f3e4dadcdee57ebe2080fca17735be74825f7ccc4426a264b289ead03417fc57172cb4abca9"
+
+[update]
+[update.modrinth]
+mod-id = "T0OUgf8P"
+version = "ATcsrMNy"

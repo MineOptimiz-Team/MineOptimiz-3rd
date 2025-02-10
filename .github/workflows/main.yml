@@ -1,4 +1,4 @@
-name: Package Modpack
+name: Export Modrinth Pack
 
 on:
   push:
@@ -10,34 +10,37 @@ on:
   workflow_dispatch:
 
 jobs:
-  Package-Modpack:
-    runs-on: ubuntu-22.04
+  Export-Modpack:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-          
-      - run: git config user.email "${{ github.actor }}@users.noreply.github.com"
-        if: ${{ github.repository_owner != 'github-actions' }}
-
-      - run: git config user.name "${{ github.actor }}"
-        if: ${{ github.repository_owner != 'github-actions' }}   
-        
+      - uses: actions/checkout@v4
+                 
       - name: Get commit id
         run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
 
       - name: Write commit id to files
         run: |
-          sed -i "s/\(commitid\)/${{ env.SHORT_SHA }}/g" modrinth.index.json
+          sed -i "s/\(commitid\)/${{ env.SHORT_SHA }}/g" ./overrides/pack.toml
           sed -i "s/\(commitid\)/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
       
-      - name: Package Modpack
-        run: |
-          rm -rf .github
-          rm -rf .git
-          zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.4-fabric+${{ env.SHORT_SHA }}.mrpack"
-      
-      - uses: actions/upload-artifact@v4
+      - name: Setup Go
+        uses: actions/setup-go@v5
         with:
-          name: MineOptimiz v3.201.4-fabric+${{ env.SHORT_SHA }}.zip
-          path: "./MineOptimiz v3.201.4-fabric+${{ env.SHORT_SHA }}.mrpack"
+          go-version: "1.23.3"
+          cache: false
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Export Modrinth Pack
+        run: |
+          cd overrides
+          packwiz modrinth export
+          mv ./*.mrpack "MineOptimiz v3.201.4-fabric+${{ env.SHORT_SHA }}.mrpack"
+      
+      - name: Upload MineOptimiz
+        uses: actions/upload-artifact@v4
+        with:
+          name: MineOptimiz v3.201.4-fabric+${{ env.SHORT_SHA }}
+          path: "./overrides/*.mrpack"
      
