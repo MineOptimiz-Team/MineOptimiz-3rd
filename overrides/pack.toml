@@ -1,12 +1,12 @@
-name = "MineOptimiz Fabric 1.20.1"
+name = "MineOptimiz Fabric 1.20.1 with Vulkanmod"
 author = "Small__Mushroom"
-version = "3.201.5-fabric+commitid"
+version = "3.201.5-vulkanfabric+commitid"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "716b91f2b44af12823a091fca79c71dfe868a28c001a530680474a3851c06329"
+hash = "fdf5998379efc9532646cd735dc717524ae5930e9736266bbd7d6cfcc520fba6"
 
 [versions]
 fabric = "0.16.10"
