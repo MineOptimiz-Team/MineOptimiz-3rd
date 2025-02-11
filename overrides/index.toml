@@ -889,6 +889,10 @@ file = "config/sodium-options.json"
 hash = "3fcd3c9271e2afce7982c47c4dc1274fe3dfd5b8e8a6ecaff102be07d4cf8b4b"
 
 [[files]]
+file = "config/sodium-shadowy-path-blocks-options.json"
+hash = "0e626240aa2cbe7aa6cb0deccaa704339c3d96ef264f26337d68efc2bddb3298"
+
+[[files]]
 file = "config/toolstats.json"
 hash = "16fc089a922d3cb3836746a0b58210b9991caba2adfe15306f2098bb995d44a7"
 
@@ -1120,11 +1124,6 @@ hash = "31c2e8b42da61cf87d2d88c988d26b3f66e7ff335998e3ebbc0f2609c43209bc"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3a4e194e945214cc457178f48e65b9ab6a8201b6d15b9736cd673324b70b6edd"
 metafile = true
@@ -1202,6 +1201,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "9e130fd93c10e9ebac37b9e3e9f5dd13642567cc97de219df8d826d011f2d482"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
 metafile = true
 
 [[files]]
@@ -1290,11 +1294,6 @@ hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
-file = "mods/neoculus.pw.toml"
-hash = "d1ed084ce30458150fcf4655a247c9ac59fbe187c25a585b66b75c316799758a"
-metafile = true
-
-[[files]]
 file = "mods/nerb.pw.toml"
 hash = "4c0636c6a1ff3b53f8a85ca3283e07d4296f02f083b3ed1ecb837b6eaaaa7e93"
 metafile = true
@@ -1325,13 +1324,13 @@ hash = "190ddea329078e7c2332d4e3704fa6790d799a6b864d14eb05288414b873ed9c"
 metafile = true
 
 [[files]]
-file = "mods/resourcify.pw.toml"
-hash = "d525f4f3a1bc9358a21159f335989da1d467dd75eccb9fdb14263aec6366ed53"
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "ac974e4fe5aae03fbe1a39aa969ad180b237c1986826c7473459da17fb873264"
+file = "mods/resourcify.pw.toml"
+hash = "d525f4f3a1bc9358a21159f335989da1d467dd75eccb9fdb14263aec6366ed53"
 metafile = true
 
 [[files]]
@@ -1352,6 +1351,21 @@ metafile = true
 [[files]]
 file = "mods/simple-close-button.pw.toml"
 hash = "3d27c9a795734426f354ff2886b488290dc10357c1a4764e2d7c0294f84e6710"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "c5687771065e4a43266b38018cbdf142b216916dd73aa6532b8282e3d0f06b9c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
