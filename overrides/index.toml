@@ -362,7 +362,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "0e69cbff66be8d2cf6ac28e65e708fda5f9672dd1731f770fa0bff9a291b4ba2"
+hash = "11070a714b163dde23a1f358f39b561df091bc7efe9e7a696cde20004ccb7410"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -390,7 +390,7 @@ hash = "c189cb0dcc76f2ecc3fa3cdf0dba1704ea0e513dfa25440bad1bff8efe74efad"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreen.txt"
-hash = "602598fb5026d400e603d00e261b82b065f139e03cd57fc6948cd9258da6cdb1"
+hash = "9769141da39e867d26f0c685c687ac5c18325cf4ef7258796086d2242827e3a3"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -410,7 +410,7 @@ hash = "7219b258b8b9ba51bdd26f2ef189061a5f60407b711f96c9352c85ed1d2a9bb8"
 
 [[files]]
 file = "config/fancymenu/customization/licence.txt"
-hash = "b8b17427fdc40156a7c1e7d14ea2e0641bf1fa6beb22dbaae8a9440c962db095"
+hash = "30e42b86ae3f2550524852188567548df7f2ec30ba37baacdc30aa1fd3371b3c"
 
 [[files]]
 file = "config/fancymenu/customization/linuxrepair.txt"
@@ -1212,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "38eb57e62638c18f4e63268aaf48f196108eed492649baea6be02bcdd6b5fa17"
+hash = "82ee98a76c34cc295b981ffdd7c5b2b45a91ba44c31f15ffa5143d8a041f6dfa"
 metafile = true
 
 [[files]]
@@ -1397,7 +1397,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2daef394920fb2cd10dfbfb9520d79732f0c3a735f914d572c5072a91ebcf6c3"
+hash = "5a6c35205865b48f2811f7387b4c1b58d1d881b269016585f30e9f5643adc014"
 
 [[files]]
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
