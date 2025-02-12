@@ -386,7 +386,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "08063f36b397169cfff8264917fb38491b2864ced47181fc940600461c63bc59"
+hash = "9da2f4a7e0c6bf5f9e0d920f4e14be26c7616d6da13984c787744c1929419574"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -414,7 +414,7 @@ hash = "c0f398a4bb2dcd483d5ad3140aeffa7136e5d7ba21ce846ddec3e7a84da0aa99"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
-hash = "304ed8de2284ce30e0aca761a21d50b3aa681f99b8ec1cb24d05f3381a8128f9"
+hash = "ee37bb5752b5521ae24ce98aef8d737fa062271d3d3c9b28b1aa70e3df04e84c"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -450,7 +450,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/fancymenu/customization/licence.txt"
-hash = "d77bf267f661a6d1d3e7544facb7c8b93362ef286925f859ed77a32acd56106e"
+hash = "8e718b3bdf9b1ade8482722def762f3392393da07e0ea37eebbf105cfc5d912f"
 
 [[files]]
 file = "config/fancymenu/customization/linuxrepair.txt"
@@ -1178,7 +1178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "4b83cb7a5527bbade6055a9be461254920ab51fab00c2f37f936fe8314224722"
+hash = "78ce346305877f6531bac88f962f2882d4b91c53b2743f5020d908f4891a22ff"
 metafile = true
 
 [[files]]
@@ -1298,7 +1298,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e19a1b0c45de95f0ada6cc360dc74a0512e781f5ba0e4e610403e74cc97e6839"
+hash = "42e99ea03a01f933a334dfdfb6babbdcc5d9b38c076e4d3c821a96a9730318b7"
 metafile = true
 
 [[files]]
@@ -1383,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a77175c6b5060b38108995fc7bde5e8372acafd7fb1ec8e90b4248dcfedd7aed"
+hash = "6fc007883fb9cfb3322a9195fbf3e4f21773025cbf1c749c971ef3edcc79ed71"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
