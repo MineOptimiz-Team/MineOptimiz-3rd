@@ -1446,7 +1446,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "85767e8112e440488a02b18545a6a3565097fb54834c0c421eb9e87de00a1380"
+hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
 metafile = true
 
 [[files]]
@@ -1546,7 +1546,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "776b1ae3cb09dfc8e71f98a22cfc9696d272c1613f8a1eb5106d2be099770db8"
+hash = "a110d4b208af03ed7436c5063350b0175a27ae263b5e09f0f1accda27983331b"
 metafile = true
 
 [[files]]
@@ -1681,7 +1681,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a8078c293137a45a0061a6ff6468c9dce4e5e80e4bb88772c2f5a54a9ff9f16e"
+hash = "e3aba078ee7198fe064fd970c7304eb6de18fc3e2c9eb3bf2ba123b907e0f1c3"
 metafile = true
 
 [[files]]
