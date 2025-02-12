@@ -1187,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "4b83cb7a5527bbade6055a9be461254920ab51fab00c2f37f936fe8314224722"
+hash = "78ce346305877f6531bac88f962f2882d4b91c53b2743f5020d908f4891a22ff"
 metafile = true
 
 [[files]]
@@ -1317,7 +1317,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e19a1b0c45de95f0ada6cc360dc74a0512e781f5ba0e4e610403e74cc97e6839"
+hash = "42e99ea03a01f933a334dfdfb6babbdcc5d9b38c076e4d3c821a96a9730318b7"
 metafile = true
 
 [[files]]
