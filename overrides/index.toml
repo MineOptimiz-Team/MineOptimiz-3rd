@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e3550af2fdf8bcb734926839e20a0abd7de777340896ed023466cf743b22b106"
+hash = "fd77c9acb7d638b7cde4bb46b8aac239d808155c51b3e40ebbdeb40a1b80e016"
 metafile = true
 
 [[files]]
@@ -1162,7 +1162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "65177e2687bb181a7f5d974c284cd7aa0dcfe1b1761b81b1ce759c7480884af5"
+hash = "0ed5ad630aabb0c3ca89f413a6dba81734e378e8bc825b7d8ca0f9349d7d0b27"
 metafile = true
 
 [[files]]
@@ -1172,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "ddbebb52a3c44430807e2ab000ff6c1162b446f3d4cce19f7490bdb777c62bc3"
+hash = "3731b7f598002d8f2f56910a1ad6723038256e8793265855b11c55170e105cef"
 metafile = true
 
 [[files]]
@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "57d85950ff52812e642cc62cdb703e1397b5c635e8f159216963b29b0225b2b2"
+hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
 metafile = true
 
 [[files]]
@@ -1297,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "d2e8ba48532b0a3bbcaeb92b133a85e30bec4ddadf45b0d6df679375817e10a2"
+hash = "db4c4bb1ceed1ac383c7f83c57386aeb9799e09a9c722ad4566556d80ee50570"
 metafile = true
 
 [[files]]
@@ -1372,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "32a66e8b2edc4e2a259001268f03ae8c2ccd4e32d46c540be3dc374849c0942a"
+hash = "43cd91dbba4db62e15c1a902549eb91092a5fbedadf0b9902b482329bbd90c8c"
 metafile = true
 
 [[files]]
