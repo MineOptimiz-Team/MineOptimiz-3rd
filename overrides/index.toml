@@ -5,10 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "f930833168432be3ca76d0f6e27166964aaaf70e408f61dcc391010ae23ae9c2"
 
 [[files]]
-file = "CustomSkinLoader/LocalSkin/capes/Yanggiezhenshuai.png"
-hash = "b4ebda3c223ad1bead27303bff00999f16224b02b42757fd13e0cf8b643362d8"
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
@@ -1178,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "78ce346305877f6531bac88f962f2882d4b91c53b2743f5020d908f4891a22ff"
+hash = "f548fe7a721a908652bf41bb053f9e748473b33882477b9ac09c1b200b42f696"
 metafile = true
 
 [[files]]
