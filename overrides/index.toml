@@ -1386,6 +1386,11 @@ hash = "9cc07cd003c8283441136abc331dce40dd2905d1a08269d22b3fcb030a6e0aad"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "4718786bd8cab0fa23aa156414184b249acffdf82826e7845a1bbcef05339456"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "87499102d601119a450d1766a8e3af72a8bc0cd8a8757b227a0a6aac5232151c"
 metafile = true
