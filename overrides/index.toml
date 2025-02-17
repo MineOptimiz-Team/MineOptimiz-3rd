@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
+hash = "4172111cfbba541329bb83b5e713ba394a3cd4f801bcc631d5e4e35e0dea2db1"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d65d8664c0cbdeacfd174f9b4919b2214ebc3724ed5f1b74fad8c4820817a133"
+hash = "3425aac08255d8539fdf9a782681466edb126d20a91fc70f51a460193e42060e"
 metafile = true
 
 [[files]]
@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "671f83f5c21b064a4cc4a2d53a673e0ac673a826014297ab063c92788fad95c5"
+hash = "95718602433afe9c7db4417bbe8bb6d58587a68a7cc3fc5f0b6db03a4aeb85ef"
 metafile = true
 
 [[files]]
@@ -1322,7 +1322,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "fd9f9969ca944b96b307ec7ab7750375420e99da3da22b1dd9b2ac525390f248"
+hash = "c402f34f2fcf28c0955adadf0265810e875fc0b576098636bfd986dcd9dbec39"
 metafile = true
 
 [[files]]
