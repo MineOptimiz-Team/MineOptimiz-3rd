@@ -1,0 +1,13 @@
+name = "ScalableLux"
+filename = "ScalableLux-0.1.0+beta.2+neoforge.1a07a27-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ps1zyz6x/versions/KWMX8X1a/ScalableLux-0.1.0%2Bbeta.2%2Bneoforge.1a07a27-all.jar"
+hash-format = "sha512"
+hash = "64309469e3c46104294cfde31af4d840a38cfed7e49a35d289bb25b86321f7f01cf77109ba0800fb9fde49b34e52a1e5a0b5f0c2407804b799551aa5f720164e"
+
+[update]
+[update.modrinth]
+mod-id = "Ps1zyz6x"
+version = "KWMX8X1a"
