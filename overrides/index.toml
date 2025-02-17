@@ -1331,6 +1331,11 @@ hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "86ff9b67d90f046045619aa571df7bad909e480711c5d8b8967e3efca84ad16a"
 metafile = true
