@@ -1136,8 +1136,8 @@ hash = "5d131846e85e251ae6983f8f8beec9c30dd6eec4821784a21a2c65ef19596ee0"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "fdc1df8b23c789c9c6ba6508e491f2593b8b584988c7c4c2ec9a52f9282b9b3d"
+file = "mods/fastquit-forge.pw.toml"
+hash = "574e4be5a4194cf6a44a5d064e3734dfbaac911c3caebfdf722ed7c35ff5215e"
 metafile = true
 
 [[files]]
