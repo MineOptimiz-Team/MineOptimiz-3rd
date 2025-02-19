@@ -5,10 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "f930833168432be3ca76d0f6e27166964aaaf70e408f61dcc391010ae23ae9c2"
 
 [[files]]
-file = "CustomSkinLoader/LocalSkin/capes/Yanggiezhenshuai.png"
-hash = "b4ebda3c223ad1bead27303bff00999f16224b02b42757fd13e0cf8b643362d8"
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
@@ -482,11 +478,11 @@ hash = "9a4d86f5af9206163c03108abffb768bf6bf8d31b81e9862904b39503152d230"
 
 [[files]]
 file = "config/fancymenu/customization/uisettings.txt"
-hash = "9d88b0585a5f391ba8a23370eeaae6ead3c6330d111471440a1ea23e5eb74666"
+hash = "8bd7009da3ed1c4aa13ad342d0d3f75263cb35831e8df9ba3f25f9ea5ca2aed1"
 
 [[files]]
 file = "config/fancymenu/customization/uisettings_eng.txt"
-hash = "a0cc40d1b19dcd43b268d1cf9408901d83dac55950d89e8a7019449fa855b9f4"
+hash = "dc3364abe11eee04b9eed7af78b67239fbb4791e0d2aaf7f16972c50f378bb5d"
 
 [[files]]
 file = "config/fancymenu/customization/updater.txt"
@@ -754,7 +750,7 @@ hash = "f6ce0c9a6ce6f8a341c6472ac7936b8d1e35dc06579cb119c095e4030baf575a"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "51c8c99c6d23f7fbcfbc1e887da5531f2c920f1fe6852f678d472b0296fd242c"
+hash = "15f3f86a15dea5a0576b559eaad61f18694e096cc7004815ee6a14a694f60a73"
 
 [[files]]
 file = "config/moreculling.toml"
