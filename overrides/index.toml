@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4172111cfbba541329bb83b5e713ba394a3cd4f801bcc631d5e4e35e0dea2db1"
+hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
@@ -1162,7 +1162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3039ab6ea60a5424d3b7d31f8fbfe16d3988b9a0bb7c670ba949743f63695ebd"
+hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
 metafile = true
 
 [[files]]
@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "b60dc2a03d3536e84af18d8215b52ce4a0fa85ee56ae330e54b130614bc3226f"
+hash = "24ad69028d30b488a0d7b9ffe230d2e2eb3c29938268e0ae02615fce4c8d534f"
 metafile = true
 
 [[files]]
@@ -1252,7 +1252,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
+hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
 metafile = true
 
 [[files]]
@@ -1372,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "fa5aeb4b2a7099ab28c4d2751f2b053fc42401c46162b7e3f579ffc5198a0489"
+hash = "254018dd2a263b82756876408d594f0907ea1e4611260365c1e5cfa2dccc0d81"
 metafile = true
 
 [[files]]
