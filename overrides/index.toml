@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/fpsdisplay.pw.toml"
-hash = "316fedfe4980be862ff26153ae4d5603ab4e2637fa6e1125b91f5d5989b06753"
+hash = "91c2d71a77046b20d6d785db68012eb84dc275243c3ffeabc38cf70dd636e74b"
 metafile = true
 
 [[files]]

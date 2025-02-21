@@ -1,13 +1,13 @@
 name = "FPS - Display"
-filename = "fpsdisplay-4.2.1+1.21.1.jar"
+filename = "fpsdisplay-4.2.4+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DIlqwRFH/versions/nWbgJNPj/fpsdisplay-4.2.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/DIlqwRFH/versions/hB8M60Ec/fpsdisplay-4.2.4%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "4b4e11959b30907812c24e1d2d1800f8b56301b644bee7f7eaa788ca5d5a12f0f556d3da858b18148940cb9a9762a2de382dd970d669e7741cd412089ec75d2f"
+hash = "af6582be9db4545d75368c461aa02fce98ddb02f101579486bbfa62f6a66394a82437e79615e10127df5baa84f726946f0ecad8f00cb80b077a32a77156bc76b"
 
 [update]
 [update.modrinth]
 mod-id = "DIlqwRFH"
-version = "nWbgJNPj"
+version = "hB8M60Ec"
