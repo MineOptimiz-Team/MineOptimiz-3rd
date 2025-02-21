@@ -1192,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "76470bee66240b021d2b10633cbbd8ceee5801be0b127785434945cd110391fd"
+hash = "6d880624de2b3597f6aa7c6d8d77f55438cfd0b69148fcbf3c301d90a2f38133"
 metafile = true
 
 [[files]]
@@ -1227,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "1348d9c5ff54859303da087b90b01535e586aeeb2999b3d81ef7e9ff1af68833"
+hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
 metafile = true
 
 [[files]]
