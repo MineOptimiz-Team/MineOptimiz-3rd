@@ -5,10 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "f930833168432be3ca76d0f6e27166964aaaf70e408f61dcc391010ae23ae9c2"
 
 [[files]]
-file = "CustomSkinLoader/LocalSkin/capes/Yanggiezhenshuai.png"
-hash = "b4ebda3c223ad1bead27303bff00999f16224b02b42757fd13e0cf8b643362d8"
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
@@ -358,11 +354,7 @@ hash = "46ba963f4fad9ee93f2987be502c590c6b80dded4bcea522eb652e630a8f1c07"
 
 [[files]]
 file = "config/fancymenu/customization/addtesting.txt"
-hash = "ad365a1cf789bf796ef0b64af1f4324cd5b53fdc69f9a611a50af6a957685517"
-
-[[files]]
-file = "config/fancymenu/customization/addtesting2x.txt"
-hash = "558637e1c58bcf5181c44f1fa806eaa8716cb0d4cbae4e31b06a17fbc7699ec4"
+hash = "ee25bd1beb72d9e40e68a22425f48b1a3a7dd14e31e61f3137f68a9687656dfc"
 
 [[files]]
 file = "config/fancymenu/customization/bugreport_website.txt"
@@ -390,15 +382,11 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "57694183fe09133088b24615e0ca58a541dca3083c57415894b17eb646188f2a"
-
-[[files]]
-file = "config/fancymenu/customization/edited_main_menu_2x.txt"
-hash = "90150a526bc72660816d168ca448d5a67d9e5468610451f18414dbfbdb6b80a4"
+hash = "9da2f4a7e0c6bf5f9e0d920f4e14be26c7616d6da13984c787744c1929419574"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
-hash = "8eae693708d3c1acb1ebfe671be1edb944a3631cfb54081ea5561767be6b234b"
+hash = "b56a81ad958734ad48ced2d316e76fa00d8cccaa897047818383df48ba9db032"
 
 [[files]]
 file = "config/fancymenu/customization/engchoosesystem.txt"
@@ -418,11 +406,11 @@ hash = "6b4a52ead20e2964a7dbd6b9ea35fe7a0ad0101f6cdbd4c52e70e0a9f84448b5"
 
 [[files]]
 file = "config/fancymenu/customization/engstartgame.txt"
-hash = "a0c0be87e0410a8059eb57f720d54784b431586f6580f6b7edcb7f41e8085545"
+hash = "c0f398a4bb2dcd483d5ad3140aeffa7136e5d7ba21ce846ddec3e7a84da0aa99"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
-hash = "e113f723a00fb2a87312e184af1d3c9e399cd27ea03097bd512f5c5857a6cb91"
+hash = "ee37bb5752b5521ae24ce98aef8d737fa062271d3d3c9b28b1aa70e3df04e84c"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -458,7 +446,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/fancymenu/customization/licence.txt"
-hash = "d77bf267f661a6d1d3e7544facb7c8b93362ef286925f859ed77a32acd56106e"
+hash = "8e718b3bdf9b1ade8482722def762f3392393da07e0ea37eebbf105cfc5d912f"
 
 [[files]]
 file = "config/fancymenu/customization/linuxrepair.txt"
@@ -486,15 +474,11 @@ hash = "8467cbb1a1311dff7453c1bb268a203bd2ef6260111596f366771b49b66ddde6"
 
 [[files]]
 file = "config/fancymenu/customization/quitgame.txt"
-hash = "d0f2566360042181553843a4cb8efcf9cc1bd72517d2961b272117f4c33304d9"
-
-[[files]]
-file = "config/fancymenu/customization/quitgame2x.txt"
-hash = "29b3f04a29562f3dbfb48e46dc52728e283a81f7efd49b5b47595fe80e35bf6b"
+hash = "b429c173791fb121a55a5554d4137df2b78aaf084987437e82eca41068387144"
 
 [[files]]
 file = "config/fancymenu/customization/quitgame_eng.txt"
-hash = "ba803fe5fe954dd66464725bb1a514a6066550a2a4623bd289b91aa460f20aab"
+hash = "4a6853bb44b2443e5bb7ce3c32750337f0488ebf1f596811f82c04372f476d92"
 
 [[files]]
 file = "config/fancymenu/customization/repair.txt"
@@ -514,11 +498,7 @@ hash = "29786b2afebcd5e6007c1b16f3ed9c20f04435c433cf87de8eb6841a519143d6"
 
 [[files]]
 file = "config/fancymenu/customization/startgame.txt"
-hash = "b0d6fdc5e880f5f341b94b52c52ea6e0453930de0e977bf2d03c60fc0caa5c63"
-
-[[files]]
-file = "config/fancymenu/customization/startgame2x.txt"
-hash = "e265d72009680c6744a97026c184e31eba9d2792586c7b4764b7e0061ccc058d"
+hash = "d0b1726f273b47bc8b39549b556810105aecdd3dd55f4f22470bf8eb645788f3"
 
 [[files]]
 file = "config/fancymenu/customization/testing.txt"
@@ -538,11 +518,11 @@ hash = "514504f3dd7d039b82cf3e5315c2bb5c2e13b880b8a352b1e6da2d89db8e1f51"
 
 [[files]]
 file = "config/fancymenu/customization/uisettings.txt"
-hash = "5243f446bf72f305d0e5bf0cde8dbc3466b5aa99a1cc2fde1d4edea500bf5f95"
+hash = "8773ce67f65ff11a46c96f64fd3ec9389be05857fe1baa0a6d6657209bb040aa"
 
 [[files]]
 file = "config/fancymenu/customization/uisettings_eng.txt"
-hash = "46c73a5a98404d7be91490ba8cd34a015dea6a17ef76b3910fa1d14fd98e6d65"
+hash = "fe8dccc3213afadab893c680520dce20220c8b519c406e50c005fa2a4b5e54e1"
 
 [[files]]
 file = "config/fancymenu/customization/updater.txt"
@@ -810,7 +790,7 @@ hash = "7cc4c696f14db7203ac5bfb27d19345d7e0744e8fcedb63fabf386acb45dcaf0"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "c0d700f4aa896d1338443f8e0657f74ceb6dbee1ec6a01af048290bbfb2b7014"
+hash = "18071d8cb6c93ceebc1e3c13c924ad88ffb8e7c732fbcca008d3bce43460a1c0"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -1062,10 +1042,6 @@ hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
 
 [[files]]
-file = "mods/Accountsx-1.1.3-universal.jar"
-hash = "f2c13972fa0ffc3f3bff1646886ef2eb1fdf6676d63601a3e9f979d5ae1a4403"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
@@ -1212,7 +1188,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
+hash = "4016bf4456865ec407fe10ab08d5235507795b164f2b25f82c956503a072b1f6"
 metafile = true
 
 [[files]]
@@ -1299,6 +1275,14 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "db4c4bb1ceed1ac383c7f83c57386aeb9799e09a9c722ad4566556d80ee50570"
 metafile = true
+
+[[files]]
+file = "mods/nuit-fabric-1.0.1-snapshot+mc1.21.4-build.568.jar"
+hash = "c9713318049031dc9cb4cd3f0e9fb70df9c549c7ed0d1d568e0d83162034209a"
+
+[[files]]
+file = "mods/nuit-interop-1.4.0+mc1.21.4-unknown.jar"
+hash = "a9b5b7d809b779d100a583dead82e8cbab9c1edbf541f138d7b966d04bb89e1b"
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
@@ -1402,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a77175c6b5060b38108995fc7bde5e8372acafd7fb1ec8e90b4248dcfedd7aed"
+hash = "6fc007883fb9cfb3322a9195fbf3e4f21773025cbf1c749c971ef3edcc79ed71"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
