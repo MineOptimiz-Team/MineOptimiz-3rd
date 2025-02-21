@@ -5,10 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "f930833168432be3ca76d0f6e27166964aaaf70e408f61dcc391010ae23ae9c2"
 
 [[files]]
-file = "CustomSkinLoader/LocalSkin/capes/Yanggiezhenshuai.png"
-hash = "b4ebda3c223ad1bead27303bff00999f16224b02b42757fd13e0cf8b643362d8"
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 
@@ -1087,7 +1083,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
+hash = "82397f222702d28b4c670b149f3ef09e0846843066a0f61ad2b7f71d981abf1a"
 metafile = true
 
 [[files]]
@@ -1262,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
+hash = "19718a6f8029fb7d6197087a687b3520a890be2280bd487446ce097b44963263"
 metafile = true
 
 [[files]]
