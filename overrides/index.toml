@@ -922,7 +922,7 @@ hash = "d1f8e7bfc52f108693e8784a4463cbbf707e41d5f593aca199931226b2b4c2f8"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "45593ec69d51a7e58a0a90dde6a3d4b40b4413c5b5e82ad08e697e97351aff69"
+hash = "e9cdf5855e80b5560ecd29e54adaaee5133ffb91a0e39dc7fadd9190d34e8ba7"
 
 [[files]]
 file = "config/vmp.properties"
@@ -1284,6 +1284,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
+metafile = true
+
+[[files]]
+file = "mods/player-name-tweaks.pw.toml"
+hash = "2e0d4a72c1f9576322a103ecf57419feea5a9737c3e36b070351b92e6cbba31f"
 metafile = true
 
 [[files]]
