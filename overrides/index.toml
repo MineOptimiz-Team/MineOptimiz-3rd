@@ -1369,8 +1369,3 @@ metafile = true
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
 hash = "5af54ec704b810f368219494fd177cdd0924db96b982feeb9b614f7df15455f2"
 metafile = true
-
-[[files]]
-file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "40bc975eb6a7840353e999e0c3e9fea9123aec9b7888cb540b65a7843adea043"
-metafile = true
