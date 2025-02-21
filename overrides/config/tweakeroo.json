@@ -1,13 +1,16 @@
 {
   "Fixes": {
-    "elytraFix": true,
     "macHorizontalScroll": true,
     "ravagerClientBlockBreakFix": true
   },
   "Generic": {
     "accuratePlacementProtocolMode": "auto",
     "accuratePlacementProtocol": true,
+    "bundleDisplayBgColor": true,
+    "bundleDisplayRequireShift": true,
+    "bundleDisplayRowWidth": 9,
     "clientPlacementRotation": true,
+    "debugLogging": false,
     "fastLeftClickAllowTools": true,
     "fastPlacementRememberOrientation": false,
     "freeCameraPlayerInputs": true,
@@ -21,6 +24,7 @@
     "potionWarningBeneficialOnly": true,
     "rememberFlexibleFromClick": true,
     "shulkerDisplayBgColor": true,
+    "shulkerDisplayEnderChest": false,
     "shulkerDisplayRequireShift": true,
     "slotSyncWorkaround": true,
     "slotSyncWorkaroundAlways": false,
@@ -63,17 +67,23 @@
     "itemSwapDurabilityThreshold": 20,
     "mapPreviewSize": 160,
     "periodicAttackInterval": 20,
+    "periodicAttackResetIntervalOnActivate": true,
     "periodicUseInterval": 20,
+    "periodicUseResetIntervalOnActivate": true,
     "periodicHoldAttackDuration": 20,
     "periodicHoldAttackInterval": 20,
+    "periodicHoldAttackResetIntervalOnActivate": true,
     "periodicHoldUseDuration": 20,
     "periodicHoldUseInterval": 20,
+    "periodicHoldUseResetIntervalOnActivate": true,
     "placementGridSize": 3,
     "placementLimit": 3,
     "potionWarningThreshold": 600,
     "renderLimitItem": -1,
     "renderLimitXPOrb": -1,
     "sculkSensorPulseLength": 40,
+    "serverDataSyncCacheTimeout": 1.0,
+    "serverNbtRequestRate": 2,
     "snapAimPitchStep": 12.5,
     "snapAimThresholdPitch": 1.5,
     "snapAimThresholdYaw": 5.0,
@@ -83,7 +93,8 @@
     "toolSwitchIgnoredSlots": "",
     "toolSwapBetterEnchants": false,
     "weaponSwapBetterEnchants": false,
-    "zoomFov": 29.00999999999999
+    "zoomFov": 29.00999999999999,
+    "zoomResetFovOnActivate": true
   },
   "GenericHotkeys": {
     "accurateBlockPlacementInto": {
@@ -170,6 +181,9 @@
     "inventoryPreview": {
       "keys": "LEFT_ALT"
     },
+    "inventoryPreviewToggleScreen": {
+      "keys": ""
+    },
     "openConfigGui": {
       "keys": "X,C"
     },
@@ -246,6 +260,9 @@
       "minecraft:villager"
     ],
     "entityTypeAttackRestrictionWhiteList": [],
+    "preferSilkTouch": [
+      "minecraft:ender_chest"
+    ],
     "entityWeaponMapping": [
       "\u003cdefault\u003e \u003d\u003e minecraft:diamond_sword, minecraft:golden_sword, minecraft:iron_sword, minecraft:netherite_sword, minecraft:stone_sword, minecraft:wooden_sword",
       "minecraft:end_crystal, minecraft:item_frame, minecraft:glow_item_frame, minecraft:leash_knot \u003d\u003e \u003cignore\u003e",
@@ -275,10 +292,6 @@
       "minecraft:water_bucket",
       "minecraft:lava_bucket",
       "minecraft:glass_bottle"
-    ],
-    "flatWorldPresets": [
-      "White Glass;1*minecraft:white_stained_glass;minecraft:plains;;minecraft:white_stained_glass",
-      "Glass;1*minecraft:glass;minecraft:plains;;minecraft:glass"
     ],
     "handRestockListType": "none",
     "handRestockBlackList": [
@@ -503,7 +516,7 @@
       }
     },
     "disableRenderDistanceFog": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -728,6 +741,7 @@
     "tweakBlockTypeBreakRestriction": false,
     "tweakBreakingGrid": false,
     "tweakBreakingRestriction": false,
+    "tweakBundleDisplay": false,
     "tweakChatBackgroundColor": false,
     "tweakChatPersistentText": false,
     "tweakChatTimestamp": false,
@@ -785,6 +799,7 @@
     "tweakRepairMode": false,
     "§6tweakSculkPulseLength§r": false,
     "tweakServerDataSync": false,
+    "tweakServerDataSyncBackup": false,
     "tweakShulkerBoxDisplay": false,
     "tweakSignCopy": false,
     "tweakSnapAim": false,
@@ -825,6 +840,9 @@
       "keys": ""
     },
     "tweakBreakingRestriction": {
+      "keys": ""
+    },
+    "tweakBundleDisplay": {
       "keys": ""
     },
     "tweakChatBackgroundColor": {
@@ -996,6 +1014,9 @@
       "keys": ""
     },
     "tweakServerDataSync": {
+      "keys": ""
+    },
+    "tweakServerDataSyncBackup": {
       "keys": ""
     },
     "tweakShulkerBoxDisplay": {

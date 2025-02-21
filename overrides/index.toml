@@ -1264,11 +1264,6 @@ hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
 metafile = true
 
 [[files]]
-file = "mods/no_fog.pw.toml"
-hash = "d432070dc0c24e8a3ea94af1fea8a5128616cb1fa5b5cef66dcd711f68e1f14d"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "db4c4bb1ceed1ac383c7f83c57386aeb9799e09a9c722ad4566556d80ee50570"
 metafile = true
