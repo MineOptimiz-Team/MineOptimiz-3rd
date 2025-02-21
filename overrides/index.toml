@@ -1311,6 +1311,11 @@ hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
+file = "mods/player-name-tweaks.pw.toml"
+hash = "2e0d4a72c1f9576322a103ecf57419feea5a9737c3e36b070351b92e6cbba31f"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "7c3b837a412d70d43414a5b296340dce9ebf97de84cc5c898c5d744ecc323b0b"
 metafile = true
