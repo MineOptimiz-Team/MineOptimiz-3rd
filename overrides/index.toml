@@ -1181,7 +1181,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ca8e90d44722f5fe35427d7ad1f7f34ce78155031a6dc76dfd11dd4064873693"
+hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
 metafile = true
 
 [[files]]
@@ -1191,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "76470bee66240b021d2b10633cbbd8ceee5801be0b127785434945cd110391fd"
+hash = "6d880624de2b3597f6aa7c6d8d77f55438cfd0b69148fcbf3c301d90a2f38133"
 metafile = true
 
 [[files]]
@@ -1226,7 +1226,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "1348d9c5ff54859303da087b90b01535e586aeeb2999b3d81ef7e9ff1af68833"
+hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
 metafile = true
 
 [[files]]
@@ -1326,7 +1326,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ab62ac9b05aa8006916a718e2fc0a0caf658f2bbb83ec2b2dbc8f446be9f4673"
+hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
 metafile = true
 
 [[files]]
