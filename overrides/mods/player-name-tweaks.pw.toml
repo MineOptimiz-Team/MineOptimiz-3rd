@@ -1,0 +1,13 @@
+name = "PlayerNameTweaks"
+filename = "PlayerNameTweaks-neoforge-1.20.5+1.21.x-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8459811b062b7b76d485082f795d6972282a0bbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6143370
+project-id = 842570
