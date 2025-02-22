@@ -5,10 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "3b9cb7608aa6df12bea33350a5d15da8185a738cbbc90606eba38ce5b70f7377"
 
 [[files]]
-file = "CustomSkinLoader/LocalSkin/capes/Yanggiezhenshuai.png"
-hash = "b4ebda3c223ad1bead27303bff00999f16224b02b42757fd13e0cf8b643362d8"
-
-[[files]]
 file = "ViaFabricPlus/settings.json"
 hash = "697b01bd0d46d0f40bcfc19947dfdba6f9265b46c1732d7420c3d1ed9f473caa"
 
@@ -422,7 +418,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "5652019383040e5d629dc90d8f6017b8669fce7732b05beb0db839c342567cb3"
+hash = "f137be21e05f726c7eea6959e55e0ac5510003be6f8b4de132c7a5b5ffe12a90"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -450,7 +446,7 @@ hash = "c189cb0dcc76f2ecc3fa3cdf0dba1704ea0e513dfa25440bad1bff8efe74efad"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreen.txt"
-hash = "152e258f86c1acb8b0b02a09a3d4eebc17826debee4e8d13c3aa94c2acfc2800"
+hash = "a775a737caecc3c71a5d49899566c9456b0bc969060e57eba2927b87f4e4596a"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -1771,7 +1767,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b56ec7b0098b2d33e6d9080819eb83aaeead32452b385713990c3f043e7adb81"
+hash = "87a91f71532dd67e7794793a152bbda69839de81b7e3ddac0861e812ea10ca02"
 
 [[files]]
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
