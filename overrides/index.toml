@@ -1073,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3425aac08255d8539fdf9a782681466edb126d20a91fc70f51a460193e42060e"
+hash = "f0b75ae2e4267051bff34cd2380de6072013ab1f348f63512fbb2eedce7ef99d"
 metafile = true
 
 [[files]]
@@ -1148,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8376368040d62400b3d15ee15bc7b3d4149123e8b5b07715ef7b460816c721aa"
+hash = "3f6fb345c4d9eca22c534e740fab8a7dd0cce2a79e874ad79d02969951a5774a"
 metafile = true
 
 [[files]]
@@ -1400,5 +1400,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "40bc975eb6a7840353e999e0c3e9fea9123aec9b7888cb540b65a7843adea043"
+hash = "e6e8807859717ef8894593dc1368719d3cfcab0ee2acd9cb2e0ee647a2b27c0e"
 metafile = true
