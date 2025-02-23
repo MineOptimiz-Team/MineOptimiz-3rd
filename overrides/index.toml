@@ -101,6 +101,10 @@ file = "config/bocchium-client.toml"
 hash = "b14f54e4e5a6ce3821f622a789b900e1f0afdc93f29dd150b2fe2420180da106"
 
 [[files]]
+file = "config/bocchud.json"
+hash = "d357e482f8141b86ed7690c119c9b9145b19e9da8a2be9ab2ea50b4730ad840b"
+
+[[files]]
 file = "config/borderlessmining.json"
 hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
 
@@ -749,6 +753,10 @@ file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
+file = "config/mafglib.json"
+hash = "50d8ee28c8446abe804cddea47389b65b965dfb6ff1282beeb5db2a8ffdbfd0a"
+
+[[files]]
 file = "config/malilib.json"
 hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
@@ -994,7 +1002,7 @@ hash = "57c13f6c2325d25da122f9f8d0c921892efbb1fac87ef49040bf235dde54443a"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.minimap.config"
-hash = "c336f4ded36d0e0db3f2408026f1aa2892968177b7bc69d0c795cf73c38ee81d"
+hash = "661052af445b3dc98b9a7e8b7a4e8aaecde8d3369670b0df27e81132b8e0f12a"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.minimap2.config"
@@ -1059,6 +1067,11 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "ccd718340ef692d4e4c013813f72c5498c31b033d7ace29dadf098d1cb905614"
+metafile = true
+
+[[files]]
+file = "mods/bocchud.pw.toml"
+hash = "8a8d5173c74824a1ae312d7a22e3fc6a5a3312e48f034f2be83ee345e749eda3"
 metafile = true
 
 [[files]]
