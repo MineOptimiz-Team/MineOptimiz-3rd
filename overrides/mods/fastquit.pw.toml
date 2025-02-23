@@ -1,7 +1,0 @@
-name = "fastquit"
-filename = "fastquit-3.0.0+1.20+.jar"
-
-[download]
-url = "https://cdn.modrinth.com/data/x1hIzbuY/versions/tNgyOUMr/fastquit-3.0.0%2B1.20%2B.jar"
-hash-format = "sha256"
-hash = "6c07d505a7c7435c9813edf68103c8320e37c20daf95418d508aac2681212a78"
