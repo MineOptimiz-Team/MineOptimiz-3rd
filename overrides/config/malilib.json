@@ -1,7 +1,7 @@
 {
   "Generic": {
     "ignoredKeys": {
-      "keys": ""
+      "keys": "LEFT_SUPER"
     },
     "openGuiConfigs": {
       "keys": "A,C"
