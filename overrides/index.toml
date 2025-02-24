@@ -730,7 +730,7 @@ hash = "99b11187107f1c763bc743c6eb6b2d712a8d852c82c967bd46ed962b8f0e84fe"
 
 [[files]]
 file = "config/malilib.json"
-hash = "644828eebc76a12c81af358f12858257860e2f1ff602e69c019b487305b7edbe"
+hash = "7bb702d5e42e2180cf05e39660ce2a1885479c2d101469fcae99d9a564205be7"
 
 [[files]]
 file = "config/midnightcontrols.json"
@@ -739,6 +739,10 @@ hash = "327e8f9837373688a2c96be1f940db74ce2f578afa0cb6035faeddd0c33922fc"
 [[files]]
 file = "config/midnightlib.json"
 hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
+
+[[files]]
+file = "config/minihud.json"
+hash = "e960f89ee0385614938a0fe452a0b0029a024dc2efde48dc54b9139e63f0edca"
 
 [[files]]
 file = "config/mod_menu-client.toml"
@@ -866,7 +870,7 @@ hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "d0bddd247bc052736a2aba965b50d8777fb18518533a748f695e197edefce5eb"
+hash = "bd39e3a5073ad408f27a1fcaab241c3e919ddeaee8d6e482ad588263b5c5d90e"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -1254,6 +1258,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "cc94211ef4b32ca6365635ee34f76e1ed98b67dafc5fd0dcf825c296a8062562"
 metafile = true
 
 [[files]]
