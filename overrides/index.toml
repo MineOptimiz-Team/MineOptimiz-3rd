@@ -758,7 +758,7 @@ hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
 file = "config/malilib.json"
-hash = "1bd935e5d29203eac21369bc902f671c7af50f5ab9c0fbec5987e46c2ebe9ef0"
+hash = "7bb702d5e42e2180cf05e39660ce2a1885479c2d101469fcae99d9a564205be7"
 
 [[files]]
 file = "config/midnightcontrols.json"
@@ -767,6 +767,10 @@ hash = "327e8f9837373688a2c96be1f940db74ce2f578afa0cb6035faeddd0c33922fc"
 [[files]]
 file = "config/midnightlib.json"
 hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
+
+[[files]]
+file = "config/minihud.json"
+hash = "e960f89ee0385614938a0fe452a0b0029a024dc2efde48dc54b9139e63f0edca"
 
 [[files]]
 file = "config/modelfix-client.toml"
@@ -890,7 +894,7 @@ hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "d0ebcc8574599688d489e9049f98dcd75a748a6b468b1517664845de23d93105"
+hash = "bd39e3a5073ad408f27a1fcaab241c3e919ddeaee8d6e482ad588263b5c5d90e"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -1244,6 +1248,11 @@ metafile = true
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "95718602433afe9c7db4417bbe8bb6d58587a68a7cc3fc5f0b6db03a4aeb85ef"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "f79baa6d61e51f67be6417450db3e49f9b56c4602c82692a3adc24f6e0a5d133"
 metafile = true
 
 [[files]]
