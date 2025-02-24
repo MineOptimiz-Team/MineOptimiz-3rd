@@ -17,14 +17,14 @@
   },
   "detail_settings": {
     "sky": true,
-    "sun_moon": true,
+    "sun": true,
+    "moon": true,
     "stars": true,
     "rain_snow": true,
     "biome_colors": true,
     "sky_colors": true
   },
   "render_settings": {
-    "fog_type": "MOD_COMPAT",
     "fog_distance": 33,
     "fog_start": 100,
     "multi_dimension_fog_control": false,
@@ -46,7 +46,7 @@
   "extra_settings": {
     "overlay_corner": "TOP_LEFT",
     "text_contrast": "SHADOW",
-    "show_fps": true,
+    "show_fps": false,
     "show_f_p_s_extended": true,
     "show_coords": false,
     "reduce_resolution_on_mac": false,
