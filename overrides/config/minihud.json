@@ -179,7 +179,7 @@
     "coordinateFormat": "x: %.1f y: %.1f z: %.1f",
     "dateFormatReal": "yyyy-MM-dd HH:mm:ss",
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
-    "fontScale": 0.5,
+    "fontScale": 1.0,
     "lightLevelMarkerSize": 0.84,
     "lightLevelNumberOffsetBlockX": 0.26,
     "lightLevelNumberOffsetBlockY": 0.32,
@@ -476,7 +476,6 @@
     "§6debugNeighborsUpdateEnabled§r": false,
     "§6debugGameEventsEnabled§r": false,
     "§6debugGoalSelectorEnabled§r": false,
-    "debugOctreeEnabled": false,
     "§6debugPathfindingEnabled§r": false,
     "§6debugRaidCenterEnabled§r": false,
     "debugSkylightEnabled": false,
@@ -574,9 +573,6 @@
       "keys": ""
     },
     "§6debugGoalSelectorEnabled§r": {
-      "keys": ""
-    },
-    "debugOctreeEnabled": {
       "keys": ""
     },
     "§6debugPathfindingEnabled§r": {
