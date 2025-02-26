@@ -37,7 +37,7 @@ jobs:
           cd overrides
           packwiz modrinth export
           mv ./*.mrpack "MineOptimiz v3.211.1-fabric+${{ env.SHORT_SHA }}.mrpack"
-          cp ./"MineOptimiz v3.21.1-fabric+${{ env.SHORT_SHA }}.mrpack" "MineOptimiz v3.211.1-fabric+testing_latest.mrpack"
+          cp ./"MineOptimiz v3.211.1-fabric+${{ env.SHORT_SHA }}.mrpack" "MineOptimiz v3.211.1-fabric+testing_latest.mrpack"
       
       - name: Upload MineOptimiz to Artifact
         uses: actions/upload-artifact@v4
