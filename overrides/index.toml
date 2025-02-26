@@ -770,7 +770,7 @@ hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
 
 [[files]]
 file = "config/minihud.json"
-hash = "e960f89ee0385614938a0fe452a0b0029a024dc2efde48dc54b9139e63f0edca"
+hash = "38c54dc230877d2566d28c4890cc79286d2b985f5f1b10ed907e49fafd490283"
 
 [[files]]
 file = "config/modelfix-client.toml"
@@ -1010,35 +1010,35 @@ hash = "16378526d4eef3c926811f1f7aa695b6d13c705ef8fac350329175db8e141d5d"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
-hash = "181e913f862eff47504fe05bd788e1e8cfe9d1c7bf14cfb4d594918653635dc2"
+hash = "035818258ec883e5593d815f1e91d306338996cb1a85fb8f1c32a143dd5dfe45"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "8dedbba5709ae910f015d3183cb571d7104ba06bda5c4b042ab6a3ba63754fb2"
+hash = "ce853ecfc99ea2f4a550bbfcee1b042894ac239b3fd9907c1f548ef39ad06d44"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "57cfce21274c8dd719c6fe622561541360b79ca9263f5aa9d3d6c399af006d4b"
+hash = "9732f60d3e209bd64ab39a680b2bd2c4a0caeb97bca3efd1ea3ada80558eabba"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "6f2bebaac2840cd23e7168dc5cc6b7eac5c73e47a71c74d9d4607dba68b17f6f"
+hash = "501262f380151d28b49ce06f25891b05e6006cba1b30885ae18aaaf27cac9e6a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
-hash = "24f60cc82a60070b3b5793ffd10686b13bc2c69d66de4965b6720724f90f0f3e"
+hash = "8f2e4c7f8df3d396e0951721d4cea30a669a54ca18ffb99725900976f4cacce1"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.topo.config"
-hash = "09997bf5031d505b732ea1b4a42172b4e9f8c28d20a524f433099afba2c33673"
+hash = "8922a8a18213e7449c090011517029389307bcffc593ca25bc44d9c505a26e5c"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "e3a189516c3500dba0176166a1b71312cf396ca74ecc2e94488a955583dd701f"
+hash = "2e8315c017ad220c3e95cf00f4d8458f4956e8798f8a7f6dfa3b525fbb239ff8"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
-hash = "fdc89f5c23576f9f4aaf68bb97e258774c96401d0b650e7a4c292492e054378b"
+hash = "c86dccdeae8df464566850b84ec2ec12bf52f6666349210b5032eacbcda4aea5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
