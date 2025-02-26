@@ -326,7 +326,7 @@ hash = "0f237cfe9d511cd9c17693933e288c3bf92f4aca6ef5f90f03110b1ba962d0f5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "e93f7dd2d852307b59da54a7b2f4d78aae463e2b03b30a565df581a89492dbef"
+hash = "c9c61e3fcf423c625cfdc8f2c618bfadb8c7a975d023d77a5460a5c3056596a6"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -378,7 +378,7 @@ hash = "1d32bf610d8c28d2da9b2dea1afe1dcb9e85df0791e8f983a1d1569b46e764d4"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "c3b529f0a91c88d755f644f4cb93ef1622e5c31038da05c9636e75ba30d749f4"
+hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
@@ -407,6 +407,10 @@ hash = "aa119d541be0ed85abaa0595ea3be50f7d75997895fc09d86f6f92b45544b104"
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.dis_realms_button.txt"
 hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
+hash = "4f310e1c0cc1e04cb8741011275c4964954c42b7a610a34091ff2607e02897de"
 
 [[files]]
 file = "config/fancymenu/customization/credits.txt"
@@ -598,7 +602,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "2ae99bc828754e7c2a1ed551c69c182fe7d09af3f7e68fe6ade932c99df921c9"
+hash = "f98fcc0a4b3d2303a9c986235d915b4c9a7ca1e3e4c9ed879e45e491f2a660db"
 
 [[files]]
 file = "config/farsight-common.toml"
