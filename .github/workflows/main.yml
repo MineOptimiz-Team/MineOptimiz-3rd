@@ -4,6 +4,7 @@ on:
   push:
     paths-ignore: 
       - 'README.md'
+      - 'refresh_index.yml'
   workflow_dispatch:
 
 jobs:
