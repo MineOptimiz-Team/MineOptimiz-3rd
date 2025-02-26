@@ -2,7 +2,7 @@ name: Export Modrinth Pack
 
 on:
   push:
-    branches: '20.1/forge_testing'
+    branches: '21.4/forge_testing'
     
     paths-ignore: 
       - 'README.md'
