@@ -211,6 +211,15 @@ custom_gui {
 }
 
 custom_gui {
+  identifier = com.github.smallmushroomovo.update
+  title = 更新
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
   identifier = io.123smallmushroom.titlescreen
   title = 
   allow_esc = true
