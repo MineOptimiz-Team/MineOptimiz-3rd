@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib (YACL)"
-filename = "YetAnotherConfigLib-3.6.2+1.21-neoforge.jar"
+filename = "yet_another_config_lib_v3-3.6.3+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/MCJlLTYc/YetAnotherConfigLib-3.6.2%2B1.21-neoforge.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/5APbkNF6/yet_another_config_lib_v3-3.6.3%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "581085c98f807aa04ff6afb9a69ea6b5e543c3a013c89f66086a2086822620aa02245fb3c7ebd1d8c049d457f58c57218aecae607db3c77c5bdafd37fa022050"
+hash = "e0236e5932f9045cb59bf220ad4b311c1f441bab22960233020d46da889ed8094cc2d70d8ca1eaea67ec7df97d298d150abe84c66c8abce33c15b9448645e1ee"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "MCJlLTYc"
+version = "5APbkNF6"

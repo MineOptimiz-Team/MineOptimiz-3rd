@@ -1,13 +1,13 @@
 name = "Entity Culling"
-filename = "entityculling-neoforge-1.7.2-mc1.21.jar"
+filename = "entityculling-neoforge-1.7.3-mc1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/8BvicUz9/entityculling-neoforge-1.7.2-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/4HW5j3ty/entityculling-neoforge-1.7.3-mc1.21.jar"
 hash-format = "sha512"
-hash = "14d0348cf9ac0c0434a19494caf6052e38b295b6677457c7297cd44fc61f10ef4d5ae66388aacc9362167e9f44f8f89ffbbb86fee9dfcc92b2cf1c7cf08f56ae"
+hash = "809d46d0c8f85f7324d6cce793c9978501dd0c2a2f5d4d00924f31a67276fe1183a43d383420e55a9f61d460ceb21a1ef76836e90a8d656dc5237b20661e4c6a"
 
 [update]
 [update.modrinth]
 mod-id = "NNAgCjsB"
-version = "8BvicUz9"
+version = "4HW5j3ty"
