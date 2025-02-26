@@ -2,7 +2,7 @@ name: Refresh index
 
 on:
   push: 
-    
+    branches: '21.1/fabric_testing'
   workflow_dispatch:  
 
 jobs:
