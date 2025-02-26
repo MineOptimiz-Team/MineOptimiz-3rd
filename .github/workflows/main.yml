@@ -35,10 +35,21 @@ jobs:
           cd overrides
           packwiz modrinth export
           mv ./*.mrpack "MineOptimiz v3.211.1-neoforge+${{ env.SHORT_SHA }}.mrpack"
+          cp ./"MineOptimiz v3.211.1-neoforge+${{ env.SHORT_SHA }}.mrpack" "MineOptimiz v3.201.4-forge+testing_latest.mrpack"
       
-      - name: Upload MineOptimiz
+      - name: Upload MineOptimiz to Artifact
         uses: actions/upload-artifact@v4
         with:
           name: MineOptimiz v3.211.1-neoforge+${{ env.SHORT_SHA }}
           path: ./overrides/*.mrpack
      
+     
+      - name: Upload MineOptimiz to Releases
+        uses: marvinpinto/action-automatic-releases@master
+        with:
+          title: "MineOptimiz 1.21.1 NeoForge Testing Latest"
+          automatic_release_tag: "1.21.1_neoforge_latest_testing"
+          repo_token: "${{ secrets.UPLOAD_TO_RELEASES }}"
+          files: "./overrides/MineOptimiz v3.211.1-neoforge+testing_latest.mrpack"
+          prerelease: true
+   
