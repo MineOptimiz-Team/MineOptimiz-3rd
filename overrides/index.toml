@@ -1516,7 +1516,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c3bf7d6d25260b023f8cd2906527bf2ddfe36eb7929894ac0ae6d61abe2328cd"
+hash = "8dc45c624a42cf37b923957c9e75c27c26e28e6b4ecee63d0ebe82b41d2e416c"
 metafile = true
 
 [[files]]
@@ -1546,7 +1546,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "efa1a6999efa6018daa2c7bd0a7e22d87adc420960311c2ffc312d33bde69bd8"
+hash = "e3a146dc640566debff6d9e5171987ec1c58b0a59db1cc79d4486988e11a3666"
 metafile = true
 
 [[files]]
@@ -1646,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "f79baa6d61e51f67be6417450db3e49f9b56c4602c82692a3adc24f6e0a5d133"
+hash = "e5bf9057e940554a9d6f653af4118d64f09040871c7ada034a697d630fedcab5"
 metafile = true
 
 [[files]]
