@@ -2,7 +2,7 @@ name: Refresh index
 
 on:
   push: 
-    branches: '21.4/forge_testing'
+    branches: '21.4/fabric_testing'
   workflow_dispatch:  
 
 jobs:
