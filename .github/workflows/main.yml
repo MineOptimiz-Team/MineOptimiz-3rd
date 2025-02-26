@@ -1,6 +1,11 @@
 name: Export Modrinth Pack
 
-on: [push, workflow_dispatch]
+on:
+  push:
+    paths-ignore: 
+      - 'README.md'
+      - 'refresh_index.yml'
+  workflow_dispatch:
 
 jobs:
   Export-Modpack:
