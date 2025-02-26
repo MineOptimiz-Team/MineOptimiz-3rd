@@ -270,7 +270,7 @@ hash = "627a6b7f01ef00d8cdb5fcc2bd52a7e9a6e210fe16792191a95b40f4d463bf66"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "3953cd81201cdb8efaf7d24524ddf60df930928227bdf0b381bcbd49e9d0ab4f"
+hash = "6ca488a59d0d23e4eca6e41f087b9924382ea83a10e8986d8007dcdc4e4510b6"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -401,10 +401,6 @@ file = "config/fancymenu/customization/fiiiiiiiiiiiiiiixxxxxxxxxxx.txt"
 hash = "c9428b343e9468eb23990f6fa1259a4402d6f6ecc26de1a6202c853a51c5976e"
 
 [[files]]
-file = "config/fancymenu/customization/keysettings.txt"
-hash = "840a6b0518372f6cc852ec072c1200242ba110c03652468f1cb196ed6a1319ca"
-
-[[files]]
 file = "config/fancymenu/customization/legacysettings.txt"
 hash = "7219b258b8b9ba51bdd26f2ef189061a5f60407b711f96c9352c85ed1d2a9bb8"
 
@@ -466,7 +462,7 @@ hash = "b73f60ea31587d6eb00627e6b1f1efbee87d4f33a5b5dba9df1f4897fa93c9c0"
 
 [[files]]
 file = "config/fancymenu/customization/uimanager.txt"
-hash = "cc0998b13bfeb7bf0c530115d81d20b040e866e5e53ae0e6e01c9717db1ea796"
+hash = "4d610a009b2a8be11903b8d642fe62232cba6ca350f05532c559601ab2a71d69"
 
 [[files]]
 file = "config/fancymenu/customization/uimanager1.txt"
