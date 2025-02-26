@@ -1211,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7c3ea6f0dfe669019d8f6586821730070285f86869b603ebd45b4682b2e4fc38"
+hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
@@ -1296,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "5e497b4e03e1084a67f6577e9f3025a01857c19eec42228dbc04c24505f794cc"
+hash = "704461376cef8a624cdd810f5e7c60e9dc6dae2b39b0e33e222c5ff5dc740540"
 metafile = true
 
 [[files]]
@@ -1381,7 +1381,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4e44aaa93f55061c321cf8ea6a8015552f44c54db8ed0b9e8c3a7e9f8bf523ec"
+hash = "2c242048726e82d36863b81ecbaa342328bb2929dc82da2f573d83b9f0711505"
 metafile = true
 
 [[files]]
