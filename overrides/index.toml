@@ -1106,7 +1106,7 @@ hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
 
 [[files]]
 file = "config/minihud.json"
-hash = "e960f89ee0385614938a0fe452a0b0029a024dc2efde48dc54b9139e63f0edca"
+hash = "b306da3e123c1c88e562854cc5a11d0f6349ccafe79b5439bdb6e2aa051d42dd"
 
 [[files]]
 file = "config/modelfix-client.json"
@@ -1382,7 +1382,7 @@ hash = "77254296b6364022fbd8fa7628dc9a5c9f68b5bd59374d9dc7ee58fe995e3aad"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.minimap.config"
-hash = "9f57d5d569e4a41f1e30cae6a35cbd20694149d97dd5ee54bf0fc4d97a84ad4d"
+hash = "cc0f7fc6b69bdacde42e2beee9394bbf680569ea800f20969cd477227c84713b"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.minimap2.config"
