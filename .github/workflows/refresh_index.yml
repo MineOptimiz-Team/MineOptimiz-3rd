@@ -2,7 +2,7 @@ name: Refresh index
 
 on:
   push: 
-    
+    branches: '21.1/neoforge_testing'
   workflow_dispatch:  
 
 jobs:
