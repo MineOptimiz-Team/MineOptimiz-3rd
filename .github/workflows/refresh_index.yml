@@ -1,6 +1,8 @@
 name: Refresh index
 
 on:
+  push: 
+    
   workflow_dispatch:  
 
 jobs:
