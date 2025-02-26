@@ -2,30 +2,32 @@ name: Export Modrinth Pack
 
 on:
   push:
-    branches: '20.1/forge_testing'
-    
+    branches: '**'  
+    tags-ignore:
+      - '*_latest_testing'
     paths-ignore: 
       - 'README.md'
       - 'versions/*'
       - 'meta.json'
       - 'licenceofmods.txt'
-      - 'refresh_index.yml'
   workflow_dispatch:
 
 jobs:
   Export-Modpack:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-                 
-      - name: Get commit id
-        run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
-
-      - name: Write commit id to files
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true 
+          token: ${{ secrets.REFRESH_INDEX }} 
+          fetch-depth: 0 
+        
+      - name: Setup Git config
         run: |
-          sed -i "s/\(commitid\)/${{ env.SHORT_SHA }}/g" ./overrides/pack.toml
-          sed -i "s/\(commitid\)/${{ env.SHORT_SHA }}/g" ./overrides/config/modpack-update-checker/config.json
-      
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
@@ -35,18 +37,48 @@ jobs:
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
 
+      - name: Refresh index
+        run: |
+          cd overrides
+          packwiz refresh
+
+      - name: Commit changes
+        id: commit-check
+        run: |
+          git add overrides/pack.toml overrides/index.toml
+            
+
+          if [ -z "$(git status --porcelain overrides/pack.toml overrides/index.toml)" ]; then
+            echo "::notice::No changes detected"
+            exit 0
+          fi
+            
+          git commit -m "[skip ci] Refresh index"
+          
+          for i in {1..5}; do
+          git push && break || sleep 15  # 增加重试次数和间隔
+          done
+
+      - name: Process Metadata
+        run: |
+          SHORT_SHA=${GITHUB_SHA::7}
+          echo "VERSION=3.201.4" >> $GITHUB_ENV  
+          echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
+          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/pack.toml
+          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/modpack-update-checker/config.json
+      
       - name: Export Modrinth Pack
         run: |
           cd overrides
           packwiz modrinth export
-          mv ./*.mrpack "MineOptimiz v3.201.4-fabric+${{ env.SHORT_SHA }}.mrpack"
-          cp ./"MineOptimiz v3.201.4-fabric+${{ env.SHORT_SHA }}.mrpack" "MineOptimiz v3.201.4-forge+testing_latest.mrpack"
+          mv ./*.mrpack "MineOptimiz v${{ env.VERSION }}-fabric+${{ env.SHORT_SHA }}.mrpack"
+          cp ./"MineOptimiz v${{ env.VERSION }}-fabric+${{ env.SHORT_SHA }}.mrpack" "MineOptimiz v${{ env.VERSION }}-fabric+testing_latest.mrpack"
       
       - name: Upload MineOptimiz to Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: MineOptimiz v3.201.4-fabric+${{ env.SHORT_SHA }}
-          path: "./overrides/MineOptimiz v3.201.4-fabric+${{ env.SHORT_SHA }}.mrpack"
+          name: MineOptimiz v${{ env.VERSION }}-fabric+${{ env.SHORT_SHA }}
+          path: "./overrides/MineOptimiz v${{ env.VERSION }}-fabric+${{ env.SHORT_SHA }}.mrpack"
      
       - name: Upload MineOptimiz to Releases
         uses: marvinpinto/action-automatic-releases@master
