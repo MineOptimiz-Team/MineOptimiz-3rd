@@ -4,7 +4,7 @@
   "modpackName": "MineOptimiz Forge",
   "modpackAuthor": "smallmushroomovo",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://123smallmushroom.github.io/check-update-mineoptimiz/1.20.1-Forge/",
+  "updateCheckerId": "",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
