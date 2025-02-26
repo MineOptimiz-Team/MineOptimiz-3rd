@@ -40,10 +40,16 @@ jobs:
       - name: Commit changes
         id: commit-check
         run: |
-          git add pack.toml index.toml
-          if [ -z "$(git status --porcelain pack.toml index.toml)" ]; then
+          git add overrides/pack.toml overrides/index.toml
+            
+
+          if [ -z "$(git status --porcelain overrides/pack.toml overrides/index.toml)" ]; then
             echo "::notice::No changes detected"
             exit 0
           fi
+            
           git commit -m "[skip ci] Refresh index"
-          git push || (sleep 5 && git push) || (sleep 10 && git push)
+          
+          for i in 1 2 3; do
+            git push && break || sleep 5
+          done
