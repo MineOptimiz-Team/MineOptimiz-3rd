@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.switch_channel
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1740628325642
+  last_edited_time = 1740636091376
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:6fc9121c-d8cb-4626-81f8-e96d7821bab0-1740628304957] = [groups:][instances:]
+  [loading_requirement_container_meta:673f4b95-3612-4601-a5ac-3ef0f6336b58-1740635948795] = [groups:][instances:]
 }
 
 customization {
@@ -78,7 +78,8 @@ element {
 
 element {
   button_element_executable_block_identifier = 25b431bc-6e7d-4155-8757-9f8c6c4e5382-1740628172722
-  [executable_block:25b431bc-6e7d-4155-8757-9f8c6c4e5382-1740628172722][type:generic] = [executables:]
+  [executable_action_instance:496c14ad-0a31-4fb1-86f5-866da5f211d8-1740636009146][action_type:set_variable] = version_channel:stable
+  [executable_block:25b431bc-6e7d-4155-8757-9f8c6c4e5382-1740628172722][type:generic] = [executables:496c14ad-0a31-4fb1-86f5-866da5f211d8-1740636009146;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -123,12 +124,14 @@ element {
 
 element {
   button_element_executable_block_identifier = 889d5459-f7db-46ef-8024-db996cf178ff-1740628217451
-  [executable_block:889d5459-f7db-46ef-8024-db996cf178ff-1740628217451][type:generic] = [executables:]
+  [executable_action_instance:75bb3d86-585d-4586-a4e2-9450499a389f-1740636028215][action_type:set_variable] = version_channel:testing
+  [executable_block:889d5459-f7db-46ef-8024-db996cf178ff-1740628217451][type:generic] = [executables:75bb3d86-585d-4586-a4e2-9450499a389f-1740636028215;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
+  description = testing分支更新后不会保留具体版本号
   label = testing
   navigatable = true
   widget_active_state_requirement_container_identifier = ded64b87-e848-4156-83d0-918492be932d-1740628217451
@@ -168,12 +171,14 @@ element {
 
 element {
   button_element_executable_block_identifier = 79c4dbe5-3007-4008-9fef-e04897028ea0-1740628238709
-  [executable_block:79c4dbe5-3007-4008-9fef-e04897028ea0-1740628238709][type:generic] = [executables:]
+  [executable_action_instance:8365fea5-f491-443a-824e-21736d04e09e-1740636065155][action_type:set_variable] = version_channel:pocket
+  [executable_block:79c4dbe5-3007-4008-9fef-e04897028ea0-1740628238709][type:generic] = [executables:8365fea5-f491-443a-824e-21736d04e09e-1740636065155;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
+  description = pocket分支更新后不会保留具体版本号
   label = pocket
   navigatable = true
   widget_active_state_requirement_container_identifier = da947c53-094f-496c-a3f9-6c506edb407a-1740628238709
