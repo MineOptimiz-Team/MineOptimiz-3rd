@@ -326,7 +326,7 @@ hash = "0f237cfe9d511cd9c17693933e288c3bf92f4aca6ef5f90f03110b1ba962d0f5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "3b3193da26795d0247bf362b755f7faee44817f6f367323c92b018f6df8f4ce5"
+hash = "cac4d2f457305c3f89dbaa89e0d3a6dfe4068e47354aabf2d282b6b00e7ccdab"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -382,7 +382,7 @@ hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
-hash = "b7d99dafc4cf4111fa25fc965477004d5ed8439e7d70f14518238d26e0c1a0fe"
+hash = "99c83b85cd318825afdace069a76c7965842228705ccf961c89b886ccd56d23c"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
@@ -410,15 +410,19 @@ hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.switch_channel.txt"
-hash = "64b4b4473b3bcb57795966f34415fe5f2fd963f2ff38c2d923cad23df7cfd2c9"
+hash = "862e43d85644ce61aab8d7b182ccf9e884da8d2565b6e32ae363dbd1fa77e4d1"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
-hash = "d75c41b2ed6be58c90a0ae57114cbe1b7ca4c02630d2711d8f6fcb21ac7bb337"
+hash = "0a937eec42fc887359eac9fb8b7a858bc143ed154908739ed6d1738bbbb918d3"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.update_guide.txt"
+hash = "ffd72f74aa736ff301200a622d987737ee14ddfe411c83a965feab1a48aaa010"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.updater.txt"
-hash = "15dde81cbfc0d14511e0357bbbf0958b6edc475536050b70c04d113c5d595df7"
+hash = "48624b80c72b06568061c226efe0fb7d0aee0fea0216206c0bb3dd7f4b93ae5d"
 
 [[files]]
 file = "config/fancymenu/customization/credits.txt"
@@ -610,7 +614,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "f98fcc0a4b3d2303a9c986235d915b4c9a7ca1e3e4c9ed879e45e491f2a660db"
+hash = "a3e4df34aad36e64d5c5aba6dc82c22722f4eb62209f671199c14db7b93bd973"
 
 [[files]]
 file = "config/farsight-common.toml"
