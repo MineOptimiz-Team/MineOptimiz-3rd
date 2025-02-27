@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.switch_channel
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1740636091376
+  last_edited_time = 1740640852321
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:673f4b95-3612-4601-a5ac-3ef0f6336b58-1740635948795] = [groups:][instances:]
+  [loading_requirement_container_meta:be045af4-cc19-45b0-ae9b-f557e73a6bf9-1740640749672] = [groups:][instances:]
 }
 
 customization {

@@ -1,12 +1,6 @@
 type = user_variables
 
 variable {
-  name = legacy_settings
-  value = 0
-  reset_on_launch = false
-}
-
-variable {
   name = disable_realms_button
   value = 1
   reset_on_launch = false

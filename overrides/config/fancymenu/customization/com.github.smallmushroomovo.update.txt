@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.update
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1740625591949
+  last_edited_time = 1740640749656
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:a1054681-883d-458c-a81d-f322f6c13ee2-1740625582652] = [groups:][instances:]
+  [loading_requirement_container_meta:6ab43327-37f8-4baf-8f18-d5204e509544-1740640710678] = [groups:][instances:]
 }
 
 customization {
@@ -40,12 +40,12 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = 当更新通道为testing时，更新检查器将被禁用
+  description = 仅在更新通道为stable时更新检查器可用
   label = 检查更新
   navigatable = true
   widget_active_state_requirement_container_identifier = 765ca01f-f7e7-4089-8e18-b47b03df6ba1-1740571301660
   [loading_requirement_container_meta:765ca01f-f7e7-4089-8e18-b47b03df6ba1-1740571301660] = [groups:][instances:ed8f72aa-07ae-4146-8d94-8d999a72d4f2-1740571369782;]
-  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][req_id:ed8f72aa-07ae-4146-8d94-8d999a72d4f2-1740571369782] = version_channel:testing
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:ed8f72aa-07ae-4146-8d94-8d999a72d4f2-1740571369782] = version_channel:stable
   element_type = custom_button
   instance_identifier = 7d094e25-fa8d-43de-b484-a24a67d4590d-1740571301660
   appearance_delay = no_delay
@@ -60,9 +60,9 @@ element {
   auto_sizing_base_screen_height = 1004
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -50
+  x = -60
   y = -37
-  width = 100
+  width = 120
   height = 20
   stretch_x = false
   stretch_y = false
@@ -105,9 +105,9 @@ element {
   auto_sizing_base_screen_height = 1004
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -50
+  x = -60
   y = -76
-  width = 100
+  width = 120
   height = 20
   stretch_x = false
   stretch_y = false
@@ -150,9 +150,9 @@ element {
   auto_sizing_base_screen_height = 1004
   sticky_anchor = false
   anchor_point = bottom-centered
-  x = -50
-  y = -42
-  width = 100
+  x = -60
+  y = -43
+  width = 120
   height = 20
   stretch_x = false
   stretch_y = false

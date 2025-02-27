@@ -121,6 +121,15 @@ custom_gui {
 }
 
 custom_gui {
+  identifier = com.github.smallmushroomovo.update_guide
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
   identifier = com.github.smallmushroomovo.brightness_settings
   title = 亮度设置
   allow_esc = true
