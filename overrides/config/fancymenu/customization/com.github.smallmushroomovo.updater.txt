@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.updater
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1740641199191
+  last_edited_time = 1740659346151
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:c0cc16f5-3566-4d8f-ac0a-f65dfa04f01e-1740641020870] = [groups:][instances:]
+  [loading_requirement_container_meta:de0ca658-76e0-4974-95c5-f7aa6193f95b-1740659321445] = [groups:][instances:]
 }
 
 customization {
@@ -92,20 +92,6 @@ element {
   [if_executable_block_body:c5cc36c0-047f-48fa-808a-66533d05c1f5-1740627105540] = cc793a7a-d299-4c36-8812-cbde783c2876-1740627094719
   [loading_requirement_container_meta:cc793a7a-d299-4c36-8812-cbde783c2876-1740627094719] = [groups:][instances:189ac490-2db0-4639-81a6-09bf4d317766-1740627095628;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:189ac490-2db0-4639-81a6-09bf4d317766-1740627095628] = version_channel:testing
-  [executable_action_instance:a09ec6ac-f0df-461f-b904-e7658fc4575e-1740636225210][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_pocket_update_channel/update.sh
-  [executable_block:52f41561-f034-4a63-b2b7-36152a7e0f4d-1740636215067][type:if] = [executables:a09ec6ac-f0df-461f-b904-e7658fc4575e-1740636225210;]
-  [if_executable_block_body:52f41561-f034-4a63-b2b7-36152a7e0f4d-1740636215067] = 44273cbe-a565-4d0c-ab45-d86ee24afd09-1740636210098
-  [loading_requirement_container_meta:44273cbe-a565-4d0c-ab45-d86ee24afd09-1740636210098] = [groups:][instances:162a72d8-88f6-4643-a7a3-2deae60635a7-1740636210843;]
-  [loading_requirement:fancymenu_loading_requirement_is_os_linux][requirement_mode:if][req_id:162a72d8-88f6-4643-a7a3-2deae60635a7-1740636210843] = 
-  [executable_action_instance:a2b5ddc2-a77c-4de3-8fed-d3d79e34d4a6-1740636190405][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_pocket_update_channel/update.bat
-  [executable_block:b7561210-9943-410b-bcf2-a9fa66663953-1740636176453][type:if] = [executables:a2b5ddc2-a77c-4de3-8fed-d3d79e34d4a6-1740636190405;]
-  [if_executable_block_body:b7561210-9943-410b-bcf2-a9fa66663953-1740636176453] = d2659c27-2fe6-433c-b08b-d4d964d0b024-1740636168713
-  [loading_requirement_container_meta:d2659c27-2fe6-433c-b08b-d4d964d0b024-1740636168713] = [groups:][instances:18bf8ccf-1fe5-4596-af2d-2540a2fd29ee-1740636169447;]
-  [loading_requirement:fancymenu_loading_requirement_is_os_windows][requirement_mode:if][req_id:18bf8ccf-1fe5-4596-af2d-2540a2fd29ee-1740636169447] = 
-  [executable_block:b582de4e-2a14-4755-8de0-3fa97501a168-1740636164528][type:if] = [executables:52f41561-f034-4a63-b2b7-36152a7e0f4d-1740636215067;b7561210-9943-410b-bcf2-a9fa66663953-1740636176453;]
-  [if_executable_block_body:b582de4e-2a14-4755-8de0-3fa97501a168-1740636164528] = 0cdda21c-7276-4a68-aeb0-95caa255f06d-1740636137917
-  [loading_requirement_container_meta:0cdda21c-7276-4a68-aeb0-95caa255f06d-1740636137917] = [groups:][instances:24d48f7c-53d0-4f08-a4a9-6deaea60b5bc-1740636139861;]
-  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:24d48f7c-53d0-4f08-a4a9-6deaea60b5bc-1740636139861] = version_channel:pocket
   [executable_action_instance:f4e1a834-49e9-4f9e-93f0-d9794d44c351-1740636471038][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_stable_update_channel/update.sh
   [executable_block:6565fc57-03b1-4685-82c1-31c2f377a5fb-1740636433154][type:if] = [executables:f4e1a834-49e9-4f9e-93f0-d9794d44c351-1740636471038;]
   [if_executable_block_body:6565fc57-03b1-4685-82c1-31c2f377a5fb-1740636433154] = 4056bb27-528f-4f39-8ff8-f095c63f62c5-1740636427314
@@ -120,7 +106,7 @@ element {
   [if_executable_block_body:efe794e4-6d02-4b02-a03d-caafee63e5ad-1740636410197] = a2680eac-c4f1-4ac1-8489-ea96e10379c2-1740636336333
   [loading_requirement_container_meta:a2680eac-c4f1-4ac1-8489-ea96e10379c2-1740636336333] = [groups:][instances:b7eaf9db-aa48-4d91-8395-4076c4914cea-1740636337775;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:b7eaf9db-aa48-4d91-8395-4076c4914cea-1740636337775] = version_channel:stable
-  [executable_block:6e03201a-3d04-440a-8235-d32e5c719f81-1740625601495][type:generic] = [executables:c5cc36c0-047f-48fa-808a-66533d05c1f5-1740627105540;b582de4e-2a14-4755-8de0-3fa97501a168-1740636164528;efe794e4-6d02-4b02-a03d-caafee63e5ad-1740636410197;]
+  [executable_block:6e03201a-3d04-440a-8235-d32e5c719f81-1740625601495][type:generic] = [executables:c5cc36c0-047f-48fa-808a-66533d05c1f5-1740627105540;efe794e4-6d02-4b02-a03d-caafee63e5ad-1740636410197;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
