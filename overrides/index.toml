@@ -326,7 +326,7 @@ hash = "0f237cfe9d511cd9c17693933e288c3bf92f4aca6ef5f90f03110b1ba962d0f5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "c9c61e3fcf423c625cfdc8f2c618bfadb8c7a975d023d77a5460a5c3056596a6"
+hash = "3b3193da26795d0247bf362b755f7faee44817f6f367323c92b018f6df8f4ce5"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -409,8 +409,16 @@ file = "config/fancymenu/customization/com.github.smallmushroomovo.dis_realms_bu
 hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
 
 [[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.switch_channel.txt"
+hash = "64b4b4473b3bcb57795966f34415fe5f2fd963f2ff38c2d923cad23df7cfd2c9"
+
+[[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
-hash = "4f310e1c0cc1e04cb8741011275c4964954c42b7a610a34091ff2607e02897de"
+hash = "d75c41b2ed6be58c90a0ae57114cbe1b7ca4c02630d2711d8f6fcb21ac7bb337"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.updater.txt"
+hash = "15dde81cbfc0d14511e0357bbbf0958b6edc475536050b70c04d113c5d595df7"
 
 [[files]]
 file = "config/fancymenu/customization/credits.txt"
