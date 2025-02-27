@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.updater
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1740636576410
+  last_edited_time = 1740641199191
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:50dd5cae-c081-4c17-9ea7-f988e0fd4162-1740636516484] = [groups:][instances:]
+  [loading_requirement_container_meta:c0cc16f5-3566-4d8f-ac0a-f65dfa04f01e-1740641020870] = [groups:][instances:]
 }
 
 customization {
@@ -171,7 +171,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = 切换频道后需重新下载脚本
+  description = 切换频道后需重新下载脚本并立即更新以保证功能正常
   label = 切换更新频道
   navigatable = true
   widget_active_state_requirement_container_identifier = 8861c57a-de5e-46a4-996f-cd529211b4f0-1740626881739
@@ -191,7 +191,7 @@ element {
   sticky_anchor = false
   anchor_point = mid-centered
   x = -50
-  y = -33
+  y = 2
   width = 100
   height = 20
   stretch_x = false
@@ -199,6 +199,51 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 62fff12e-cf73-4f76-90d3-e0b2ae908eb6-1740626881739
   [loading_requirement_container_meta:62fff12e-cf73-4f76-90d3-e0b2ae908eb6-1740626881739] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+}
+
+element {
+  button_element_executable_block_identifier = 7646058c-f0f2-4d4f-a810-e58b7570d320-1740641030898
+  [executable_action_instance:30dd36e9-8c82-4843-b204-ef8a5a6a301a-1740641069957][action_type:opengui] = com.github.smallmushroomovo.update_guide
+  [executable_block:7646058c-f0f2-4d4f-a810-e58b7570d320-1740641030898][type:generic] = [executables:30dd36e9-8c82-4843-b204-ef8a5a6a301a-1740641069957;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 更新脚本说明（必看）
+  navigatable = true
+  widget_active_state_requirement_container_identifier = aa6439f8-039d-4d14-bc32-6b6eaeaf053b-1740641030898
+  [loading_requirement_container_meta:aa6439f8-039d-4d14-bc32-6b6eaeaf053b-1740641030898] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 48f4f14a-0e8c-40ee-89b9-9c59979a25c0-1740641030898
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1004
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -50
+  y = -35
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e4ac37c7-7828-43d3-8426-5291e81dc85a-1740641030898
+  [loading_requirement_container_meta:e4ac37c7-7828-43d3-8426-5291e81dc85a-1740641030898] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity = 0.5
   invert_parallax = false
