@@ -14,7 +14,7 @@ MineOptimiz是一个支持fabric, (neo)forge双端的优化+辅助整合包
 | 1.17.1                | fabric                                                        | 不再更新            |
 | [1.12.2](https://www.123pan.com/s/jtiDVv-XMmWA.html)   | forge                        | 不再更新             |
 ## 下载
- - 你可以在[Github Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载稳定版或者在[Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions)下载测试版
+ - 你可以在[Github Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载所有2024年5月以后的版本（旧版本见[下文](https://github.com/MineOptimiz-Team/MineOptimiz-3rd?tab=readme-ov-file#旧版本)）
  - 除此之外，你也可以在[MineOptimiz的网站](https://123smallmushroom.github.io/mineoptimizindex.html)下载
  - [1.12.2下载](https://www.123pan.com/s/jtiDVv-XMmWA.html) 
  ## 关于在Android设备上启动MineOptimiz
