@@ -334,7 +334,7 @@ hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.switch_channel.txt"
-hash = "862e43d85644ce61aab8d7b182ccf9e884da8d2565b6e32ae363dbd1fa77e4d1"
+hash = "c1bdf4b2f7988b94267c618d1ffc2ddb4ffec660dd0f5831d261172259a1713f"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
@@ -346,7 +346,7 @@ hash = "ffd72f74aa736ff301200a622d987737ee14ddfe411c83a965feab1a48aaa010"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.updater.txt"
-hash = "feb66145bce6cf36d3fb40cd7765628fdde6b83c23705c25285531452c88088f"
+hash = "ea9b0a112199733dee1c5d27fe8954c53ff27853c5d13b8909f4622616d1f704"
 
 [[files]]
 file = "config/fancymenu/customization/credits.txt"
