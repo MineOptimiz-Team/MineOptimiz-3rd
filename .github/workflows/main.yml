@@ -4,7 +4,7 @@ on:
   push:
     branches: '**'  
     tags-ignore:
-      - '*_latest_testing'
+      - '*_latest*'
     paths-ignore: 
       - 'README.md'
   workflow_dispatch:
