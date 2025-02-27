@@ -234,7 +234,7 @@ hash = "627a6b7f01ef00d8cdb5fcc2bd52a7e9a6e210fe16792191a95b40f4d463bf66"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "dd9c48b3e8482d557cc036af7c0841d1d20c73aae626ab1483d9ae45b39131ae"
+hash = "35be67e056a7f39e1af48ce05865395ef82d117304178d009658be315d56a1d7"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -306,7 +306,7 @@ hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
-hash = "af39b48470125f8422767c49a4f85d48be2311cec1ac690a1833e45333eddf03"
+hash = "76efd525c5a91609fb13fa36c82f87c863bc39ae5a76fbbc1be308c3c64ba19a"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
@@ -334,15 +334,19 @@ hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.switch_channel.txt"
-hash = "64b4b4473b3bcb57795966f34415fe5f2fd963f2ff38c2d923cad23df7cfd2c9"
+hash = "862e43d85644ce61aab8d7b182ccf9e884da8d2565b6e32ae363dbd1fa77e4d1"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
-hash = "d75c41b2ed6be58c90a0ae57114cbe1b7ca4c02630d2711d8f6fcb21ac7bb337"
+hash = "0a937eec42fc887359eac9fb8b7a858bc143ed154908739ed6d1738bbbb918d3"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.update_guide.txt"
+hash = "ffd72f74aa736ff301200a622d987737ee14ddfe411c83a965feab1a48aaa010"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.updater.txt"
-hash = "59a35ac0bbe998301a98e1e6471cb0d2028f44db8dde89919ba70f310e2dc1d1"
+hash = "feb66145bce6cf36d3fb40cd7765628fdde6b83c23705c25285531452c88088f"
 
 [[files]]
 file = "config/fancymenu/customization/credits.txt"
@@ -550,7 +554,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "38cb6e3876f5244fb6f3a5b9f13f739f5b81cf94c8ba19c565dec23290481d41"
+hash = "491fcd6a9c29729135def66f1ea196c457783d197f4df610e53340455f0f83f7"
 
 [[files]]
 file = "config/fast-chest.properties"
