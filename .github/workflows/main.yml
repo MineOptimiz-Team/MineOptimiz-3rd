@@ -4,7 +4,7 @@ on:
   push:
     branches: '**'  
     tags-ignore:
-      - '*_latest_testing'
+      - '*_latest*'
     paths-ignore: 
       - 'README.md'
   workflow_dispatch:
@@ -71,13 +71,12 @@ jobs:
           cd overrides
           packwiz modrinth export
           mv ./*.mrpack "MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack"
-          cp ./"MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack" "MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+testing_latest.mrpack"
       
       - name: Upload MineOptimiz to Artifact
         uses: actions/upload-artifact@v4
         with:
           name: MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}
-          path: "./overrides/MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack"
+          path: ./overrides/*.mrpack
      
       - name: Upload MineOptimiz to Releases
         uses: marvinpinto/action-automatic-releases@master
@@ -85,6 +84,6 @@ jobs:
           title: "MineOptimiz ${{ env.MC_VERSION }} ${{ env.LOADER }} Testing Latest"
           automatic_release_tag: "${{ env.MC_VERSION }}_${{ env.LOADER }}_latest_testing"
           repo_token: "${{ secrets.UPLOAD_TO_RELEASES }}"
-          files: "./overrides/MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+testing_latest.mrpack"
+          files: ./overrides/*.mrpack
           prerelease: true
         
