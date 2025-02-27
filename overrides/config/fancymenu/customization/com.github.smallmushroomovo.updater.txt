@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.updater
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1740627341514
+  last_edited_time = 1740627993082
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:3ebf3be8-f5c5-4772-8fa1-a600f5227971-1740625598056] = [groups:][instances:]
+  [loading_requirement_container_meta:d78b8cc6-2e28-413d-bd8b-b46d8ef0637e-1740627981246] = [groups:][instances:]
 }
 
 customization {
@@ -136,7 +136,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 59c32c38-467e-46e1-9545-0ab133a3a85b-1740626881739
-  [executable_action_instance:6f6ca8a4-b192-42af-9d9e-af0d33f3aa6a-1740627070646][action_type:opengui] = com.github.smallmushroomovo_switch_channel
+  [executable_action_instance:6f6ca8a4-b192-42af-9d9e-af0d33f3aa6a-1740627070646][action_type:opengui] = com.github.smallmushroomovo.switch_channel
   [executable_block:59c32c38-467e-46e1-9545-0ab133a3a85b-1740626881739][type:generic] = [executables:6f6ca8a4-b192-42af-9d9e-af0d33f3aa6a-1740627070646;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
