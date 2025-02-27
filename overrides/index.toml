@@ -885,7 +885,7 @@ file = "config/travelersbackpack.json5"
 hash = "d1f8e7bfc52f108693e8784a4463cbbf707e41d5f593aca199931226b2b4c2f8"
 
 [[files]]
-file = "config/tweakerge.json"
+file = "config/tweakeroo.json"
 hash = "8a658c6522caac72f3cb9c3f6d4737ce7c5ed07fc49884f151fa21b2236a1ac6"
 
 [[files]]
@@ -1243,8 +1243,8 @@ hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
 metafile = true
 
 [[files]]
-file = "mods/mafglib.pw.toml"
-hash = "d848c65a8efab21ca7ac671104c53afbb295ddfb60f9987c103435b44ec27aff"
+file = "mods/malilib.pw.toml"
+hash = "5238ec891dc1faa029af6747b1dffd7ebb5dfdfdbf915314ad4c721c98f7c829"
 metafile = true
 
 [[files]]
@@ -1347,8 +1347,8 @@ hash = "ef412cacd28375655d5e3aa1a174c7c78f7ee68a4ab82b5702b87e961fcc3f9b"
 metafile = true
 
 [[files]]
-file = "mods/tweakerge.pw.toml"
-hash = "664d5242c52fdc6a20ec85cc435770b722e936d97418604fb7a2b2ab32d618f5"
+file = "mods/tweakeroo.pw.toml"
+hash = "844f37288ffe2c9fafe94ff4569cb0da77169a1904ca133738957e271dede04d"
 metafile = true
 
 [[files]]
