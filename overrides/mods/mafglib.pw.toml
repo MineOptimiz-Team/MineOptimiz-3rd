@@ -1,13 +1,13 @@
 name = "MaFgLib"
-filename = "MaFgLib-0.2.7-mc1.21.1.jar"
+filename = "MaFgLib-0.2.8-mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SKI34J7B/versions/vVWFPxgR/MaFgLib-0.2.7-mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/SKI34J7B/versions/ShceJDbG/MaFgLib-0.2.8-mc1.21.1.jar"
 hash-format = "sha512"
-hash = "a1d7af30f855f0210546aeee61782936a46f41cca7e546449d7ef11d8b9ef20c65ce0122443da99730d5eb2a2107c8d389f82473c375e8d2862917dbd33904d0"
+hash = "5e0352022d9521ec8983047af067b1d39f95f6f696b6a40f5b93124a3a321531e00e67d1f262f84ece1fd6fc1297c292f9278534615bab8726292cce0aca3a80"
 
 [update]
 [update.modrinth]
 mod-id = "SKI34J7B"
-version = "vVWFPxgR"
+version = "ShceJDbG"

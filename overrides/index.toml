@@ -1033,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "8dd8236c6e1160f54fb27d72733b7143c01350ede7a4772d9986ed4725526758"
+hash = "ac47ee003113ae837b39e7cf6b7d17aca25464f3540e825f1a45e7da3bc9928a"
 metafile = true
 
 [[files]]
@@ -1228,7 +1228,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "1c71cb42b6a214f5412fe6a538877ab96e5f3dc5a814ae77d4088b26a0a9a060"
+hash = "d848c65a8efab21ca7ac671104c53afbb295ddfb60f9987c103435b44ec27aff"
 metafile = true
 
 [[files]]
