@@ -270,7 +270,7 @@ hash = "627a6b7f01ef00d8cdb5fcc2bd52a7e9a6e210fe16792191a95b40f4d463bf66"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "3b3193da26795d0247bf362b755f7faee44817f6f367323c92b018f6df8f4ce5"
+hash = "810d154352ba22feb6a164aac0295efab2e8fd5f847c9e7c4ee5b78c57a4bcde"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -326,7 +326,7 @@ hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
-hash = "38ffc4e990a8330892bdd6e6c36211d1bd71292dce7804227ec269184c00c56d"
+hash = "1fbfe3878c6acfe2faafd3b7ec3734ef21e42dfebb7fda44ec64c7396ceb7bd0"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
@@ -354,15 +354,19 @@ hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.switch_channel.txt"
-hash = "64b4b4473b3bcb57795966f34415fe5f2fd963f2ff38c2d923cad23df7cfd2c9"
+hash = "862e43d85644ce61aab8d7b182ccf9e884da8d2565b6e32ae363dbd1fa77e4d1"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
-hash = "d75c41b2ed6be58c90a0ae57114cbe1b7ca4c02630d2711d8f6fcb21ac7bb337"
+hash = "0a937eec42fc887359eac9fb8b7a858bc143ed154908739ed6d1738bbbb918d3"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.update_guide.txt"
+hash = "ffd72f74aa736ff301200a622d987737ee14ddfe411c83a965feab1a48aaa010"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.updater.txt"
-hash = "15dde81cbfc0d14511e0357bbbf0958b6edc475536050b70c04d113c5d595df7"
+hash = "e25d04129394241062dbe5d4892fea6e836fe18fb20545cc4d3ef64c21804b64"
 
 [[files]]
 file = "config/fancymenu/customization/credits.txt"
@@ -550,7 +554,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "f98fcc0a4b3d2303a9c986235d915b4c9a7ca1e3e4c9ed879e45e491f2a660db"
+hash = "a3e4df34aad36e64d5c5aba6dc82c22722f4eb62209f671199c14db7b93bd973"
 
 [[files]]
 file = "config/fast-chest.properties"
@@ -802,7 +806,7 @@ hash = "f85cfe5be014a1801d19c336bbc2e15b4e2e708604cdc9da941206d4a29fbc30"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "b5d89f0a25bd5645cd13278289172d529f2dd2b8982376bcd6b69e4928dff484"
+hash = "c0009e18a79931a6c3b4c8729e2bbc42893d3511ef189693ca1a5246956cb2a7"
 
 [[files]]
 file = "config/moreculling.toml"
