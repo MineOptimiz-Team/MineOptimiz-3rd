@@ -874,7 +874,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "3fcd3c9271e2afce7982c47c4dc1274fe3dfd5b8e8a6ecaff102be07d4cf8b4b"
+hash = "ca6af82f863d3b47d3ab81b8c7598cc0e7892ed9da908c4c70ac661fb8ab4ea0"
 
 [[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
