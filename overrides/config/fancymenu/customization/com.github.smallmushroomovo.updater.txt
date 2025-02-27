@@ -78,12 +78,12 @@ element {
 
 element {
   button_element_executable_block_identifier = 6e03201a-3d04-440a-8235-d32e5c719f81-1740625601495
-  [executable_action_instance:49a02b69-9db6-400a-9569-d03f7884a476-1740626991019][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_testing_update_channel/update.bat
+  [executable_action_instance:49a02b69-9db6-400a-9569-d03f7884a476-1740626991019][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/21.4/fabric_testing_update_channel/update.bat
   [executable_block:2d391dd0-07b2-414d-9b6c-48b6d869ce02-1740627275122][type:if] = [executables:49a02b69-9db6-400a-9569-d03f7884a476-1740626991019;]
   [if_executable_block_body:2d391dd0-07b2-414d-9b6c-48b6d869ce02-1740627275122] = cc55dc54-0321-4f53-a907-55f72e5b6ee5-1740627267795
   [loading_requirement_container_meta:cc55dc54-0321-4f53-a907-55f72e5b6ee5-1740627267795] = [groups:][instances:9f05f06e-14dc-4016-ade0-dbff40e0c941-1740627268426;]
   [loading_requirement:fancymenu_loading_requirement_is_os_windows][requirement_mode:if][req_id:9f05f06e-14dc-4016-ade0-dbff40e0c941-1740627268426] = 
-  [executable_action_instance:3d4c9a7a-ba2f-4579-91fc-2957734ab246-1740627309236][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_testing_update_channel/update.sh
+  [executable_action_instance:3d4c9a7a-ba2f-4579-91fc-2957734ab246-1740627309236][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/21.4/fabric_testing_update_channel/update.sh
   [executable_block:fb85326e-097c-4389-b066-7585c807991f-1740627301739][type:if] = [executables:3d4c9a7a-ba2f-4579-91fc-2957734ab246-1740627309236;]
   [if_executable_block_body:fb85326e-097c-4389-b066-7585c807991f-1740627301739] = d1bdcd4d-1add-4222-a60f-308ea61367f0-1740627294234
   [loading_requirement_container_meta:d1bdcd4d-1add-4222-a60f-308ea61367f0-1740627294234] = [groups:][instances:1edf07db-211a-45bc-9928-eb74c4731fb3-1740627295443;]
