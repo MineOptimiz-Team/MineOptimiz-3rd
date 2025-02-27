@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.updater
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1740641199191
+  last_edited_time = 1740659346151
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:c0cc16f5-3566-4d8f-ac0a-f65dfa04f01e-1740641020870] = [groups:][instances:]
+  [loading_requirement_container_meta:de0ca658-76e0-4974-95c5-f7aa6193f95b-1740659321445] = [groups:][instances:]
 }
 
 customization {
@@ -120,7 +120,7 @@ element {
   [if_executable_block_body:efe794e4-6d02-4b02-a03d-caafee63e5ad-1740636410197] = a2680eac-c4f1-4ac1-8489-ea96e10379c2-1740636336333
   [loading_requirement_container_meta:a2680eac-c4f1-4ac1-8489-ea96e10379c2-1740636336333] = [groups:][instances:b7eaf9db-aa48-4d91-8395-4076c4914cea-1740636337775;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:b7eaf9db-aa48-4d91-8395-4076c4914cea-1740636337775] = version_channel:stable
-  [executable_block:6e03201a-3d04-440a-8235-d32e5c719f81-1740625601495][type:generic] = [executables:c5cc36c0-047f-48fa-808a-66533d05c1f5-1740627105540;b582de4e-2a14-4755-8de0-3fa97501a168-1740636164528;efe794e4-6d02-4b02-a03d-caafee63e5ad-1740636410197;]
+  [executable_block:6e03201a-3d04-440a-8235-d32e5c719f81-1740625601495][type:generic] = [executables:c5cc36c0-047f-48fa-808a-66533d05c1f5-1740627105540;efe794e4-6d02-4b02-a03d-caafee63e5ad-1740636410197;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
