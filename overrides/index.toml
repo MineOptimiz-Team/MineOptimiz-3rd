@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "c37dcee10bedbb5b6c68c76488d904e9da59431b9d0220566c12ec28c1069212"
+hash = "0c32fe0ba692994312c8934087ea948fb4326cb02412adb646a9f21c37de0ccc"
 metafile = true
 
 [[files]]
@@ -1357,7 +1357,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
+hash = "8ff792fd5c8d9225709b317b49cc741233bfa6958f27edd8a2c8da50b4ff34fd"
 metafile = true
 
 [[files]]
@@ -1372,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6ff2d13b8fec782d3a55207c90470591fd5aa36d4fab3562f8334a66cab60ab"
+hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
 metafile = true
 
 [[files]]
