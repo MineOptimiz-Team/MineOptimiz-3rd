@@ -9,7 +9,6 @@ on:
       - 'README.md'
       - 'versions/*'
       - 'meta.json'
-      - 'licenceofmods.txt'
   workflow_dispatch:
 
 jobs:
