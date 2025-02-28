@@ -106,12 +106,12 @@ element {
   [if_executable_block_body:b582de4e-2a14-4755-8de0-3fa97501a168-1740636164528] = 0cdda21c-7276-4a68-aeb0-95caa255f06d-1740636137917
   [loading_requirement_container_meta:0cdda21c-7276-4a68-aeb0-95caa255f06d-1740636137917] = [groups:][instances:24d48f7c-53d0-4f08-a4a9-6deaea60b5bc-1740636139861;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:24d48f7c-53d0-4f08-a4a9-6deaea60b5bc-1740636139861] = version_channel:pocket
-  [executable_action_instance:f4e1a834-49e9-4f9e-93f0-d9794d44c351-1740636471038][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_stable_update_channel/update.sh
+  [executable_action_instance:f4e1a834-49e9-4f9e-93f0-d9794d44c351-1740636471038][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/fabric_stable_update_channel/update.sh
   [executable_block:6565fc57-03b1-4685-82c1-31c2f377a5fb-1740636433154][type:if] = [executables:f4e1a834-49e9-4f9e-93f0-d9794d44c351-1740636471038;]
   [if_executable_block_body:6565fc57-03b1-4685-82c1-31c2f377a5fb-1740636433154] = 4056bb27-528f-4f39-8ff8-f095c63f62c5-1740636427314
   [loading_requirement_container_meta:4056bb27-528f-4f39-8ff8-f095c63f62c5-1740636427314] = [groups:][instances:71e77e97-27fc-49ea-81ff-e5acddba7ddf-1740636428299;]
   [loading_requirement:fancymenu_loading_requirement_is_os_linux][requirement_mode:if][req_id:71e77e97-27fc-49ea-81ff-e5acddba7ddf-1740636428299] = 
-  [executable_action_instance:81059d1d-afd5-48d9-9778-2929e70b6f57-1740636443625][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_stable_update_channel/update.bat
+  [executable_action_instance:81059d1d-afd5-48d9-9778-2929e70b6f57-1740636443625][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/fabric_stable_update_channel/update.bat
   [executable_block:8ff0d814-84a9-4a2d-9fc1-ee2e1ace5c66-1740636421371][type:if] = [executables:81059d1d-afd5-48d9-9778-2929e70b6f57-1740636443625;]
   [if_executable_block_body:8ff0d814-84a9-4a2d-9fc1-ee2e1ace5c66-1740636421371] = 8dd75f91-abfd-4019-a8d3-3cd4a098806c-1740636415469
   [loading_requirement_container_meta:8dd75f91-abfd-4019-a8d3-3cd4a098806c-1740636415469] = [groups:][instances:1134dfb8-bd96-41cd-89bf-ee85a41d95b5-1740636416740;]
