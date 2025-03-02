@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "f930833168432be3ca76d0f6e27166964aaaf70e408f61dcc391010ae23ae9c2"
+hash = "17e2a65f7b2f41a6313829a0b8eb2c34c188d8b9bdc97526551f0bbc943852af"
 
 [[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
