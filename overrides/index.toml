@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "3b9cb7608aa6df12bea33350a5d15da8185a738cbbc90606eba38ce5b70f7377"
+hash = "190b86c3b2b0a47548a92c9ad8678d063b1adca5ec095c4360ca02def34511c8"
 
 [[files]]
 file = "ViaFabricPlus/settings.json"
