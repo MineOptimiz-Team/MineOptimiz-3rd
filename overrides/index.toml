@@ -1173,7 +1173,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "b4758c737c9d3dc39b559e7df6cdace04f697a224731a44d875a2839c4358980"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
 
 [[files]]
