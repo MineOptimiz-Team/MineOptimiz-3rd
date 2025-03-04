@@ -1,27 +1,57 @@
 # MineOptimiz
-![主界面](https://123smallmushroom.github.io/mineoptimiz/main_menu.jpg)
-## 介绍
-MineOptimiz是一个支持fabric, (neo)forge双端的优化+辅助整合包
-## 支持的Minecraft版本
-| 版本                  | 模组加载器与渲染器                                             | 维护状态            |
-|-----------------------|---------------------------------------------------------------|--------------------|
-| 1.20.1                | forge, fabric                                                 | 持续更新            |
-| 1.21.1                | neoforge(embeddium, sodium), fabric(sodium, vulkanmod)        | 持续更新            |
-| 1.21.4                | fabric                                                        | 持续更新            |
-| 1.18.2                | forge, fabric                                                 | 不再更新            |
-| 1.20.6                | fabric                                                        | 不再更新（半成品）   |
-| 1.19.4                | fabric(sodium, optifine)                                      | 不再更新            |
-| 1.17.1                | fabric                                                        | 不再更新            |
-| [1.12.2](https://www.123pan.com/s/jtiDVv-XMmWA.html)   | forge                        | 不再更新             |
+
+![MineOptimiz封面图](https://123smallmushroom.github.io/mineoptimiz/main_menu.jpg)
+
+Minecraft多平台优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供性能优化与辅助功能集成。
+
+## 核心特性
+
+- 🚀 ​**跨版本支持**​ - 覆盖多个主流版本  
+- 🛠️ ​**双加载器兼容**​ - 同时支持 Fabric 和 (Neo)Forge  
+- 📊 ​**性能倍增**​ - 集成 Sodium（Embeddium） 等渲染优化模组  
+- ✨ **OptiFine功能支持** - 使用资源包与开源模组实现几乎所有OptiFine功能
+- 📱 ​**移动设备支持**​ - 提供 Android 设备[专用版本](https://github.com/MineOptimiz-Team/MineOptimiz-3rd?tab=readme-ov-file#-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%94%AF%E6%8C%81)
+
+## 版本支持
+
+| MC 版本  | 模组加载器           | 渲染方案                          | 维护状态       |
+|----------|---------------------|-----------------------------------|----------------|
+| 1.21.4   | Fabric              | Sodium / VulkanMod                | ✅ 持续更新    |
+| 1.21.1   | NeoForge / Fabric   | Embeddium / Sodium / VulkanMod    | ✅ 持续更新    |
+| 1.20.1   | Forge / Fabric      | Embeddium                         | ✅ 持续更新    |
+| 1.18.2   | Forge / Fabric      | Sodium                            | ❌ 不再更新    |
+| 1.20.6*  | Fabric              | Sodium                            | ❌ 不再更新    |
+| 1.19.4   | Fabric              | Sodium / OptiFine                 | ❌ 不再更新    |
+| 1.17.1   | Fabric              | Sodium                            | ❌ 不再更新    |
+| 1.12.2   | Forge               | OptiFine                          | ❌ 不再更新    |
+
+ - *: 1.20.6版本为半成品
+
 ## 下载
- - 你可以在[Github Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases)下载所有2024年5月以后的版本（旧版本见[下文](https://github.com/MineOptimiz-Team/MineOptimiz-3rd?tab=readme-ov-file#旧版本)）
- - 除此之外，你也可以在[MineOptimiz的网站](https://123smallmushroom.github.io/mineoptimizindex.html)下载
- - [1.12.2下载](https://www.123pan.com/s/jtiDVv-XMmWA.html) 
- ## 关于在Android设备上启动MineOptimiz
- - 见[MineOptimiz Pocket](https://github.com/smallmushroomovo/MineOptimiz-Pocket)
- ## 关于内含模组的许可协议
- - [点击此处查看](https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/licenceofmods.txt)
- ## 旧版本
- - [旧的仓库(MineOptimiz-Next)](https://github.com/smallmushroomovo/MineOptimiz-Next)
- - [旧的仓库(MineOptimiz)](https://github.com/123SmallMushroom/MineOptimiz)
- - [网盘下载(仅旧版)](https://www.123pan.com/s/jtiDVv-oEmWA.html)
+
+- [GitHub Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/release): 2024年5月以后的所有版本 
+- [Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions): 测试版
+- 旧版: [见下文](https://github.com/MineOptimiz-Team/MineOptimiz-3rd?tab=readme-ov-file#%EF%B8%8F-%E9%A1%B9%E7%9B%AE%E6%B2%BF%E9%9D%A9)
+
+### 历史版本
+- 1.12.2: [网盘下载](https://www.123pan.com/s/jtiDVv-XMmWA.html)
+
+## 扩展说明
+
+### 📱 移动端支持
+---
+
+>移动端支持目前处于测试阶段，可能会出现崩溃的情况！
+
+---
+[MineOptimiz Pocket](https://github.com/smallmushroomovo/MineOptimiz-Pocket)
+
+### ⚖️ 许可协议
+整合包内包含模组的许可声明详见：[许可协议文件](https://123smallmushroom.github.io/license_of_mods.txt)
+
+### 🕰️ 项目沿革
+- ​**当前主仓库**: MineOptimiz-3rd  
+- ​**历史迭代版本**:
+  - [MineOptimiz-Next](https://github.com/smallmushroomovo/MineOptimiz-Next)
+  - [MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)
+
