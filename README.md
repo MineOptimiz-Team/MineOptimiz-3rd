@@ -40,7 +40,7 @@ Minecraft多平台优化整合包，支持 Fabric/(Neo)Forge 双模组加载器�
 ### 📱 移动端支持
 ---
 
->移动端支持处于测试阶段，可能会出现崩溃的情况！
+>移动端支持目前处于测试阶段，可能会出现崩溃的情况！
 
 ---
 [MineOptimiz Pocket](https://github.com/smallmushroomovo/MineOptimiz-Pocket)
