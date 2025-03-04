@@ -9,7 +9,7 @@ Minecraft多平台优化整合包，支持 Fabric/(Neo)Forge 双模组加载器�
 - 🚀 ​**跨版本支持**​ - 覆盖多个主流版本  
 - 🛠️ ​**双加载器兼容**​ - 同时支持 Fabric 和 (Neo)Forge  
 - 📊 ​**性能倍增**​ - 集成 Sodium（Embeddium） 等渲染优化模组  
-- **OptiFine功能支持** - 使用资源包与开源模组实现几乎所有OptiFine功能
+- ✨ **OptiFine功能支持** - 使用资源包与开源模组实现几乎所有OptiFine功能
 - 📱 ​**移动设备支持**​ - 提供 Android 设备[专用版本](https://github.com/MineOptimiz-Team/MineOptimiz-3rd?tab=readme-ov-file#-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%94%AF%E6%8C%81)
 
 ## 版本支持
