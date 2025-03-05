@@ -274,7 +274,7 @@ hash = "0f237cfe9d511cd9c17693933e288c3bf92f4aca6ef5f90f03110b1ba962d0f5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "35be67e056a7f39e1af48ce05865395ef82d117304178d009658be315d56a1d7"
+hash = "deb553f8054f9d8f18b56bca6bbd24f8596e0bb3810d4c1058082ed261088f5a"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -342,7 +342,7 @@ hash = "04bed7050ec3efd7ac1a672b474985d43d10b7619340442d53262bb10fa95584"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
+hash = "b1a66503bbb447066159a84059092d2fef83d5da414126d7e528bba220ecee8b"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
@@ -1213,11 +1213,6 @@ hash = "6f8fa473a74b8411cb9c639118a1a2f2e1e28c8582b8e85731225b9dd27d4739"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "c29648a250d8b767119dd0526bc1ddbbdba5b1b29d7c82c1578e506682ca495b"
-metafile = true
-
-[[files]]
 file = "mods/in-game-account-switcher.pw.toml"
 hash = "7c86df596328f38110a6f0de8b84ddcaef91b3cc9b9fd70d0320fdbe0332e47f"
 metafile = true
@@ -1303,16 +1298,6 @@ hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
 metafile = true
 
 [[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "287a28faac07e805d78e967bc810a370fe0ed90db9c9fe3d5122dec3bae91da7"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "0c32fe0ba692994312c8934087ea948fb4326cb02412adb646a9f21c37de0ccc"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "db4c4bb1ceed1ac383c7f83c57386aeb9799e09a9c722ad4566556d80ee50570"
 metafile = true
@@ -1381,21 +1366,6 @@ hash = "8ff792fd5c8d9225709b317b49cc741233bfa6958f27edd8a2c8da50b4ff34fd"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "56a0e243140dc1dbdb89c5a7a1cbcbe6e8d6da5499242bd1eabf548bbb8e3481"
-metafile = true
-
-[[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
-metafile = true
-
-[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "0bfe8d0a4dc04d45a0b3c1efdc283f9482a1f1a6f5380cf50138ac3f49113ffa"
 metafile = true
@@ -1403,6 +1373,11 @@ metafile = true
 [[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "c462f49426404ef8c6eb3208e3e34cdd3dcc452dbbdb881d2a2da45ce3e254f3"
+metafile = true
+
+[[files]]
+file = "mods/vulkanmod.pw.toml"
+hash = "8e712cd1c96b80851ccb0ae6da7d647e42edc052837114399191ca858011d897"
 metafile = true
 
 [[files]]
