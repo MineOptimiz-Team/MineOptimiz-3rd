@@ -326,7 +326,7 @@ hash = "0f237cfe9d511cd9c17693933e288c3bf92f4aca6ef5f90f03110b1ba962d0f5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "cac4d2f457305c3f89dbaa89e0d3a6dfe4068e47354aabf2d282b6b00e7ccdab"
+hash = "8e064aea9c44489662d2099c2bbc61f9afcde009106245c69f28995943449102"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -378,7 +378,7 @@ hash = "1d32bf610d8c28d2da9b2dea1afe1dcb9e85df0791e8f983a1d1569b46e764d4"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
+hash = "4ff77af14637effa14cddc2b498b0e8fd047ef28570d0902ca9349690fc2b9f1"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
@@ -386,7 +386,7 @@ hash = "99c83b85cd318825afdace069a76c7965842228705ccf961c89b886ccd56d23c"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
-hash = "e2337bfdfe609e159aabbafd12a36a06a97be6d46433cd9f2c41a727d0521f11"
+hash = "06cce3d74ea0eb86136bee7ab06dccf021d84870ef62d8ada1b858da12eaaaf6"
 
 [[files]]
 file = "config/fancymenu/customization/addtesting.txt"
@@ -555,6 +555,10 @@ hash = "655127453217fd3f1fb6bc950cfe24ee4415531a0aaa36486816cf2ae9efa03b"
 [[files]]
 file = "config/fancymenu/customization/uisettings_eng.txt"
 hash = "c8ef05020941bfcb10d5bbd4bf06bfadb857aacdcb2387e222e277a54351e621"
+
+[[files]]
+file = "config/fancymenu/customization/unsupported_check_update.txt"
+hash = "59e51c10cdb63f95cb128ee55315e671d44fe5003b7dd186b2911bb231bbce20"
 
 [[files]]
 file = "config/fancymenu/customization/updater.txt"
@@ -1523,11 +1527,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
-metafile = true
-
-[[files]]
-file = "mods/fpsdisplay.pw.toml"
-hash = "316fedfe4980be862ff26153ae4d5603ab4e2637fa6e1125b91f5d5989b06753"
 metafile = true
 
 [[files]]
