@@ -1477,11 +1477,6 @@ hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "535ac3f1345c2955213d29f1fa797f2057f7f986cb9c6bbff80d657fee73128b"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
 metafile = true
@@ -1547,13 +1542,18 @@ hash = "6f8fa473a74b8411cb9c639118a1a2f2e1e28c8582b8e85731225b9dd27d4739"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "465d7aac3ab99e38561354e331b640016f9ea82379b4d1e56b417bef8a881e92"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
@@ -1682,6 +1682,11 @@ hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "fb53720ae88ceae5766d15a3e85da6d9ab4648f09c769cc2c68fa30dd8a120ea"
 metafile = true
@@ -1714,6 +1719,16 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "6b7e9ed619297a29eb6db95f860734144876aa68922de63a05409b65ad8bd163"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "85d1d46ce862ad175082a0fd7839d497ba066c053630dbd159c223a0e4646a6c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
