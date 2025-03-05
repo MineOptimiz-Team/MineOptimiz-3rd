@@ -1238,7 +1238,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "8015f986a77ff647c8a4c772555cfdc8911373f0ffd10a7c425a0374c1ac0336"
+hash = "e0797cbb8ad40fd83b7292c9a40ca848fa56ae2177149ba85aa787dd3e17a3dd"
 
 [[files]]
 file = "config/swordblocking.json"
