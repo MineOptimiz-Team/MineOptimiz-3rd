@@ -2,7 +2,8 @@ name: Export Modrinth Pack
 
 on:
   push:
-    branches: '**'  
+    branches-ignore:
+      - 'removing*'
     tags-ignore:
       - '*_latest*'
     paths-ignore: 
@@ -79,7 +80,7 @@ jobs:
           path: ./overrides/*.mrpack
      
       - name: Upload MineOptimiz to Releases
-        uses: marvinpinto/action-automatic-releases@master
+        uses: rearrangement/auto-releases@v1.1
         with:
           title: "MineOptimiz ${{ env.MC_VERSION }} ${{ env.LOADER }} Testing Latest"
           automatic_release_tag: "${{ env.MC_VERSION }}_${{ env.LOADER }}_latest_testing"

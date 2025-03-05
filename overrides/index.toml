@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "f930833168432be3ca76d0f6e27166964aaaf70e408f61dcc391010ae23ae9c2"
+hash = "17e2a65f7b2f41a6313829a0b8eb2c34c188d8b9bdc97526551f0bbc943852af"
 
 [[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
@@ -629,8 +629,12 @@ file = "config/ingameime.json"
 hash = "a691efb5262d0b4f56be1a537066f198f55cdfcc61b5fac14d3550e846f89ece"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "09b364d1ec71ff8f875399179aae02c1a627cd692bca9c3fb59f571312d2329a"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "4440372df6a8412f900879a25e4435578e582bc050cfca41901160e5daf1769a"
+hash = "1014b21c2515a67e6cb19429a0e3083e98a8eb7be0dd17c063f49a23d2295575"
 
 [[files]]
 file = "config/inventoryprofilesnext/prev-villager-trading-config-v2.json"
@@ -726,7 +730,7 @@ hash = "99b11187107f1c763bc743c6eb6b2d712a8d852c82c967bd46ed962b8f0e84fe"
 
 [[files]]
 file = "config/malilib.json"
-hash = "644828eebc76a12c81af358f12858257860e2f1ff602e69c019b487305b7edbe"
+hash = "7bb702d5e42e2180cf05e39660ce2a1885479c2d101469fcae99d9a564205be7"
 
 [[files]]
 file = "config/midnightcontrols.json"
@@ -735,6 +739,10 @@ hash = "327e8f9837373688a2c96be1f940db74ce2f578afa0cb6035faeddd0c33922fc"
 [[files]]
 file = "config/midnightlib.json"
 hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
+
+[[files]]
+file = "config/minihud.json"
+hash = "38c54dc230877d2566d28c4890cc79286d2b985f5f1b10ed907e49fafd490283"
 
 [[files]]
 file = "config/mod_menu-client.toml"
@@ -862,7 +870,7 @@ hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "d0bddd247bc052736a2aba965b50d8777fb18518533a748f695e197edefce5eb"
+hash = "bd39e3a5073ad408f27a1fcaab241c3e919ddeaee8d6e482ad588263b5c5d90e"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -982,35 +990,35 @@ hash = "16378526d4eef3c926811f1f7aa695b6d13c705ef8fac350329175db8e141d5d"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
-hash = "fb2d042fcc392d072f2003ea427bb352b9d25110eb1da6fa8e9d3694481f9ae4"
+hash = "b717ee20c08ea6aeea3227db7bd69b351f509eaa82ee8558f2b64ac2dd27ee98"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "1d8a74ba0725633a8a7891af99a889d03968394095357e518447ad69c552cb6c"
+hash = "b3fc7dc95c847f507e798aae18f0fef5678b50b2e15d827347ae71a4431a1dbc"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "75de1b863cb3f1299478e5fe6059e439495de75fd1aa03cac8e30421b6162a92"
+hash = "1a2122a56cd875c4b95cf67e892cb7e00ea5e084b9014ca125061bf8eee6c740"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "b1b2bdfe2107c92c9ffa67718866aa6e5351a880355b1bf5bb4887b34da3d276"
+hash = "0304eb598ac7567fa95bda96d95b1af9420a098b299a9b5ef17480480ddc94c0"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
-hash = "bec0b3466e80874ffbf010443801f02c7fcda41d6e3b3c1ee20520c22c97bfff"
+hash = "23dc6a845844fb3841e6c608f60aa1e8ce48bbb7e35b45f9827a485455b30535"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.topo.config"
-hash = "59b35e4676d797f7452f3e4f9525ecb3411b4b97cb2a0040cbd9d07f03539851"
+hash = "68ecbaac85382a865e9048b1109748201816ac0164bd20b8ae529651e6039977"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "779627397a576fda0f8d1ba4c4cae8032067f6a4ed4f20fda6df3ab58164a27e"
+hash = "8b640d545ba8782291b51f042ce352608875e7fd85fd703216361201ac207afd"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
-hash = "50465d7a5782a9d0f953f6af647a85245ac6adbaf616c993fca50f53a04bcffa"
+hash = "2e4c6912515ef7e2dfc7762a1126cdcbc98c919979bb45c6aab7932ec7b62299"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1043,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "25adfb170146ebcd1ae239873ea9b51f9f7fbe5a62b300a0d837e2b74d22083c"
+hash = "6b2acf5bcbfedd5b422e3aafb6821e98b4d6c697f21f25d8385696a8d0095379"
 metafile = true
 
 [[files]]
@@ -1053,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "ac47ee003113ae837b39e7cf6b7d17aca25464f3540e825f1a45e7da3bc9928a"
+hash = "fb0e421d4a9387c6edadd054462b77c604e101bdd4d4116a89f23a61ea5717cc"
 metafile = true
 
 [[files]]
@@ -1183,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
+hash = "7df9cfa47eeb1f996df4699e433e9a0be6c9bbed7a4743647cd745d7b87b694a"
 metafile = true
 
 [[files]]
@@ -1243,12 +1251,17 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "5238ec891dc1faa029af6747b1dffd7ebb5dfdfdbf915314ad4c721c98f7c829"
+hash = "6761c59fdc7059d5797118a0dd925f51fdf5e796367b8309467acd1dfa9fe88e"
 metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "cc94211ef4b32ca6365635ee34f76e1ed98b67dafc5fd0dcf825c296a8062562"
 metafile = true
 
 [[files]]
@@ -1268,7 +1281,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "1a06479cf811afadf8eb5b5a8cbb0c01bbda2f102530b44c86559b8450d3fb21"
+hash = "79f35f22195f423ee3c1623ff4a048594c05b8479cab0dfef69cc80799f9075d"
 metafile = true
 
 [[files]]
@@ -1308,7 +1321,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "c5856f1225bd85cc7ee1020a916e6ca23cb12e94e23bd230e3401ec287ba6ee0"
+hash = "d525f4f3a1bc9358a21159f335989da1d467dd75eccb9fdb14263aec6366ed53"
 metafile = true
 
 [[files]]
@@ -1329,6 +1342,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/simple-close-button.pw.toml"
+hash = "3d27c9a795734426f354ff2886b488290dc10357c1a4764e2d7c0294f84e6710"
 metafile = true
 
 [[files]]
@@ -1358,7 +1376,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "844f37288ffe2c9fafe94ff4569cb0da77169a1904ca133738957e271dede04d"
+hash = "ec5dd4138470103b5e66536d62ec018f54d910a0655ec72c1a6358b8e18b3da3"
 metafile = true
 
 [[files]]
