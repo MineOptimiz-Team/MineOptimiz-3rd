@@ -110,6 +110,14 @@ custom_gui {
   transparent_world_background_overlay = true
   pause_game = true
 }
+custom_gui {
+  identifier = com.github.smallmushroomovo.update_guide
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
 
 custom_gui {
   identifier = io.123smallmushroom.quitgame
@@ -175,6 +183,15 @@ custom_gui {
 }
 
 custom_gui {
+  identifier = com.github.smallmushroomovo.switch_channel
+  title = 切换更新频道
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
   identifier = io.123smallmushroom.update
   title = 
   allow_esc = true
@@ -184,8 +201,26 @@ custom_gui {
 }
 
 custom_gui {
+  identifier = com.github.smallmushroomovo.updater
+  title = 更新整合包
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
   identifier = io.123smallmushroom.jubao
   title = 彩蛋
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = com.github.smallmushroomovo.update
+  title = 更新
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true

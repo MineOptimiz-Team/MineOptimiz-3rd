@@ -2,9 +2,10 @@ name: Export Modrinth Pack
 
 on:
   push:
-    branches: '**'  
+    branches-ignore:
+      - 'removing*'
     tags-ignore:
-      - '*_latest_testing'
+      - '*_latest*'
     paths-ignore: 
       - 'README.md'
       - 'refresh_index.yml'
@@ -60,7 +61,7 @@ jobs:
       - name: Process Metadata
         run: |
           SHORT_SHA=${GITHUB_SHA::7}
-          echo "VERSION=3.211.1" >> $GITHUB_ENV  
+          echo "VERSION=3.211.2" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.1" >> $GITHUB_ENV
           echo "LOADER=vulkanfabric" >> $GITHUB_ENV
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
@@ -72,11 +73,10 @@ jobs:
           cd overrides
           packwiz modrinth export
           mv ./*.mrpack "MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack"
-          cp ./"MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack" "MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+testing_latest.mrpack"
       
       - name: Upload MineOptimiz to Artifact
         uses: actions/upload-artifact@v4
         with:
           name: MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}
-          path: "./overrides/MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack"
+          path: ./overrides/*.mrpack
      
