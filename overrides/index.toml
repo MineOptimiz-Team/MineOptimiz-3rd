@@ -1208,11 +1208,6 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
-file = "mods/fpsdisplay.pw.toml"
-hash = "316fedfe4980be862ff26153ae4d5603ab4e2637fa6e1125b91f5d5989b06753"
-metafile = true
-
-[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
 metafile = true
