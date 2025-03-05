@@ -18,7 +18,7 @@ Minecraft多平台优化整合包，支持 Fabric/(Neo)Forge 双模组加载器�
 |----------|---------------------|-----------------------------------|----------------|
 | 1.21.4   | Fabric              | Sodium / VulkanMod                | ✅ 持续更新    |
 | 1.21.1   | NeoForge / Fabric   | Embeddium / Sodium / VulkanMod    | ✅ 持续更新    |
-| 1.20.1   | Forge / Fabric      | Embeddium                         | ✅ 持续更新    |
+| 1.20.1   | Forge / Fabric      | Embeddium / Sodium                | ✅ 持续更新    |
 | 1.18.2   | Forge / Fabric      | Sodium                            | ❌ 不再更新    |
 | 1.20.6*  | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.19.4   | Fabric              | Sodium / OptiFine                 | ❌ 不再更新    |
@@ -29,7 +29,7 @@ Minecraft多平台优化整合包，支持 Fabric/(Neo)Forge 双模组加载器�
 
 ## 下载
 
-- [GitHub Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/release): 2024年5月以后的所有版本 
+- [GitHub Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases): 2024年5月以后的所有版本 
 - [Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions): 测试版
 - 旧版: [见下文](https://github.com/MineOptimiz-Team/MineOptimiz-3rd?tab=readme-ov-file#%EF%B8%8F-%E9%A1%B9%E7%9B%AE%E6%B2%BF%E9%9D%A9)
 

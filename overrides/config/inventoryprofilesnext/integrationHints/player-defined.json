@@ -1,5 +1,5 @@
 {
-    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+    "net.minecraft.class_476": {
         "buttonHints": {
             "SORT": {
                 "horizontalOffset": 12,
@@ -10,7 +10,7 @@
             }
         }
     },
-    "net.minecraft.client.gui.screens.inventory.ShulkerBoxScreen": {
+    "net.minecraft.class_495": {
         "buttonHints": {
             "SORT": {
                 "horizontalOffset": 12,

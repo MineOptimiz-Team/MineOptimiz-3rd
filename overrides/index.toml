@@ -682,11 +682,11 @@ hash = "a691efb5262d0b4f56be1a537066f198f55cdfcc61b5fac14d3550e846f89ece"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "09b364d1ec71ff8f875399179aae02c1a627cd692bca9c3fb59f571312d2329a"
+hash = "a8a3989d317a0e1fff5ef75556802f9bdb8b6dbcfcc4c38b220bd30986bb9770"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "1014b21c2515a67e6cb19429a0e3083e98a8eb7be0dd17c063f49a23d2295575"
+hash = "0302ca879bf590d7f06e8c8f3aeb6b1b48d3ded9840c1b2d09cb79bae2c6e621"
 
 [[files]]
 file = "config/inventoryprofilesnext/prev-villager-trading-config-v2.json"
