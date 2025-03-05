@@ -147,7 +147,7 @@ element {
 
 element {
   interactable = true
-  source = [source:web]https://ghfast.top/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/1.20.1-Dev/licenceofmods.txt
+  source = [source:web]https://123smallmushroom.github.io/license_of_mods.txt
   source_mode = resource
   shadow = true
   scale = 1.0

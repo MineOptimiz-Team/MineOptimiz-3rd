@@ -1,15 +1,13 @@
 name = "FastQuit"
 filename = "fastquit-3.0.0+1.21.4.jar"
-side = "both"
+side = "client"
 
 [download]
-url = "https://github.com/megabyte6/FastQuit/releases/download/v3.0.0-1.21.4/fastquit-3.0.0%2B1.21.4.jar"
-hash-format = "sha256"
-hash = "ed9f739de930c3104b8f22abd4ea05027f3700d68cc9a590f9bb1dd1554992fc"
+url = "https://cdn.modrinth.com/data/x1hIzbuY/versions/HdbAWjaF/fastquit-3.0.0%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "b2f0fe92e1c3ea6424a1b02271b63e66e37481be4e39cef170ff1ea690a78b25b1f5b25da14733018ed23c229e2832de5752a2257041306b2c72af34406e3ea5"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "megabyte6/FastQuit"
-tag = "v3.0.0-1.21.4"
+[update.modrinth]
+mod-id = "x1hIzbuY"
+version = "HdbAWjaF"

@@ -2,9 +2,10 @@ name: Export Modrinth Pack
 
 on:
   push:
-    branches: '**'  
+    branches-ignore:
+      - 'removing*'
     tags-ignore:
-      - '*_latest_testing'
+      - '*_latest*'
     paths-ignore: 
       - 'README.md'
   workflow_dispatch:
@@ -76,5 +77,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}
-          path: "./overrides/MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack"
+          path: ./overrides/*.mrpack
      

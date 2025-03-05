@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "f930833168432be3ca76d0f6e27166964aaaf70e408f61dcc391010ae23ae9c2"
+hash = "17e2a65f7b2f41a6313829a0b8eb2c34c188d8b9bdc97526551f0bbc943852af"
 
 [[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
@@ -274,7 +274,7 @@ hash = "0f237cfe9d511cd9c17693933e288c3bf92f4aca6ef5f90f03110b1ba962d0f5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ae1999b98366f70d6fc8b226346788650c869e53e7f97ec53e6d8fdea29208d0"
+hash = "35be67e056a7f39e1af48ce05865395ef82d117304178d009658be315d56a1d7"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -342,11 +342,11 @@ hash = "04bed7050ec3efd7ac1a672b474985d43d10b7619340442d53262bb10fa95584"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "b441ecd5986a616c2aeee77e64b612461cf6c93537fa0e24b528fd73e1545ccd"
+hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
-hash = "8051ffeb6c22315a3cb382e9bc3815a5aaba248e5603a543b1c92afc2b8c6304"
+hash = "46163b29a7a33369805eb47f5615ef2476120bed115af9c0c63ef5b758c3ca7d"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
@@ -373,6 +373,22 @@ file = "config/fancymenu/customization/com.github.smallmushroomovo.dis_realms_bu
 hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
 
 [[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.switch_channel.txt"
+hash = "c1bdf4b2f7988b94267c618d1ffc2ddb4ffec660dd0f5831d261172259a1713f"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
+hash = "0a937eec42fc887359eac9fb8b7a858bc143ed154908739ed6d1738bbbb918d3"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.update_guide.txt"
+hash = "ffd72f74aa736ff301200a622d987737ee14ddfe411c83a965feab1a48aaa010"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smallmushroomovo.updater.txt"
+hash = "ee802d9b4b08e7ab9ea5da4b5a61e45e6c8bf672412783acf366335494438a0a"
+
+[[files]]
 file = "config/fancymenu/customization/credits.txt"
 hash = "5bff83d07b009543da5a3273657443228144a694f9f6921b1d9676cb63829947"
 
@@ -382,7 +398,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "9da2f4a7e0c6bf5f9e0d920f4e14be26c7616d6da13984c787744c1929419574"
+hash = "d4aa5fb3cf9fb3710b97e428dc0f03bfbe6b0cda0b7846767aebefb3499ec041"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -410,7 +426,7 @@ hash = "c0f398a4bb2dcd483d5ad3140aeffa7136e5d7ba21ce846ddec3e7a84da0aa99"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
-hash = "ee37bb5752b5521ae24ce98aef8d737fa062271d3d3c9b28b1aa70e3df04e84c"
+hash = "cbc4ea9197a982119a0c59f5873dac316e02c5fa4b242589adbc94e7f9242f14"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -442,7 +458,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/fancymenu/customization/licence.txt"
-hash = "8e718b3bdf9b1ade8482722def762f3392393da07e0ea37eebbf105cfc5d912f"
+hash = "1f7dc3484d7284d72ae5dde962a1737aaf1d0737a98996e946f8334ef66b978c"
 
 [[files]]
 file = "config/fancymenu/customization/linuxrepair.txt"
@@ -582,7 +598,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "95128ab8096f5b09df7d25eeb9fae0fdaff1e0df3fe16c62415993ebf4b00ba0"
+hash = "491fcd6a9c29729135def66f1ea196c457783d197f4df610e53340455f0f83f7"
 
 [[files]]
 file = "config/fast-chest.properties"
@@ -645,6 +661,10 @@ file = "config/getittogetherdrops-server.toml"
 hash = "7e8e73b9b0cd1cbfda30bb324863d513b502a6aebfbf337b1d5524297013a534"
 
 [[files]]
+file = "config/ias.json"
+hash = "efa5c961c1b402c8a6a9f6ec4eca6bbd291f95b595869b3eff2723518e3fcf75"
+
+[[files]]
 file = "config/imblocker-client.toml"
 hash = "0487327eb4f3df2f6be83b5b91aa36da7d3104f1a9651279cab1a44cbfb48f9a"
 
@@ -661,8 +681,12 @@ file = "config/ingameime.json"
 hash = "a691efb5262d0b4f56be1a537066f198f55cdfcc61b5fac14d3550e846f89ece"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "09b364d1ec71ff8f875399179aae02c1a627cd692bca9c3fb59f571312d2329a"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "c168ea59f8ef71a1257b58e6fa679ea0af3a7ce164e4ec101892c319a6f1495b"
+hash = "1014b21c2515a67e6cb19429a0e3083e98a8eb7be0dd17c063f49a23d2295575"
 
 [[files]]
 file = "config/inventoryprofilesnext/prev-villager-trading-config-v2.json"
@@ -1090,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3336cf0d20487bc291a660653908372b4f87c200b947d09ba8bbb010d6adc715"
+hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
 metafile = true
 
 [[files]]
@@ -1160,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "b4758c737c9d3dc39b559e7df6cdace04f697a224731a44d875a2839c4358980"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
 
 [[files]]
@@ -1186,6 +1210,16 @@ metafile = true
 [[files]]
 file = "mods/i18nupdatemod.pw.toml"
 hash = "6f8fa473a74b8411cb9c639118a1a2f2e1e28c8582b8e85731225b9dd27d4739"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c29648a250d8b767119dd0526bc1ddbbdba5b1b29d7c82c1578e506682ca495b"
+metafile = true
+
+[[files]]
+file = "mods/in-game-account-switcher.pw.toml"
+hash = "7c86df596328f38110a6f0de8b84ddcaef91b3cc9b9fd70d0320fdbe0332e47f"
 metafile = true
 
 [[files]]
@@ -1235,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "13f4a38022d7e100dc13b05b0513b6693f2de8a5d8a8ee6d40d8099981c4a929"
+hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
 metafile = true
 
 [[files]]
@@ -1250,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "f79baa6d61e51f67be6417450db3e49f9b56c4602c82692a3adc24f6e0a5d133"
+hash = "ab73712b95dc33bc4c1e706f480cd5a81e23b18d29960296308116a993a7f834"
 metafile = true
 
 [[files]]
@@ -1266,6 +1300,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
+metafile = true
+
+[[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "287a28faac07e805d78e967bc810a370fe0ed90db9c9fe3d5122dec3bae91da7"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0c32fe0ba692994312c8934087ea948fb4326cb02412adb646a9f21c37de0ccc"
 metafile = true
 
 [[files]]
@@ -1308,7 +1352,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
+hash = "fe56e851eb796c9a20491ddb6034fb3b51baf762f09b9daecfe756df602e7349"
 metafile = true
 
 [[files]]
@@ -1327,23 +1371,38 @@ hash = "7ead84f8df46c7e292fb00079d11aa78d15724398b150db11d06e6713583fcb0"
 metafile = true
 
 [[files]]
+file = "mods/simple-close-button.pw.toml"
+hash = "6fb17aa831e04fa0308de48d1a89bf23364d84035f0fb01401c46cd578498947"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
+hash = "8ff792fd5c8d9225709b317b49cc741233bfa6958f27edd8a2c8da50b4ff34fd"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "56a0e243140dc1dbdb89c5a7a1cbcbe6e8d6da5499242bd1eabf548bbb8e3481"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "6b3c217dff9042118994a4d55b3d149390943d054808a1ecc978c50dbca65fe1"
+hash = "0bfe8d0a4dc04d45a0b3c1efdc283f9482a1f1a6f5380cf50138ac3f49113ffa"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "254018dd2a263b82756876408d594f0907ea1e4611260365c1e5cfa2dccc0d81"
-metafile = true
-
-[[files]]
-file = "mods/vulkanmod.pw.toml"
-hash = "8e712cd1c96b80851ccb0ae6da7d647e42edc052837114399191ca858011d897"
+hash = "c462f49426404ef8c6eb3208e3e34cdd3dcc452dbbdb881d2a2da45ce3e254f3"
 metafile = true
 
 [[files]]
@@ -1354,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/xplus-contingameime.pw.toml"
 hash = "c12ecf7db18300012f5b9f09a2822326123f7ef8f427bec41914649fda97ad68"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e3384cdf4e1bd7f9869278ef734bd28ff942e1cebc18111ecc2004bc2ab15247"
 metafile = true
 
 [[files]]

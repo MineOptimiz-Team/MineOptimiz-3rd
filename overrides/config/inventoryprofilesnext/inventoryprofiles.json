@@ -14,7 +14,16 @@
         "first_run": false
     },
     "GuiSettings": {
-        "continuous_crafting_saved_value": false
+        "continuous_crafting_saved_value": false,
+        "show_sort_in_columns_button": {
+            "value": false
+        },
+        "show_sort_in_rows_button": {
+            "value": false
+        },
+        "show_move_all_button": {
+            "value": false
+        }
     },
     "AutoRefillSettings": {
         "auto_refill_enable_per_slot_config": {
