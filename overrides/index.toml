@@ -669,8 +669,12 @@ file = "config/ingameime.json"
 hash = "a691efb5262d0b4f56be1a537066f198f55cdfcc61b5fac14d3550e846f89ece"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "09b364d1ec71ff8f875399179aae02c1a627cd692bca9c3fb59f571312d2329a"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "c168ea59f8ef71a1257b58e6fa679ea0af3a7ce164e4ec101892c319a6f1495b"
+hash = "1014b21c2515a67e6cb19429a0e3083e98a8eb7be0dd17c063f49a23d2295575"
 
 [[files]]
 file = "config/inventoryprofilesnext/prev-villager-trading-config-v2.json"
@@ -1377,6 +1381,11 @@ hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
+file = "mods/simple-close-button.pw.toml"
+hash = "18b2c41fb87b7383abf6be1a1c4db5b3ce8b21177e57507ec3dcaedb767fa72c"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7d600469b10b142d579f7681be7c07243b489ffea7ca4d7a20b7789e72b881d5"
 metafile = true
@@ -1419,6 +1428,11 @@ metafile = true
 [[files]]
 file = "mods/xplus-contingameime.pw.toml"
 hash = "c12ecf7db18300012f5b9f09a2822326123f7ef8f427bec41914649fda97ad68"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ccffcb7778dfaab00152e8c7714c81d91c7aa06b79c747bd5af79a7916c13a20"
 metafile = true
 
 [[files]]
