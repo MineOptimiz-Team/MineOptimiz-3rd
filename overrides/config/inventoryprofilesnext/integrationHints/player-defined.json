@@ -1,0 +1,21 @@
+{
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 12,
+                "top": -1
+            },
+            "SETTINGS": {
+                "top": 1
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ShulkerBoxScreen": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 12,
+                "top": -1
+            }
+        }
+    }
+}

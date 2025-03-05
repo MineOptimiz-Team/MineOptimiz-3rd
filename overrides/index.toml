@@ -725,64 +725,20 @@ file = "config/ingameime.json"
 hash = "a691efb5262d0b4f56be1a537066f198f55cdfcc61b5fac14d3550e846f89ece"
 
 [[files]]
-file = "config/inventoryprofilesnext/2b2t.org/villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
-
-[[files]]
-file = "config/inventoryprofilesnext/2b2t.xin/villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
-
-[[files]]
-file = "config/inventoryprofilesnext/47.243.96.125&40284/villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
-
-[[files]]
-file = "config/inventoryprofilesnext/ddns.ganshity.top&28103/prev-villager-trading-config.json"
-hash = "043db7237dfaa7eaf9129465d3de9a56917c244c1f2e5fd07010c1c0696225ce"
-
-[[files]]
-file = "config/inventoryprofilesnext/ddns.ganshity.top&28103/villager-trading-config.json"
-hash = "043db7237dfaa7eaf9129465d3de9a56917c244c1f2e5fd07010c1c0696225ce"
-
-[[files]]
-file = "config/inventoryprofilesnext/ganshity.lcf.icu&28103/villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
-
-[[files]]
-file = "config/inventoryprofilesnext/hypixel.net/prev-villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
-
-[[files]]
-file = "config/inventoryprofilesnext/hypixel.net/villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
-
-[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "f0c885470e7ecdbed0a9fdf7cf584e84d8dfc200ca38a44e9bfaa773ee8800e2"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "950c7d684a6ff6e7ae808cd943b26360bd7a46121964d36e240ff8071a926df1"
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "09b364d1ec71ff8f875399179aae02c1a627cd692bca9c3fb59f571312d2329a"
 
 [[files]]
-file = "config/inventoryprofilesnext/mc233.cn/villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "5341432beb7c8b56eca3731626228ccf9eac0d8b179a7461828002aeae15a43b"
 
 [[files]]
 file = "config/inventoryprofilesnext/villager-trading-config.json"
 hash = "f29718046d40f2d1e613d59b38c32161b710542ac708816263f1727927b029a3"
-
-[[files]]
-file = "config/inventoryprofilesnext/wdsj.net/villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
-
-[[files]]
-file = "config/inventoryprofilesnext/新的世界/villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
-
-[[files]]
-file = "config/inventoryprofilesnext/枫丹廷/villager-trading-config.json"
-hash = "26ceee23d1bd9c100fe6942239189060d91e032db0c326de1612adf9f5801635"
 
 [[files]]
 file = "config/iris.properties"
@@ -1746,6 +1702,11 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/simple-close-button.pw.toml"
+hash = "3ee8236e25b719696cf6359e7d07877a2ef6cbbd8449ba6c874fc3a79bfa83ae"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ce99f1de3591cde7ff20a2edfcd75f36d85c364ca5e169cbd92c4d9cff65e840"
 metafile = true
@@ -1783,6 +1744,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "7c1f9f658145f2a708961fb5fe2ac131b0cdf9108ba7e05fc28ba0a4ccfa77d7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c45d6735a5767c1486000d95dd0d4ed6e2c1227edf6b2ff305d40ad859af1ce0"
 metafile = true
 
 [[files]]
