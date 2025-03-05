@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "25adfb170146ebcd1ae239873ea9b51f9f7fbe5a62b300a0d837e2b74d22083c"
+hash = "6b2acf5bcbfedd5b422e3aafb6821e98b4d6c697f21f25d8385696a8d0095379"
 metafile = true
 
 [[files]]
@@ -1057,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "ac47ee003113ae837b39e7cf6b7d17aca25464f3540e825f1a45e7da3bc9928a"
+hash = "fb0e421d4a9387c6edadd054462b77c604e101bdd4d4116a89f23a61ea5717cc"
 metafile = true
 
 [[files]]
@@ -1192,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
+hash = "7df9cfa47eeb1f996df4699e433e9a0be6c9bbed7a4743647cd745d7b87b694a"
 metafile = true
 
 [[files]]
@@ -1286,7 +1286,7 @@ hash = "2fe6673935dafe3b4dbdba3da60c9f23247aa481bcbb46081255f7ac8b4bcd3e"
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "1a06479cf811afadf8eb5b5a8cbb0c01bbda2f102530b44c86559b8450d3fb21"
+hash = "79f35f22195f423ee3c1623ff4a048594c05b8479cab0dfef69cc80799f9075d"
 metafile = true
 
 [[files]]
@@ -1321,7 +1321,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "c5856f1225bd85cc7ee1020a916e6ca23cb12e94e23bd230e3401ec287ba6ee0"
+hash = "d525f4f3a1bc9358a21159f335989da1d467dd75eccb9fdb14263aec6366ed53"
 metafile = true
 
 [[files]]
