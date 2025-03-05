@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "eb89087b0fc75e9689c94912379c9b9c147186e5c931f0b31e1e930c277f0520"
+hash = "446cdc1c3d7cbbfe8c24d86ac26865803c1cdacaf25ce7d51144686c41d20c0a"
 metafile = true
 
 [[files]]
@@ -1312,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "704461376cef8a624cdd810f5e7c60e9dc6dae2b39b0e33e222c5ff5dc740540"
+hash = "cba8ce85591a5e120ad30226ae3dfbe2050aa2c3027255cf33df20242a1d735f"
 metafile = true
 
 [[files]]
