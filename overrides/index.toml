@@ -274,7 +274,7 @@ hash = "0f237cfe9d511cd9c17693933e288c3bf92f4aca6ef5f90f03110b1ba962d0f5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "35be67e056a7f39e1af48ce05865395ef82d117304178d009658be315d56a1d7"
+hash = "deb553f8054f9d8f18b56bca6bbd24f8596e0bb3810d4c1058082ed261088f5a"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
@@ -342,7 +342,7 @@ hash = "04bed7050ec3efd7ac1a672b474985d43d10b7619340442d53262bb10fa95584"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
+hash = "b1a66503bbb447066159a84059092d2fef83d5da414126d7e528bba220ecee8b"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
@@ -818,7 +818,7 @@ hash = "7cc4c696f14db7203ac5bfb27d19345d7e0744e8fcedb63fabf386acb45dcaf0"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "41979131e2d8b3a0cf4be3e36ef704404582c92334f6bbc552c81bd5bf03f1f5"
+hash = "3ece0219a9e8f3ad70112adc044efff27b834892feaa6f0ed587e76550c59acf"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -1228,11 +1228,6 @@ hash = "6f8fa473a74b8411cb9c639118a1a2f2e1e28c8582b8e85731225b9dd27d4739"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "446cdc1c3d7cbbfe8c24d86ac26865803c1cdacaf25ce7d51144686c41d20c0a"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "f97cc8ad639b378d68bcf0169740735a9ca14fff6f36baac3745427097078d46"
 metafile = true
@@ -1318,13 +1313,8 @@ hash = "99addd4953f9187de1e45174f5c10ab42748f743ccaebf74f5405bde5fb441e6"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "cba8ce85591a5e120ad30226ae3dfbe2050aa2c3027255cf33df20242a1d735f"
-metafile = true
-
-[[files]]
-file = "mods/nerb.pw.toml"
-hash = "99addd4953f9187de1e45174f5c10ab42748f743ccaebf74f5405bde5fb441e6"
+file = "mods/no_fog.pw.toml"
+hash = "d432070dc0c24e8a3ea94af1fea8a5128616cb1fa5b5cef66dcd711f68e1f14d"
 metafile = true
 
 [[files]]
@@ -1390,26 +1380,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7d600469b10b142d579f7681be7c07243b489ffea7ca4d7a20b7789e72b881d5"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
-metafile = true
-
-[[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "2c242048726e82d36863b81ecbaa342328bb2929dc82da2f573d83b9f0711505"
-metafile = true
-
-[[files]]
-file = "mods/threatengl.pw.toml"
-hash = "fc5922e84359f94917d10c6fe9dcb332ebfc16ea3881885c113469a219a85aae"
 metafile = true
 
 [[files]]
