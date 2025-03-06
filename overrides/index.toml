@@ -357,6 +357,10 @@ file = "config/fancymenu/customization/addtesting.txt"
 hash = "ee25bd1beb72d9e40e68a22425f48b1a3a7dd14e31e61f3137f68a9687656dfc"
 
 [[files]]
+file = "config/fancymenu/customization/april_fool.txt"
+hash = "cf561a066d2ccfd6b68f015813f55271ad769133942b77c59b8ee6dc1962e430"
+
+[[files]]
 file = "config/fancymenu/customization/bugreport_website.txt"
 hash = "4b78f1e0533249d159b913d1c91fa94ace67435cd171fe2b63b43d570dab8edc"
 
@@ -398,7 +402,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "d4aa5fb3cf9fb3710b97e428dc0f03bfbe6b0cda0b7846767aebefb3499ec041"
+hash = "bbd19ff267b9a6786b681a398b596ad705994de9d691a09370a8f6a5ee09ee64"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -510,7 +514,7 @@ hash = "29786b2afebcd5e6007c1b16f3ed9c20f04435c433cf87de8eb6841a519143d6"
 
 [[files]]
 file = "config/fancymenu/customization/startgame.txt"
-hash = "d0b1726f273b47bc8b39549b556810105aecdd3dd55f4f22470bf8eb645788f3"
+hash = "059de11e80c07289cf6d7ed229650af0a37b4b6475efccebcdf3f30be65e459c"
 
 [[files]]
 file = "config/fancymenu/customization/testing.txt"
@@ -594,7 +598,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "491fcd6a9c29729135def66f1ea196c457783d197f4df610e53340455f0f83f7"
+hash = "cf5e140af103051c248f3322a681562c52392aec36a51c5390fee294931a0189"
 
 [[files]]
 file = "config/fast-chest.properties"
