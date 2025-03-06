@@ -1,6 +1,12 @@
 type = user_variables
 
 variable {
+  name = april_fool
+  value = 
+  reset_on_launch = true
+}
+
+variable {
   name = disable_realms_button
   value = 1
   reset_on_launch = false

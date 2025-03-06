@@ -393,6 +393,10 @@ file = "config/fancymenu/customization/addtesting.txt"
 hash = "8c6ce58404442af918a0ee7f8b297263b1bc81d08d2b19d3a5793d89a93f38cd"
 
 [[files]]
+file = "config/fancymenu/customization/april_fool.txt"
+hash = "cf561a066d2ccfd6b68f015813f55271ad769133942b77c59b8ee6dc1962e430"
+
+[[files]]
 file = "config/fancymenu/customization/bugreport_website.txt"
 hash = "4b78f1e0533249d159b913d1c91fa94ace67435cd171fe2b63b43d570dab8edc"
 
@@ -434,7 +438,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "f137be21e05f726c7eea6959e55e0ac5510003be6f8b4de132c7a5b5ffe12a90"
+hash = "3cf66eef84705ffaa0392a149df8362ff5ed28e880270558b269d76a50861968"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -530,7 +534,7 @@ hash = "6be4d0ff80e6fac964e6c008289710932a35d8f61ab1cc8265bf302fc94c5932"
 
 [[files]]
 file = "config/fancymenu/customization/startgame.txt"
-hash = "2477e9394bcb16460148023c472ce87a21c126c6265091e56d5664ebea64ed5c"
+hash = "059de11e80c07289cf6d7ed229650af0a37b4b6475efccebcdf3f30be65e459c"
 
 [[files]]
 file = "config/fancymenu/customization/startgame2x.txt"
@@ -614,7 +618,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "a3e4df34aad36e64d5c5aba6dc82c22722f4eb62209f671199c14db7b93bd973"
+hash = "a2b88fa4a155a9e1f1fa4417af6836334c3652dbd905d4aa3c687d428efba58a"
 
 [[files]]
 file = "config/farsight-common.toml"
