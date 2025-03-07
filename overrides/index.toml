@@ -1390,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3980d18aa0c561d0df3c11b259482ae0d67b4a7ef37ae4d310e898107e66917e"
+hash = "2c762b3a62ae8ecbdf7901824d56b9b17ab9efd271a0f42a229b7a4e342be6cf"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
@@ -1400,4 +1400,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
 hash = "5f96057e71e51d6f4bbd9b636120c5af33e912bd6ecc6d6989ffd5b41a2cb501"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spawn-egg-backport.pw.toml"
+hash = "9a19e5d951ac8ad03b386dd626473058087e0dce1d575439816c60aeabdd9250"
 metafile = true
