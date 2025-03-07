@@ -1240,6 +1240,11 @@ hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
+hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
+metafile = true
+
+[[files]]
 file = "mods/lazy-language-loader.pw.toml"
 hash = "8e3c3fcd4710f1a8945eb039e967ac3dcb0ad1e9cc761772b604c170260aff39"
 metafile = true
@@ -1331,11 +1336,6 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "ac974e4fe5aae03fbe1a39aa969ad180b237c1986826c7473459da17fb873264"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "907a7f3584909169937bdb0891304108f6a5291ae1fdce211b62e2e8c3e14e68"
 metafile = true
 
 [[files]]
