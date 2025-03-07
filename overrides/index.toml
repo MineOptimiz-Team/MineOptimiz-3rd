@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "54943bb78f42b06ae8312e0cb4b1e97492e5e1407500d8495149f5b40205bda5"
+hash = "337eaef4f0cb6806463510c64a2de777a8a6c396d9855a26231d6a111caa05a2"
 metafile = true
 
 [[files]]
@@ -1196,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7df9cfa47eeb1f996df4699e433e9a0be6c9bbed7a4743647cd745d7b87b694a"
+hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
 metafile = true
 
 [[files]]
