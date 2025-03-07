@@ -1388,9 +1388,14 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5a6c35205865b48f2811f7387b4c1b58d1d881b269016585f30e9f5643adc014"
+hash = "34df501be475af5b4e2889ba43a527e5575608a8d0ae3f635b1dfcdefd31fc7e"
 
 [[files]]
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
 hash = "a6d8872d7bd4e4e5054e83df1f74fa2e9bc703d93247a060a4a4d4b6b91c6931"
+metafile = true
+
+[[files]]
+file = "resourcepacks/new-eggs.pw.toml"
+hash = "eef47ebe627bd26efe362956c25169d9372383ba4df9ff4bc184f8288a625411"
 metafile = true
