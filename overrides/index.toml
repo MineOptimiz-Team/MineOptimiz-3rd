@@ -298,7 +298,7 @@ hash = "4355b854826fcd46697e28d48a365dd7e47b5c45d3da00bd573f0ac0935715e9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f25a7555c7c8b80a9295e0f9a96eee35f5bdfd946b8cb7bd6a40ce7b63bc8db1"
+hash = "8a50031aa226ee6b5fde5775ba502a6289785f5bfe1e0f4e4acaf128b1edfe37"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
@@ -323,6 +323,14 @@ hash = "cf561a066d2ccfd6b68f015813f55271ad769133942b77c59b8ee6dc1962e430"
 [[files]]
 file = "config/fancymenu/customization/bugreport_website.txt"
 hash = "4b78f1e0533249d159b913d1c91fa94ace67435cd171fe2b63b43d570dab8edc"
+
+[[files]]
+file = "config/fancymenu/customization/cancel_button_in_resourcepack_select_screen.txt"
+hash = "6333503c4a674133c5de77d2c9388b1efeb154d5d687ab3bab217d0cf1afd1ed"
+
+[[files]]
+file = "config/fancymenu/customization/cancel_button_in_resourcepack_select_screen_eng.txt"
+hash = "ab9be510b99f4c81f2c066a57884eb7b48842bd82d12e333cc8d210cab1a00ad"
 
 [[files]]
 file = "config/fancymenu/customization/choosesystem.txt"
