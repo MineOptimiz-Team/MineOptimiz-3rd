@@ -1,0 +1,124 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = io.123smallmushroom.choosegame
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1741174083372
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:17a13de5-33cf-4b76-95e8-0cfa2a86e4d5-1741174070010] = [groups:][instances:3e2b6645-b65f-4b60-b4b2-21c300d3daeb-1741174075916;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:3e2b6645-b65f-4b60-b4b2-21c300d3daeb-1741174075916] = april_fool:true
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  button_element_executable_block_identifier = 2d78bffe-f8f3-4b75-bfdb-61e092cfe76a-1741173224580
+  [executable_action_instance:460c3f78-c6e3-46a9-a785-79a895fb25a4-1741173248020][action_type:opengui] = net.minecraft.class_526
+  [executable_block:2d78bffe-f8f3-4b75-bfdb-61e092cfe76a-1741173224580][type:generic] = [executables:460c3f78-c6e3-46a9-a785-79a895fb25a4-1741173248020;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 单人游戏
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 34977336-5d78-4f3f-808d-c3f4b6f375cb-1741173224580
+  [loading_requirement_container_meta:34977336-5d78-4f3f-808d-c3f4b6f375cb-1741173224580] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 7475d7ad-a410-48d5-abe5-f5040c20273a-1741173224580
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1004
+  sticky_anchor = false
+  anchor_point = mid-left
+  x = 23
+  y = -87
+  width = 205
+  height = 188
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 9f714103-0544-4e98-be71-6f5ff6bb3ef3-1741173224580
+  [loading_requirement_container_meta:9f714103-0544-4e98-be71-6f5ff6bb3ef3-1741173224580] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+}
+
+element {
+  button_element_executable_block_identifier = ba5b5f62-e275-4737-8f9f-aadac3bc4d4a-1741173258044
+  [executable_action_instance:682ef7b3-e3ac-471d-b6a3-94d2c68837bd-1741173334404][action_type:opengui] = join_multiplayer_screen
+  [executable_block:ba5b5f62-e275-4737-8f9f-aadac3bc4d4a-1741173258044][type:generic] = [executables:682ef7b3-e3ac-471d-b6a3-94d2c68837bd-1741173334404;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 多人游戏
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1e121d4b-c96a-4c27-ad67-610737b7cd6d-1741173258044
+  [loading_requirement_container_meta:1e121d4b-c96a-4c27-ad67-610737b7cd6d-1741173258044] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 603d7f08-4247-4852-8db0-3019be533dea-1741173258044
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1004
+  sticky_anchor = false
+  anchor_point = mid-right
+  x = -226
+  y = -87
+  width = 205
+  height = 188
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = fccbea16-2739-4a7f-8bc3-f539b5257c4e-1741173258044
+  [loading_requirement_container_meta:fccbea16-2739-4a7f-8bc3-f539b5257c4e-1741173258044] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+}
+
