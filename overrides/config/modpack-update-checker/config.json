@@ -4,7 +4,7 @@
   "modpackName": "MineOptimiz Fabric",
   "modpackAuthor": "smallmushroomovo",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://ghfast.top/https://raw.githubusercontent.com/MineOptimiz-Team/MineOptimiz-3rd/20.1/fabric_testing/",
+  "updateCheckerId": "",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
