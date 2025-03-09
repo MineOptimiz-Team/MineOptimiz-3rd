@@ -30,7 +30,7 @@ jobs:
           zip -r "./MineOptimiz.zip" ./*
           mv MineOptimiz.zip "MineOptimiz v3.211.1-fabric+2.mrpack"
       
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: MineOptimiz v3.211.1-fabric+2.zip
           path: "./MineOptimiz v3.211.1-fabric+2.mrpack"
