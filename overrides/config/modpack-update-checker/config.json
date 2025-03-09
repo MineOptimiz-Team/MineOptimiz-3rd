@@ -4,7 +4,7 @@
   "modpackName": "MineOptimiz Fabric",
   "modpackAuthor": "smallmushroomovo",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://123smallmushroom.github.io/check-update-mineoptimiz/1.21.1-Fabric/",
+  "updateCheckerId": "",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
