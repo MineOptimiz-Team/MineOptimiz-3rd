@@ -1118,7 +1118,7 @@ hash = "7cc4c696f14db7203ac5bfb27d19345d7e0744e8fcedb63fabf386acb45dcaf0"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "895b8917b02360c9c7d8f823aa42b73556fed5b58c63bc271013a135e907c4e0"
+hash = "fc1e2b0ffc349df345173ebd642cce7f459b4ba1c767d1d80c6188a2cabc0c42"
 
 [[files]]
 file = "config/moreculling.toml"
