@@ -23,8 +23,8 @@ jobs:
 
       - name: Write commit id to files
         run: |
-          sed -i "s/\(commitid\)/2/g" modrinth.index.json
-          sed -i "s/\(commitid\)/2/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/\(commitid\)/3/g" modrinth.index.json
+          sed -i "s/\(commitid\)/3/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Package Modpack
         run: |
@@ -32,10 +32,10 @@ jobs:
           rm -rf .git
           rm README.md
           zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.211.1-neoforge+2.mrpack"
+          mv MineOptimiz.zip "MineOptimiz v3.211.1-neoforge+3.mrpack"
       
       - uses: actions/upload-artifact@v4
         with:
-          name: MineOptimiz v3.211.1-neoforge+2
-          path: "./MineOptimiz v3.211.1-neoforge+2.mrpack"
+          name: MineOptimiz v3.211.1-neoforge+3
+          path: "./MineOptimiz v3.211.1-neoforge+3.mrpack"
      
