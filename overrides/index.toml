@@ -317,6 +317,10 @@ file = "config/fancymenu/customization/addtesting.txt"
 hash = "26c2eec9f91ec61c026c9ede5ac18c22a213f204247cd4dd2946d05740655de9"
 
 [[files]]
+file = "config/fancymenu/customization/april_fool.txt"
+hash = "cf561a066d2ccfd6b68f015813f55271ad769133942b77c59b8ee6dc1962e430"
+
+[[files]]
 file = "config/fancymenu/customization/bugreport_website.txt"
 hash = "4b78f1e0533249d159b913d1c91fa94ace67435cd171fe2b63b43d570dab8edc"
 
@@ -358,7 +362,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "f5bd89933932fa8d5c813c725e836c554a30c3924b2f266cfbf5a427dee192b4"
+hash = "52026aeae8089ad5a762fa94467026aaf6944e1cda49baf7e3f8e7410bc4fd69"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -470,7 +474,7 @@ hash = "436504132eab57e233ba0cc91a23d05969ea1eb9478d52a636866c029a98889f"
 
 [[files]]
 file = "config/fancymenu/customization/startgame.txt"
-hash = "5c2edf4e223af532dec3023124b5a6ebabf85390bb5d64cbe5c3d9b6578ad50c"
+hash = "059de11e80c07289cf6d7ed229650af0a37b4b6475efccebcdf3f30be65e459c"
 
 [[files]]
 file = "config/fancymenu/customization/testing.txt"
@@ -554,7 +558,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "491fcd6a9c29729135def66f1ea196c457783d197f4df610e53340455f0f83f7"
+hash = "cf5e140af103051c248f3322a681562c52392aec36a51c5390fee294931a0189"
 
 [[files]]
 file = "config/fast-chest.properties"
@@ -1061,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "fb0e421d4a9387c6edadd054462b77c604e101bdd4d4116a89f23a61ea5717cc"
+hash = "4e5663993445c473613e2958fb2ed299b2b6e30bd1e345a6373407dfe2552499"
 metafile = true
 
 [[files]]
@@ -1166,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "54943bb78f42b06ae8312e0cb4b1e97492e5e1407500d8495149f5b40205bda5"
+hash = "337eaef4f0cb6806463510c64a2de777a8a6c396d9855a26231d6a111caa05a2"
 metafile = true
 
 [[files]]
@@ -1191,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7df9cfa47eeb1f996df4699e433e9a0be6c9bbed7a4743647cd745d7b87b694a"
+hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
 metafile = true
 
 [[files]]
@@ -1232,6 +1236,11 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
+hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
 
 [[files]]
@@ -1281,7 +1290,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "79f35f22195f423ee3c1623ff4a048594c05b8479cab0dfef69cc80799f9075d"
+hash = "8f40098ed250715b6fc189084cbb1f8252501a0fd096a57760b211b0c3e75614"
 metafile = true
 
 [[files]]
@@ -1322,11 +1331,6 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "d525f4f3a1bc9358a21159f335989da1d467dd75eccb9fdb14263aec6366ed53"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "907a7f3584909169937bdb0891304108f6a5291ae1fdce211b62e2e8c3e14e68"
 metafile = true
 
 [[files]]
@@ -1396,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3980d18aa0c561d0df3c11b259482ae0d67b4a7ef37ae4d310e898107e66917e"
+hash = "2c762b3a62ae8ecbdf7901824d56b9b17ab9efd271a0f42a229b7a4e342be6cf"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
@@ -1406,4 +1410,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/masa-mod-translationpack.pw.toml"
 hash = "5f96057e71e51d6f4bbd9b636120c5af33e912bd6ecc6d6989ffd5b41a2cb501"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spawn-egg-backport.pw.toml"
+hash = "9a19e5d951ac8ad03b386dd626473058087e0dce1d575439816c60aeabdd9250"
 metafile = true
