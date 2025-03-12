@@ -1036,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "9fd06552a8e4b09769a3236247f531d3eb8eb811cbb9b5f7782992c82582efb3"
+hash = "5b962cdcb6552f531e9337324d631ffb70ebe90e216914fd6d51be724dd9070c"
 metafile = true
 
 [[files]]
@@ -1176,7 +1176,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c02d5558f7c034fbb180e794403ed738b57ee89b2894cd650ae6b16b661ac074"
+hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
 metafile = true
 
 [[files]]
