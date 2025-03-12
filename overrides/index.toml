@@ -1205,11 +1205,6 @@ hash = "94dc114836a7b73ab8712e0934d8db8255fd9f09951c4b857839a04d918621fc"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "fe9142b83783ec873b762fe9e756eb45c3a8dd3adf98d29b1963dff0af5db187"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
 metafile = true
@@ -1290,12 +1285,13 @@ hash = "e15ed03dfe6671ab2d2efb0395618466fbd71a13e444015b42c55270c870375d"
 metafile = true
 
 [[files]]
-file = "mods/monocle-0.1.10.ms.jar"
-hash = "2fe6673935dafe3b4dbdba3da60c9f23247aa481bcbb46081255f7ac8b4bcd3e"
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
+metafile = true
+
+[[files]]
+file = "mods/neoculus.pw.toml"
+hash = "9fe362045b680827b38b38722812ab9fb84634d7048fd6421a04edc4f3cd6da1"
 metafile = true
 
 [[files]]

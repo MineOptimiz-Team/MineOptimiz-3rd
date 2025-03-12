@@ -1,0 +1,13 @@
+name = "NeOculus"
+filename = "neoculus-mc1.21.1-1.8.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ndV543Q3/versions/rrhCK96B/neoculus-mc1.21.1-1.8.2.jar"
+hash-format = "sha512"
+hash = "e7dda013a5d8f2064e1bf48d37b3bcf8bd9cd0b75946cadbae2aa704500bd2ba0dc87db184745d2e3e3247ee86be66a4ca25f35dcb8ecf4decd930e20c833855"
+
+[update]
+[update.modrinth]
+mod-id = "ndV543Q3"
+version = "rrhCK96B"
