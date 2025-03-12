@@ -1051,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "6b2acf5bcbfedd5b422e3aafb6821e98b4d6c697f21f25d8385696a8d0095379"
+hash = "38c19417f3b7bd662da0c0f902308116789fe967aa1f50ebb5f7e95cfd122d24"
 metafile = true
 
 [[files]]
@@ -1061,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "4e5663993445c473613e2958fb2ed299b2b6e30bd1e345a6373407dfe2552499"
+hash = "6789ad2958a2dc2ea1b45c3eae624f4535eac9475b03c3f496fde07debbcb178"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "337eaef4f0cb6806463510c64a2de777a8a6c396d9855a26231d6a111caa05a2"
+hash = "d6f2fdcf0f4bc67dccd8e036f7c8117ffd76a008bd50e2a060cd23671ef9abb9"
 metafile = true
 
 [[files]]
@@ -1196,12 +1196,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
+hash = "e27bf546182fc60c59cd535f0bd54c4f1aefd6a99db6ce49b9ca22bfd14c2b63"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "504e42630549eda310aeb405b4d0878403ed5e30779f279036d9f0ffab723c28"
+hash = "94dc114836a7b73ab8712e0934d8db8255fd9f09951c4b857839a04d918621fc"
 metafile = true
 
 [[files]]
@@ -1216,7 +1216,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6d880624de2b3597f6aa7c6d8d77f55438cfd0b69148fcbf3c301d90a2f38133"
+hash = "762954f0803994db8e8cee47632b0efab08f86ee4bc252d5c6ab29f97d2486f2"
 metafile = true
 
 [[files]]
@@ -1256,7 +1256,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
@@ -1295,7 +1295,7 @@ hash = "2fe6673935dafe3b4dbdba3da60c9f23247aa481bcbb46081255f7ac8b4bcd3e"
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "8f40098ed250715b6fc189084cbb1f8252501a0fd096a57760b211b0c3e75614"
+hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
