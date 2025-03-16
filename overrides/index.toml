@@ -402,7 +402,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "bbd19ff267b9a6786b681a398b596ad705994de9d691a09370a8f6a5ee09ee64"
+hash = "539a8569a0a8d8c10663e7b901f61f90f18d6e8a13eb1916103a335c2964a8dc"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -430,7 +430,7 @@ hash = "c0f398a4bb2dcd483d5ad3140aeffa7136e5d7ba21ce846ddec3e7a84da0aa99"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
-hash = "cbc4ea9197a982119a0c59f5873dac316e02c5fa4b242589adbc94e7f9242f14"
+hash = "ee37bb5752b5521ae24ce98aef8d737fa062271d3d3c9b28b1aa70e3df04e84c"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -655,10 +655,6 @@ hash = "3816f610f4d2a315342df79295b357cd1801e3f492cdd7f55ad72afabbfbafbc"
 [[files]]
 file = "config/getittogetherdrops-server.toml"
 hash = "7e8e73b9b0cd1cbfda30bb324863d513b502a6aebfbf337b1d5524297013a534"
-
-[[files]]
-file = "config/ias.json"
-hash = "efa5c961c1b402c8a6a9f6ec4eca6bbd291f95b595869b3eff2723518e3fcf75"
 
 [[files]]
 file = "config/imblocker-client.toml"
@@ -1207,11 +1203,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c29648a250d8b767119dd0526bc1ddbbdba5b1b29d7c82c1578e506682ca495b"
-metafile = true
-
-[[files]]
-file = "mods/in-game-account-switcher.pw.toml"
-hash = "7c86df596328f38110a6f0de8b84ddcaef91b3cc9b9fd70d0320fdbe0332e47f"
 metafile = true
 
 [[files]]
