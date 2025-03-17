@@ -1196,12 +1196,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e27bf546182fc60c59cd535f0bd54c4f1aefd6a99db6ce49b9ca22bfd14c2b63"
+hash = "e39fea44e8f1b91ef0825d7ddfe1b5da7173439c1b23a4291c46542d2c39330c"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "94dc114836a7b73ab8712e0934d8db8255fd9f09951c4b857839a04d918621fc"
+hash = "9e130fd93c10e9ebac37b9e3e9f5dd13642567cc97de219df8d826d011f2d482"
 metafile = true
 
 [[files]]
@@ -1246,7 +1246,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "ee7bcf00de00e555a83d4d53a3c9db771d02b69de4e186b7050236c56d4bcbde"
+hash = "7445dfa826ed49d416f10850a40a333bf684ffac92a78f85d40de5cbebada3ba"
 metafile = true
 
 [[files]]
