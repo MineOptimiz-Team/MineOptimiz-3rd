@@ -1,0 +1,7 @@
+name = "axolotl-bucket-fix"
+filename = "axolotl-item-fix-1.1.7.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/4582/736/axolotl-item-fix-1.1.7.jar"
+hash-format = "sha256"
+hash = "607dd6aa216320586108e917fe5354a39ed132588d09800cdb22037251b5eb4f"

@@ -1,0 +1,13 @@
+name = "Better ModList"
+filename = "Better_Modlist-0.1.12-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/HzKiDbcz/Better_Modlist-0.1.12-all.jar"
+hash-format = "sha512"
+hash = "4cd58ffa19cbf968be30a6a57dd3ebc392a78361f56437eec597e3d07a01b487abf369f3d139e50f0b0531afcbd747533b8951dfb4bf964bd791fcad24e3d45e"
+
+[update]
+[update.modrinth]
+mod-id = "sbpqhzIG"
+version = "HzKiDbcz"

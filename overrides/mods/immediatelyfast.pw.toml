@@ -1,0 +1,8 @@
+name = "ImmediatelyFast"
+filename = "ImmediatelyFast-Forge-1.3.4+1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/oFstJPTE/ImmediatelyFast-Forge-1.3.4%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "d49bd8c7b1dc722c8370291144ce277e2e1680e3f8efc1ac3e6fcdb4758fc0e5d1858a6cfe76aa3e465a92008d82c49c72ec56b5337be83d6c21cf9dc7c79e39"

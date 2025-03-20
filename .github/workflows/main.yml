@@ -1,41 +1,80 @@
-name: Package Modpack
+name: Export Modrinth Pack
 
 on:
   push:
+    branches-ignore:
+      - 'removing*'
+    tags-ignore:
+      - '*_latest*'
     paths-ignore: 
       - 'README.md'
   workflow_dispatch:
 
 jobs:
-  Package-Modpack:
-    runs-on: ubuntu-22.04
+  Export-Modpack:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-          
-      - run: git config user.email "${{ github.actor }}@users.noreply.github.com"
-        if: ${{ github.repository_owner != 'github-actions' }}
-
-      - run: git config user.name "${{ github.actor }}"
-        if: ${{ github.repository_owner != 'github-actions' }}   
-        
-      - name: Get short SHA
-        run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
-
-      - name: Append short SHA to file content
-        run: |
-          sed -i "s/\(buildtype\)/2/g" modrinth.index.json
-          sed -i "s/\(buildtype\)/2/g" ./overrides/config/modpack-update-checker/config.json
-      
-      - name: Package Modpack
-        run: |
-          rm -rf .github
-          rm -rf .git
-          rm README.md
-          zip -r "./MineOptimiz.zip" ./*
-          mv MineOptimiz.zip "MineOptimiz v3.201.4-forge+2.mrpack"
-      
-      - uses: actions/upload-artifact@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          name: MineOptimiz v3.201.4-forge+2.zip
-          path: "./MineOptimiz v3.201.4-forge+2.mrpack"
-     
+          persist-credentials: true 
+          token: ${{ secrets.REFRESH_INDEX }} 
+          fetch-depth: 0 
+        
+      - name: Setup Git config
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.23.3"
+          cache: false
+
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Refresh index
+        run: |
+          cd overrides
+          packwiz refresh
+
+      - name: Commit changes
+        id: commit-check
+        run: |
+          git add overrides/pack.toml overrides/index.toml
+            
+
+          if [ -z "$(git status --porcelain overrides/pack.toml overrides/index.toml)" ]; then
+            echo "::notice::No changes detected"
+            exit 0
+          fi
+            
+          git commit -m "[skip ci] Refresh index"
+          
+          for i in {1..5}; do
+          git push && break || sleep 15  # 增加重试次数和间隔
+          done
+
+      - name: Process Metadata
+        run: |
+          SHORT_SHA=${GITHUB_SHA::7}
+          echo "VERSION=3.201.5" >> $GITHUB_ENV  
+          echo "MC_VERSION=1.20.1" >> $GITHUB_ENV
+          echo "LOADER=forge" >> $GITHUB_ENV
+          echo "RELEASES_ID=1" >> $GITHUB_ENV
+          sed -i "s/commitid/$RELEASES_ID/g" ./overrides/pack.toml
+          sed -i "s/commitid/$RELEASES_ID/g" ./overrides/config/modpack-update-checker/config.json
+      
+      - name: Export Modrinth Pack
+        run: |
+          cd overrides
+          packwiz modrinth export
+          mv ./*.mrpack "MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.RELEASES_ID }}.mrpack"
+      
+      - name: Upload MineOptimiz to Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.RELEASES_ID }}
+          path: ./overrides/*.mrpack

@@ -1,0 +1,13 @@
+name = "ThreatenGL"
+filename = "threatengl-forge-1.3.3-release.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RSFrpoou/versions/mQXGZQva/threatengl-forge-1.3.3-release.1.jar"
+hash-format = "sha512"
+hash = "d05eb3e51c34902d8fb80e193fd9a9794a4f6cb24d290b0d294ea75632be461bcb62903e1bc50840e6fc0ba49e01e3a79fd6b2230d32271fbf108e8939459451"
+
+[update]
+[update.modrinth]
+mod-id = "RSFrpoou"
+version = "mQXGZQva"

@@ -1,0 +1,13 @@
+name = "EnlightenedBlockEntities"
+filename = "EBE-1.20-1.20.1-0.9.1B.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ntz4ZX7h/versions/rQm3ja4Q/EBE-1.20-1.20.1-0.9.1B.jar"
+hash-format = "sha512"
+hash = "6f9b1eef1cc3982d9505c96e941190aa9c5996c30dd8de0f789a1b2cca0e4a41573d54ba199d93779586584361fafce0f109d7ea715cecff4e93a74196f52e17"
+
+[update]
+[update.modrinth]
+mod-id = "ntz4ZX7h"
+version = "rQm3ja4Q"

@@ -1,0 +1,7 @@
+name = "fabricskyboxes"
+filename = "fabricskyboxes-0.7.3+mc1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/cezLH6eB/fabricskyboxes-0.7.3%2Bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "277393ed2df9c0418ab0af23e7c4213bb08b71d139c022d38ca3ead93235ec35"

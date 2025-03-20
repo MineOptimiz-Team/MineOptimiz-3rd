@@ -44,7 +44,7 @@
   "extra_settings": {
     "overlay_corner": "TOP_LEFT",
     "text_contrast": "SHADOW",
-    "show_fps": true,
+    "show_fps": false,
     "show_f_p_s_extended": true,
     "show_coords": false,
     "reduce_resolution_on_mac": false,
@@ -60,11 +60,5 @@
     "prevent_shaders": true,
     "steady_debug_hud": true,
     "steady_debug_hud_refresh_interval": 1
-  },
-  "super_secret_settings": {
-    "fetch_sodium_extra_crowdin_translations": false,
-    "sodium_extra_crowdin_project_identifier": "sodium-extra",
-    "fetch_sodium_crowdin_translations": false,
-    "sodium_crowdin_project_identifier": "sodium-fabric"
   }
 }

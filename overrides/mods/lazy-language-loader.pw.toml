@@ -1,0 +1,7 @@
+name = "lazy-language-loader"
+filename = "lazy-language-loader-0.3.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nz0RSWrF/versions/VkswlqCU/lazy-language-loader-0.3.3.jar"
+hash-format = "sha256"
+hash = "ac7376aa71ee843d04a0a8ed23f77993a895a02943289eafdac3e38b158c61c3"

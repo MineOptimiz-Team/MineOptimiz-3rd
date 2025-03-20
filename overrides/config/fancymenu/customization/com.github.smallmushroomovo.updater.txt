@@ -1,0 +1,241 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = com.github.smallmushroomovo.updater
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1740659346151
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:de0ca658-76e0-4974-95c5-f7aa6193f95b-1740659321445] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  button_element_executable_block_identifier = 64bb6f4d-986c-4f7f-8e5d-ac4ce1291001-1740625496717
+  [executable_action_instance:befcbed5-33d6-4126-8f2a-b51f71bdc516-1740625521110][action_type:opengui] = com.github.smallmushroomovo.update
+  [executable_block:64bb6f4d-986c-4f7f-8e5d-ac4ce1291001-1740625496717][type:generic] = [executables:befcbed5-33d6-4126-8f2a-b51f71bdc516-1740625521110;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 返回
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 6d882491-16ef-4438-9d59-a6503ee0b8b5-1740625496717
+  [loading_requirement_container_meta:6d882491-16ef-4438-9d59-a6503ee0b8b5-1740625496717] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 267ae270-c20c-46b1-a242-05b2313b72fa-1740625496717
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1004
+  sticky_anchor = false
+  anchor_point = bottom-centered
+  x = -50
+  y = -55
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 132a3909-82d4-40d2-834a-0df65da0e8db-1740625496717
+  [loading_requirement_container_meta:132a3909-82d4-40d2-834a-0df65da0e8db-1740625496717] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+}
+
+element {
+  button_element_executable_block_identifier = 6e03201a-3d04-440a-8235-d32e5c719f81-1740625601495
+  [executable_action_instance:49a02b69-9db6-400a-9569-d03f7884a476-1740626991019][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_testing_update_channel/update.bat
+  [executable_block:2d391dd0-07b2-414d-9b6c-48b6d869ce02-1740627275122][type:if] = [executables:49a02b69-9db6-400a-9569-d03f7884a476-1740626991019;]
+  [if_executable_block_body:2d391dd0-07b2-414d-9b6c-48b6d869ce02-1740627275122] = cc55dc54-0321-4f53-a907-55f72e5b6ee5-1740627267795
+  [loading_requirement_container_meta:cc55dc54-0321-4f53-a907-55f72e5b6ee5-1740627267795] = [groups:][instances:9f05f06e-14dc-4016-ade0-dbff40e0c941-1740627268426;]
+  [loading_requirement:fancymenu_loading_requirement_is_os_windows][requirement_mode:if][req_id:9f05f06e-14dc-4016-ade0-dbff40e0c941-1740627268426] = 
+  [executable_action_instance:3d4c9a7a-ba2f-4579-91fc-2957734ab246-1740627309236][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_testing_update_channel/update.sh
+  [executable_block:fb85326e-097c-4389-b066-7585c807991f-1740627301739][type:if] = [executables:3d4c9a7a-ba2f-4579-91fc-2957734ab246-1740627309236;]
+  [if_executable_block_body:fb85326e-097c-4389-b066-7585c807991f-1740627301739] = d1bdcd4d-1add-4222-a60f-308ea61367f0-1740627294234
+  [loading_requirement_container_meta:d1bdcd4d-1add-4222-a60f-308ea61367f0-1740627294234] = [groups:][instances:1edf07db-211a-45bc-9928-eb74c4731fb3-1740627295443;]
+  [loading_requirement:fancymenu_loading_requirement_is_os_linux][requirement_mode:if][req_id:1edf07db-211a-45bc-9928-eb74c4731fb3-1740627295443] = 
+  [executable_block:c5cc36c0-047f-48fa-808a-66533d05c1f5-1740627105540][type:if] = [executables:2d391dd0-07b2-414d-9b6c-48b6d869ce02-1740627275122;fb85326e-097c-4389-b066-7585c807991f-1740627301739;]
+  [if_executable_block_body:c5cc36c0-047f-48fa-808a-66533d05c1f5-1740627105540] = cc793a7a-d299-4c36-8812-cbde783c2876-1740627094719
+  [loading_requirement_container_meta:cc793a7a-d299-4c36-8812-cbde783c2876-1740627094719] = [groups:][instances:189ac490-2db0-4639-81a6-09bf4d317766-1740627095628;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:189ac490-2db0-4639-81a6-09bf4d317766-1740627095628] = version_channel:testing
+  [executable_action_instance:f4e1a834-49e9-4f9e-93f0-d9794d44c351-1740636471038][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_stable_update_channel/update.sh
+  [executable_block:6565fc57-03b1-4685-82c1-31c2f377a5fb-1740636433154][type:if] = [executables:f4e1a834-49e9-4f9e-93f0-d9794d44c351-1740636471038;]
+  [if_executable_block_body:6565fc57-03b1-4685-82c1-31c2f377a5fb-1740636433154] = 4056bb27-528f-4f39-8ff8-f095c63f62c5-1740636427314
+  [loading_requirement_container_meta:4056bb27-528f-4f39-8ff8-f095c63f62c5-1740636427314] = [groups:][instances:71e77e97-27fc-49ea-81ff-e5acddba7ddf-1740636428299;]
+  [loading_requirement:fancymenu_loading_requirement_is_os_linux][requirement_mode:if][req_id:71e77e97-27fc-49ea-81ff-e5acddba7ddf-1740636428299] = 
+  [executable_action_instance:81059d1d-afd5-48d9-9778-2929e70b6f57-1740636443625][action_type:openlink] = https://ghfast.top/raw.githubusercontent.com/MineOptimiz-Team/packwiz-update-script/20.1/forge_stable_update_channel/update.bat
+  [executable_block:8ff0d814-84a9-4a2d-9fc1-ee2e1ace5c66-1740636421371][type:if] = [executables:81059d1d-afd5-48d9-9778-2929e70b6f57-1740636443625;]
+  [if_executable_block_body:8ff0d814-84a9-4a2d-9fc1-ee2e1ace5c66-1740636421371] = 8dd75f91-abfd-4019-a8d3-3cd4a098806c-1740636415469
+  [loading_requirement_container_meta:8dd75f91-abfd-4019-a8d3-3cd4a098806c-1740636415469] = [groups:][instances:1134dfb8-bd96-41cd-89bf-ee85a41d95b5-1740636416740;]
+  [loading_requirement:fancymenu_loading_requirement_is_os_windows][requirement_mode:if][req_id:1134dfb8-bd96-41cd-89bf-ee85a41d95b5-1740636416740] = 
+  [executable_block:efe794e4-6d02-4b02-a03d-caafee63e5ad-1740636410197][type:if] = [executables:6565fc57-03b1-4685-82c1-31c2f377a5fb-1740636433154;8ff0d814-84a9-4a2d-9fc1-ee2e1ace5c66-1740636421371;]
+  [if_executable_block_body:efe794e4-6d02-4b02-a03d-caafee63e5ad-1740636410197] = a2680eac-c4f1-4ac1-8489-ea96e10379c2-1740636336333
+  [loading_requirement_container_meta:a2680eac-c4f1-4ac1-8489-ea96e10379c2-1740636336333] = [groups:][instances:b7eaf9db-aa48-4d91-8395-4076c4914cea-1740636337775;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:b7eaf9db-aa48-4d91-8395-4076c4914cea-1740636337775] = version_channel:stable
+  [executable_block:6e03201a-3d04-440a-8235-d32e5c719f81-1740625601495][type:generic] = [executables:c5cc36c0-047f-48fa-808a-66533d05c1f5-1740627105540;efe794e4-6d02-4b02-a03d-caafee63e5ad-1740636410197;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 下载更新脚本
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 6e9c53a0-0872-467c-bc6e-24a684db7b50-1740625601495
+  [loading_requirement_container_meta:6e9c53a0-0872-467c-bc6e-24a684db7b50-1740625601495] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = a143de7a-da3d-432b-a245-8d3c4ba624a3-1740625601495
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1004
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -50
+  y = -69
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = f5887142-a221-4695-8b3b-5c73473a83be-1740625601495
+  [loading_requirement_container_meta:f5887142-a221-4695-8b3b-5c73473a83be-1740625601495] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+}
+
+element {
+  button_element_executable_block_identifier = 59c32c38-467e-46e1-9545-0ab133a3a85b-1740626881739
+  [executable_action_instance:6f6ca8a4-b192-42af-9d9e-af0d33f3aa6a-1740627070646][action_type:opengui] = com.github.smallmushroomovo.switch_channel
+  [executable_block:59c32c38-467e-46e1-9545-0ab133a3a85b-1740626881739][type:generic] = [executables:6f6ca8a4-b192-42af-9d9e-af0d33f3aa6a-1740627070646;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  description = 切换频道后需重新下载脚本并立即更新以保证功能正常
+  label = 切换更新频道
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 8861c57a-de5e-46a4-996f-cd529211b4f0-1740626881739
+  [loading_requirement_container_meta:8861c57a-de5e-46a4-996f-cd529211b4f0-1740626881739] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = af17be0a-e8a3-4eee-b6e4-6c9cc81fd9e1-1740626881739
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1004
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -50
+  y = 2
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 62fff12e-cf73-4f76-90d3-e0b2ae908eb6-1740626881739
+  [loading_requirement_container_meta:62fff12e-cf73-4f76-90d3-e0b2ae908eb6-1740626881739] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+}
+
+element {
+  button_element_executable_block_identifier = 7646058c-f0f2-4d4f-a810-e58b7570d320-1740641030898
+  [executable_action_instance:30dd36e9-8c82-4843-b204-ef8a5a6a301a-1740641069957][action_type:opengui] = com.github.smallmushroomovo.update_guide
+  [executable_block:7646058c-f0f2-4d4f-a810-e58b7570d320-1740641030898][type:generic] = [executables:30dd36e9-8c82-4843-b204-ef8a5a6a301a-1740641069957;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = 更新脚本说明（必看）
+  navigatable = true
+  widget_active_state_requirement_container_identifier = aa6439f8-039d-4d14-bc32-6b6eaeaf053b-1740641030898
+  [loading_requirement_container_meta:aa6439f8-039d-4d14-bc32-6b6eaeaf053b-1740641030898] = [groups:][instances:]
+  element_type = custom_button
+  instance_identifier = 48f4f14a-0e8c-40ee-89b9-9c59979a25c0-1740641030898
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1004
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -50
+  y = -35
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e4ac37c7-7828-43d3-8426-5291e81dc85a-1740641030898
+  [loading_requirement_container_meta:e4ac37c7-7828-43d3-8426-5291e81dc85a-1740641030898] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+}
+

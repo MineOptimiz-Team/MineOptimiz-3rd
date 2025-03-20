@@ -51,7 +51,7 @@
   "enableCape": true,
   "threadPoolSize": 3,
   "enableLogStdOut": false,
-  "cacheExpiry": 30,
+  "cacheExpiry": -5,
   "forceUpdateSkull": false,
   "enableLocalProfileCache": false,
   "enableCacheAutoClean": true,

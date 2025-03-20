@@ -1,0 +1,13 @@
+name = "MineOptimiz Forge 1.20.1"
+author = "Small__Mushroom"
+version = "3.201.5-forge+commitid"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "02800f5c071035d711d87dffad968e2235c56c9541bf830ad32aaf1f596df12b"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
