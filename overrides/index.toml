@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "762954f0803994db8e8cee47632b0efab08f86ee4bc252d5c6ab29f97d2486f2"
+hash = "ccef89ae05a1e4ecee6680ee25bb31faf9409bdd52cb5b9309004283f30f2476"
 metafile = true
 
 [[files]]
@@ -1385,7 +1385,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "9de861902c7a3f7cc88f51a920bbf93be84f2beca2206073eb511a2963d37914"
+hash = "0bb29a73e5f83b72e1fa56677bde2745e30a984a4559e3fa7164ed7b845e11c6"
 metafile = true
 
 [[files]]
