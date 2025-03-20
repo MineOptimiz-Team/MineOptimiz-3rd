@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe95430d433104d44c741c22d8f4d0db4678756311acacccddec49e3a39a4091"
+hash = "a19f6561d4d952aaf56c494326f4c59b0f276ab2f42f119e99ffb6fb62e7e7c9"
 metafile = true
 
 [[files]]
@@ -1221,12 +1221,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a8f5d734693741ac07444701c7e93729f5424ed0cf8fc398b2be1062d2c4aeee"
+hash = "e0249b9f22e21c0eddf854e68e28537bf98e8c766c73b6e29a8194f0e9b2c345"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "17a048c8381bc2992b794777020e1a3321ef6664403914e0f0c0d221e36b7891"
+hash = "e451b5bca5c965d2f0fa2dfe18510f3cc3024d5578187a2a647b143da1e77d33"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7968d615d6c6e90dd30daa64e86f355d849f4a1ce4310aa2c39f06cb54e46993"
+hash = "4b76c10e582c4388ee68a0bdee16324e51fbca786099cf3144123ffbec89e013"
 metafile = true
 
 [[files]]
@@ -1266,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "d9c37a782ab3fccc43ed846018033e4cb3f487ec37cb5d67c012da4f61ca771f"
+hash = "a940c1d1d13833557738ea92095762866832b87829e38dc7205c6c34676198d5"
 metafile = true
 
 [[files]]
@@ -1436,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ccffcb7778dfaab00152e8c7714c81d91c7aa06b79c747bd5af79a7916c13a20"
+hash = "9d3d262e7395e8b096a2c151eb7e6222597d1f927312502f6f4d904f458ff48f"
 metafile = true
 
 [[files]]
@@ -1470,5 +1470,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
+hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
 metafile = true
