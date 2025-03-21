@@ -66,8 +66,9 @@ jobs:
           echo "MC_VERSION=1.20.1" >> $GITHUB_ENV
           echo "LOADER=fabric" >> $GITHUB_ENV
           echo "RELEASES_ID=1" >> $GITHUB_ENV
-          sed -i "s/commitid/${{ env.RELEASES_ID }}/g" ./overrides/pack.toml
-          sed -i "s/commitid/${{ env.RELEASES_ID }}/g" ./overrides/config/modpack-update-checker/config.json
+          RELEASES_ID=1
+          sed -i "s/commitid/${RELEASES_ID}/g" ./overrides/pack.toml
+          sed -i "s/commitid/${RELEASES_ID}/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Export Modrinth Pack
         run: |
