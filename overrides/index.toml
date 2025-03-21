@@ -1310,12 +1310,12 @@ hash = "db4c4bb1ceed1ac383c7f83c57386aeb9799e09a9c722ad4566556d80ee50570"
 metafile = true
 
 [[files]]
-file = "mods/nuit-fabric-1.0.1-snapshot+mc1.21.4-build.568.jar"
-hash = "c9713318049031dc9cb4cd3f0e9fb70df9c549c7ed0d1d568e0d83162034209a"
+file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.579.jar"
+hash = "cfd7f7bd08e7d0366f8287cc70fe94184e37b3c3ee84ee4700b443fd8c5a6437"
 
 [[files]]
-file = "mods/nuit-interop-1.4.0+mc1.21.4-unknown.jar"
-hash = "a9b5b7d809b779d100a583dead82e8cbab9c1edbf541f138d7b966d04bb89e1b"
+file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.220.jar"
+hash = "c565fc5c987630245be8d9148b4af17b172b1e73cfb980e5064bacc7c38f744f"
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
