@@ -5,3 +5,4 @@
 - 修改了一些引起冲突的键位
 - 使用continuity实现无缝玻璃，删除了fusion与midnighttiggers资源包
 - 添加了fabricskyboxes和fsb-interop以支持自定义天空资源包
+- 强制使用OpenGL 4.6

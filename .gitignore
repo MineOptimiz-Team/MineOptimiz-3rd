@@ -9,3 +9,5 @@
 /overrides/saves/
 /overrides/shaderpacks/
 /overrides/servers.dat
+*/packwiz*
+*/*.mrpack

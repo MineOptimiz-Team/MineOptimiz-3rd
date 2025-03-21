@@ -1,0 +1,13 @@
+name = "Axolotl Bucket Fix"
+filename = "axolotl-item-fix-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bf62da62d47c3277d123c81e5eb94cc48f44fbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4582736
+project-id = 495453

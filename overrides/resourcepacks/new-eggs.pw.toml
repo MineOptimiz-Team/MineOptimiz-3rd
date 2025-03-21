@@ -1,0 +1,13 @@
+name = "Spawn Eggs! New!"
+filename = "NewEggs.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wt29SPvH/versions/rqDrgkuY/NewEggs.zip"
+hash-format = "sha512"
+hash = "47c7043aa8ab635e6bdd1d6bc96c3ce149f375bb4a4ba5d31d0cb5057350a227403bc869638e9a2483dfd2f9a90c3b7488ed9950f2e445f0218b4552730f067d"
+
+[update]
+[update.modrinth]
+mod-id = "wt29SPvH"
+version = "rqDrgkuY"

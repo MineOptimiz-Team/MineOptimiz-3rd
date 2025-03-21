@@ -1,0 +1,13 @@
+name = "PlayerNameTweaks"
+filename = "PlayerNameTweaks-fabric-1.19.x+1.20.x-1.1hf.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fa4dc1842c9ea6f85ee8968ef7794268b948ac7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4789147
+project-id = 842570

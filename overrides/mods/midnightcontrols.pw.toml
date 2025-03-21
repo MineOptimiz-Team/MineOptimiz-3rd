@@ -1,0 +1,13 @@
+name = "MidnightControls"
+filename = "midnightcontrols-1.9.4+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bXX9h73M/versions/xHOdr9un/midnightcontrols-1.9.4%2B1.20.jar"
+hash-format = "sha512"
+hash = "722f127d91eeaa42494ffae581536d563a99fa0075b5a92ccf27b31a4e25ce86a2a89e28f9b4084281a0e67b1816f1d7656010ca863cd8a08c195b1ac69d0fd6"
+
+[update]
+[update.modrinth]
+mod-id = "bXX9h73M"
+version = "xHOdr9un"

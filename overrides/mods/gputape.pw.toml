@@ -1,0 +1,13 @@
+name = "GpuTape"
+filename = "GpuTape-1.18x-1.21x-1.0.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5CTSrY8X/versions/ZoOH4tOq/GpuTape-1.18x-1.21x-1.0.5.1.jar"
+hash-format = "sha512"
+hash = "9b38e8702d6a99569c4d6e83e748294bd5579cf7044c21d68db5151f8a57195d272c85747fe8f9a26a411cc663555738fe932314f18d9ba05d3af7db5e1c959b"
+
+[update]
+[update.modrinth]
+mod-id = "5CTSrY8X"
+version = "ZoOH4tOq"

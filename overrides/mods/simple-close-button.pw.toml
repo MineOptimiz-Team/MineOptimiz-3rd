@@ -1,0 +1,13 @@
+name = "Simple Close Button"
+filename = "close-btn-1.0+1.20.0-1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NPYAMkNO/versions/LfbYXApP/close-btn-1.0%2B1.20.0-1.jar"
+hash-format = "sha512"
+hash = "e54cc48a9d496a32fa2e094e97957198d21d15364d84a0d0a2a1e4db218807de9bd6314105be9e38bc7e84104f2eab19685c2baa67d2ab6e2bd9d5102c471ed9"
+
+[update]
+[update.modrinth]
+mod-id = "NPYAMkNO"
+version = "LfbYXApP"

@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","black_icons","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","lambdabettergrass:default","file/Masa Family Bucket Translation Pack v1.0.3.zip","continuity:glass_pane_culling_fix","continuity:default"]
-incompatibleResourcePacks:["lambdabettergrass:default"]
+resourcePacks:["vanilla","fabric","black_icons","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","continuity:glass_pane_culling_fix","continuity:default","file/1.20-masa-mods-chinese.zip","file/NewEggs.zip"]
+incompatibleResourcePacks:["file/1.20-masa-mods-chinese.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -66,7 +66,7 @@ notificationDisplayTime:1.0
 mipmapLevels:0
 useNativeTransport:true
 mainHand:"right"
-attackIndicator:2
+attackIndicator:1
 narrator:0
 tutorialStep:none
 mouseWheelSensitivity:1.288249551693134
