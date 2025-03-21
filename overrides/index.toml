@@ -402,7 +402,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "bbd19ff267b9a6786b681a398b596ad705994de9d691a09370a8f6a5ee09ee64"
+hash = "539a8569a0a8d8c10663e7b901f61f90f18d6e8a13eb1916103a335c2964a8dc"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -430,7 +430,7 @@ hash = "c0f398a4bb2dcd483d5ad3140aeffa7136e5d7ba21ce846ddec3e7a84da0aa99"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
-hash = "cbc4ea9197a982119a0c59f5873dac316e02c5fa4b242589adbc94e7f9242f14"
+hash = "ee37bb5752b5521ae24ce98aef8d737fa062271d3d3c9b28b1aa70e3df04e84c"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
@@ -663,10 +663,6 @@ hash = "3816f610f4d2a315342df79295b357cd1801e3f492cdd7f55ad72afabbfbafbc"
 [[files]]
 file = "config/getittogetherdrops-server.toml"
 hash = "7e8e73b9b0cd1cbfda30bb324863d513b502a6aebfbf337b1d5524297013a534"
-
-[[files]]
-file = "config/ias.json"
-hash = "efa5c961c1b402c8a6a9f6ec4eca6bbd291f95b595869b3eff2723518e3fcf75"
 
 [[files]]
 file = "config/imblocker-client.toml"
@@ -1082,6 +1078,10 @@ hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
 
 [[files]]
+file = "mods/AccountsX-1.1.4-universal.jar"
+hash = "f859bee2a08a760a31b4635cf41c19abb7948951a40d5c0df1c894aede38c502"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
@@ -1113,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f0b75ae2e4267051bff34cd2380de6072013ab1f348f63512fbb2eedce7ef99d"
+hash = "1d5db1bb916b7efc637eb38dd583ded0765aec883faa30f3cf2464b1e82e1d40"
 metafile = true
 
 [[files]]
@@ -1173,7 +1173,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
 metafile = true
 
 [[files]]
@@ -1212,18 +1212,13 @@ hash = "6f8fa473a74b8411cb9c639118a1a2f2e1e28c8582b8e85731225b9dd27d4739"
 metafile = true
 
 [[files]]
-file = "mods/in-game-account-switcher.pw.toml"
-hash = "7c86df596328f38110a6f0de8b84ddcaef91b3cc9b9fd70d0320fdbe0332e47f"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "12e124b843f09e9af9c1cf0221a231dc76e071a97c2f443e3d03c3bdb76a3bd2"
+hash = "5f055dd476821cd7de6dd0498ffdbd458d1745444a3f74dabee44a3ca8115a82"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "24ad69028d30b488a0d7b9ffe230d2e2eb3c29938268e0ae02615fce4c8d534f"
+hash = "d1ea33481f8ed23c8c6fd4aab0334909cd06fd3f8b0d50374d4733247a022bd8"
 metafile = true
 
 [[files]]
@@ -1243,7 +1238,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
+hash = "c716469739cf0e6c33cd1c71ce67cd942a23395b5ecb3f04b59ddba87e0347f6"
 metafile = true
 
 [[files]]
@@ -1253,12 +1248,12 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "b5ca8fbc8a150538fffc7c1045f73556b1814eeb47af11c69a42320b71e90bb9"
+hash = "8d4742de404e20cf2bd15348dc278ee522be86aab5aa3c15699695812fe62516"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
+hash = "58bc826a0b2f0ba422144d35941dd912d349877225e121446180a14d7872040d"
 metafile = true
 
 [[files]]
@@ -1293,7 +1288,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
+hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
@@ -1302,12 +1297,12 @@ hash = "db4c4bb1ceed1ac383c7f83c57386aeb9799e09a9c722ad4566556d80ee50570"
 metafile = true
 
 [[files]]
-file = "mods/nuit-fabric-1.0.1-snapshot+mc1.21.4-build.568.jar"
-hash = "c9713318049031dc9cb4cd3f0e9fb70df9c549c7ed0d1d568e0d83162034209a"
+file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.579.jar"
+hash = "cfd7f7bd08e7d0366f8287cc70fe94184e37b3c3ee84ee4700b443fd8c5a6437"
 
 [[files]]
-file = "mods/nuit-interop-1.4.0+mc1.21.4-unknown.jar"
-hash = "a9b5b7d809b779d100a583dead82e8cbab9c1edbf541f138d7b966d04bb89e1b"
+file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.220.jar"
+hash = "c565fc5c987630245be8d9148b4af17b172b1e73cfb980e5064bacc7c38f744f"
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
@@ -1391,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e3384cdf4e1bd7f9869278ef734bd28ff942e1cebc18111ecc2004bc2ab15247"
+hash = "396a1fd1cbf063f76fe0a1298cf7eda47f039853034cf5b651b7a662fc0acfd6"
 metafile = true
 
 [[files]]
