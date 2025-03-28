@@ -338,7 +338,7 @@ hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.switch_channel.txt"
-hash = "c1bdf4b2f7988b94267c618d1ffc2ddb4ffec660dd0f5831d261172259a1713f"
+hash = "7a2f6527ac4dd4b6e4611f09e6b0c73999cac8a06c3db7bd61fa3bdd48119cd8"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
@@ -558,7 +558,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "cf5e140af103051c248f3322a681562c52392aec36a51c5390fee294931a0189"
+hash = "7af2764572826f9bd2df1e33c90875ba0c816389166aad4bd06c4a7ace9a254c"
 
 [[files]]
 file = "config/fast-chest.properties"
