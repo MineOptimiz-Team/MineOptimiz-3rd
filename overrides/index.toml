@@ -382,7 +382,7 @@ hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
-hash = "99c83b85cd318825afdace069a76c7965842228705ccf961c89b886ccd56d23c"
+hash = "3709503a4071bebdfe55b355594d941b55a7be5617530e4c7c05ed70ed0bbd76"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
@@ -422,7 +422,7 @@ hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.switch_channel.txt"
-hash = "c1bdf4b2f7988b94267c618d1ffc2ddb4ffec660dd0f5831d261172259a1713f"
+hash = "7a2f6527ac4dd4b6e4611f09e6b0c73999cac8a06c3db7bd61fa3bdd48119cd8"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
@@ -626,7 +626,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "c65c5dd86e7513f63b90cf2c6619e7b0924228d103ed1b7b9c255bd621d1448d"
+hash = "4f35ea57bff618a378a234b18103d9860d206ea5dac837852c237088bcce60b3"
 
 [[files]]
 file = "config/farsight-common.toml"
@@ -1510,7 +1510,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -1775,7 +1775,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b12c51b126c3b08ea3b3189b96662dc0c5c7b08cb7ce08261480aa364a2f4477"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]

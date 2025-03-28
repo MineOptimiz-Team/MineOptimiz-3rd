@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = com.github.smallmushroomovo.switch_channel
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1740659309176
+  last_edited_time = 1742549862030
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:9a7ade03-0c7a-4f13-b4cb-3e2d1e0b9ae9-1740659304048] = [groups:][instances:]
+  [loading_requirement_container_meta:0a587cd8-5561-40c4-8bd5-7dfea3cdcae8-1742549852994] = [groups:][instances:]
 }
 
 customization {
@@ -131,7 +131,6 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = testing分支更新后不会保留具体版本号
   label = testing
   navigatable = true
   widget_active_state_requirement_container_identifier = ded64b87-e848-4156-83d0-918492be932d-1740628217451

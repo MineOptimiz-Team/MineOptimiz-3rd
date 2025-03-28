@@ -13,6 +13,12 @@ variable {
 }
 
 variable {
+  name = version_id
+  value = 3.201.5-fabric+commitid
+  reset_on_launch = false
+}
+
+variable {
   name = version_channel
   value = stable
   reset_on_launch = false
