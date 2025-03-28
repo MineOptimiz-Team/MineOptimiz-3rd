@@ -1,0 +1,13 @@
+name = "Controlling"
+filename = "Controlling-fabric-1.21.1-19.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/BwzGdEtT/Controlling-fabric-1.21.1-19.0.4.jar"
+hash-format = "sha512"
+hash = "0de8d66f0910185ab9cb323b7a66c54c39d529417fc34de93d416961bc2871f16f968ac7dd03c9bd2ed7bb9c4a64b4bea960d991b1f142964fc82d50282ea6ef"
+
+[update]
+[update.modrinth]
+mod-id = "xv94TkTM"
+version = "BwzGdEtT"

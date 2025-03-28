@@ -1,14 +1,26 @@
 type = user_variables
 
 variable {
-  name = legacy_settings
-  value = 0
-  reset_on_launch = false
+  name = april_fool
+  value = 
+  reset_on_launch = true
 }
 
 variable {
   name = disable_realms_button
   value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = version_id
+  value = 3.211.2-fabric+commitid
+  reset_on_launch = false
+}
+
+variable {
+  name = version_channel
+  value = testing
   reset_on_launch = false
 }
 

@@ -1,0 +1,13 @@
+name = "Spawn Egg Backport"
+filename = "SpawnEggs BP.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HTcZCflj/versions/2KjqUKfT/SpawnEggs%20BP.zip"
+hash-format = "sha512"
+hash = "27148cd706811b00021af4ae03f4d3f311faa9dc057b31f2527ba97275f6d186b0c181310606690fe6f954e8c0b18ed3297144cabc82e951538eebe3b3d86cef"
+
+[update]
+[update.modrinth]
+mod-id = "HTcZCflj"
+version = "2KjqUKfT"
