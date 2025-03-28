@@ -626,7 +626,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "eef82d9f8712d2aa2604afabf30c00723d7cc2300ad322e262d085599c507de1"
+hash = "d7636de9573f97665ac9b7e6c1d091cd8527e858e95520edd0ec786d22ab6610"
 
 [[files]]
 file = "config/farsight-common.toml"
