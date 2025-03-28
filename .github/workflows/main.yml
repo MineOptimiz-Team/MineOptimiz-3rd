@@ -66,6 +66,7 @@ jobs:
           RELEASES_ID=2
           echo "RELEASES_ID=$RELEASES_ID" >> $GITHUB_ENV
           sed -i "s/commitid/$RELEASES_ID/g" ./overrides/pack.toml
+          sed -i "s/commitid/$RELEASES_ID/g" ./overrides/config/fancymenu/user_variables.db
           sed -i "s/commitid/$RELEASES_ID/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Export Modrinth Pack

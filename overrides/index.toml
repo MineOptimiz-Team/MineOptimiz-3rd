@@ -326,7 +326,7 @@ hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
-hash = "1fbfe3878c6acfe2faafd3b7ec3734ef21e42dfebb7fda44ec64c7396ceb7bd0"
+hash = "a85309e60adc35bd3dda42af68bc8b991e7a625cd2e7b29c900ddc84b0dc032f"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
@@ -566,7 +566,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "c65c5dd86e7513f63b90cf2c6619e7b0924228d103ed1b7b9c255bd621d1448d"
+hash = "8d6b3300272dcd34e37f7cf60436565f1a74e6733ff949ec9ba3ae920ccfded2"
 
 [[files]]
 file = "config/fast-chest.properties"
