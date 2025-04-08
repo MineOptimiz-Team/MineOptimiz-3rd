@@ -1291,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/neoculus.pw.toml"
-hash = "b6c358564fd9a28f616c50bcdc8c76ce011b8a849348d8df221751771faa4475"
+hash = "d1ed084ce30458150fcf4655a247c9ac59fbe187c25a585b66b75c316799758a"
 metafile = true
 
 [[files]]
