@@ -1,0 +1,13 @@
+name = "Classic Minecraft Icon"
+filename = "classic-minecraft-icon-v1.1.4-mc1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NTUQ8Yoi/versions/RRR1XNHQ/classic-minecraft-icon-v1.1.4-mc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "83f2c709691bdd25e35a4729639c28ab1ed8410f153698fbded0997d796b1b1726588426e6e6c3d6cd5685aaaacdb34ace70eba6136fb9f91645c07af59cebcc"
+
+[update]
+[update.modrinth]
+mod-id = "NTUQ8Yoi"
+version = "RRR1XNHQ"

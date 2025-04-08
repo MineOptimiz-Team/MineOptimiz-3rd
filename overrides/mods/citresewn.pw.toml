@@ -1,0 +1,7 @@
+name = "citresewn"
+filename = "citresewn-1.2.2+1.21.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/otVJckYQ/versions/JUnP9V1A/citresewn-1.2.2%2B1.21.jar"
+hash-format = "sha256"
+hash = "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776"

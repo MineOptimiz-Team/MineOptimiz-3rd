@@ -1,0 +1,7 @@
+name = "tweakeroo"
+filename = "tweakeroo-fabric-1.21-0.21.57.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/t5wuYk45/versions/KhDK5sB2/tweakeroo-fabric-1.21-0.21.57.jar"
+hash-format = "sha256"
+hash = "a549a9c3c108ff4115b031fe2890bf847c9b52725d6acdb0c8ed0df0029c6ca6"

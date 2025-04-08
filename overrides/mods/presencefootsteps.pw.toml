@@ -1,0 +1,7 @@
+name = "presencefootsteps"
+filename = "PresenceFootsteps-1.10.3+1.21.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/wn088QdG/PresenceFootsteps-1.10.3%2B1.21.jar"
+hash-format = "sha256"
+hash = "2a028f045ebfbecdc39299fd1a006d81c2a56e20f0bd90761f3335d1d3be116a"

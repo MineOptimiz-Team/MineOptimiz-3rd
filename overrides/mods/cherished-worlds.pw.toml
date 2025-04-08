@@ -1,0 +1,13 @@
+name = "Cherished Worlds"
+filename = "cherishedworlds-neoforge-10.1.1+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/o5lwJaRU/cherishedworlds-neoforge-10.1.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b8872d92472417c15ebf91bc9772223653b5d2f5b1f4b9a5d43f4a400cd711204e5a7c07d06721c10d0f527f937e9a8f36684dd986af4a6d6dcc9fda76b3ade7"
+
+[update]
+[update.modrinth]
+mod-id = "3azQ6p0W"
+version = "o5lwJaRU"

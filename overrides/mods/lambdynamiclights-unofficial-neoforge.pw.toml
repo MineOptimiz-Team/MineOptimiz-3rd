@@ -1,0 +1,13 @@
+name = "LambDynamicLights [Unofficial NeoForge]"
+filename = "lambdynamiclights-3.1.4-neo-0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g1BboDNl/versions/quylAxP6/lambdynamiclights-3.1.4-neo-0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "4807b67bf2f72635eaccdd9fb5cabd6bdcd6ade49f56d4442d554a91bb115635364607327bacd6f1e269a8985eacc4a96e3832e252573d6a5d659c298fd5fc1b"
+
+[update]
+[update.modrinth]
+mod-id = "g1BboDNl"
+version = "quylAxP6"

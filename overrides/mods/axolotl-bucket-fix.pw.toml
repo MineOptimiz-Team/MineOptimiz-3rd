@@ -1,0 +1,7 @@
+name = "axolotl-bucket-fix"
+filename = "axolotl-item-fix-1.1.9.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/UyUmjIeI/versions/Cdis21oa/axolotl-item-fix-1.1.9.jar"
+hash-format = "sha256"
+hash = "1a89f6c1865468d2efd897de6fec5fc1747c1b362554ba348ab607a000b1cd1f"
