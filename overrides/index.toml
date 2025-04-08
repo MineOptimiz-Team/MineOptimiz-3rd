@@ -346,7 +346,7 @@ hash = "b1a66503bbb447066159a84059092d2fef83d5da414126d7e528bba220ecee8b"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
-hash = "46163b29a7a33369805eb47f5615ef2476120bed115af9c0c63ef5b758c3ca7d"
+hash = "912cd36bc130e9729991f2a93f065d95a668d52db74f07577cd6541c4b17bf16"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
@@ -378,7 +378,7 @@ hash = "f3db85b9f9dfc989253d986de88ea049adfe2eb16c8ab5e514ac4d4d65c8183c"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.switch_channel.txt"
-hash = "c1bdf4b2f7988b94267c618d1ffc2ddb4ffec660dd0f5831d261172259a1713f"
+hash = "7a2f6527ac4dd4b6e4611f09e6b0c73999cac8a06c3db7bd61fa3bdd48119cd8"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.update.txt"
@@ -602,7 +602,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "cf5e140af103051c248f3322a681562c52392aec36a51c5390fee294931a0189"
+hash = "b258e19f4a0e6e00c276e3f04ab143ba6bd3014d88753a1c611e4a4d18f1cb4b"
 
 [[files]]
 file = "config/fast-chest.properties"
@@ -822,7 +822,7 @@ hash = "7cc4c696f14db7203ac5bfb27d19345d7e0744e8fcedb63fabf386acb45dcaf0"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "42ab642c3c7b1a017fc6f8ff0e9ec561f0fefb986feda3e505e46dfe7dcb489b"
+hash = "896203cdfb5d6bbe31b520e379de5942eebf76d57a7c72300e45b45cf52576a6"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -1178,7 +1178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -1253,7 +1253,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58bc826a0b2f0ba422144d35941dd912d349877225e121446180a14d7872040d"
+hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
 metafile = true
 
 [[files]]
@@ -1321,7 +1321,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "7c3b837a412d70d43414a5b296340dce9ebf97de84cc5c898c5d744ecc323b0b"
+hash = "448aa826133211f5fc4814b6955a515d8306d13ff03a96372176282a4954802c"
 metafile = true
 
 [[files]]
@@ -1386,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "396a1fd1cbf063f76fe0a1298cf7eda47f039853034cf5b651b7a662fc0acfd6"
+hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
 metafile = true
 
 [[files]]

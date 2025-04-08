@@ -13,6 +13,12 @@ variable {
 }
 
 variable {
+  name = version_id
+  value = 3.214.0-vulkanfabric+commitid
+  reset_on_launch = false
+}
+
+variable {
   name = version_channel
   value = testing
   reset_on_launch = false
