@@ -36,6 +36,12 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 ### 历史版本
 - 1.12.2: [网盘下载](https://www.123pan.com/s/jtiDVv-XMmWA.html)
 
+## 安装
+ - 将整合包文件拖入[支持的启动器](supported_launcher.md)中，启动器将会自动开始安装
+
+## 已知问题
+ - 见[此文档](https://123smallmushroom.github.io/mineoptimiz_known_issues.md)
+
 ## 扩展说明
 
 ### 📱 移动端支持
