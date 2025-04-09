@@ -7,8 +7,7 @@ on:
     tags-ignore:
       - '*_latest*'
     paths-ignore: 
-      - 'README.md'
-      - 'refresh_index.yml'
+      - '*.md'
   workflow_dispatch:
 
 jobs:
