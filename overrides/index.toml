@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1d5db1bb916b7efc637eb38dd583ded0765aec883faa30f3cf2464b1e82e1d40"
+hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
 metafile = true
 
 [[files]]
@@ -1176,7 +1176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "3ec16b2656b208d75471decae64aa8877bc0292882bfcfa430ec4d196db618f2"
+hash = "4d9afe066ad40c88d21e5d8bbe840c7486f2ec97773b67b4c0fbfd523161b0a5"
 metafile = true
 
 [[files]]
@@ -1211,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "5f055dd476821cd7de6dd0498ffdbd458d1745444a3f74dabee44a3ca8115a82"
+hash = "6b9099f46e6640a285b5e0e05c0a4b2de173fe21cd37b15d13fc60522869e0bd"
 metafile = true
 
 [[files]]
@@ -1221,7 +1221,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "a18cfe8ce1805adc1b5c1675b1bed3421ec0b46d780bdc9a519a55e7f1deb367"
+hash = "7796b7c66f017426f5c3e0c87005580630a15e538cbb0772094b8aaddec46018"
 metafile = true
 
 [[files]]
@@ -1251,12 +1251,12 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "8d4742de404e20cf2bd15348dc278ee522be86aab5aa3c15699695812fe62516"
+hash = "5b2836651298cdc544306890ef5ed807f066bac2db4228e171edcd2c95e32f04"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
@@ -1344,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "9a53bc41ea5265170f6a87285744c158834881ec706c68c2b8101f740396b36b"
+hash = "35ab1c638ca39eccdcee2e76ee7c771930fc3e1788a76afcaa75e6d4c0efed71"
 metafile = true
 
 [[files]]
@@ -1374,7 +1374,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8ff792fd5c8d9225709b317b49cc741233bfa6958f27edd8a2c8da50b4ff34fd"
+hash = "fdc2b264bfae9dbef68222edc1c220708df9ecc9bb8fa74b79ce1ebab6fe5355"
 metafile = true
 
 [[files]]
@@ -1389,7 +1389,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
@@ -1399,12 +1399,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "c462f49426404ef8c6eb3208e3e34cdd3dcc452dbbdb881d2a2da45ce3e254f3"
+hash = "811a798221c7c9d01aa879f7b0a6c7c5609141317d3b069301d98d4bc915273f"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "43cd91dbba4db62e15c1a902549eb91092a5fbedadf0b9902b482329bbd90c8c"
+hash = "5e3df8e0e99513fd8b8ea2b0b997c8bb2de847815ce176d85c8736d037df2de0"
 metafile = true
 
 [[files]]
@@ -1443,10 +1443,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spawn-egg-backport.pw.toml"
-hash = "9a19e5d951ac8ad03b386dd626473058087e0dce1d575439816c60aeabdd9250"
+hash = "96baa05a989d62108140a78275f2aee04397c9775b4479289f83cf18fd8b2650"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "417a03bba15d98195747ce17b50fb6df207d9b11dc9b6882eab4ab0001f0b223"
+hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true
