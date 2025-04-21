@@ -63,7 +63,7 @@ jobs:
           echo "VERSION=3.211.2" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.1" >> $GITHUB_ENV
           echo "LOADER=fabric" >> $GITHUB_ENV
-          RELEASES_ID=2
+          RELEASES_ID=3
           echo "RELEASES_ID=$RELEASES_ID" >> $GITHUB_ENV
           sed -i "s/commitid/$RELEASES_ID/g" ./overrides/pack.toml
           sed -i "s/commitid/$RELEASES_ID/g" ./overrides/config/fancymenu/user_variables.db
