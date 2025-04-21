@@ -1065,12 +1065,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "6789ad2958a2dc2ea1b45c3eae624f4535eac9475b03c3f496fde07debbcb178"
+hash = "e6df58ecd21087031aef60a38c696a6ee1679d0d48227e0c26fbe2b41701b053"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "00a6a59105f7bc307cf04c1dfb129b300c29a4cb550a5825cacdb54dbc598c68"
+hash = "e806e6c5e09a74176fadf4d241ba5cb4915250011f29a47ce6a0039784e9de17"
 metafile = true
 
 [[files]]
@@ -1150,7 +1150,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "152efe4b967c6908496bf158c5cbf16a09a768d283f855193d783e8f9ba49387"
+hash = "c088ee3e0b1219adb637caeea4b6a16beec6234c03abfb4e01c8aaec6741b57c"
 metafile = true
 
 [[files]]
@@ -1195,12 +1195,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "eaf70ca8f5f5418f5f1a4c91b1949be1f8d090d520c90b6baa91fa39cf052561"
+hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "9e130fd93c10e9ebac37b9e3e9f5dd13642567cc97de219df8d826d011f2d482"
+hash = "45cd3a9331e9c86a5b3cc01092df0ef22141eb6dfcfd64920c48a386adbbe18e"
 metafile = true
 
 [[files]]
@@ -1215,7 +1215,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "577333704c5eff69cb5c99a42ec4b0b62b75221beaf5365bf9da03c2029c1f6d"
+hash = "96fd114b925770640f00a5668a599ef9bffdff3d7f207f596e4215b720e8f588"
 metafile = true
 
 [[files]]
@@ -1250,7 +1250,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7445dfa826ed49d416f10850a40a333bf684ffac92a78f85d40de5cbebada3ba"
+hash = "dad3fae621fe1f37422cd2bd527c237da93e79b72128a27211bbed1c2f7f7b73"
 metafile = true
 
 [[files]]
@@ -1280,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
+hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
 metafile = true
 
 [[files]]
@@ -1295,7 +1295,7 @@ metafile = true
 
 [[files]]
 file = "mods/nerb.pw.toml"
-hash = "4c0636c6a1ff3b53f8a85ca3283e07d4296f02f083b3ed1ecb837b6eaaaa7e93"
+hash = "8c36ea5d11344480d76f8463f452c4ecc8ee59781667589ea2fd7b69f6ee86e8"
 metafile = true
 
 [[files]]
@@ -1385,7 +1385,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "38ea11d143362fbb76f38e21711c9fc8c530b7ab7b0a1099c9a332bfa91e05e1"
+hash = "5afffd42338cae5d02b1884cc4192d7241ac66beaddd1e9ed9616e5eaa27ac5f"
 metafile = true
 
 [[files]]
@@ -1414,7 +1414,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spawn-egg-backport.pw.toml"
-hash = "9a19e5d951ac8ad03b386dd626473058087e0dce1d575439816c60aeabdd9250"
+hash = "96baa05a989d62108140a78275f2aee04397c9775b4479289f83cf18fd8b2650"
 metafile = true
 
 [[files]]
