@@ -1400,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2c762b3a62ae8ecbdf7901824d56b9b17ab9efd271a0f42a229b7a4e342be6cf"
+hash = "13c7c05de4b547f624467454f0b1fcd1f47fdd0849cd175b513f417dca15183f"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
@@ -1415,4 +1415,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/spawn-egg-backport.pw.toml"
 hash = "9a19e5d951ac8ad03b386dd626473058087e0dce1d575439816c60aeabdd9250"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true

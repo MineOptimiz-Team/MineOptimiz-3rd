@@ -48,7 +48,7 @@ mouseSensitivity:0.7676056338028169
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","vanilla","fabric","mod_resources","file/Fast Better Grass.zip","file/masa-mods-chinese.zip","black_icons","continuity:glass_pane_culling_fix","continuity:default","file/SpawnEggs BP.zip"]
+resourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","vanilla","fabric","mod_resources","file/Fast Better Grass.zip","file/masa-mods-chinese.zip","file/SodiumTranslations.zip","black_icons","continuity:glass_pane_culling_fix","continuity:default","file/SpawnEggs BP.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
