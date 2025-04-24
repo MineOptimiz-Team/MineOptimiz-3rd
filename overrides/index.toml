@@ -1110,6 +1110,11 @@ hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "9896c7d7de7401ce0908f50fb848df12a6ac1fcb286449e74b72a79d897cc6f8"
+metafile = true
+
+[[files]]
 file = "mods/classic-minecraft-icon.pw.toml"
 hash = "8dc8df733ad30fa67f6d43eb049d4b6e0a89a3269f4845404d0ec45ec5542aba"
 metafile = true
