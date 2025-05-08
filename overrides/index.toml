@@ -1106,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
+hash = "a8b8e89a322aae5f20d15a3aa21cd5f47e14853f36b9303e3ef0fa717660115a"
 metafile = true
 
 [[files]]
@@ -1216,7 +1216,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "6b9099f46e6640a285b5e0e05c0a4b2de173fe21cd37b15d13fc60522869e0bd"
+hash = "ef4df118b077c1cccc07e0a71105418cba81bf95d5ce676382448121cf86ff1d"
 metafile = true
 
 [[files]]
@@ -1226,7 +1226,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7796b7c66f017426f5c3e0c87005580630a15e538cbb0772094b8aaddec46018"
+hash = "ac7d018c54adb691263eed4a162b7793a389a0f95cc9f4aa6356c210b5738b67"
 metafile = true
 
 [[files]]
@@ -1246,7 +1246,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c716469739cf0e6c33cd1c71ce67cd942a23395b5ecb3f04b59ddba87e0347f6"
+hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
 metafile = true
 
 [[files]]
@@ -1266,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
+hash = "f7e23e7fe8a8a92cebf1012f44ced149c27b7400b67f50d92eb3f095e4f45474"
 metafile = true
 
 [[files]]
@@ -1281,7 +1281,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "ab73712b95dc33bc4c1e706f480cd5a81e23b18d29960296308116a993a7f834"
+hash = "7d009dfe20583ff6c1176b1716096c02920e1003ed0933095507b97543b18d09"
 metafile = true
 
 [[files]]
@@ -1399,12 +1399,12 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "0bfe8d0a4dc04d45a0b3c1efdc283f9482a1f1a6f5380cf50138ac3f49113ffa"
+hash = "39c73faa3c0d4344f08c3ccb598d08f48c47c2cb9b951e585644f99cd688773f"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "811a798221c7c9d01aa879f7b0a6c7c5609141317d3b069301d98d4bc915273f"
+hash = "d5a6f65c0a04360a54bf687bcdc429d5ff9399c15e832e9f6a43efcbfba2ec01"
 metafile = true
 
 [[files]]
@@ -1453,5 +1453,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
+hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
 metafile = true
