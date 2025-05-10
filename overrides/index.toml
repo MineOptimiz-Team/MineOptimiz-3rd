@@ -1150,11 +1150,6 @@ hash = "389323d30065bef4d9eb2d965ce19e510bf7c9ffc64f21b6e122f2d95e1cf207"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "9e85c1d81c240528f05a386717bc69d02f4d7862c53c7ddccbeb17f742000771"
 metafile = true
@@ -1290,18 +1285,8 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
-metafile = true
-
-[[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "287a28faac07e805d78e967bc810a370fe0ed90db9c9fe3d5122dec3bae91da7"
 metafile = true
 
 [[files]]
@@ -1360,11 +1345,6 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
-metafile = true
-
-[[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "86ff9b67d90f046045619aa571df7bad909e480711c5d8b8967e3efca84ad16a"
 metafile = true
 
 [[files]]
