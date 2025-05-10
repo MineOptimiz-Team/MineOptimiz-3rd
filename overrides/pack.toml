@@ -1,6 +1,6 @@
 name = "MineOptimiz Fabric 1.21.5"
 author = "Small__Mushroom"
-version = "3.214.0-fabric+commitid"
+version = "3.215.0-fabric+commitid"
 pack-format = "packwiz:1.1.0"
 
 [index]
