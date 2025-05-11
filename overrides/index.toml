@@ -598,7 +598,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "fc3b807757c93afa3d265e03bbbf398fc6a0fe8b49dd55fe627424beb46a0bce"
+hash = "97b618a375ec61025fb5178f182e92bfb57b81e91f8f9a24ddacfb416750309b"
 
 [[files]]
 file = "config/fast-chest.properties"
@@ -1066,7 +1066,7 @@ hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
 
 [[files]]
-file = "mods/AccountsX-1.1.4-universal.jar"
+file = "mods/AccountsX-1.1.4-universal.jar.disabled"
 hash = "f859bee2a08a760a31b4635cf41c19abb7948951a40d5c0df1c894aede38c502"
 
 [[files]]
@@ -1285,6 +1285,10 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-fabric-5.20.4-beta.3+mc25w07a.e6c9.jar"
+hash = "306bdaa6695d57df85aed2845b80f0124cbbd929071301b9e18e15a2a8ce64dd"
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
@@ -1300,11 +1304,11 @@ hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
 metafile = true
 
 [[files]]
-file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.579.jar"
+file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.579.jar.disabled"
 hash = "cfd7f7bd08e7d0366f8287cc70fe94184e37b3c3ee84ee4700b443fd8c5a6437"
 
 [[files]]
-file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.220.jar"
+file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.220.jar.disabled"
 hash = "c565fc5c987630245be8d9148b4af17b172b1e73cfb980e5064bacc7c38f744f"
 
 [[files]]
