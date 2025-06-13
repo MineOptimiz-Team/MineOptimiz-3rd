@@ -1035,7 +1035,7 @@ hash = "f859bee2a08a760a31b4635cf41c19abb7948951a40d5c0df1c894aede38c502"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
+hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
@@ -1055,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "a24adf7667c54507db9d61056a819a53f9e5436fdf02577a091b0eefdf1e8e4f"
+hash = "c60e10e144ccfda7c278e8d5c70439d74cf3275aa0b691b1dae4268bd758389d"
 metafile = true
 
 [[files]]
@@ -1065,12 +1065,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "e6df58ecd21087031aef60a38c696a6ee1679d0d48227e0c26fbe2b41701b053"
+hash = "5f373d6f13b6e39d4bbdda7afb78cd0205a1e675f4bd783a3b2e443240c68c7d"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e806e6c5e09a74176fadf4d241ba5cb4915250011f29a47ce6a0039784e9de17"
+hash = "144ba9e7889fad8c466f9632a1a083246eab116b919549c8c2c374f59334f2ae"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
 
 [[files]]
@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c604862c7db098f8edcfa6aa1ebc4e235b3008fdbc61450c0da9c3c234513a54"
+hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
@@ -1200,7 +1200,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "45cd3a9331e9c86a5b3cc01092df0ef22141eb6dfcfd64920c48a386adbbe18e"
+hash = "4d79a25b78e53ae05249011d514a088cebe6df72c236bb657f26fb1aba114d9c"
 metafile = true
 
 [[files]]
@@ -1210,12 +1210,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+hash = "e1186ddc953e1446af3ba58cbb80ddd0d2315c1571ed5438f5c03953edf0b656"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "96fd114b925770640f00a5668a599ef9bffdff3d7f207f596e4215b720e8f588"
+hash = "0ac978306f2edfe2cbe991901ba84a766cffd3bf900b42587d88b5aae34670c5"
 metafile = true
 
 [[files]]
@@ -1225,7 +1225,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
@@ -1280,12 +1280,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
+hash = "cac351a2081dc73e6922ea757c1515e4b5d93c40c7a060278975b0de0b5863b8"
 metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "e15ed03dfe6671ab2d2efb0395618466fbd71a13e444015b42c55270c870375d"
+hash = "74be8e76f576295b6376ce3079bca518779536e84c86e7caf30582aa56806e68"
 metafile = true
 
 [[files]]
@@ -1330,7 +1330,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "d525f4f3a1bc9358a21159f335989da1d467dd75eccb9fdb14263aec6366ed53"
+hash = "db5b28fe7511a2d674c0a5c358529bc147e4ee4c7ece5a433607a366119fb40a"
 metafile = true
 
 [[files]]
@@ -1385,7 +1385,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5afffd42338cae5d02b1884cc4192d7241ac66beaddd1e9ed9616e5eaa27ac5f"
+hash = "b1c1fa2e1636be704e238a3a14c5077de9277cf88f388026c09da480e2dd0ce5"
 metafile = true
 
 [[files]]
@@ -1419,5 +1419,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
+hash = "58f2d6711487280df6601b89a4fb453938304d333c5df9a0549d7c49ece067bd"
 metafile = true
