@@ -1255,6 +1255,11 @@ hash = "9c4da7c2784ead3ef2486ec80417cbcedcf8d35a5176bccdbebb8469d60d5e7a"
 metafile = true
 
 [[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "8ec249c1e2aaac6bf623263036059908f66769ca70e90dd854de483424cedd0a"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
