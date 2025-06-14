@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "620a8a114b79b0a5363a60a746023b6c8fae9f42c6cf3df3337361a1128708c0"
+hash = "3b037857c8bdbdb5cfb846ffda75b5da9aa572a47775be0ca58e2f2cd6341b67"
 metafile = true
 
 [[files]]
@@ -1211,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
+hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
 metafile = true
 
 [[files]]
@@ -1286,12 +1286,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
+hash = "01d408ee2d9bf1431df1ddc8c2a036aaad350a317778bdb33fec38942179dd1f"
 metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "ab107cd8430cdf61d14591ada4fc29c7d5d6c7c10e4fe718bf05d96bb673d2d1"
+hash = "d8540fb4be9552d792dcac13fb18a0d3b916e4af10c5819cfb5d5f4d15418ad8"
 metafile = true
 
 [[files]]
@@ -1341,7 +1341,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "7a0091e72314b64b310a1215d6ca5dd100e1a8ad3fbbae33938e1dd4bdd0fab3"
+hash = "b38b08f77bdec885b31bd75d136404738e6c87e2f40bba77afa218ed605af343"
 metafile = true
 
 [[files]]
