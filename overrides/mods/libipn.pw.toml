@@ -1,13 +1,13 @@
 name = "libIPN"
-filename = "libIPN-neoforge-1.21-6.4.0.jar"
+filename = "libIPN-neoforge-1.21-6.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/onSQdWhM/versions/seepTS1B/libIPN-neoforge-1.21-6.4.0.jar"
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/jLoEF5th/libIPN-neoforge-1.21-6.5.0.jar"
 hash-format = "sha512"
-hash = "1b55ba4638c58db30ab981d2ed804200ed95ab0747f128327e782c9b41953476a0d3e75f459492b3a0408fa9f67fe62c50a0f3e79495109fae0fceb08e6e6cd8"
+hash = "57920830abf6da1fb7ef7722c00c1c259e31677e7f773f6eaf8b057d61cd15ab598dd1ebbe021c658bf8e3214db881505441643c9b7a37263993ccf8d2b62c79"
 
 [update]
 [update.modrinth]
 mod-id = "onSQdWhM"
-version = "seepTS1B"
+version = "jLoEF5th"

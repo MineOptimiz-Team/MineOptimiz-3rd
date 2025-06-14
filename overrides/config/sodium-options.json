@@ -2,7 +2,7 @@
   "quality": {
     "weather_quality": "FAST",
     "leaves_quality": "FAST",
-    "enable_vignette": true
+    "enable_vignette": false
   },
   "advanced": {
     "enable_memory_tracing": false,
@@ -16,9 +16,11 @@
     "use_entity_culling": true,
     "use_fog_occlusion": true,
     "use_block_face_culling": true,
-    "use_no_error_g_l_context": true
+    "use_no_error_g_l_context": true,
+    "sorting_enabled_v2": true
   },
   "notifications": {
-    "hide_donation_button": false
+    "has_cleared_donation_button": false,
+    "has_seen_donation_prompt": false
   }
 }

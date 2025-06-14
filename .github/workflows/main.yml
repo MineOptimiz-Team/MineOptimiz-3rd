@@ -7,7 +7,7 @@ on:
     tags-ignore:
       - '*_latest*'
     paths-ignore: 
-      - 'README.md'
+      - '*.md'
   workflow_dispatch:
 
 jobs:
@@ -60,7 +60,7 @@ jobs:
       - name: Process Metadata
         run: |
           RELEASES_ID=1
-          echo "VERSION=3.211.2" >> $GITHUB_ENV  
+          echo "VERSION=3.211.3" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.1" >> $GITHUB_ENV
           echo "LOADER=neoforge" >> $GITHUB_ENV
           echo "RELEASES_ID=$RELEASES_ID" >> $GITHUB_ENV
