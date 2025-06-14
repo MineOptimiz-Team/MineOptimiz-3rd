@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib (YACL)"
-filename = "YetAnotherConfigLib-3.6.2+1.20.1-forge.jar"
+filename = "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/PI0hRkb0/YetAnotherConfigLib-3.6.2%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/sCWgXDYQ/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
 hash-format = "sha512"
-hash = "c77f4cea583cbb4e057950e2a900916c4f0615a6a84173f7fc8185a5f73967bc43b543ef83a54d7e31be0909ce8616465ee321a1e07b8d5cb6c2f10077e50505"
+hash = "7fdd923ae94c1ada9bf0524f21cdfbb4f870ea93b26d02f369829585892fc5a2f61e60f43a6686ee611ff11bde8f123f178279e2de453c8fb320264153a0e8d9"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "PI0hRkb0"
+version = "sCWgXDYQ"

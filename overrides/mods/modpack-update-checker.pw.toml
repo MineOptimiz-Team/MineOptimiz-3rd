@@ -1,13 +1,13 @@
 name = "Modpack Update Checker"
-filename = "modpack-update-checker-1.20.1-forge-0.15.4.jar"
+filename = "modpack-update-checker-1.20.1-forge-0.15.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rR4tY6Cw/versions/Rc0gowIM/modpack-update-checker-1.20.1-forge-0.15.4.jar"
+url = "https://cdn.modrinth.com/data/rR4tY6Cw/versions/joZ4GpvI/modpack-update-checker-1.20.1-forge-0.15.5.jar"
 hash-format = "sha512"
-hash = "47a9aa2bfc3fdb3ae245074427853ab11baca283831f7fcc482bc481906d156025bf487aa8ecd0beacc896f7e01ea90e266ed60352670c280b2d7de3f95ed37b"
+hash = "bbe61234759b70f94bca0fca04890a7191059fd1ca321316dc8a90b576a0c4eb256ab1cf12acf33bea3d4c3c6433ef3db628b6ef347812495d61daa41795d3a6"
 
 [update]
 [update.modrinth]
 mod-id = "rR4tY6Cw"
-version = "Rc0gowIM"
+version = "joZ4GpvI"
