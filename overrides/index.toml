@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "19a7e79a2992d580491aa110433df935a6d6addf280f87442843135e334715ca"
+hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
 metafile = true
 
 [[files]]
@@ -1166,12 +1166,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "524f0edfbfb4f402042dc470dcd1ab21abf12808f2d15c9a688ccb176d2d63c6"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -1206,12 +1206,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "781569b236e3803e831888850b61c9765aa031c3db3a73730586f3868b186658"
+hash = "5c9e35e1c2df866f97371ce64eb8d5428310716c7246bb77e542fcf62680d92a"
 metafile = true
 
 [[files]]
@@ -1221,7 +1221,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e496daae3199faa87dc596b908293ced7a0d08df74b696acb9a3690b28a59c8e"
+hash = "470c68da479d0eb4c3f01efc40a4af6cafffee5cf076877079e0a56c2e9d62a8"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "4f91b0b457fcd875c378c1ab161ac57fbbfb06f5a99ca97c606addb6d6daa6c4"
+hash = "c0c0d6ca3bb068a7b94fc2a849fb334b11cc92dbd5964061d1307c11df073720"
 metafile = true
 
 [[files]]
@@ -1276,7 +1276,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "3098272705301ae8d4236190599d906666d6c4fe7b624c8da0bb5811fdcf86b8"
+hash = "1caa6218b44c73e330ef59f646d667ddc3706d857d39af46ba4122fb1b16e989"
 metafile = true
 
 [[files]]
@@ -1323,7 +1323,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
 metafile = true
 
 [[files]]
@@ -1348,7 +1348,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "2d77d2aa6a018790d81e93d8b211e03d5a620392592fa739be39b840a01ef471"
+hash = "08dbee5570664502979b1b8f1dddf0f3f0ea9922165b4cf5f1939fc68a36912a"
 metafile = true
 
 [[files]]
@@ -1393,12 +1393,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "06edcd8b8277da7d61696672502c3e0c2952dc97f03115be5b38ccdf598f0d27"
+hash = "645696d11ed58a0c62b126d391e8c9f0fd5e324cac833a3405d7a9c56c2a1ab9"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "3c062bdd6ec31792f6becc44b0b010ad93e670f2c1e2434816576a1de424369c"
+hash = "24942c4b77b5a82e6bbce623ab6ae7f33a413d309b0571f6b1f508615a889c07"
 metafile = true
 
 [[files]]
@@ -1442,5 +1442,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
+hash = "58f2d6711487280df6601b89a4fb453938304d333c5df9a0549d7c49ece067bd"
 metafile = true
