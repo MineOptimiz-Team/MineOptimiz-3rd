@@ -7,8 +7,7 @@ on:
     tags-ignore:
       - '*_latest*'
     paths-ignore: 
-      - 'README.md'
-      - 'refresh_index.yml'
+      - '*.md'
   workflow_dispatch:
 
 jobs:
@@ -60,7 +59,7 @@ jobs:
 
       - name: Process Metadata
         run: |
-          echo "VERSION=3.211.2" >> $GITHUB_ENV  
+          echo "VERSION=3.211.3" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.1" >> $GITHUB_ENV
           echo "LOADER=fabric" >> $GITHUB_ENV
           RELEASES_ID=1
