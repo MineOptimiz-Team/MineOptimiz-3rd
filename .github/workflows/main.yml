@@ -7,7 +7,7 @@ on:
     tags-ignore:
       - '*_latest*'
     paths-ignore: 
-      - 'README.md'
+      - '*.md'
   workflow_dispatch:
 
 jobs:
@@ -59,13 +59,13 @@ jobs:
 
       - name: Process Metadata
         run: |
-          RELEASES_ID=${GITHUB_SHA::7}
-          echo "VERSION=3.214.0" >> $GITHUB_ENV  
+          echo "VERSION=3.214.1" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.4" >> $GITHUB_ENV
           echo "LOADER=fabric" >> $GITHUB_ENV
           RELEASES_ID=1
           echo "RELEASES_ID=$RELEASES_ID" >> $GITHUB_ENV
           sed -i "s/commitid/$RELEASES_ID/g" ./overrides/pack.toml
+          sed -i "s/commitid/$RELEASES_ID/g" ./overrides/config/fancymenu/user_variables.db
           sed -i "s/commitid/$RELEASES_ID/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Export Modrinth Pack
