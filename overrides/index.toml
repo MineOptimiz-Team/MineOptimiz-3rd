@@ -1381,7 +1381,7 @@ metafile = true
 
 [[files]]
 file = "mods/vulkanmod.pw.toml"
-hash = "8e712cd1c96b80851ccb0ae6da7d647e42edc052837114399191ca858011d897"
+hash = "0b5aab8233253f8c3b61ea6d05ab0c1da69d2f5d42d58b0207bd9842d04e515e"
 metafile = true
 
 [[files]]
