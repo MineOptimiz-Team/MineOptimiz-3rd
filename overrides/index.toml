@@ -102,7 +102,7 @@ hash = "b14f54e4e5a6ce3821f622a789b900e1f0afdc93f29dd150b2fe2420180da106"
 
 [[files]]
 file = "config/bocchud.json"
-hash = "d357e482f8141b86ed7690c119c9b9145b19e9da8a2be9ab2ea50b4730ad840b"
+hash = "bf521b98139edc6f9f8fd951437e36cb0413fb5cbb8b6b364c8ef9108318ca47"
 
 [[files]]
 file = "config/borderlessmining.json"
@@ -974,31 +974,31 @@ hash = "16378526d4eef3c926811f1f7aa695b6d13c705ef8fac350329175db8e141d5d"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
-hash = "3bd6ce70fac32459eeee036af632e28c9f70c2a2596aef66e0b0b5e6445f3dc3"
+hash = "2995631598a847588bde2c13f7b28617eb1321c228e53313cfb805e1c4512fdb"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.fullmap.config"
-hash = "57c13f6c2325d25da122f9f8d0c921892efbb1fac87ef49040bf235dde54443a"
+hash = "95087bd36e96887ca0c299c19e05e921e51e159407ed2bf5721066192708f35c"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.minimap.config"
-hash = "661052af445b3dc98b9a7e8b7a4e8aaecde8d3369670b0df27e81132b8e0f12a"
+hash = "c5c25e8e352615d4ce324520184779fd2ecf201d0c861e76a0203b857475e8c5"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.minimap2.config"
-hash = "28389610e2fda4c7f0c37e3ecf2a1f0e82edffaae5c4ffd49a79053e89b1f20d"
+hash = "a12036dd68f46f9c3b847a90c9ceb0e67e869d12608d5ca8906a6a6d06bcc2ef"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.topo.config"
-hash = "9e273064e62c540e09d104258a8ea0d88e8dd9e2c2e22605b243f92f33f39847"
+hash = "8f950f1d2fec134c0daa79191b88227d5976e4cf7dc71bbf732efc69a62f5b24"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.waypoint.config"
-hash = "9e19798cc8085d0eacaf594d174564c584aa501d1c8e18809d7791bd357bbb76"
+hash = "05e1958ed85a1f2b9475d6402fc533cc5d025ca272a79c938628d7e649c4afcc"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.webmap.config"
-hash = "629ff218d4305e5262d0eff38ca2261f2033dda46c8e9f8c0d5815bfcf52bd77"
+hash = "2c939e2308e7d7d419af26ad342479690e8ae321c7af3ba64d8b0e897ccc8b5b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
