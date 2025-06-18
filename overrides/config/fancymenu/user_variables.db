@@ -14,7 +14,7 @@ variable {
 
 variable {
   name = version_id
-  value = 3.214.0-vulkanfabric+commitid
+  value = 3.214.1-vulkanfabric+commitid
   reset_on_launch = false
 }
 

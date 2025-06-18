@@ -1,13 +1,13 @@
 name = "Spawn Egg Backport"
-filename = "SpawnEggs BP.zip"
+filename = "SPEGG BP [1.20-1.x].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HTcZCflj/versions/2KjqUKfT/SpawnEggs%20BP.zip"
+url = "https://cdn.modrinth.com/data/HTcZCflj/versions/R6VVlO02/SPEGG%20BP%20%5B1.20-1.x%5D.zip"
 hash-format = "sha512"
-hash = "27148cd706811b00021af4ae03f4d3f311faa9dc057b31f2527ba97275f6d186b0c181310606690fe6f954e8c0b18ed3297144cabc82e951538eebe3b3d86cef"
+hash = "bfbfd647017ec9ac26f4c85a93693fef4b9c7e4a9229952a7faff0f3e94fe0a98b3ac388a0bd809c83c0822d425e3450f8ff88f532e966d42b269362fe7be18b"
 
 [update]
 [update.modrinth]
 mod-id = "HTcZCflj"
-version = "2KjqUKfT"
+version = "R6VVlO02"

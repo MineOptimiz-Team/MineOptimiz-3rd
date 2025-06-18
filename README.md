@@ -17,8 +17,9 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 | MC 版本  | 模组加载器           | 渲染方案                          | 维护状态       |
 |----------|---------------------|-----------------------------------|----------------|
 | 1.21.4   | Fabric              | Sodium / VulkanMod                | ✅ 持续更新    |
-| 1.21.1   | NeoForge / Fabric   | Embeddium / Sodium / VulkanMod    | ✅ 持续更新    |
+| 1.21.5   | Fabric              | Sodium                            | ⚠️ 处于测试阶段|
 | 1.20.1   | Forge / Fabric      | Embeddium / Sodium / VulkanMod    | ✅ 持续更新    |
+| 1.21.1   | NeoForge / Fabric   | Sodium / VulkanMod                | ✅ 持续更新    |
 | 1.18.2   | Forge / Fabric      | Sodium                            | ❌ 不再更新    |
 | 1.20.6*  | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.19.4   | Fabric              | Sodium / OptiFine                 | ❌ 不再更新    |
@@ -35,6 +36,12 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 
 ### 历史版本
 - 1.12.2: [网盘下载](https://www.123pan.com/s/jtiDVv-XMmWA.html)
+
+## 安装
+ - 将整合包文件拖入[支持的启动器](supported_launcher.md)中，启动器将会自动开始安装
+
+## 已知问题
+ - 见[此文档](https://123smallmushroom.github.io/mineoptimiz_known_issues.md)
 
 ## 扩展说明
 
