@@ -57,6 +57,7 @@
     "infoHorseSpeed": 0,
     "infoHorseJump": 0,
     "infoPandaGene": 0,
+    "infoDolphinTreasure": 57,
     "infoEntityVariant": 0
   },
   "Colors": {
@@ -105,7 +106,10 @@
     "beeTooltips": false,
     "bundleTooltips": true,
     "bundleTooltipsFillLevel": 64,
+    "customModelTooltips": false,
+    "foodTooltips": false,
     "honeyTooltips": false,
+    "lodestoneTooltips": false,
     "biomeOverlaySingleColor": true,
     "bundlePreview": false,
     "bundleDisplayBgColor": true,
@@ -113,8 +117,20 @@
     "bundleDisplayRowWidth": 9,
     "debugMessages": false,
     "dontClearStoredSeedOnDimensionChange": true,
-    "entityDataSync": true,
+    "hudDataSync": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "entityDataSync": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "entityDataSyncBackup": true,
+    "entityDataSyncCacheRefresh": 0.25,
     "entityDataSyncCacheTimeout": 1.0,
     "entityDataSyncLoadNbt": false,
     "infoLinesUsesNbt": true,
@@ -171,15 +187,24 @@
     "lightLevelMarkers": "square",
     "lightLevelNumberCondition": "always",
     "lightLevelNumbers": "block",
-    "hudAlignment": "top_left",
+    "hudAlignment": "top_right",
     "biomeOverlayRange": 4,
     "biomeOverlayRangeVertical": 0,
     "blockPosFormat": "Block: %d, %d, %d",
     "blockGridOverlayRadius": 32,
     "coordinateFormat": "x: %.1f y: %.1f z: %.1f",
-    "dateFormatReal": "yyyy-MM-dd HH:mm:ss",
+    "dateFormatType": "regular",
+    "dateFormatString": "yyyy-MM-dd HH:mm:ss",
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
+    "durationFormatType": "pretty",
+    "durationFormatString": "HH:mm:ss.SSS",
     "fontScale": 1.0,
+    "hudStatusEffectsShift": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "lightLevelMarkerSize": 0.84,
     "lightLevelNumberOffsetBlockX": 0.26,
     "lightLevelNumberOffsetBlockY": 0.32,
@@ -203,6 +228,7 @@
     "inventoryPreviewToggleScreen": {
       "keys": "BUTTON_3"
     },
+    "inventoryPreviewVillagerBGColor": false,
     "villagerConversionTicks": true,
     "villagerOfferEnchantmentBooks": true,
     "villagerOfferPriceRange": true,
@@ -213,16 +239,16 @@
   "InfoTypeToggles": {
     "infoFPS": true,
     "infoMemoryUsage": false,
-    "infoTimeIRL": false,
+    "infoTimeIRL": true,
     "infoTimeWorld": false,
     "infoWorldTimeFormatted": false,
-    "infoCoordinates": true,
+    "infoCoordinates": false,
     "infoCoordinatesScaled": false,
     "infoBlockPosition": false,
     "infoChunkPosition": false,
     "infoBlockInChunk": false,
     "infoDimensionId": false,
-    "infoFacing": false,
+    "infoFacing": true,
     "infoRotationYaw": false,
     "infoRotationPitch": false,
     "infoBlockBreakSpeed": false,
@@ -243,7 +269,7 @@
     "infoEntities": false,
     "infoEntitiesClientWorld": false,
     "infoTileEntities": false,
-    "infoLightLevel": false,
+    "infoLightLevel": true,
     "infoBiome": false,
     "infoBiomeRegistryName": false,
     "infoDistance": false,
@@ -268,6 +294,7 @@
     "infoHorseSpeed": false,
     "infoHorseJump": false,
     "infoPandaGene": false,
+    "infoDolphinTreasure": false,
     "infoEntityVariant": false
   },
   "InfoHotkeys": {
@@ -440,6 +467,9 @@
       "keys": ""
     },
     "infoPandaGene": {
+      "keys": ""
+    },
+    "infoDolphinTreasure": {
       "keys": ""
     },
     "infoEntityVariant": {
