@@ -994,35 +994,35 @@ hash = "16378526d4eef3c926811f1f7aa695b6d13c705ef8fac350329175db8e141d5d"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
-hash = "b717ee20c08ea6aeea3227db7bd69b351f509eaa82ee8558f2b64ac2dd27ee98"
+hash = "94d87f8f0145bc826264270af69704f0f91a5ae247e36a9ff0c3967a8eb18c16"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "b3fc7dc95c847f507e798aae18f0fef5678b50b2e15d827347ae71a4431a1dbc"
+hash = "d60a5bdf2ad9a07da539ac3869c178b5cbea2cc5f001e13504c3ed1704779cf6"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "1a2122a56cd875c4b95cf67e892cb7e00ea5e084b9014ca125061bf8eee6c740"
+hash = "b37625740ccc5089482d68b5e60ad5505b98f388edd3863e35481a6eed171810"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "0304eb598ac7567fa95bda96d95b1af9420a098b299a9b5ef17480480ddc94c0"
+hash = "5a43b77c7e22b140a261e4b8706af0a12865d6e8097d3c77541180c7d193de81"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
-hash = "23dc6a845844fb3841e6c608f60aa1e8ce48bbb7e35b45f9827a485455b30535"
+hash = "811764e00354dc7a9ded0b03d31eafb65ac21b6dac986eecb66d31606e8e0b49"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.topo.config"
-hash = "68ecbaac85382a865e9048b1109748201816ac0164bd20b8ae529651e6039977"
+hash = "ebf1c9acc49ea3bfb326e38c8af7e93a0589085c80f8d5ceacd06e0753cab5ec"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "8b640d545ba8782291b51f042ce352608875e7fd85fd703216361201ac207afd"
+hash = "aba5bc4930f8498c2331fff6799e4cc4d16a92e5c3aeee764db509cadb8fb653"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
-hash = "2e4c6912515ef7e2dfc7762a1126cdcbc98c919979bb45c6aab7932ec7b62299"
+hash = "2f36c3d39317adc570f447573de42ef4206ac99acfe11442355092016f138d7d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
