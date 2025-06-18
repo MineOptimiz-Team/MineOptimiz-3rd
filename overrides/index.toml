@@ -790,7 +790,7 @@ hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
 
 [[files]]
 file = "config/minihud.json"
-hash = "38c54dc230877d2566d28c4890cc79286d2b985f5f1b10ed907e49fafd490283"
+hash = "20725a79f3696ae1eae1718af10c2f74d744e8cc8ec01e6d340d1171ae15a913"
 
 [[files]]
 file = "config/modelfix-client.toml"
