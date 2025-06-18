@@ -1,0 +1,13 @@
+name = "Modpack Update Checker"
+filename = "modpack-update-checker-1.21.5-fabric-0.15.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rR4tY6Cw/versions/mpo8TWHA/modpack-update-checker-1.21.5-fabric-0.15.5.jar"
+hash-format = "sha512"
+hash = "2ecde037b7ad89c16331c017b5310ae3766bfd48b97718b75e69c3b91ffddeaf3e0c5994529aea8f5d7a12b362165f77a84703bd442eeeb261d4ab2de436c5a0"
+
+[update]
+[update.modrinth]
+mod-id = "rR4tY6Cw"
+version = "mpo8TWHA"

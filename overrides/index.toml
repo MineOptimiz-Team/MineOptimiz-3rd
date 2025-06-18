@@ -1299,6 +1299,11 @@ hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
 
 [[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "61dbab02a47d7c15cd595fac100e6f6c6fb1c08fd451c9196cd35b4ca2b01c36"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "8d250e4781a41beb98270b2f36e042415067f92081c6fcf843d7ea89a61b4cdc"
 metafile = true
