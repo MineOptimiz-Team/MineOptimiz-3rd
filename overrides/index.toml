@@ -102,7 +102,7 @@ hash = "b14f54e4e5a6ce3821f622a789b900e1f0afdc93f29dd150b2fe2420180da106"
 
 [[files]]
 file = "config/bocchud.json"
-hash = "d357e482f8141b86ed7690c119c9b9145b19e9da8a2be9ab2ea50b4730ad840b"
+hash = "20725a79f3696ae1eae1718af10c2f74d744e8cc8ec01e6d340d1171ae15a913"
 
 [[files]]
 file = "config/borderlessmining.json"
