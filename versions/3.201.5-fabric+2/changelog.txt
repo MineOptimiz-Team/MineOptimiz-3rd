@@ -1,0 +1,3 @@
+ - 版本号的显示改用fancymenu自带变量系统而不是使用modpack-update-checker (5eb9294b8de7936edf16c25f91d44bd47d30a43a, 38aa00639aa11e48bb49287c19eb5cecf7d0fe4c)
+ - 移除了关于testing频道的过时提示 (b3590cd59b2f9b2003052932ed9e5dd9a5d2b06f)
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.5-fabric+1...3.201.5-fabric+2

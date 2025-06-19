@@ -61,7 +61,7 @@ jobs:
 
       - name: Process Metadata
         run: |
-          echo "VERSION=3.201.5" >> $GITHUB_ENV  
+          echo "VERSION=3.201.6" >> $GITHUB_ENV  
           echo "MC_VERSION=1.20.1" >> $GITHUB_ENV
           echo "LOADER=fabric" >> $GITHUB_ENV
           RELEASES_ID=2

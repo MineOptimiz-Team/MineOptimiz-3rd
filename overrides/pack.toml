@@ -1,13 +1,13 @@
 name = "MineOptimiz Fabric 1.20.1"
 author = "Small__Mushroom"
-version = "3.201.5-fabric+commitid"
+version = "3.201.6-fabric+commitid"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5b47348d84642619c78b9437d41f7f09d1bcfab100a2e9e5abb21fb6a2ea71e8"
+hash = "030b76fb05a1b7814c49851e163299920f2787d1590f9255c5c7579f0a41be80"
 
 [versions]
-fabric = "0.16.10"
+fabric = "0.16.14"
 minecraft = "1.20.1"
