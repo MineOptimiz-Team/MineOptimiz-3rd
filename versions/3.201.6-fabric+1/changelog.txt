@@ -1,0 +1,7 @@
+ - 更新模组
+ - 更新Fabric Loader
+ - 添加模组：[mcwifipnp](https://www.mcmod.cn/class/4498.html)
+ - 将minihud ui调整至右上角，添加更多信息
+ - 调整旅行地图显示位置
+ 
+**Full Changelog**: https://github.com/MineOptimiz-Team/MineOptimiz-3rd/compare/3.201.5-fabric+2...3.201.6-fabric+1
