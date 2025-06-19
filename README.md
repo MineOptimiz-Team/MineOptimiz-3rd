@@ -42,7 +42,7 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 ## 已知问题
  - 见[此文档](https://123smallmushroom.github.io/mineoptimiz_known_issues.md)
 
-### 更新
+## 更新
 请使用启动器更新整合包
 
 整合包内可下载更新脚本，但该脚本已停止维护，不建议使用
