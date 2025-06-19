@@ -1390,6 +1390,11 @@ hash = "2fe1a59e86b595ad5b8d25a0a9f5661b33071683a6ea5e23db146c030963e67e"
 metafile = true
 
 [[files]]
+file = "mods/wthit.pw.toml"
+hash = "a2e5311597030e74df803b2293dbe1e6fe6289a36079b6eb2c53cff23cf0d7e5"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
