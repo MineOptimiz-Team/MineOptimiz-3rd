@@ -1090,7 +1090,7 @@ hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
 
 [[files]]
 file = "config/minihud.json"
-hash = "d357e482f8141b86ed7690c119c9b9145b19e9da8a2be9ab2ea50b4730ad840b"
+hash = "bf521b98139edc6f9f8fd951437e36cb0413fb5cbb8b6b364c8ef9108318ca47"
 
 [[files]]
 file = "config/modelfix-client.json"
@@ -1358,31 +1358,31 @@ hash = "29b4658d2b674148646ea6a4e3ed7325aea80026241cdd11ddf7ad9a2d5bfda3"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
-hash = "e990c339561f1bd2a2355d7c67cc1e1bebf9bbfb5c5c100b3f0ba9ee443c40bc"
+hash = "3bd6ce70fac32459eeee036af632e28c9f70c2a2596aef66e0b0b5e6445f3dc3"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.fullmap.config"
-hash = "77254296b6364022fbd8fa7628dc9a5c9f68b5bd59374d9dc7ee58fe995e3aad"
+hash = "57c13f6c2325d25da122f9f8d0c921892efbb1fac87ef49040bf235dde54443a"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.minimap.config"
-hash = "cc0f7fc6b69bdacde42e2beee9394bbf680569ea800f20969cd477227c84713b"
+hash = "f0e67680aacf87195e6b9518992dbd446612f2128b1a2d86bde3316330695dd8"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.minimap2.config"
-hash = "8f2f7680e279e9e08347ee623bec0a04aca20357a9781e510e0702f84b25666f"
+hash = "28389610e2fda4c7f0c37e3ecf2a1f0e82edffaae5c4ffd49a79053e89b1f20d"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.topo.config"
-hash = "70f1684962d4db1d13e0ea2a9e0d090d39c3c9b23789f85cd9fa705fb7593dd8"
+hash = "9e273064e62c540e09d104258a8ea0d88e8dd9e2c2e22605b243f92f33f39847"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.waypoint.config"
-hash = "5b840428742ef774fec4a0df7c75d2600df40567a5dac3a6ac8b2a2e68e9b221"
+hash = "9e19798cc8085d0eacaf594d174564c584aa501d1c8e18809d7791bd357bbb76"
 
 [[files]]
 file = "journeymap/config/5.10/journeymap.webmap.config"
-hash = "edc681ab1c54758ab4e5cfe4b29da98d8498d9f9ea6db17719331c8722161fc5"
+hash = "629ff218d4305e5262d0eff38ca2261f2033dda46c8e9f8c0d5815bfcf52bd77"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
