@@ -626,7 +626,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "d7636de9573f97665ac9b7e6c1d091cd8527e858e95520edd0ec786d22ab6610"
+hash = "60a110a2ca37989a0b9f9f6ebefa67896c38120b7f576c6c6066efaf625081f5"
 
 [[files]]
 file = "config/farsight-common.toml"
@@ -1118,7 +1118,7 @@ hash = "7cc4c696f14db7203ac5bfb27d19345d7e0744e8fcedb63fabf386acb45dcaf0"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "fc1e2b0ffc349df345173ebd642cce7f459b4ba1c767d1d80c6188a2cabc0c42"
+hash = "4775e180d9cf5ede40dcd4aeb961b1a1b842cf8d65b5dffabb2dbc823f98431a"
 
 [[files]]
 file = "config/moreculling.toml"
