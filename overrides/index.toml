@@ -378,7 +378,7 @@ hash = "aa3cabfbd8fae4309185a9963a8778d15928d8d7ec1918f994e920a591820cfd"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "564db0e83a8159e50cfb4e709f027c0ff3a49e83c773bfa23b26012bc330c3c5"
+hash = "393edcd7c6dcbae23a912e5e84f444a0a6418ae85de591c2c3361adef583bfb7"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
@@ -409,6 +409,10 @@ file = "config/fancymenu/customization/cancel_button_in_resourcepack_select_scre
 hash = "ab9be510b99f4c81f2c066a57884eb7b48842bd82d12e333cc8d210cab1a00ad"
 
 [[files]]
+file = "config/fancymenu/customization/changelogscreen_layout.txt"
+hash = "55b5833a323febe8dc739136c53c96fc968dcc27b7c1f410d78d895cf72f030a"
+
+[[files]]
 file = "config/fancymenu/customization/choosesystem.txt"
 hash = "2003da60588c9fe62475c3dc7034c743a926537af331c3e97530717c49796f2e"
 
@@ -434,7 +438,7 @@ hash = "ffd72f74aa736ff301200a622d987737ee14ddfe411c83a965feab1a48aaa010"
 
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.updater.txt"
-hash = "8a1be92a577f08953e5190fd3a215dd419ed32d077bf6d0f8e25e6456276d9d2"
+hash = "2593469e27bf394e9409bd1d6cfa83ac679aa01cd50a871cabb1bb65440b2d80"
 
 [[files]]
 file = "config/fancymenu/customization/credits.txt"
@@ -614,7 +618,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "86f2dc42726936af3034c9770718ce462e904f473fd30716ed67be895c2bb5d9"
+hash = "776b807d9d6719018dbf16a1d9cad5a0caf5798a55c3e065b2f3e09137daceb4"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
