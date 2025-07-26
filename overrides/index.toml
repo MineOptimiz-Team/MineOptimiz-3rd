@@ -1088,9 +1088,8 @@ hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
 metafile = true
 
 [[files]]
-file = "mods/axolotl-bucket-fix.pw.toml"
-hash = "73f1b551b8082208ff4fa4f479f6e5faa0f53e8944b86231f25c88d3ebbcde2b"
-metafile = true
+file = "mods/axolotl-item-fix-1.1.11.jar"
+hash = "c2f3c153af8ff12e579d70e51daf71259703afff9b37e94631908217995c80a0"
 
 [[files]]
 file = "mods/badpackets.pw.toml"
