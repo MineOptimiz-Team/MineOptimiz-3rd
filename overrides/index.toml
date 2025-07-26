@@ -1078,10 +1078,6 @@ file = "mods/PresenceFootsteps-0.1.0-beta.0.0+20250718T071710Z.jar"
 hash = "794848e1dd381cbdaf66f5a2dc6782ebd2b5b269c94444a7ba7b7bea36a3e50f"
 
 [[files]]
-file = "mods/RoughlyEnoughItems-20.0.9999-fabric.jar"
-hash = "bfde62e2b10d4e3e19ca228e0867c11552a1eb5d19b0e399e10b6256bb95c51e"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
@@ -1364,8 +1360,9 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml.disabled"
-hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
+file = "mods/rei.pw.toml"
+hash = "1614366f37814b1f1e9248e055b576cbd88d6463164d2bd8b5654b12f58e7cea"
+metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
