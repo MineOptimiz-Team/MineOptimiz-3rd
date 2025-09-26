@@ -1316,16 +1316,13 @@ hash = "b521c8ea3afe47d24a2acb56dbb63452f7940d120d829649bab0efada2e25983"
 metafile = true
 
 [[files]]
-file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.579.jar.disabled"
-hash = "cfd7f7bd08e7d0366f8287cc70fe94184e37b3c3ee84ee4700b443fd8c5a6437"
-
-[[files]]
-file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.220.jar.disabled"
-hash = "c565fc5c987630245be8d9148b4af17b172b1e73cfb980e5064bacc7c38f744f"
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "27bf21267ffb04d59ff52404aad040bd5cf95ca90701ede8f240ce033dafa927"
+metafile = true
+
+[[files]]
+file = "mods/optiboxes.pw.toml"
+hash = "7e89ff5c7bab024cfe9331d474bcb676950d27e9d69842c9ea78aafadbb64450"
 metafile = true
 
 [[files]]
