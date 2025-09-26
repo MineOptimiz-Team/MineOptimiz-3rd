@@ -1070,8 +1070,8 @@ hash = "7cfd3485931eb237e346fbda606b4b28663e9d3b3efa56d37c69355681f0a1d8"
 metafile = true
 
 [[files]]
-file = "mods/AccountsX-1.1.4-universal.jar.disabled"
-hash = "f859bee2a08a760a31b4635cf41c19abb7948951a40d5c0df1c894aede38c502"
+file = "mods/AccountsX-1.1.4-universal.jar"
+hash = "103fade7b1c26da98d791c392fdbc0cdaa559e581ecbe1e0385eb410f8e6c86c"
 
 [[files]]
 file = "mods/PresenceFootsteps-0.1.0-beta.0.0+20250718T071710Z.jar"
