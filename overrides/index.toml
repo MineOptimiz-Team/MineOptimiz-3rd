@@ -1132,12 +1132,9 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
-file = "mods/continuity-3.0.1-alpha.1 1.21.6.jar"
-hash = "ef0274db2b9418c77662e617fbc32c430634da51f3e11657eb8c7a14ae21ddd8"
-
-[[files]]
-file = "mods/continuity.pw.toml.disabled"
-hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
+file = "mods/continuity.pw.toml"
+hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
+metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
