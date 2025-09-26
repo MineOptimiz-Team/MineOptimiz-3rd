@@ -1074,10 +1074,6 @@ file = "mods/AccountsX-1.1.4-universal.jar"
 hash = "103fade7b1c26da98d791c392fdbc0cdaa559e581ecbe1e0385eb410f8e6c86c"
 
 [[files]]
-file = "mods/PresenceFootsteps-0.1.0-beta.0.0+20250718T071710Z.jar"
-hash = "794848e1dd381cbdaf66f5a2dc6782ebd2b5b269c94444a7ba7b7bea36a3e50f"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
@@ -1232,10 +1228,6 @@ hash = "ff3182087baabc6b41efc506a4dd36ad4a2d46ed9c62016bce435b4a2de87937"
 metafile = true
 
 [[files]]
-file = "mods/kirin-1.21.7-local.jar"
-hash = "61bf051c7ceb8721c2eae0b4f04655b408d7f88a55cc5e395995869fa1917e8d"
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "76776cceeb1cc6201e1a91d589345e7c302be9ca083386a682178eb79fca88a4"
 metafile = true
@@ -1347,8 +1339,9 @@ hash = "2e0d4a72c1f9576322a103ecf57419feea5a9737c3e36b070351b92e6cbba31f"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml.disabled"
-hash = "670aaf37ebb497d2d2906adb33c46c086f6b544f365fe562196f40a3a2d9f27c"
+file = "mods/presence-footsteps.pw.toml"
+hash = "5dff8bca658ae787c75fd2a37a40c8512a5fbc8a2421d106f94e08c8640b9075"
+metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
