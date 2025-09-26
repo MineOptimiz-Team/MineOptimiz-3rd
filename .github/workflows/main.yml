@@ -81,7 +81,7 @@ jobs:
           path: ./overrides/*.mrpack
      
       - name: Upload MineOptimiz to Releases
-        uses: rearrangement/auto-releases@v1.1
+        uses: marvinpinto/action-automatic-releases@latest
         with:
           title: "MineOptimiz ${{ env.MC_VERSION }} ${{ env.LOADER }} Testing Latest"
           automatic_release_tag: "${{ env.MC_VERSION }}_${{ env.LOADER }}_latest_testing"
