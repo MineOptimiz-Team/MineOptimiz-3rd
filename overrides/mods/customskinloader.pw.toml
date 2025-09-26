@@ -1,13 +1,13 @@
 name = "CustomSkinLoader"
-filename = "CustomSkinLoader_Fabric-14.24.jar"
+filename = "CustomSkinLoader_Fabric-14.25.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/idMHQ4n2/versions/rHrSuH9N/CustomSkinLoader_Fabric-14.24.jar"
+url = "https://cdn.modrinth.com/data/idMHQ4n2/versions/wTLY2rwx/CustomSkinLoader_Fabric-14.25.jar"
 hash-format = "sha512"
-hash = "4a2deeb720ffbca681d6cbc62c7a2c6c9ced41c74e634d0ebbca53642859d1e397227f4f5d93434bf5e4cab7cfef2ee278c0171e5612898a078efcc7dcb9b128"
+hash = "756c8ea28b1911abbeb16d3520fb5bcc4b29efb2f47a75ffb9caf33309b059260f7edfa44e069ec1393a047c705c3a5ae85079d798e2a40838b5a0237323e3c0"
 
 [update]
 [update.modrinth]
 mod-id = "idMHQ4n2"
-version = "rHrSuH9N"
+version = "wTLY2rwx"
