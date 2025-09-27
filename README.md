@@ -36,6 +36,7 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 | Intel i3-N305+Intel UHD Graphics+Windows 11 25H2+1920x1080              | 原版94FPS → 最高170FPS  |
 | AMD Ryzen 7 H 260+AMD Radeon 780M+Windows 10 20H2+2560x1600             | 原版462FPS → 最高652FPS |
 | AMD Ryzen 7 H 260+NVIDIA RTX 5050 Laptop+Windows 10 20H2+2560x1600      | 原版514FPS → 最高684FPS |
+| Intel Core i7-10750H+NVIDIA GTX 1650 Ti+Windows 11 21H2+1920x1080       | 原版118FPS → 最高203FPS |
 
  - 以上结果仅供参考
  - 以上结果均在Minecraft 1.21.8单人超平坦世界下测试，整合包数据在v3.218.0-fabric+66e0165测试
