@@ -237,6 +237,10 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "b2beb61a6380e39fd5b35992601d688ba817b88e6dd72413bef0b7f9062b449b"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "4849eb08953209f08ffbd121395529ad4321d8aecc117c9289e545f574a0980e"
+
+[[files]]
 file = "config/fabricskyboxes-config.json"
 hash = "573bbb101771e1ffa11b347e9e3465eb4b41e0bc292e6dc23dffebe1d5b44801"
 
@@ -1310,10 +1314,6 @@ metafile = true
 file = "mods/modpack-update-checker.pw.toml"
 hash = "f0663ede646a0c7a18cc79d088c69d1019140dadff556d2bd55ce80f6ca4883c"
 metafile = true
-
-[[files]]
-file = "mods/modpack-update-checker.pw.toml.disabled"
-hash = "61dbab02a47d7c15cd595fac100e6f6c6fb1c08fd451c9196cd35b4ca2b01c36"
 
 [[files]]
 file = "mods/moreculling.pw.toml"
