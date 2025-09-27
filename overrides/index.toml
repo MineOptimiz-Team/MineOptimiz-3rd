@@ -409,6 +409,10 @@ file = "config/fancymenu/customization/fiiiiiiiiiiiiiiixxxxxxxxxxx.txt"
 hash = "c9428b343e9468eb23990f6fa1259a4402d6f6ecc26de1a6202c853a51c5976e"
 
 [[files]]
+file = "config/fancymenu/customization/fix_button.txt"
+hash = "1282905c734b73eab0dfe4158c3e9a1179ed1a5a4f901d7d633123535853583d"
+
+[[files]]
 file = "config/fancymenu/customization/hhh.txt"
 hash = "175006ba944ac9b96ab4bcfa07624bd861ce1ce49b19d53276f12d4e954da25d"
 
@@ -490,7 +494,7 @@ hash = "4d610a009b2a8be11903b8d642fe62232cba6ca350f05532c559601ab2a71d69"
 
 [[files]]
 file = "config/fancymenu/customization/uimanager1.txt"
-hash = "409cb6e2af36fd1952f1a9c97eed5e8e6a548c8c0c404f09c2921734e3c62220"
+hash = "7c4df799870129713e5824ea89eec9d6b1afb2cb317e8ad563b31f652bc559a4"
 
 [[files]]
 file = "config/fancymenu/customization/uimanager2.txt"
