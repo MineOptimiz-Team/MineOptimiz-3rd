@@ -1,0 +1,13 @@
+name = "FastChest Revived"
+filename = "fast-chest-revived-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DcSJwUyy/versions/lf6YBPs5/fast-chest-revived-1.2.jar"
+hash-format = "sha512"
+hash = "edd4381b639277278f81cc842f6f2fcdc61e972d2e0dd0853471f666b87d5809e22fb24cbaa4917d36b18c918ba701d58d59a23816edfabcfafa26e96c858fa0"
+
+[update]
+[update.modrinth]
+mod-id = "DcSJwUyy"
+version = "lf6YBPs5"

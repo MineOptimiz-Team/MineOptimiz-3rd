@@ -1183,6 +1183,11 @@ hash = "36fad6f62eac7f80e5a0323f2b226070c48be0b3b4d6de00c8c1f08b5712f619"
 metafile = true
 
 [[files]]
+file = "mods/fastchest-revived.pw.toml"
+hash = "7dd4369f4a2e553321a976d61c997175988eed7ff39129f2fcd84aa99042d780"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "3959d60960d97b019d81945ebfd38ed498649b31952e84404b365730c9facb6f"
 metafile = true
