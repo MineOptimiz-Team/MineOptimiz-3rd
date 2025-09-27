@@ -19,7 +19,7 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 | 1.21.8   | Fabric              | Sodium                            | ⚠️ 处于测试阶段|
 | 1.21.1   | NeoForge / Fabric   | Sodium / VulkanMod                | ✅ 持续更新    |
 | 1.20.1   | Forge / Fabric      | Embeddium / Sodium / VulkanMod    | ❌ 不再更新    |
-| 1.21.5*   | Fabric              | Sodium                            | ❌ 不再更新    |
+| 1.21.5*  | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.18.2   | Forge / Fabric      | Sodium                            | ❌ 不再更新    |
 | 1.20.6*  | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.19.4   | Fabric              | Sodium / OptiFine                 | ❌ 不再更新    |
@@ -32,13 +32,13 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 
 | 配置（CPU+GPU+OS+Resolution）                                            | 性能提升                |
 |-------------------------------------------------------------------------|------------------------|
-| Intel i5-1135G7+Intel Iris Xe Graphics+Windows 11 23H2+1280x720         | 原版92FPS → 最高110FPS  |
-| Intel i3-N305+Intel UHD Graphics+Windows 11 25H2+1920x1080              | 原版94FPS → 最高120FPS  |
-| AMD Ryzen 7 H 260+AMD Radeon 780M+Windows 10 20H2+2560x1600             | 原版462FPS → 最高507FPS |
-| AMD Ryzen 7 H 260+NVIDIA RTX 5050 Laptop+Windows 10 20H2+2560x1600      | 原版514FPS → 最高531FPS |
+| Intel i5-1135G7+Intel Iris Xe Graphics+Windows 11 23H2+1280x720         | 原版92FPS → 最高146FPS  |
+| Intel i3-N305+Intel UHD Graphics+Windows 11 25H2+1920x1080              | 原版94FPS → 最高170FPS  |
+| AMD Ryzen 7 H 260+AMD Radeon 780M+Windows 10 20H2+2560x1600             | 原版462FPS → 最高652FPS |
+| AMD Ryzen 7 H 260+NVIDIA RTX 5050 Laptop+Windows 10 20H2+2560x1600      | 原版514FPS → 最高684FPS |
 
  - 以上结果仅供参考
- - 以上结果均在Minecraft 1.21.8单人超平坦世界下测试
+ - 以上结果均在Minecraft 1.21.8单人超平坦世界下测试，整合包数据在v3.218.0-fabric+66e0165测试
  - 感谢[@htl597](https://github.com/htl597)提供的部分测试结果
  - *：测试者未提供
 
