@@ -39,7 +39,7 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 
  - 以上结果仅供参考
  - 以上结果均在Minecraft 1.21.8单人超平坦世界下测试
- - 感谢@htl597提供的部分测试结果
+ - 感谢[@htl597](https://github.com/htl597)提供的部分测试结果
  - *：测试者未提供
 
 ## 下载
