@@ -325,10 +325,6 @@ file = "config/fancymenu/customization/bugreport_website.txt"
 hash = "4b78f1e0533249d159b913d1c91fa94ace67435cd171fe2b63b43d570dab8edc"
 
 [[files]]
-file = "config/fancymenu/customization/changelogscreen_layout.txt"
-hash = "a1ee1cd7fa3fd8b992c39d15cfcc5e24dc8750f59c002fab004c4241682e64ab"
-
-[[files]]
 file = "config/fancymenu/customization/choosesystem.txt"
 hash = "2fdd8b9d3836f2b6f489f03e7b1d2c16cb533ec35d125c22025a1057cc5ec337"
 
