@@ -14,7 +14,7 @@ variable {
 
 variable {
   name = version_id
-  value = 3.214.1-fabric+commitid
+  value = 3.214.2-fabric+commitid
   reset_on_launch = false
 }
 
