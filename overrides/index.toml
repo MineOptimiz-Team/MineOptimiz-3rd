@@ -1239,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
+hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
 metafile = true
 
 [[files]]
@@ -1440,5 +1440,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4116187bb8f8aeb89a37c81eb34fbb1a6c71f69a718b21531769e447a7fb1c8a"
+hash = "e3626d7c6fbc2bcac07b8d0724bba975dd10128de776018d3346edc797cfc772"
 metafile = true
