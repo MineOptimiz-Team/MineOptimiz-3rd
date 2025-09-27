@@ -1307,6 +1307,11 @@ hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
 
 [[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "f0663ede646a0c7a18cc79d088c69d1019140dadff556d2bd55ce80f6ca4883c"
+metafile = true
+
+[[files]]
 file = "mods/modpack-update-checker.pw.toml.disabled"
 hash = "61dbab02a47d7c15cd595fac100e6f6c6fb1c08fd451c9196cd35b4ca2b01c36"
 
