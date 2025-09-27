@@ -810,7 +810,7 @@ hash = "4bdc1a08c86e661bfc31cb3ce8dd9749b0e209c4dc8e80e80a1f207f39a39d90"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "97bd7dfc887e8046d829536f8c34844c879e648ac2e9d1992a8ce1631808497f"
+hash = "982742c0311a5764cd44e89f4584019da464300c38c0a82853be51b8249c2b4c"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
