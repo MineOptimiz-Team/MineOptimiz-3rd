@@ -1303,10 +1303,6 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
-hash = "09db495c7031be8d5e34242cb188bf569469eba5a23fa70bf66a4c07d7f98a07"
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
