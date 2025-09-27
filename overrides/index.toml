@@ -1143,16 +1143,6 @@ hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "71ac2b046f021aab3edcf42a2dc4061d12a72528a58f1d0a5dd9ab1f99c9bccb"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "51536b69065bccf38629554ec28a1ec4b5b6ac593f383a9aa9058e2a05653d4d"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "c088ee3e0b1219adb637caeea4b6a16beec6234c03abfb4e01c8aaec6741b57c"
 metafile = true
@@ -1320,6 +1310,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
+metafile = true
+
+[[files]]
+file = "mods/optiboxes.pw.toml"
+hash = "5a87a866ff12378d26a28ef9fc06c84eda9764fa26cfaee981a2da70dfca55fe"
 metafile = true
 
 [[files]]
