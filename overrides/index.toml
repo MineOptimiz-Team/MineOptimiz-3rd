@@ -406,7 +406,7 @@ hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "7794f1a05e2932f38251facac965f11bc296f71efafe4da1a7508f4d17f588a9"
+hash = "539a8569a0a8d8c10663e7b901f61f90f18d6e8a13eb1916103a335c2964a8dc"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -434,7 +434,7 @@ hash = "c0f398a4bb2dcd483d5ad3140aeffa7136e5d7ba21ce846ddec3e7a84da0aa99"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
-hash = "b1a05c58015bd5490db9221211224687238cf9ea3af1036331eadbd955de29c9"
+hash = "ee37bb5752b5521ae24ce98aef8d737fa062271d3d3c9b28b1aa70e3df04e84c"
 
 [[files]]
 file = "config/fancymenu/customization/engupdater.txt"
