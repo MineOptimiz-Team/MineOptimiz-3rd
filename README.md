@@ -13,11 +13,13 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 
 ## 版本支持
 
-| MC 版本  | 模组加载器           | 渲染方案                          | 维护状态       |
+- 按更新优先级排序
+
+| MC 版本  | 模组加载器           | 渲染方案                           | 维护状态       |
 |----------|---------------------|-----------------------------------|----------------|
-| 1.21.4   | Fabric              | Sodium / VulkanMod                | ✅ 持续更新    |
-| 1.21.8   | Fabric              | Sodium                            | ⚠️ 处于测试阶段|
+| 1.21.8   | Fabric              | Sodium                            | ✅ 持续更新    |
 | 1.21.1   | NeoForge / Fabric   | Sodium / VulkanMod                | ✅ 持续更新    |
+| 1.21.4   | Fabric              | Sodium / VulkanMod                | ✅ 持续更新    |
 | 1.20.1   | Forge / Fabric      | Embeddium / Sodium / VulkanMod    | ❌ 不再更新    |
 | 1.21.5*  | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.18.2   | Forge / Fabric      | Sodium                            | ❌ 不再更新    |
@@ -37,10 +39,11 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 | AMD Ryzen 7 H 260+AMD Radeon 780M+Windows 10 20H2+2560x1600             | 原版462FPS → 最高652FPS |
 | AMD Ryzen 7 H 260+NVIDIA RTX 5050 Laptop+Windows 10 20H2+2560x1600      | 原版514FPS → 最高684FPS |
 | Intel Core i7-10750H+NVIDIA GTX 1650 Ti+Windows 11 21H2+1920x1080       | 原版118FPS → 最高203FPS |
+| AMD Ryzen 7 7745HX+NVIDIA RTX 4050+Windows 11 24H2+2560x1600            | 原版738FPS → 最高911FPS   |
 
- - 以上结果仅供参考
- - 以上结果均在Minecraft 1.21.8单人超平坦世界下测试，整合包数据在v3.218.0-fabric+66e0165测试
- - 感谢[@htl597](https://github.com/htl597)提供的部分测试结果
+ - 以上数据仅供参考
+ - 以上数据均在Minecraft 1.21.8单人超平坦世界下测试，整合包数据在v3.218.0-fabric+66e0165测试
+ - 感谢[@htl597](https://github.com/htl597)与[@Pstar233](https://github.com/Pstar233)提供的部分测试结果
  - *：测试者未提供
 
 ## 下载
