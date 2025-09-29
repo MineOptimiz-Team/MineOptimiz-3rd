@@ -34,7 +34,7 @@ Minecraft optimization modpack, supporting both Fabric/(Neo)Forge mod loaders, p
 
 ## Optimization Results
 
-| Configuration (CPU+GPU+OS+Resolution)                                      | Performance Improvement      |
+| Specifications (CPU+GPU+OS+Resolution)                                      | Performance Improvement      |
 |----------------------------------------------------------------------------|------------------------------|
 | Intel i7-3610QM+NVIDIA GT 740M+Windows 10 LTSC 2019+1366x768               | Vanilla 30FPS → Max 71FPS    |
 | Intel i7-3610QM+NVIDIA GT 740M+Windows 8.1*+1366x768                       | Vanilla 115FPS → Max 195FPS  |
