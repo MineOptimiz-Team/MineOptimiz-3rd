@@ -1,12 +1,12 @@
 name = "MineOptimiz NeoForge 1.21.1"
 author = "Small__Mushroom"
-version = "3.211.3-neoforge+commitid"
+version = "3.211.4-neoforge+commitid"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f630dd17aa44527dfa6f1d7738e449d2433cd5690d1cbf716fea499f1df6d911"
+hash = "7b1f94cce14da304aacf8fc81e46d191f043d847b9f640c9914bf3ae5c5cb278"
 
 [versions]
 minecraft = "1.21.1"

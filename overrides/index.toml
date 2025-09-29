@@ -562,7 +562,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "5d0a84ee69a4bd1218c56b856c65f6f3e41ce404ef02bb6334f45026ce2d71fe"
+hash = "0411adc62fd24e6146e9db664cdc8feef14bb772e104819d5b950a36e93218c1"
 
 [[files]]
 file = "config/fast-chest.properties"
@@ -778,7 +778,7 @@ hash = "f6ce0c9a6ce6f8a341c6472ac7936b8d1e35dc06579cb119c095e4030baf575a"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "163056948ffb6dc609717499f4f638d953ff68e9d0b86cea7cb0d7e1c90943e4"
+hash = "b210d71fd3df525ff872e0656ba51ea3d3ecc9a4a7bd9aa7a87e26ba95fefe37"
 
 [[files]]
 file = "config/moreculling.toml"
