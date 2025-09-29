@@ -1249,12 +1249,12 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
+hash = "2f3cf562ef2d03f6c16e141df0f5d8b68cee573ba8c5b2c77859236c07857e38"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9c9d1ded21c11cd419fbba9e39381605f23358d640aac24d7d604ed8f3e00f7c"
+hash = "77275b7ea13ad85567db5dfc2ed7e77ce7f1730d50641a33e41320e6030f424b"
 metafile = true
 
 [[files]]
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "8d30bd1dc028c44a0774b6fcc8df2b5ddcc4f968448ced3167a1cc47ed4cfac7"
+hash = "ff7c6db9d87e0f1544b55e66167e07f441520cbd756f7a36eaf60739c7c76cd9"
 metafile = true
 
 [[files]]
@@ -1329,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "7e89ff5c7bab024cfe9331d474bcb676950d27e9d69842c9ea78aafadbb64450"
+hash = "2e7338d237403eaf8256729347fabfac08d64d5d1bc8c994f1361ef8f1421d9c"
 metafile = true
 
 [[files]]
