@@ -8,13 +8,13 @@ variable {
 
 variable {
   name = disable_realms_button
-  value = 0
+  value = 1
   reset_on_launch = false
 }
 
 variable {
   name = version_id
-  value = 3.211.3-fabric+commitid
+  value = 3.211.4-fabric+commitid
   reset_on_launch = false
 }
 
