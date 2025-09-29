@@ -2,7 +2,7 @@
 
 **English**/[中文](README.md)
 
-![MineOptimiz Cover Image](https://123smallmushroom.github.io/mineoptimiz/main_menu_en.jpg)
+![MineOptimiz Cover Image](https://123smallmushroom.github.io/mineoptimiz/main_menu_en.png)
 
 Minecraft optimization modpack, supporting both Fabric/(Neo)Forge mod loaders, providing performance optimizations and auxiliary feature integrations.
 
