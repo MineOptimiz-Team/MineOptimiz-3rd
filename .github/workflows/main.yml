@@ -60,7 +60,7 @@ jobs:
       - name: Process Metadata
         run: |
           SHORT_SHA=${GITHUB_SHA::7}
-          echo "VERSION=3.211.3" >> $GITHUB_ENV  
+          echo "VERSION=3.211.4" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.1" >> $GITHUB_ENV
           echo "LOADER=fabric" >> $GITHUB_ENV
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
