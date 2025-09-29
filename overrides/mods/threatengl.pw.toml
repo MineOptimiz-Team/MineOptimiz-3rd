@@ -1,13 +1,13 @@
 name = "ThreatenGL"
-filename = "threatengl-fabric-1.3.3-release.2.jar"
+filename = "threatengl-fabric-2.0.4-release.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RSFrpoou/versions/ldyjVGuW/threatengl-fabric-1.3.3-release.2.jar"
+url = "https://cdn.modrinth.com/data/RSFrpoou/versions/a2FwQwrw/threatengl-fabric-2.0.4-release.9.jar"
 hash-format = "sha512"
-hash = "e2fe12c70517e309aa1ab09bc9fb2fe7fd4b9ec27a0b8cd3742993d30c449d3c09acf46c32166925a6bf00cbac5d34dfe2c7362b505d5eb62e30d571949e32aa"
+hash = "1e4d9e6df264fe4766676a0daefb59e2d11ca1c37603fcb1fa08eb6d1234fd086eeec001f6645157ddb26db5180521dccb52cafa4e730ca9ae10a28100370700"
 
 [update]
 [update.modrinth]
 mod-id = "RSFrpoou"
-version = "ldyjVGuW"
+version = "a2FwQwrw"
