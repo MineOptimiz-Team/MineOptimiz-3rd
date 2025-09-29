@@ -1166,17 +1166,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
+hash = "1b8cfd23e5f1f406957d5f337f8c514d5095c16adbd3d0830d29bd001aac845d"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
+file = "mods/fabric-api.pw.toml"
+hash = "da9fbdce468fbfa6bd5a7ceb15465780e3e8fda9535d16f40a81343621e627a7"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -1331,12 +1331,17 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
+hash = "5e527159dd30ddd4c68c2d363b4e973ac60a65a260b41f5d7a8ac2ab94be3e30"
 metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
 hash = "c3c0af49a34f2ea66faaf78b08f9b8858bbac60d5aca3b85542d45697bb53e36"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
