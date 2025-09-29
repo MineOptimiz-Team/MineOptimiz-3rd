@@ -1,13 +1,13 @@
 name = "Inventory Profiles Next"
-filename = "InventoryProfilesNext-neoforge-1.21-2.1.9.jar"
+filename = "InventoryProfilesNext-neoforge-1.21-2.1.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/2XL2Hl0C/InventoryProfilesNext-neoforge-1.21-2.1.9.jar"
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/QLMPCkam/InventoryProfilesNext-neoforge-1.21-2.1.11.jar"
 hash-format = "sha512"
-hash = "fdb8e76c279d4cb3f074d6d0ecca7c4fcf1c77472b3c3108b92e127e47544c5a369626bd381e8a389f65ff945d208b5aed6ac9e4e18b4f9e1ce14a997f14cbca"
+hash = "7aa56e88067e1f0ba820564ee49ee272b7bea279725bd227b60181a52331f91bb47478c3a27ec87500ff131ebc9af90d16c7f29f12372964627103de735ed37c"
 
 [update]
 [update.modrinth]
 mod-id = "O7RBXm3n"
-version = "2XL2Hl0C"
+version = "QLMPCkam"
