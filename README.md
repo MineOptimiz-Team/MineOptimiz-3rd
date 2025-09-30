@@ -74,7 +74,8 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 整合包内包含模组的许可声明详见：[许可协议文件](https://123smallmushroom.github.io/license_of_mods.txt)
 
 ## 🕰️ 项目沿革
-- ​**当前主仓库**: MineOptimiz-3rd  
+- ​**当前主仓库**: MineOptimiz-3rd 
+- **Gitee镜像仓库**: [MineOptimiz](https://gitee.com/smushroom0105/MineOptimiz) 
 - ​**历史迭代版本**:
   - [MineOptimiz-Next](https://github.com/smallmushroomovo/MineOptimiz-Next)
   - [MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)
