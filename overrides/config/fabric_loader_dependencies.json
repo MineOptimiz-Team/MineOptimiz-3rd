@@ -3,7 +3,37 @@
   "overrides": {
     "modpack-update-checker": {
       "depends": {
-        "minecraft": "1.21.8"
+        "minecraft": "1.21.10"
+      }
+    },
+    "controlling": {
+      "depends": {
+        "minecraft": "1.21.10"
+      }
+    },
+    "searchables": {
+      "depends": {
+        "minecraft": "1.21.10"
+      }
+    },
+    "imblocker": {
+      "depends": {
+        "minecraft": "1.21.10"
+      }
+    },
+    "immediatelyfast": {
+      "depends": {
+        "minecraft": "1.21.10"
+      }
+    },
+    "optiboxes": {
+      "depends": {
+        "minecraft": "1.21.10"
+      }
+    },
+    "viafabricplus": {
+      "depends": {
+        "minecraft": "1.21.10"
       }
     }
   }

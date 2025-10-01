@@ -60,8 +60,8 @@ jobs:
       - name: Process Metadata
         run: |
           SHORT_SHA=${GITHUB_SHA::7}
-          echo "VERSION=3.218.0" >> $GITHUB_ENV  
-          echo "MC_VERSION=1.21.8" >> $GITHUB_ENV
+          echo "VERSION=3.2110.0" >> $GITHUB_ENV  
+          echo "MC_VERSION=1.21.10" >> $GITHUB_ENV
           echo "LOADER=fabric" >> $GITHUB_ENV
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
           sed -i "s/commitid/$SHORT_SHA/g" ./overrides/pack.toml
