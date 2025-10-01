@@ -60,6 +60,7 @@ jobs:
       - name: Process Metadata
         run: |
           RELEASE_ID=1
+          echo "RELEASE_ID=$RELEASE_ID" >> $GITHUB_ENV
           echo "VERSION=3.218.0" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.8" >> $GITHUB_ENV
           echo "LOADER=fabric" >> $GITHUB_ENV
