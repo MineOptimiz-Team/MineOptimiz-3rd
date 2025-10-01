@@ -3,8 +3,8 @@
   "currentVersion": "3.218.0-fabric+commitid",
   "modpackName": "MineOptimiz Fabric",
   "modpackAuthor": "smallmushroomovo",
-  "modpackReleaseType": "beta",
-  "updateCheckerId": "",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://123smallmushroom.github.io/check-update-mineoptimiz/1.21.8-Fabric/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
