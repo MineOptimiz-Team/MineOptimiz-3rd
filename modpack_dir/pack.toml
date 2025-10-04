@@ -1,0 +1,13 @@
+name = "MineOptimiz Cleanroom"
+author = "Small__Mushroom"
+version = "3.122.0-cleanroom+commitid"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e49fd76ebebec0a7ff58e9366469fd98a46ffbc952854dea8e0a31c59e6ec5cd"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

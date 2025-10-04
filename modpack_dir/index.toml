@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cleanroom-relauncher-unofficial.pw.toml"
+hash = "1d0b280b5f1dcfe3a6f4f76ae2459875b5b04dbf26891b398df5a92a40cb5039"
+metafile = true
+
+[[files]]
+file = "mods/fugue.pw.toml"
+hash = "8c4ff445a7f03829d838e8740568f06b2b119ddd9025c2ed0a31e8bd98c0caff"
+metafile = true
+
+[[files]]
+file = "mods/scalar-legacy.pw.toml"
+hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
+metafile = true
