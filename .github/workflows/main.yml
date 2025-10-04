@@ -60,25 +60,25 @@ jobs:
       - name: Process Metadata
         run: |
           SHORT_SHA=${GITHUB_SHA::7}
-          echo "VERSION=3.218.0" >> $GITHUB_ENV  
-          echo "MC_VERSION=1.21.8" >> $GITHUB_ENV
-          echo "LOADER=fabric" >> $GITHUB_ENV
+          echo "VERSION=3.122.0" >> $GITHUB_ENV  
+          echo "MC_VERSION=1.12.2" >> $GITHUB_ENV
+          echo "LOADER=cleanroom" >> $GITHUB_ENV
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
           sed -i "s/commitid/$SHORT_SHA/g" ./overrides/pack.toml
-          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/fancymenu/user_variables.db
-          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/modpack-update-checker/config.json
+#          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/fancymenu/user_variables.db
+#          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Export Modrinth Pack
         run: |
           cd overrides
-          packwiz modrinth export
-          mv ./*.mrpack "MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack"
+          packwiz curseforge export
+          mv ./*.zip "MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.zip"
       
       - name: Upload MineOptimiz to Artifact
         uses: actions/upload-artifact@v4
         with:
           name: MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}
-          path: ./overrides/*.mrpack
+          path: ./overrides/*.zip
      
       - name: Upload MineOptimiz to Releases
         uses: marvinpinto/action-automatic-releases@latest
@@ -86,6 +86,6 @@ jobs:
           title: "MineOptimiz ${{ env.MC_VERSION }} ${{ env.LOADER }} Testing Latest"
           automatic_release_tag: "${{ env.MC_VERSION }}_${{ env.LOADER }}_latest_testing"
           repo_token: "${{ secrets.UPLOAD_TO_RELEASES }}"
-          files: ./overrides/*.mrpack
+          files: ./overrides/*.zip
           prerelease: true
         
