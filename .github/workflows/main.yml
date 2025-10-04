@@ -70,7 +70,7 @@ jobs:
       
       - name: Export Modrinth Pack
         run: |
-          cd overrides
+          cd modpack_dir
           packwiz curseforge export
           mv ./*.zip "MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.zip"
       
