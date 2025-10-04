@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cleanroom_relauncher.cfg"
+hash = "2c0531aa6dc34065a600c6919f7fbb42070221e556c60f5ad63b406a9459ef66"
+
+[[files]]
+file = "config/splash.properties"
+hash = "adee79c65f97b585782d8f21c65f2d686224f7e4f189919b017620ee5c6ee13f"
+
+[[files]]
 file = "mods/cleanroom-relauncher-unofficial.pw.toml"
 hash = "1d0b280b5f1dcfe3a6f4f76ae2459875b5b04dbf26891b398df5a92a40cb5039"
 metafile = true
