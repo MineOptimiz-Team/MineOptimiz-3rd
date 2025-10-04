@@ -37,16 +37,16 @@ jobs:
 
       - name: Refresh index
         run: |
-          cd overrides
+          cd modpack_dir
           packwiz refresh
 
       - name: Commit changes
         id: commit-check
         run: |
-          git add overrides/pack.toml overrides/index.toml
+          git add modpack_dir/pack.toml modpack_dir/index.toml
             
 
-          if [ -z "$(git status --porcelain overrides/pack.toml overrides/index.toml)" ]; then
+          if [ -z "$(git status --porcelain modpack_dir/pack.toml modpack_dir/index.toml)" ]; then
             echo "::notice::No changes detected"
             exit 0
           fi
@@ -64,9 +64,9 @@ jobs:
           echo "MC_VERSION=1.12.2" >> $GITHUB_ENV
           echo "LOADER=cleanroom" >> $GITHUB_ENV
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
-          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/pack.toml
-#          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/fancymenu/user_variables.db
-#          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/modpack-update-checker/config.json
+          sed -i "s/commitid/$SHORT_SHA/g" ./modpack_dir/pack.toml
+#          sed -i "s/commitid/$SHORT_SHA/g" ./modpack_dir/config/fancymenu/user_variables.db
+#          sed -i "s/commitid/$SHORT_SHA/g" ./modpack_dir/config/modpack-update-checker/config.json
       
       - name: Export Modrinth Pack
         run: |
@@ -78,7 +78,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}
-          path: ./overrides/*.zip
+          path: ./modpack_dir/*.zip
      
       - name: Upload MineOptimiz to Releases
         uses: marvinpinto/action-automatic-releases@latest
@@ -86,6 +86,6 @@ jobs:
           title: "MineOptimiz ${{ env.MC_VERSION }} ${{ env.LOADER }} Testing Latest"
           automatic_release_tag: "${{ env.MC_VERSION }}_${{ env.LOADER }}_latest_testing"
           repo_token: "${{ secrets.UPLOAD_TO_RELEASES }}"
-          files: ./overrides/*.zip
+          files: ./modpack_dir/*.zip
           prerelease: true
         
