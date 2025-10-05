@@ -1,0 +1,7 @@
+name = "malilib-forge"
+filename = "malilib-forge-1.12.2-0.10.0-dev.23.jar"
+
+[download]
+url = "https://masa.dy.fi/tmp/minecraft/mods/malilib/malilib-forge-1.12.2-0.10.0-dev.23.jar"
+hash-format = "sha256"
+hash = "d2611a4f15d765dce09590308ea83496b9bbdd25ebf22145337dac92292d5415"

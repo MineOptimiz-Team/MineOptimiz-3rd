@@ -85,6 +85,16 @@ hash = "211d2a581e464797fcca19ca4394aca676ca58aaaf3323f10d338e1084eb058d"
 metafile = true
 
 [[files]]
+file = "mods/malilib-forge.pw.toml"
+hash = "5b6423752333f795f20dfe95ba91a9242865b67f1e03b6bbb6649211e7deea82"
+metafile = true
+
+[[files]]
+file = "mods/minihud-forge.pw.toml"
+hash = "1fb360fbb1e761b2d0070dac2a68582840deecabd4f682c7974e1277815f3916"
+metafile = true
+
+[[files]]
 file = "mods/naughthirium.pw.toml"
 hash = "c2be1a59f9abab16b8988394be849509f36f8f56d8bcaa38abb782ea0265ea76"
 metafile = true
@@ -112,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/scalar-legacy.pw.toml"
 hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo-forge.pw.toml"
+hash = "deb3b9f9bdfc9b243ed88dba7ba039e43faf82f32abfbf9afbb61f7da86d8c47"
 metafile = true
 
 [[files]]
