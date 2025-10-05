@@ -85,6 +85,11 @@ hash = "211d2a581e464797fcca19ca4394aca676ca58aaaf3323f10d338e1084eb058d"
 metafile = true
 
 [[files]]
+file = "mods/i18nupdatemod.pw.toml"
+hash = "a2a5d5d48472228b5ea12200e156a519f74e79a34066e5065ad269aff390c41b"
+metafile = true
+
+[[files]]
 file = "mods/liteloader-1.12.2-SNAPSHOT.jar"
 hash = "d7d6dbfb704e5e4393d4337c4af0ba21f680a6d42b36ddae4a2c7db59885d30e"
 
