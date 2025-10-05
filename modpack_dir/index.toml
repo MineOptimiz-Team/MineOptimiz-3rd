@@ -55,10 +55,6 @@ hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
 
 [[files]]
-file = "mods/culllessleaveslegacy-1.1.0.jar"
-hash = "b8d3d529ed332f8181c836a92d68a66b3864cea457ec0b8fb40c84e949cb2cfd"
-
-[[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "fbd906a30b6b3b1b2f287c52410ba5e70be9278992d622a92888cac8df87379d"
 metafile = true
