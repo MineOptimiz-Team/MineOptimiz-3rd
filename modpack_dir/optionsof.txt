@@ -28,7 +28,7 @@ ofAnimatedTerrain:false
 ofAnimatedTextures:false
 ofRainSplash:false
 ofLagometer:false
-ofShowFps:true
+ofShowFps:false
 ofAutoSaveTicks:4000
 ofBetterGrass:3
 ofConnectedTextures:2
