@@ -33,6 +33,34 @@ file = "config/tweakeroo.json"
 hash = "481e52e9c4c47ec70d28f0eaaf4f64ecb9d6e38683bf2e7c9453b3a6f2024e7d"
 
 [[files]]
+file = "journeymap/config/5.7/journeymap.core.config"
+hash = "0f7b9584d34cc06f26769be6dd29a0f6bf16861a3f407a5f0d0d734ee1054170"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.fullmap.config"
+hash = "ede185da12240c06fe5503334c377d68e76bca8028f3f07844a77ca1d0366796"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.minimap.config"
+hash = "4f0e8b348feab1f403faafa638eb7697e132188a2b3195e16e3af41ebcad0c3b"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.minimap2.config"
+hash = "809d7cf38d3ab6fe079550e752e530c2001025c2f2061d5e62668344c7b32092"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.topo.config"
+hash = "3ca2e63e8a623fa9127e86dee069de04623d79defb69d4c6d1fc3332de2e06d2"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.waypoint.config"
+hash = "7b8165934e92b814ddd0576dc63aad52e78b4d3ef746a8e4b6f62ff494741f1f"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.webmap.config"
+hash = "39cb4b996a6d807388b83388b2a2b76f0750a374d096783e4bbb432cacebcd9e"
+
+[[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
 hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
 metafile = true
