@@ -20,6 +20,11 @@ customization {
 }
 
 customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = hidebutton
 }
@@ -59,7 +64,7 @@ customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 115
+  width = 161
   action = deep_customization_element:title_screen_branding
   actionid = 9e2826ab-cb50-42eb-9784-60a4aab9ce7b1759668785784
   y = 194
@@ -69,8 +74,8 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 258
-  width = 168
+  x = 198
+  width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 6e6fd8b0-75a5-482d-87ec-5f25713793561759668785784
   y = 226
@@ -138,11 +143,6 @@ customization {
 }
 
 customization {
-  identifier = %id=604382%
-  action = hidebutton
-}
-
-customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
@@ -154,5 +154,10 @@ customization {
   y = 39
   label = 账号切换
   height = 20
+}
+
+customization {
+  identifier = %id=55%
+  action = hidebutton
 }
 
