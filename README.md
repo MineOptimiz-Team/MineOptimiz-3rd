@@ -23,12 +23,12 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 | 1.21.1   | NeoForge / Fabric   | Sodium / VulkanMod                | ✅ 持续更新    |
 | 1.21.4   | Fabric              | Sodium / VulkanMod                | ✅ 持续更新    |
 | 1.20.1   | Forge / Fabric      | Embeddium / Sodium / VulkanMod    | ❌ 不再更新    |
+| 1.12.2   | Cleanroom           | OptiFine                          | ⚠️ 处于测试阶段 |
 | 1.21.5*  | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.18.2   | Forge / Fabric      | Sodium                            | ❌ 不再更新    |
 | 1.20.6*  | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.19.4   | Fabric              | Sodium / OptiFine                 | ❌ 不再更新    |
 | 1.17.1   | Fabric              | Sodium                            | ❌ 不再更新    |
-| 1.12.2   | Forge               | OptiFine                          | ❌ 不再更新    |
 
  - *: 标注版本为半成品
 
@@ -55,9 +55,6 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 - [GitHub Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases): 2024年5月以后的所有版本 
 - [Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions): 测试版
 - 旧版: [见下文](https://github.com/MineOptimiz-Team/MineOptimiz-3rd?tab=readme-ov-file#%EF%B8%8F-%E9%A1%B9%E7%9B%AE%E6%B2%BF%E9%9D%A9)
-
-### 历史版本
-- 1.12.2: [网盘下载](https://www.123pan.com/s/jtiDVv-XMmWA.html)
 
 ## 安装
  - 将整合包文件拖入[支持的启动器](supported_launcher.md)中，启动器将会自动开始安装
