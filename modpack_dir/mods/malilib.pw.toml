@@ -1,0 +1,13 @@
+name = "MaLiLib"
+filename = "malilib-forge-1.12.2-0.10.0-dev.23.nomixin.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/6PDV12GO/malilib-forge-1.12.2-0.10.0-dev.23.nomixin.jar"
+hash-format = "sha512"
+hash = "628d6423b8592095113694d3bb6f39ae9dff5b1709d4cceee71ecc121315b35c01353c3003321e734c7c98b770d62b27b14eecbf98553d49bff134b463567f7d"
+
+[update]
+[update.modrinth]
+mod-id = "GcWjdA9I"
+version = "6PDV12GO"

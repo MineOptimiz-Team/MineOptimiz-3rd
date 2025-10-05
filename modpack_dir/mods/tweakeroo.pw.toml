@@ -1,0 +1,13 @@
+name = "Tweakeroo"
+filename = "tweakeroo-forge-1.12.2-0.10.0-dev.20201007.231650+notrd.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/t5wuYk45/versions/4cMyhs2o/tweakeroo-forge-1.12.2-0.10.0-dev.20201007.231650%2Bnotrd.jar"
+hash-format = "sha512"
+hash = "a7bf013e849d6aaab9fb3dd997a11a13f03fbe468221729a8fb51eae411ea20fd7151f05d81ed7d721fc20a00f260c8342a7abc03c62988fea69d5ef2721ea48"
+
+[update]
+[update.modrinth]
+mod-id = "t5wuYk45"
+version = "4cMyhs2o"

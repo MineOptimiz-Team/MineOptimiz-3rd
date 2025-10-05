@@ -1,0 +1,13 @@
+name = "MiniHUD"
+filename = "minihud-forge-1.12.2-0.19.0-dev.20210503.192331.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UMxybHE8/versions/Ilot9zRz/minihud-forge-1.12.2-0.19.0-dev.20210503.192331.jar"
+hash-format = "sha512"
+hash = "779c83636a5d378b920004feefe8adbaaf02b0d2182f5941b8fe3cc92fd2059cb2fd99c0815e376d1b13fe62a867912f08cdc572a33eb1aef7048ab00497cf6b"
+
+[update]
+[update.modrinth]
+mod-id = "UMxybHE8"
+version = "Ilot9zRz"

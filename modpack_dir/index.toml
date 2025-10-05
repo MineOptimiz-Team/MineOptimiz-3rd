@@ -90,8 +90,14 @@ hash = "a2a5d5d48472228b5ea12200e156a519f74e79a34066e5065ad269aff390c41b"
 metafile = true
 
 [[files]]
-file = "mods/minihud-forge-1.12.2-0.19.0-dev.20210503.192331.jar"
-hash = "6873a86ee26dc36d073d501f991694d528376ce27977846ea4f3b3c0f97e8a14"
+file = "mods/malilib.pw.toml"
+hash = "11ba2e1b51c521f15f17a18248e5c6fe21ae8c0d7f8de59715a0df84dd94ee8c"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "ece0a01ad581fc5eb42ced5dc984d38937b61516e2f8e0b7ca0e28e0f84de322"
+metafile = true
 
 [[files]]
 file = "mods/naughthirium.pw.toml"
@@ -124,8 +130,9 @@ hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
 metafile = true
 
 [[files]]
-file = "mods/tweakeroo-forge-1.12.2-0.10.0-dev.20201007.231650.jar"
-hash = "c926d9545d4257c4743c619ed0e0793fb4861aff96bf11a89e8f54d747975ae2"
+file = "mods/tweakeroo.pw.toml"
+hash = "ab1f07fd00375e70e14c79825bc7d6025fcc13c4545c08ae6d6cab3d0668aa82"
+metafile = true
 
 [[files]]
 file = "mods/wrapfix.pw.toml"
