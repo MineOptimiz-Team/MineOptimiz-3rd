@@ -5,6 +5,10 @@ file = "config/cleanroom_relauncher.cfg"
 hash = "2c0531aa6dc34065a600c6919f7fbb42070221e556c60f5ad63b406a9459ef66"
 
 [[files]]
+file = "config/opticheck.cfg"
+hash = "20b22011a0c98fe487d5f977269c97def601ea8e37bad3d57c6abadb3ff75ffc"
+
+[[files]]
 file = "config/splash.properties"
 hash = "adee79c65f97b585782d8f21c65f2d686224f7e4f189919b017620ee5c6ee13f"
 
@@ -16,6 +20,11 @@ metafile = true
 [[files]]
 file = "mods/fugue.pw.toml"
 hash = "8c4ff445a7f03829d838e8740568f06b2b119ddd9025c2ed0a31e8bd98c0caff"
+metafile = true
+
+[[files]]
+file = "mods/optifine-check.pw.toml"
+hash = "b3b0338d01864c171abc286e298e7c22cd2749911626d5b3ac65b6a471314a90"
 metafile = true
 
 [[files]]
