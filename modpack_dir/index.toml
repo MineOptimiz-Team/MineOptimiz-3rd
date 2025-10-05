@@ -36,9 +36,8 @@ hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
 
 [[files]]
-file = "mods/chatheadsyg-minecraft1-12-2.pw.toml"
-hash = "6cde6a5d9230e40b1b82d16bf4a818028182bfe396c37aa24e9ff38ccb21da98"
-metafile = true
+file = "mods/chatheadsYG-1.12.2-1.0.jar"
+hash = "b872ffcd930d0e435bc5ae6ed7df9454b35d02f31b0908c88b228fd23ee940fa"
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
@@ -56,9 +55,8 @@ hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
 
 [[files]]
-file = "mods/culllessleaves-legacy.pw.toml"
-hash = "c4ce417dc42a5c25966b6ce70612a7a3ad2221bea2c42468dbac79ac06fb37bb"
-metafile = true
+file = "mods/culllessleaveslegacy-1.1.0.jar"
+hash = "b8d3d529ed332f8181c836a92d68a66b3864cea457ec0b8fb40c84e949cb2cfd"
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
