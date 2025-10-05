@@ -1,7 +1,0 @@
-name = "minihud-forge"
-filename = "minihud-forge-1.12.2-0.19.0-dev.20210503.192331.jar"
-
-[download]
-url = "https://masa.dy.fi/tmp/minecraft/mods/minihud/minihud-forge-1.12.2-0.19.0-dev.20210503.192331.jar"
-hash-format = "sha256"
-hash = "6873a86ee26dc36d073d501f991694d528376ce27977846ea4f3b3c0f97e8a14"

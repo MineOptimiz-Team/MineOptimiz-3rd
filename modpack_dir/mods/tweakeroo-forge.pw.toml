@@ -1,7 +1,0 @@
-name = "tweakeroo-forge"
-filename = "tweakeroo-forge-1.12.2-0.10.0-dev.20201007.231650.jar"
-
-[download]
-url = "https://masa.dy.fi/tmp/minecraft/mods/tweakeroo/tweakeroo-forge-1.12.2-0.10.0-dev.20201007.231650.jar"
-hash-format = "sha256"
-hash = "c926d9545d4257c4743c619ed0e0793fb4861aff96bf11a89e8f54d747975ae2"
