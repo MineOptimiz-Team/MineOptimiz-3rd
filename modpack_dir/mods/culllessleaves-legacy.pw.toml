@@ -1,0 +1,15 @@
+name = "CullLessLeaves_Legacy"
+filename = "culllessleaveslegacy-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/yor42/CullLessLeaves_Legacy/releases/download/1.1.0/culllessleaveslegacy-1.1.0.jar"
+hash-format = "sha256"
+hash = "b8d3d529ed332f8181c836a92d68a66b3864cea457ec0b8fb40c84e949cb2cfd"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yor42/CullLessLeaves_Legacy"
+tag = "1.1.0"

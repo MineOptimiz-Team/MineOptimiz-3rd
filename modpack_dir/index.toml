@@ -22,6 +22,11 @@ hash = "1d0b280b5f1dcfe3a6f4f76ae2459875b5b04dbf26891b398df5a92a40cb5039"
 metafile = true
 
 [[files]]
+file = "mods/culllessleaves-legacy.pw.toml"
+hash = "c4ce417dc42a5c25966b6ce70612a7a3ad2221bea2c42468dbac79ac06fb37bb"
+metafile = true
+
+[[files]]
 file = "mods/fastquit-forge.pw.toml"
 hash = "3d3b654f0fe945f749f07f85c7c2427e50fb6003327b306bec393cbc79d3d23f"
 metafile = true
