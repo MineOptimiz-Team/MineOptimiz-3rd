@@ -273,6 +273,11 @@ hash = "b3b0338d01864c171abc286e298e7c22cd2749911626d5b3ac65b6a471314a90"
 metafile = true
 
 [[files]]
+file = "mods/quit.pw.toml"
+hash = "8b774a5d263cc692ca0fdc07fa23d182765c9e7d4350b81879718e2e8f6b58e5"
+metafile = true
+
+[[files]]
 file = "mods/red-core.pw.toml"
 hash = "61e97e8f79b9a9cb28e118275ece40ac1c14048aba7b153a2b99f14091208613"
 metafile = true
