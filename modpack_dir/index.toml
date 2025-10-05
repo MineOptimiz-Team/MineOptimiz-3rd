@@ -149,6 +149,11 @@ file = "mods/InGameAccountSwitcher-Forge-1.12.2-7.1.0.jar"
 hash = "5970c85f12bdaefa8a1e66e5bab75e9e7b47cd8835cadcbe9ce6af1128279952"
 
 [[files]]
+file = "mods/advancedshader.pw.toml"
+hash = "5166c3cc49f905e2defa6eeef312330de498e301cfa9bf6e457773bfdc3bbcd9"
+metafile = true
+
+[[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
 hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
 metafile = true
