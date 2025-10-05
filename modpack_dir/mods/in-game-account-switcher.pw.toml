@@ -1,8 +1,0 @@
-name = "In-Game Account Switcher"
-filename = "InGameAccountSwitcher-Forge-1.12.2-7.1.0.jar"
-side = "both"
-
-[download]
-hash-format = "sha1"
-hash = "26df192a35dfed143f0498c9bafe4af160f2243c"
-mode = "metadata:curseforge"

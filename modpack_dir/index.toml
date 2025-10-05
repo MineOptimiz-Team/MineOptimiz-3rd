@@ -145,6 +145,10 @@ file = "journeymap/config/5.7/journeymap.webmap.config"
 hash = "39cb4b996a6d807388b83388b2a2b76f0750a374d096783e4bbb432cacebcd9e"
 
 [[files]]
+file = "mods/InGameAccountSwitcher-Forge-1.12.2-7.1.0.jar"
+hash = "5970c85f12bdaefa8a1e66e5bab75e9e7b47cd8835cadcbe9ce6af1128279952"
+
+[[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
 hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
 metafile = true
@@ -221,11 +225,6 @@ metafile = true
 [[files]]
 file = "mods/i18nupdatemod.pw.toml"
 hash = "a2a5d5d48472228b5ea12200e156a519f74e79a34066e5065ad269aff390c41b"
-metafile = true
-
-[[files]]
-file = "mods/in-game-account-switcher.pw.toml"
-hash = "2e387f4d8960007fea3a8f1d42c3749188f9a0f7ac2a21bcc736c9506bba569b"
 metafile = true
 
 [[files]]
