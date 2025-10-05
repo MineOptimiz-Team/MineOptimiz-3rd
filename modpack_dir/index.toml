@@ -90,10 +90,6 @@ hash = "a2a5d5d48472228b5ea12200e156a519f74e79a34066e5065ad269aff390c41b"
 metafile = true
 
 [[files]]
-file = "mods/liteloader-1.12.2-SNAPSHOT.jar"
-hash = "d7d6dbfb704e5e4393d4337c4af0ba21f680a6d42b36ddae4a2c7db59885d30e"
-
-[[files]]
 file = "mods/minihud-forge-1.12.2-0.19.0-dev.20210503.192331.jar"
 hash = "6873a86ee26dc36d073d501f991694d528376ce27977846ea4f3b3c0f97e8a14"
 
