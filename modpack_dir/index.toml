@@ -22,8 +22,18 @@ hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
+metafile = true
+
+[[files]]
 file = "mods/betterfps.pw.toml"
 hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
+metafile = true
+
+[[files]]
+file = "mods/chatheadsyg-minecraft1-12-2.pw.toml"
+hash = "6cde6a5d9230e40b1b82d16bf4a818028182bfe396c37aa24e9ff38ccb21da98"
 metafile = true
 
 [[files]]
@@ -32,8 +42,18 @@ hash = "1d0b280b5f1dcfe3a6f4f76ae2459875b5b04dbf26891b398df5a92a40cb5039"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
+metafile = true
+
+[[files]]
 file = "mods/culllessleaves-legacy.pw.toml"
 hash = "c4ce417dc42a5c25966b6ce70612a7a3ad2221bea2c42468dbac79ac06fb37bb"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "fbd906a30b6b3b1b2f287c52410ba5e70be9278992d622a92888cac8df87379d"
 metafile = true
 
 [[files]]
