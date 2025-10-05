@@ -32,6 +32,11 @@ hash = "8c4ff445a7f03829d838e8740568f06b2b119ddd9025c2ed0a31e8bd98c0caff"
 metafile = true
 
 [[files]]
+file = "mods/gputape.pw.toml"
+hash = "211d2a581e464797fcca19ca4394aca676ca58aaaf3323f10d338e1084eb058d"
+metafile = true
+
+[[files]]
 file = "mods/naughthirium.pw.toml"
 hash = "c2be1a59f9abab16b8988394be849509f36f8f56d8bcaa38abb782ea0265ea76"
 metafile = true

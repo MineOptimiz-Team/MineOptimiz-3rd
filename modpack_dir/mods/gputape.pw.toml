@@ -1,0 +1,13 @@
+name = "GPUTape"
+filename = "GPUTape-1.12.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd1d675231bf5ed3f5348c7af07f12944d2ff233"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6200046
+project-id = 1201803
