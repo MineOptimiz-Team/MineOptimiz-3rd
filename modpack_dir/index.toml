@@ -278,6 +278,11 @@ hash = "98185e416d24da0fa61981ad5e539a6ce987409ea70dfca55b91754449e01b6e"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "2621aa182bf600afedb7807a45590e8454776dcffc2b82fc98a6501b76298ee9"
+metafile = true
+
+[[files]]
 file = "mods/scalar-legacy.pw.toml"
 hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
 metafile = true
