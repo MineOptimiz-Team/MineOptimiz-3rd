@@ -46,3 +46,11 @@ metafile = true
 file = "mods/scalar-legacy.pw.toml"
 hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "58b24ff7e48d7cfae021db9d6866b140e9679b7a32e2cc47cbaa5384699ffdb4"
+
+[[files]]
+file = "optionsof.txt"
+hash = "52f4b3ae33406f81acb556ea9283e6a745d88b737619fc201d2c8634126e2325"
