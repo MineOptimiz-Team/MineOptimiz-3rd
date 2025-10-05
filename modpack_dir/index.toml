@@ -72,6 +72,11 @@ hash = "fbd906a30b6b3b1b2f287c52410ba5e70be9278992d622a92888cac8df87379d"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "8409a406724c8f347d9662863b418cdd88604303ff12a813f3779e93bffbbacf"
+metafile = true
+
+[[files]]
 file = "mods/fastquit-forge.pw.toml"
 hash = "3d3b654f0fe945f749f07f85c7c2427e50fb6003327b306bec393cbc79d3d23f"
 metafile = true
@@ -99,6 +104,16 @@ metafile = true
 [[files]]
 file = "mods/i18nupdatemod.pw.toml"
 hash = "a2a5d5d48472228b5ea12200e156a519f74e79a34066e5065ad269aff390c41b"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
 metafile = true
 
 [[files]]
