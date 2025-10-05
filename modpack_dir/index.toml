@@ -41,6 +41,11 @@ hash = "6cde6a5d9230e40b1b82d16bf4a818028182bfe396c37aa24e9ff38ccb21da98"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "4813600dfd5c37eda80fcca003212a098165c0e25fcbdd8551e550e4268652e1"
+metafile = true
+
+[[files]]
 file = "mods/cleanroom-relauncher-unofficial.pw.toml"
 hash = "1d0b280b5f1dcfe3a6f4f76ae2459875b5b04dbf26891b398df5a92a40cb5039"
 metafile = true
