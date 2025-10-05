@@ -17,6 +17,16 @@ file = "config/splash.properties"
 hash = "adee79c65f97b585782d8f21c65f2d686224f7e4f189919b017620ee5c6ee13f"
 
 [[files]]
+file = "mods/alfheim-lighting-engine.pw.toml"
+hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
+metafile = true
+
+[[files]]
+file = "mods/betterfps.pw.toml"
+hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
+metafile = true
+
+[[files]]
 file = "mods/cleanroom-relauncher-unofficial.pw.toml"
 hash = "1d0b280b5f1dcfe3a6f4f76ae2459875b5b04dbf26891b398df5a92a40cb5039"
 metafile = true
@@ -29,6 +39,16 @@ metafile = true
 [[files]]
 file = "mods/fastquit-forge.pw.toml"
 hash = "3d3b654f0fe945f749f07f85c7c2427e50fb6003327b306bec393cbc79d3d23f"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-optimization-mod.pw.toml"
+hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
+metafile = true
+
+[[files]]
+file = "mods/forceasciifont.pw.toml"
+hash = "b2ac75ddf4a39ed01850af3f8ecc577e7e84766bc9756ed41a9b41d93b9f93c5"
 metafile = true
 
 [[files]]
@@ -57,6 +77,11 @@ hash = "b3b0338d01864c171abc286e298e7c22cd2749911626d5b3ac65b6a471314a90"
 metafile = true
 
 [[files]]
+file = "mods/red-core.pw.toml"
+hash = "61e97e8f79b9a9cb28e118275ece40ac1c14048aba7b153a2b99f14091208613"
+metafile = true
+
+[[files]]
 file = "mods/renderlib.pw.toml"
 hash = "98185e416d24da0fa61981ad5e539a6ce987409ea70dfca55b91754449e01b6e"
 metafile = true
@@ -64,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/scalar-legacy.pw.toml"
 hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
+metafile = true
+
+[[files]]
+file = "mods/wrapfix.pw.toml"
+hash = "18c82f0dbc4a2ebea47206ac6b87bf7176bc2197ec9391bd8ec0aae900de963e"
 metafile = true
 
 [[files]]

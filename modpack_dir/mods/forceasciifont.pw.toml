@@ -1,0 +1,13 @@
+name = "ForceASCIIFont"
+filename = "ForceAsciiFont-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "290c1378df7c7dbc0c32234a13b229215b255871"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2831187
+project-id = 352339

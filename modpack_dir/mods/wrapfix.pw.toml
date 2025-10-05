@@ -1,0 +1,13 @@
+name = "换行修复/WrapFix"
+filename = "WrapFix-1.3.6-shadow.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eacdc5da64a25afe2ca6825b0849754503880869"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6311190
+project-id = 576946
