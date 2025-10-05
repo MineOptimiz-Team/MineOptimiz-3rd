@@ -229,6 +229,11 @@ hash = "6303a405cbf45096af5ea1ca17555013996aa7c32eb9b08444358bce8e4df995"
 metafile = true
 
 [[files]]
+file = "mods/in-game-account-switcher.pw.toml"
+hash = "4544147a80a9a112286e7b61fc2d215365ed7783adfe0b6db91fc23add37f672"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
