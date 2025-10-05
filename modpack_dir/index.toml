@@ -13,6 +13,90 @@ file = "config/cleanroom_relauncher.cfg"
 hash = "2c0531aa6dc34065a600c6919f7fbb42070221e556c60f5ad63b406a9459ef66"
 
 [[files]]
+file = "config/fancymenu/assets/accessibility.png"
+hash = "23dd44da6c8be96139ab2eb8aa7f8b9bd69520c465c13f8d3b1bc75a5d31fc9e"
+
+[[files]]
+file = "config/fancymenu/assets/accessibility_click.png"
+hash = "8ac2da4edc5baa8f6920290379e224569d99d2fe0ffc55a408dd4540480a0acc"
+
+[[files]]
+file = "config/fancymenu/assets/language.png"
+hash = "2efca3660d27a38ea41090d008e8c693d27883198c02223cb779c0b67e755871"
+
+[[files]]
+file = "config/fancymenu/assets/language_click.png"
+hash = "bfcf79f8fafa3b0a6813f396d020b51d4844130d5b84330e441a7d5d8e877ec9"
+
+[[files]]
+file = "config/fancymenu/assets/modpackversion.txt"
+hash = "68d3832fa4e3965734cbcbad333d7cfb5facda3b285c0ef613a0376c2be6d272"
+
+[[files]]
+file = "config/fancymenu/assets/title.png"
+hash = "d538299d59b47007bf10c515a465dd2aff25a51657c1feda889b616a79234b7e"
+
+[[files]]
+file = "config/fancymenu/assets/wallhaven-e7651w_1600x1024.png"
+hash = "5526dca6469383f1a468c0d3d19ecb6c4330b4a99b17c4109f44da6f895a86a9"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "f762f2e0fe2edabf90e3d6db09c89bc0ac7a9063b99e6b4a6e12ef78bcc58db8"
+
+[[files]]
+file = "config/fancymenu/customguis/com.github.smallmushroomovo.game.txt"
+hash = "a9c7c3f28f8eede2756ef0db51fe50412828f68270eede28bfa2b79aae915cf9"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
+
+[[files]]
+file = "config/fancymenu/customization/gamestart.txt"
+hash = "d46f1e5fa3b03beeb800ba904b2d4b29da91d2480b65a1946faf33b27cdba4a8"
+
+[[files]]
+file = "config/fancymenu/customization/main_menu.txt"
+hash = "b80f2fb21ea5746d4597a7d05f5de29328e678b33ac7490695819a37e04fbee9"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "cdce092c61bb896fbab64469a0ca5c47492814b546455d36397a43b8787b0182"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/forge.cfg"
 hash = "5da7801abdd3c25376c660cf1e719a793f6189f8d7584e82baf1d6e03db2f793"
 
