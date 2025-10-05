@@ -18,6 +18,11 @@ hash = "1d0b280b5f1dcfe3a6f4f76ae2459875b5b04dbf26891b398df5a92a40cb5039"
 metafile = true
 
 [[files]]
+file = "mods/fastquit-forge.pw.toml"
+hash = "3d3b654f0fe945f749f07f85c7c2427e50fb6003327b306bec393cbc79d3d23f"
+metafile = true
+
+[[files]]
 file = "mods/fugue.pw.toml"
 hash = "8c4ff445a7f03829d838e8740568f06b2b119ddd9025c2ed0a31e8bd98c0caff"
 metafile = true
