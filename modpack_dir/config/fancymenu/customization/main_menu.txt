@@ -115,12 +115,12 @@ customization {
 customization {
   path = config/fancymenu/assets/title.png
   orientation = top-centered
-  x = -115
-  width = 225
+  x = -124
+  width = 244
   actionid = 05543124-a61a-440a-9436-9ab332963efe1759668800376
   action = addtexture
-  y = 27
-  height = 63
+  y = 25
+  height = 67
 }
 
 customization {
@@ -134,6 +134,25 @@ customization {
   actionid = c6ce3c9a-9074-4047-bd71-a48b8a11d06f1759668885231
   y = -15
   label = 开始游戏
+  height = 20
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;the_fireplace.ias.gui.GuiAccountSelector%btnaction_splitter_fm%
+  x = -100
+  width = 200
+  action = addbutton
+  actionid = 0d5276e1-9dbc-4eeb-9ee3-51ede312fc6f1759669343178
+  y = 39
+  label = 账号切换
   height = 20
 }
 

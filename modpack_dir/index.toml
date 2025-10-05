@@ -58,7 +58,7 @@ hash = "d46f1e5fa3b03beeb800ba904b2d4b29da91d2480b65a1946faf33b27cdba4a8"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "b80f2fb21ea5746d4597a7d05f5de29328e678b33ac7490695819a37e04fbee9"
+hash = "0c1a620cef2ab4a8a5537f0391f28f3413a5d70bce1eba1ae085a025c09f7ad5"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -221,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/i18nupdatemod.pw.toml"
 hash = "a2a5d5d48472228b5ea12200e156a519f74e79a34066e5065ad269aff390c41b"
+metafile = true
+
+[[files]]
+file = "mods/ias.pw.toml"
+hash = "6303a405cbf45096af5ea1ca17555013996aa7c32eb9b08444358bce8e4df995"
 metafile = true
 
 [[files]]

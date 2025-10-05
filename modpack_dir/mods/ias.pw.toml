@@ -1,0 +1,7 @@
+name = "ias"
+filename = "InGameAccountSwitcher-Forge-1.12.2-7.1.0.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/3413/260/InGameAccountSwitcher-Forge-1.12.2-7.1.0.jar"
+hash-format = "sha256"
+hash = "5970c85f12bdaefa8a1e66e5bab75e9e7b47cd8835cadcbe9ce6af1128279952"
