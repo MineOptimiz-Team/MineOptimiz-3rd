@@ -54,11 +54,11 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/gamestart.txt"
-hash = "d46f1e5fa3b03beeb800ba904b2d4b29da91d2480b65a1946faf33b27cdba4a8"
+hash = "1d7d63c757c38198697941c05b7780081414f85ba4e07c6fbb124dfd886c107c"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "0c1a620cef2ab4a8a5537f0391f28f3413a5d70bce1eba1ae085a025c09f7ad5"
+hash = "8dfba7b5de4f27ddd05f4d7d97ba09b08e09ed008f21f8171af3d1b160f20f95"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "62da953565f1f0327c9418ff2a17b6a02c8c43e02f7281ca528f0c72f85666d7"
+hash = "e4253ab9043d03c99e9cbcfa901aad34b45d356300cfa17372385e95e6d4e690"
 
 [[files]]
 file = "optionsof.txt"
