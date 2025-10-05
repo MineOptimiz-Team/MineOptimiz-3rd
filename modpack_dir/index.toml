@@ -105,6 +105,11 @@ hash = "8409a406724c8f347d9662863b418cdd88604303ff12a813f3779e93bffbbacf"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "a0b9178824a6998223027dbca140b3652300a9140c7ed908db5508c9f4af1902"
+metafile = true
+
+[[files]]
 file = "mods/fastquit-forge.pw.toml"
 hash = "3d3b654f0fe945f749f07f85c7c2427e50fb6003327b306bec393cbc79d3d23f"
 metafile = true
@@ -142,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "89d76a6016fd19cdb06f677ce4c678e1eea307d3a2a39fd4e9b532dd45acb7c7"
 metafile = true
 
 [[files]]

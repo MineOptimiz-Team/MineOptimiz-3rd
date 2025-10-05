@@ -1,0 +1,57 @@
+type = menu
+
+customization-meta {
+  identifier = com.github.smallmushroomovo.game
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.client.gui.GuiWorldSelection%btnaction_splitter_fm%
+  x = -53
+  width = 110
+  action = addbutton
+  actionid = d87ed4fc-933b-4e80-9b93-709fa6dacef31759668535082
+  y = -44
+  label = 单人游戏
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.client.gui.GuiMultiplayer%btnaction_splitter_fm%
+  x = -53
+  width = 110
+  action = addbutton
+  actionid = 621394c7-7aad-46cd-8109-967a7ba2d6b71759668610128
+  y = -10
+  label = 多人游戏
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  x = 160
+  width = 110
+  action = addbutton
+  actionid = 6de5b75d-1b10-4e15-9cee-034cdb154c9a1759668639571
+  y = 173
+  label = 返回
+  height = 20
+}
+

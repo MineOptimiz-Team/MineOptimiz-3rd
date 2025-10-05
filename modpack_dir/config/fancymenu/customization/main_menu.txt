@@ -1,0 +1,139 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:3541a480-2733-4bdd-ad19-04adb68e95e41759668929231] = zh_cn
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 12
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 113
+  width = 200
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 247700fc-fc9c-4fb2-b93f-96ce54bc1d971759668785784
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 115
+  action = deep_customization_element:title_screen_branding
+  actionid = 9e2826ab-cb50-42eb-9784-60a4aab9ce7b1759668785784
+  y = 194
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 258
+  width = 168
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 6e6fd8b0-75a5-482d-87ec-5f25713793561759668785784
+  y = 226
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 316
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 1e794626-5baa-4663-ab1a-08d965edc8d41759668785784
+  y = 161
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 76
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = b1604bd3-19a9-40ee-b972-9ef79a86d96d1759668785784
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = false
+  x = 73
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 1747f114-26d6-42b5-af0c-b6e2c2ab457c1759668785784
+  y = 88
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/assets/title.png
+  orientation = top-centered
+  x = -115
+  width = 225
+  actionid = 05543124-a61a-440a-9436-9ab332963efe1759668800376
+  action = addtexture
+  y = 27
+  height = 63
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;com.github.smallmushroomovo.game%btnaction_splitter_fm%
+  x = -100
+  width = 200
+  action = addbutton
+  actionid = c6ce3c9a-9074-4047-bd71-a48b8a11d06f1759668885231
+  y = -15
+  label = 开始游戏
+  height = 20
+}
+
