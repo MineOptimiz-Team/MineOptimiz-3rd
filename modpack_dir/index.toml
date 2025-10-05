@@ -303,6 +303,11 @@ hash = "ab1f07fd00375e70e14c79825bc7d6025fcc13c4545c08ae6d6cab3d0668aa82"
 metafile = true
 
 [[files]]
+file = "mods/viaforge.pw.toml"
+hash = "40aae5365146e24bcffcaa72a434adf0673a5fd36cb8164b7aa0e565bf100d15"
+metafile = true
+
+[[files]]
 file = "mods/wrapfix.pw.toml"
 hash = "18c82f0dbc4a2ebea47206ac6b87bf7176bc2197ec9391bd8ec0aae900de963e"
 metafile = true

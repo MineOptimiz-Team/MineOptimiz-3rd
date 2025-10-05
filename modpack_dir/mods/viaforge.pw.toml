@@ -1,0 +1,13 @@
+name = "ViaForge"
+filename = "viaforge-mc1122-4.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78d8afa25ddd44ff4b77cfa23f1b0cb10aabe5f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7061692
+project-id = 418933
