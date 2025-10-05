@@ -5,6 +5,10 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "6f034f9179f22dc3a70b4f47957a16b36462e3470c9fc4b62d512c9e585f632d"
 
 [[files]]
+file = "config/betterfps.json"
+hash = "1f91d234a29f9e072b73a0f5a51ab075079987f8cd3edd40d44d78c19d822cc9"
+
+[[files]]
 file = "config/cleanroom_relauncher.cfg"
 hash = "2c0531aa6dc34065a600c6919f7fbb42070221e556c60f5ad63b406a9459ef66"
 
@@ -13,12 +17,20 @@ file = "config/forge.cfg"
 hash = "5da7801abdd3c25376c660cf1e719a793f6189f8d7584e82baf1d6e03db2f793"
 
 [[files]]
+file = "config/minihud.json"
+hash = "4f19b564b50d5147931462548a20fce2c0f88d256244ac2939ac4196d5660566"
+
+[[files]]
 file = "config/opticheck.cfg"
 hash = "20b22011a0c98fe487d5f977269c97def601ea8e37bad3d57c6abadb3ff75ffc"
 
 [[files]]
 file = "config/splash.properties"
 hash = "adee79c65f97b585782d8f21c65f2d686224f7e4f189919b017620ee5c6ee13f"
+
+[[files]]
+file = "config/tweakeroo.json"
+hash = "481e52e9c4c47ec70d28f0eaaf4f64ecb9d6e38683bf2e7c9453b3a6f2024e7d"
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
@@ -141,8 +153,8 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "58b24ff7e48d7cfae021db9d6866b140e9679b7a32e2cc47cbaa5384699ffdb4"
+hash = "62da953565f1f0327c9418ff2a17b6a02c8c43e02f7281ca528f0c72f85666d7"
 
 [[files]]
 file = "optionsof.txt"
-hash = "52f4b3ae33406f81acb556ea9283e6a745d88b737619fc201d2c8634126e2325"
+hash = "7e7bf02d6556b1e0b79c6c0f8b983e8d722e58ec388e58d0bf0d619dc76a9c21"
