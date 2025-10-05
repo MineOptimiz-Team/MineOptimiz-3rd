@@ -1,12 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CustomSkinLoader/CustomSkinAPIPlus-ClientID"
+hash = "7716ab95b7ea2aae5d3bc61c276ff33d6dbdf9330a816c53a15503c673f45ceb"
+
+[[files]]
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "6f034f9179f22dc3a70b4f47957a16b36462e3470c9fc4b62d512c9e585f632d"
+
+[[files]]
+file = "CustomSkinLoader/CustomSkinLoader.log"
+hash = "51eaa6d82e24c62be8527eea316dccadad81d34f46f782b1303a24df8592d2d5"
+
+[[files]]
+file = "CustomSkinLoader/caches/d5e68975434a29b80574d98f60f210654ddc993e"
+hash = "3055d2730756864b6f69769382fa07ded81f3f67412eb1d4c3dd23e3f6e5cf07"
+
+[[files]]
+file = "CustomSkinLoader/caches/d5e68975434a29b80574d98f60f210654ddc993e.json"
+hash = "f7b43b9fb952b62bcb3df1c33009df747c3043b87b5b3b74857750176d917270"
+
+[[files]]
 file = "config/cleanroom_relauncher.cfg"
 hash = "2c0531aa6dc34065a600c6919f7fbb42070221e556c60f5ad63b406a9459ef66"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "84714c90202ef99acb74438ec563f8a787789f68c20c54396246b5e559208fab"
+hash = "5da7801abdd3c25376c660cf1e719a793f6189f8d7584e82baf1d6e03db2f793"
 
 [[files]]
 file = "config/opticheck.cfg"
