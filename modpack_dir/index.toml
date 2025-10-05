@@ -224,13 +224,8 @@ hash = "a2a5d5d48472228b5ea12200e156a519f74e79a34066e5065ad269aff390c41b"
 metafile = true
 
 [[files]]
-file = "mods/ias.pw.toml"
-hash = "6303a405cbf45096af5ea1ca17555013996aa7c32eb9b08444358bce8e4df995"
-metafile = true
-
-[[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "4544147a80a9a112286e7b61fc2d215365ed7783adfe0b6db91fc23add37f672"
+hash = "2e387f4d8960007fea3a8f1d42c3749188f9a0f7ac2a21bcc736c9506bba569b"
 metafile = true
 
 [[files]]
