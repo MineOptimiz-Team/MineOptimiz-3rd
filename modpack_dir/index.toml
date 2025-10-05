@@ -5,6 +5,10 @@ file = "config/cleanroom_relauncher.cfg"
 hash = "2c0531aa6dc34065a600c6919f7fbb42070221e556c60f5ad63b406a9459ef66"
 
 [[files]]
+file = "config/forge.cfg"
+hash = "84714c90202ef99acb74438ec563f8a787789f68c20c54396246b5e559208fab"
+
+[[files]]
 file = "config/opticheck.cfg"
 hash = "20b22011a0c98fe487d5f977269c97def601ea8e37bad3d57c6abadb3ff75ffc"
 
