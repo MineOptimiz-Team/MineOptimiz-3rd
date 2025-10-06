@@ -40,8 +40,8 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 | Intel i7-3610QM+NVIDIA GT 740M+Windows 8.1*+1366x768                    | 原版115FPS → 最高195FPS |
 | Intel i5-1135G7+Intel Iris Xe Graphics+Windows 11 23H2+1280x720         | 原版92FPS → 最高146FPS  |
 | Intel i3-N305+Intel UHD Graphics+Windows 11 25H2+1920x1080              | 原版94FPS → 最高170FPS  |
-| AMD Ryzen 7 H 260+AMD Radeon 780M+Windows 10 20H2+2560x1600             | 原版462FPS → 最高652FPS |
-| AMD Ryzen 7 H 260+NVIDIA RTX 5050 Laptop+Windows 10 20H2+2560x1600      | 原版514FPS → 最高684FPS |
+| AMD Ryzen AI 7 H 260+AMD Radeon 780M+Windows 10 20H2+2560x1600             | 原版462FPS → 最高652FPS |
+| AMD Ryzen AI 7 H 260+NVIDIA RTX 5050 Laptop+Windows 10 20H2+2560x1600      | 原版514FPS → 最高684FPS |
 | Intel Core i7-10750H+NVIDIA GTX 1650 Ti+Windows 11 21H2+1920x1080       | 原版118FPS → 最高203FPS |
 | AMD Ryzen 7 7745HX+NVIDIA RTX 4050+Windows 11 24H2+2560x1600            | 原版738FPS → 最高911FPS |
 

@@ -40,8 +40,8 @@ Minecraft optimization modpack, supporting both Fabric/(Neo)Forge mod loaders, p
 | Intel i7-3610QM+NVIDIA GT 740M+Windows 8.1*+1366x768                       | Vanilla 115FPS → Max 195FPS  |
 | Intel i5-1135G7+Intel Iris Xe Graphics+Windows 11 23H2+1280x720            | Vanilla 92FPS → Max 146FPS   |
 | Intel i3-N305+Intel UHD Graphics+Windows 11 25H2+1920x1080                 | Vanilla 94FPS → Max 170FPS   |
-| AMD Ryzen 7 H 260+AMD Radeon 780M+Windows 10 20H2+2560x1600                | Vanilla 462FPS → Max 652FPS  |
-| AMD Ryzen 7 H 260+NVIDIA RTX 5050 Laptop+Windows 10 20H2+2560x1600         | Vanilla 514FPS → Max 684FPS  |
+| AMD Ryzen AI 7 H 260+AMD Radeon 780M+Windows 10 20H2+2560x1600                | Vanilla 462FPS → Max 652FPS  |
+| AMD Ryzen AI 7 H 260+NVIDIA RTX 5050 Laptop+Windows 10 20H2+2560x1600         | Vanilla 514FPS → Max 684FPS  |
 | Intel Core i7-10750H+NVIDIA GTX 1650 Ti+Windows 11 21H2+1920x1080          | Vanilla 118FPS → Max 203FPS  |
 | AMD Ryzen 7 7745HX+NVIDIA RTX 4050+Windows 11 24H2+2560x1600               | Vanilla 738FPS → Max 911FPS  |
 
