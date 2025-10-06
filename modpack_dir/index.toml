@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanroom-relauncher-unofficial.pw.toml"
-hash = "1d0b280b5f1dcfe3a6f4f76ae2459875b5b04dbf26891b398df5a92a40cb5039"
+hash = "d21b879ba69cd98f099d0c50ffff65bb676bb25be480a9cb1808298f029dbd4a"
 metafile = true
 
 [[files]]
