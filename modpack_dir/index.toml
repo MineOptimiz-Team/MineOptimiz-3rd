@@ -228,6 +228,11 @@ hash = "a2a5d5d48472228b5ea12200e156a519f74e79a34066e5065ad269aff390c41b"
 metafile = true
 
 [[files]]
+file = "mods/ingameime-vintage.pw.toml"
+hash = "e8ba65b6908f2ccd72ec517c3af5825443738bbee39623eaa6bbd2c090a32e59"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
 metafile = true
