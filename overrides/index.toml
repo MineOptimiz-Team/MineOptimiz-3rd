@@ -1059,7 +1059,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "9f3a06cc49bacd8aa9437bd71b5e30ff8d3e2e3e87f6f0733e556df8d9ece6ae"
+hash = "5ebc1849da4c78f57b8f4cde4320d5409ea9244e372d50afc6362ee88d66dd50"
 metafile = true
 
 [[files]]
@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "612d49f065b3b26bb44cc3ef4f1f2a1c58883831695a96b7ed7f63f75a66295c"
+hash = "4d9264c9550ed32948bd6ea78cb53ba80dd01da8e6c10fa8de4fa52c1bff4d8d"
 metafile = true
 
 [[files]]
@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "1cfa183bba77b45e4ae2abea9449c5f4f33b1af56e8b87166525fc56216daba4"
+hash = "097a2a9f31c3cccc019c63e412e6dd7d561e133a0c9117a7b32fdae11579fd56"
 metafile = true
 
 [[files]]
@@ -1164,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "7afdc4a1e9619ea434e5c5a05819dd12653978d0781eaeb1fa6257086c79e827"
+hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
 metafile = true
 
 [[files]]
@@ -1194,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "45ca57c9d606e5d2fbe75612c966c69e1e9df74a2015bd9af5cd4698852c4418"
+hash = "9422e9e313d0ea266dffacf14d5bd55f9244d51d4f4587af7236cb778462461c"
 metafile = true
 
 [[files]]
@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2d636f456b8a396fcaec06545aee486975e6372f1733ab2830015a97faedfe13"
+hash = "810d40ac27fd949d2e1b6202485d646445ae2230b2a29de1b9162519217ed152"
 metafile = true
 
 [[files]]
@@ -1244,7 +1244,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "802a03c3c1119f899119e2a3c77697007a435bead3b77ba6fe0efc846fcd6ba3"
+hash = "52ad3f05b5a593f8f48371bcae785c4c4e328e0eb6c317e6942ce127878497e2"
 metafile = true
 
 [[files]]
@@ -1389,7 +1389,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b1c1fa2e1636be704e238a3a14c5077de9277cf88f388026c09da480e2dd0ce5"
+hash = "4c5042d019eaa4b4b20fec7e18e9413584266aed5bb04120b7bbcd2464fe8b25"
 metafile = true
 
 [[files]]
@@ -1399,7 +1399,7 @@ metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
+hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
 metafile = true
 
 [[files]]
@@ -1408,7 +1408,7 @@ hash = "716b0166e8adf29ce186b38b3fca1fe5a60e04e73b4ad4faecd3c7aea9e25976"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
+hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
 metafile = true
 
 [[files]]
@@ -1423,5 +1423,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e3626d7c6fbc2bcac07b8d0724bba975dd10128de776018d3346edc797cfc772"
+hash = "bbe520e5f0167445fee64ee8eb90ba0b8921a898be12251464de022687539203"
 metafile = true
