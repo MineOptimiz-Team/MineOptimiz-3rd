@@ -9,7 +9,7 @@ Minecraft optimization modpack, supporting both Fabric/(Neo)Forge mod loaders, p
 ## Core Features
 
 - 🚀 **Cross-Version Support** - Covers multiple mainstream versions  
-- 🛠️ **Dual Loader Compatibility** - Simultaneously supports Fabric and (Neo)Forge  
+- 🛠️ **Multi ModLoader Support** - Simultaneously supports Fabric and (Neo)Forge  
 - 📊 **Performance Multiplier** - Integrates Sodium (Embeddium) and other rendering optimization mods  
 - ✨ **OptiFine Feature Support** - Uses resource packs and open-source mods to implement nearly all OptiFine features
 
