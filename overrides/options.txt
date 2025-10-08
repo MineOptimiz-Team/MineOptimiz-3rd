@@ -4,7 +4,7 @@ biomeBlendRadius:2
 enableVsync:false
 entityDistanceScaling:0.5
 entityShadows:true
-forceUnicodeFont:true
+forceUnicodeFont:false
 japaneseGlyphVariants:false
 fov:0.375
 fovEffectScale:0.8062016464987106

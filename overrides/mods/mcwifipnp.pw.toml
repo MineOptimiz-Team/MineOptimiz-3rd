@@ -1,13 +1,13 @@
 name = "LAN World Plug-n-Play (mcwifipnp)"
-filename = "mcwifipnp-1.8.5-1.21-neoforge.jar"
+filename = "mcwifipnp-1.9.0-1.21-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RTWpcTBp/versions/8fGB9ysP/mcwifipnp-1.8.5-1.21-neoforge.jar"
+url = "https://cdn.modrinth.com/data/RTWpcTBp/versions/TQtrilwF/mcwifipnp-1.9.0-1.21-neoforge.jar"
 hash-format = "sha512"
-hash = "26563671b8127f81976656c3302b5839badf1b60da20d734b672cef2a7003daebb225cdf2922ccfbbb1f64d659493168b4d403577267a6c03227347450976e7b"
+hash = "1fd6c0d4b50980a5bff2be06d07f8c379ce1bf3958135cd9539ca8ab5deb53080d73deeb96d8381dabeeff6d67c205f4f3e808735d7d19d30cfb9ee25530f1d8"
 
 [update]
 [update.modrinth]
 mod-id = "RTWpcTBp"
-version = "8fGB9ysP"
+version = "TQtrilwF"

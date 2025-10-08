@@ -1,13 +1,13 @@
 name = "Modpack Update Checker"
-filename = "modpack-update-checker-1.21.1-neoforge-0.15.5.jar"
+filename = "modpack-update-checker-1.21.1-neoforge-0.15.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rR4tY6Cw/versions/Glv3tLF3/modpack-update-checker-1.21.1-neoforge-0.15.5.jar"
+url = "https://cdn.modrinth.com/data/rR4tY6Cw/versions/At2mSWPm/modpack-update-checker-1.21.1-neoforge-0.15.6.jar"
 hash-format = "sha512"
-hash = "fc36ea2a826641a2935a00068b1ee25257dcdbd6fd1aac974a15daf97a2f712223ee940c406a0087099c67634e6cef0353fc850973eef7aa6daf4a54fcf0562a"
+hash = "b5d5d9ec5955d24ee676330a0cb9852b1c26b47980ab3dcc56fb7d2d6c5b16bd0471555a781833edd45bc892cc9af5c45f989a3760ce46b25a4cc39215e35c08"
 
 [update]
 [update.modrinth]
 mod-id = "rR4tY6Cw"
-version = "Glv3tLF3"
+version = "At2mSWPm"

@@ -59,8 +59,8 @@ jobs:
 
       - name: Process Metadata
         run: |
-          RELEASES_ID=3
-          echo "VERSION=3.211.3" >> $GITHUB_ENV  
+          RELEASES_ID=1
+          echo "VERSION=3.211.4" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.1" >> $GITHUB_ENV
           echo "LOADER=neoforge" >> $GITHUB_ENV
           echo "RELEASES_ID=$RELEASES_ID" >> $GITHUB_ENV
