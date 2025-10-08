@@ -3,6 +3,7 @@
   "hiddenMods": [],
   "globalModAliases": {
     "cloth_config": "cloth-config2",
-    "playeranimator": "player-animator"
+    "playeranimator": "player-animator",
+    "malilib": "mafglib"
   }
 }

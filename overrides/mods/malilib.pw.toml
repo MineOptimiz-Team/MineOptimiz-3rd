@@ -1,7 +1,0 @@
-name = "malilib"
-filename = "malilib-fabric-1.21-0.21.7.jar"
-
-[download]
-url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/XZhYc5PW/malilib-fabric-1.21-0.21.7.jar"
-hash-format = "sha256"
-hash = "6038cd9d78a4327d6ffe566fb0617824cfbd2be5870136762d658e781b43139a"
