@@ -1423,7 +1423,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8bf82e0f8fa22267669d46f5ead29663c8577fbba38d03fb27a74b54103edb3d"
+hash = "2500cc89824068a020ca3b21b93fbb02a49b0b48e9695ba3892c32f381ad401c"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
