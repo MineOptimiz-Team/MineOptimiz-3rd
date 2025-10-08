@@ -126,7 +126,7 @@ hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
 [[files]]
 file = "config/connector.json"
-hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
+hash = "44f06192f9d47e800b2d8eea7eda62472b9a457c296392ef3b3de5ae202b595d"
 
 [[files]]
 file = "config/connectorextras_energy_bridge-common.toml"
@@ -1253,8 +1253,8 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
-file = "mods/malilib.pw.toml"
-hash = "6761c59fdc7059d5797118a0dd925f51fdf5e796367b8309467acd1dfa9fe88e"
+file = "mods/mafglib.pw.toml"
+hash = "58020b79db83e23e241b662de7ba078e80acd4c36d3825c2a2848f99c4f0e32e"
 metafile = true
 
 [[files]]
