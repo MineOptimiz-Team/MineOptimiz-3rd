@@ -11,7 +11,32 @@ on:
   workflow_dispatch:
 
 jobs:
+  Build-Oculus: 
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Setup Java 8
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '8'
+
+      - name: Clone Oculus 1.12.2 from Coloradohusky
+        run: git clone --single-branch --branch 1.12.2 https://github.com/Coloradohusky/Oculus.git
+
+      - name: Build Oculus
+        run: |
+          cd Oculus
+          chmod +x ./gradlew
+          ./gradlew build --parallel
+
+      - name: Cache Oculus
+        uses: actions/cache@v3
+        with:
+          path: ./Oculus/build/libs/
+          key: oculus-buildin-${{ github.sha }}
+
   Export-Modpack:
+    needs: Build-Oculus
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
@@ -35,27 +60,19 @@ jobs:
       - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
 
+      - name: Get Oculus
+        uses: actions/cache@v3
+        with:
+          path: ./Oculus/build/libs/
+          key: oculus-buildin-${{ github.sha }
+
+      - name: Copy Oculus to Modpack
+        run: cp ./Oculus/build/libs/oculus-mc1.12.2-1.4.7.jar ./modpack_dir/mods/
+
       - name: Refresh index
         run: |
           cd modpack_dir
           packwiz refresh
-
-      - name: Commit changes
-        id: commit-check
-        run: |
-          git add modpack_dir/pack.toml modpack_dir/index.toml
-            
-
-          if [ -z "$(git status --porcelain modpack_dir/pack.toml modpack_dir/index.toml)" ]; then
-            echo "::notice::No changes detected"
-            exit 0
-          fi
-            
-          git commit -m "[skip ci] Refresh index"
-          
-          for i in {1..5}; do
-          git push && break || sleep 15  # 增加重试次数和间隔
-          done
 
       - name: Process Metadata
         run: |
