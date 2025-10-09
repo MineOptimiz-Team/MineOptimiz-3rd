@@ -263,6 +263,11 @@ hash = "8b774a5d263cc692ca0fdc07fa23d182765c9e7d4350b81879718e2e8f6b58e5"
 metafile = true
 
 [[files]]
+file = "mods/raw-mouse-input-blessed-edition.pw.toml"
+hash = "59c1b541c114e21ca6ace7782385e57fa1b93a5ca8d6ff0a412ed72fa64c9b1f"
+metafile = true
+
+[[files]]
 file = "mods/red-core.pw.toml"
 hash = "61e97e8f79b9a9cb28e118275ece40ac1c14048aba7b153a2b99f14091208613"
 metafile = true
