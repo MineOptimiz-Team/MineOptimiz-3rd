@@ -1,6 +1,6 @@
-name = "MineOptimiz Cleanroom"
+name = "MineOptimiz Forge 1.12.2"
 author = "Small__Mushroom"
-version = "3.122.0-cleanroom+commitid"
+version = "3.122.0-forge+commitid"
 pack-format = "packwiz:1.1.0"
 
 [index]
