@@ -20,8 +20,8 @@ jobs:
           distribution: 'temurin'
           java-version: '8'
 
-      - name: Clone Oculus 1.12.2 from Coloradohusky
-        run: git clone --single-branch --branch 1.12.2 https://github.com/Coloradohusky/Oculus.git
+      - name: Clone Oculus 1.12.2 from Axis-Denied
+        run: git clone --single-branch --branch 1.12.2 https://github.com/Axis-Denied/Oculus.git
 
       - name: Build Oculus
         run: |
