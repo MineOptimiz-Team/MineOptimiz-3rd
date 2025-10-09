@@ -1,0 +1,13 @@
+name = "WI Zoom"
+filename = "WI-Zoom-1.1-MC1.12.2-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o7DitHWP/versions/QosaEAsi/WI-Zoom-1.1-MC1.12.2-Forge.jar"
+hash-format = "sha512"
+hash = "658cb21c4ba0a57c1f464d858540e48218850053dd7af3c67cc76fb94cc7b6507bcde89e2ed39005c5dadcb72539bd48053c14ec1c448f6a24bc196e1c3b9396"
+
+[update]
+[update.modrinth]
+mod-id = "o7DitHWP"
+version = "QosaEAsi"

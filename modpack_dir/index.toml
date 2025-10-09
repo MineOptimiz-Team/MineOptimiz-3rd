@@ -183,8 +183,18 @@ hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "fbd906a30b6b3b1b2f287c52410ba5e70be9278992d622a92888cac8df87379d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "2eeca0ab3bb0c63ea0189f62f7e6a473e909feb825383b137d260010e34aef84"
 metafile = true
 
 [[files]]
@@ -305,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/viaforge.pw.toml"
 hash = "40aae5365146e24bcffcaa72a434adf0673a5fd36cb8164b7aa0e565bf100d15"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "f8ea07b0b75a8ab630f6b0f7c3221ea6ceab2bf53ab190a10b2057332ad2a750"
 metafile = true
 
 [[files]]
