@@ -62,7 +62,7 @@ jobs:
           SHORT_SHA=${GITHUB_SHA::7}
           echo "VERSION=3.122.0" >> $GITHUB_ENV  
           echo "MC_VERSION=1.12.2" >> $GITHUB_ENV
-          echo "LOADER=cleanroom" >> $GITHUB_ENV
+          echo "LOADER=forge" >> $GITHUB_ENV
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
           sed -i "s/commitid/$SHORT_SHA/g" ./modpack_dir/pack.toml
 #          sed -i "s/commitid/$SHORT_SHA/g" ./modpack_dir/config/fancymenu/user_variables.db
