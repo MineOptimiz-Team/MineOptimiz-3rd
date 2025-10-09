@@ -22,7 +22,7 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 | 1.21.8   | Fabric              | Sodium                            | ✅ 持续更新    |
 | 1.21.1   | NeoForge / Fabric   | Sodium / VulkanMod                | ✅ 持续更新    |
 | 1.21.4   | Fabric              | Sodium / VulkanMod                | ✅ 持续更新    |
-| 1.12.2   | Cleanroom           | OptiFine                          | ⚠️ 处于测试阶段 |
+| 1.12.2   | Cleanroom / Forge   | OptiFine / Neonium                | ⚠️ 处于测试阶段 |
 | 1.20.1   | Forge / Fabric      | Embeddium / Sodium / VulkanMod    | ❌ 不再更新    |
 | 1.21.5*  | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.18.2   | Forge / Fabric      | Sodium                            | ❌ 不再更新    |
