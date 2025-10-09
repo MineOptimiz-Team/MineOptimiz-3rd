@@ -258,16 +258,6 @@ hash = "ece0a01ad581fc5eb42ced5dc984d38937b61516e2f8e0b7ca0e28e0f84de322"
 metafile = true
 
 [[files]]
-file = "mods/naughthirium.pw.toml"
-hash = "c2be1a59f9abab16b8988394be849509f36f8f56d8bcaa38abb782ea0265ea76"
-metafile = true
-
-[[files]]
-file = "mods/nothirium.pw.toml"
-hash = "410f0ac3709941db74b3e7947b40b5bef5fbde5fae2352c565d009e76166d127"
-metafile = true
-
-[[files]]
 file = "mods/quit.pw.toml"
 hash = "8b774a5d263cc692ca0fdc07fa23d182765c9e7d4350b81879718e2e8f6b58e5"
 metafile = true
