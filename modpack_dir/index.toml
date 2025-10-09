@@ -203,11 +203,6 @@ hash = "3d3b654f0fe945f749f07f85c7c2427e50fb6003327b306bec393cbc79d3d23f"
 metafile = true
 
 [[files]]
-file = "mods/foamfix-optimization-mod.pw.toml"
-hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
-metafile = true
-
-[[files]]
 file = "mods/forceasciifont.pw.toml"
 hash = "b2ac75ddf4a39ed01850af3f8ecc577e7e84766bc9756ed41a9b41d93b9f93c5"
 metafile = true
@@ -310,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/viaforge.pw.toml"
 hash = "40aae5365146e24bcffcaa72a434adf0673a5fd36cb8164b7aa0e565bf100d15"
+metafile = true
+
+[[files]]
+file = "mods/vintagefix.pw.toml"
+hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
 metafile = true
 
 [[files]]
