@@ -64,7 +64,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ./Oculus/build/libs/
-          key: oculus-buildin-${{ github.sha }
+          key: oculus-buildin-${{ github.sha }}
 
       - name: Copy Oculus to Modpack
         run: cp ./Oculus/build/libs/oculus-mc1.12.2-1.4.7.jar ./modpack_dir/mods/
