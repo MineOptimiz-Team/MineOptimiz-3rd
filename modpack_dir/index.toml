@@ -218,6 +218,11 @@ hash = "211d2a581e464797fcca19ca4394aca676ca58aaaf3323f10d338e1084eb058d"
 metafile = true
 
 [[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "e4761a0bf1d2da93d22af67b9f0c1baed282e6391a3967e17be8da55f47901cb"
+metafile = true
+
+[[files]]
 file = "mods/i18nupdatemod.pw.toml"
 hash = "a2a5d5d48472228b5ea12200e156a519f74e79a34066e5065ad269aff390c41b"
 metafile = true
@@ -230,11 +235,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
 
 [[files]]
