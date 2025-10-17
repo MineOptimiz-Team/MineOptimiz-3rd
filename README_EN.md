@@ -22,7 +22,7 @@ Minecraft optimization modpack, supporting both Fabric/(Neo)Forge mod loaders, p
 | 1.21.8     | Fabric              | Sodium                              | ✅ Actively Updated |
 | 1.21.1     | NeoForge / Fabric   | Sodium / VulkanMod                  | ✅ Actively Updated |
 | 1.21.4     | Fabric              | Sodium / VulkanMod                  | ✅ Actively Updated |
-| 1.12.2     | Cleanroom           | OptiFine / Neonium                  | ⚠️ In beta phase    |
+| 1.12.2     | Cleanroom           | OptiFine                            | ⚠️ In beta phase    |
 | 1.20.1     | Forge / Fabric      | Embeddium / Sodium / VulkanMod      | ❌ No Longer Updated |
 | 1.21.5*    | Fabric              | Sodium                              | ❌ No Longer Updated |
 | 1.18.2     | Forge / Fabric      | Sodium                              | ❌ No Longer Updated |
