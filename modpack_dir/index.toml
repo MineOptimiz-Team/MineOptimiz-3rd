@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "fbd906a30b6b3b1b2f287c52410ba5e70be9278992d622a92888cac8df87379d"
+hash = "9cf5b8595e859baa1ee65332c98ca78344ea16a419a39e356acda53b41f421f2"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "8c4ff445a7f03829d838e8740568f06b2b119ddd9025c2ed0a31e8bd98c0caff"
+hash = "64224fb48093f5819c033e134604e73dcc169560506c5a2c540f0832f3fc67c0"
 metafile = true
 
 [[files]]
