@@ -1175,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
+hash = "b908cccddb4f18a5f570a0201b7a6f7f6775f9fcb0dcd0a1a0d7600ff1d7c7f3"
 metafile = true
 
 [[files]]
@@ -1283,7 +1283,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "c4c2289d32d2a13639cae9d9636ec456a0022e6b42b1a9f16c64529a2e32c0e5"
+hash = "22c05facf879b3b0d6a656c639c3ddf2e57fa5502abb9f220e27798e3a09bc7b"
 metafile = true
 
 [[files]]
