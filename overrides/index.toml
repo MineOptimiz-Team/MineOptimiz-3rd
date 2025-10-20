@@ -1116,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "368b538e311c20808f1914e79813285259715b6cebee22484c53be233e1e8553"
+hash = "4a9910d74bb7a85600abaf36ae568bcfb10e76062b9d5d718656f5d172e79419"
 metafile = true
 
 [[files]]
@@ -1165,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c9498b99c90e67bcb6b9d8fae3cee6deb6c1ddd92fb5dc6f3493737266dec21b"
+hash = "83d5f505a07d12d58259db0e9b3d02dfa2bbcc93e63f34401d3409b07bf6898b"
 metafile = true
 
 [[files]]
@@ -1190,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastchest-revived.pw.toml"
-hash = "7dd4369f4a2e553321a976d61c997175988eed7ff39129f2fcd84aa99042d780"
+hash = "cc1a9afc28b123ed9af98e535de411d8f9f35abdcf83132b84d46301bff91a21"
 metafile = true
 
 [[files]]
@@ -1323,7 +1323,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "6f3f35bbcdbd628e446ab49565521374a75d2a6897e0fae745b10d44e6f94210"
+hash = "cdecb31c07e29507c659bd72eb85957b72a508fb0687fe46323215a5f5d45da7"
 metafile = true
 
 [[files]]
