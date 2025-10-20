@@ -358,7 +358,7 @@ hash = "46ba963f4fad9ee93f2987be502c590c6b80dded4bcea522eb652e630a8f1c07"
 
 [[files]]
 file = "config/fancymenu/customization/addtesting.txt"
-hash = "ee25bd1beb72d9e40e68a22425f48b1a3a7dd14e31e61f3137f68a9687656dfc"
+hash = "cbd5ca4763d2f1501943ae268726bf1412ce1b185965378a4254af0a6eeca322"
 
 [[files]]
 file = "config/fancymenu/customization/april_fool.txt"
@@ -410,7 +410,7 @@ hash = "7794f1a05e2932f38251facac965f11bc296f71efafe4da1a7508f4d17f588a9"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
-hash = "b56a81ad958734ad48ced2d316e76fa00d8cccaa897047818383df48ba9db032"
+hash = "612e557169cf846d1c3877623323798630f52d34ce3db15a976ca1c5b8285769"
 
 [[files]]
 file = "config/fancymenu/customization/engchoosesystem.txt"
