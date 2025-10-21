@@ -1111,7 +1111,7 @@ hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "943b27c889ae867ac95109ec8d565848455a0deeb8328af2ce330db33793cf7e"
+hash = "36886a55230948cace8b6c6fbacf9346ab3324686da36b4c7d585afb0a766692"
 metafile = true
 
 [[files]]
@@ -1278,12 +1278,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "0535b2aae533bf85d7382866c456ed491db5da4784f249a370f796280014340d"
+hash = "dd9c014be7eed04ccdba9604602ee2618d1efc424e16807c9a95e319f9407d8f"
 metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "22c05facf879b3b0d6a656c639c3ddf2e57fa5502abb9f220e27798e3a09bc7b"
+hash = "9b0a2859aa5d869305469cefd7f7b27b00def7851f95d734a554545ddb7c1a7a"
 metafile = true
 
 [[files]]
@@ -1298,7 +1298,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "e53b471d7fb0fbbb6285b25c161076306669abf09920e92d538a3417a4c33ffd"
+hash = "e0ec01c5bc3591ba368bc2e91c930680fe0e60eec1f18ac3565f432eea01ee6b"
 metafile = true
 
 [[files]]
@@ -1322,7 +1322,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "cdecb31c07e29507c659bd72eb85957b72a508fb0687fe46323215a5f5d45da7"
+hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
 metafile = true
 
 [[files]]
@@ -1399,7 +1399,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "fb1838277d110e0b7cc82a9b03db6f9b08198ad8396bf789fa339454ba7c1682"
+hash = "c061a86d6e29e5a02f707c30fda4b87669c672e9a8fced1bc4da8b9ad9fe2c2e"
 metafile = true
 
 [[files]]
