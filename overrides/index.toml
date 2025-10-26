@@ -1260,6 +1260,11 @@ hash = "8ec249c1e2aaac6bf623263036059908f66769ca70e90dd854de483424cedd0a"
 metafile = true
 
 [[files]]
+file = "mods/mekalus-oculus-fork-with-fixed-mekanism-mekasuit.pw.toml"
+hash = "58c66715a20423f327e23754c6542c0e4c3f50a485252df4e7e1be820487688c"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
@@ -1317,11 +1322,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
