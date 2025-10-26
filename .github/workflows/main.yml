@@ -63,7 +63,7 @@ jobs:
           echo "VERSION=3.201.6" >> $GITHUB_ENV  
           echo "MC_VERSION=1.20.1" >> $GITHUB_ENV
           echo "LOADER=forge" >> $GITHUB_ENV
-          echo "RELEASES_ID=4" >> $GITHUB_ENV
+          echo "RELEASES_ID=5" >> $GITHUB_ENV
           sed -i "s/commitid/$RELEASES_ID/g" ./overrides/pack.toml
           sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/fancymenu/user_variables.db
           sed -i "s/commitid/$RELEASES_ID/g" ./overrides/config/modpack-update-checker/config.json
