@@ -89,6 +89,10 @@ file = "config/bhmenu-client.toml"
 hash = "2733f6785a6b05fc00746209dcde4b22d821ec1c949be5ce0332b3f077adfa95"
 
 [[files]]
+file = "config/bocchud.json"
+hash = "20725a79f3696ae1eae1718af10c2f74d744e8cc8ec01e6d340d1171ae15a913"
+
+[[files]]
 file = "config/bountiful/bountiful.json"
 hash = "d9d47ef737d069382da1d2bb2b16d52a0f27401fd5c0992a62b7e601b0e0eeea"
 
@@ -749,10 +753,6 @@ file = "config/midnightlib.json"
 hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
 
 [[files]]
-file = "config/minihud.json"
-hash = "20725a79f3696ae1eae1718af10c2f74d744e8cc8ec01e6d340d1171ae15a913"
-
-[[files]]
 file = "config/mod_menu-client.toml"
 hash = "a86dd2d01e4ab65d223d1754a9dd9819597e66cb9e3cba937b6e4a90d19c1fe1"
 
@@ -1064,6 +1064,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/bocchud.pw.toml"
+hash = "5dfe7d124eccb5df2b23a42670182889f95a4a3ed893ed41d79e65e5c4c7e6ae"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "8e4abfea25c864a1a1bd31948f95020b3486370e53d2f53bcc4f869ad95c4536"
 metafile = true
@@ -1261,11 +1266,6 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
-metafile = true
-
-[[files]]
-file = "mods/minihud.pw.toml"
-hash = "cc94211ef4b32ca6365635ee34f76e1ed98b67dafc5fd0dcf825c296a8062562"
 metafile = true
 
 [[files]]

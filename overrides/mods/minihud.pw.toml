@@ -1,7 +1,0 @@
-name = "minihud"
-filename = "minihud-fabric-1.21-0.32.57.jar"
-
-[download]
-url = "https://cdn.modrinth.com/data/UMxybHE8/versions/3SaBjA1q/minihud-fabric-1.21-0.32.57.jar"
-hash-format = "sha256"
-hash = "8a393a180d610a1e5365883d7e1e458065ec0049a82995ff621e139f3b23bce3"
