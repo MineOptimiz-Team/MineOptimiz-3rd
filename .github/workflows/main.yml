@@ -61,7 +61,6 @@ jobs:
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
           sed -i "s/commitid/$SHORT_SHA/g" ./overrides/pack.toml
           sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/fancymenu/user_variables.db
-          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Export Modrinth Pack
         run: |
