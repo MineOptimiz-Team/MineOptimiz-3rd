@@ -1034,8 +1034,8 @@ hash = "ae6352055ac8adb36b9e4d2ae6bbc996e040399d032bc4a9fa5275c1c46dbf60"
 metafile = true
 
 [[files]]
-file = "mods/AccountsX-1.1.4-universal.jar"
-hash = "f859bee2a08a760a31b4635cf41c19abb7948951a40d5c0df1c894aede38c502"
+file = "mods/AccountsX-1.1.4-6-universal.jar"
+hash = "fcbff32f1cd18162f487d2a593e880b8d4c9d62d20e0be6579028f7d1f954a6c"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
