@@ -40,7 +40,7 @@ directionalAudio:true
 touchscreen:false
 bobView:true
 toggleCrouch:false
-toggleSprint:true
+toggleSprint:false
 darkMojangStudiosBackground:true
 hideLightningFlashes:false
 hideSplashTexts:false
