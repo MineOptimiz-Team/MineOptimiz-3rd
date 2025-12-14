@@ -51,6 +51,7 @@ jobs:
           fi
             
           git commit -m "[skip ci] Refresh index"
+          git push
 
       - name: Process Metadata
         run: |
