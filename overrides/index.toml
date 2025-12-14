@@ -1398,10 +1398,6 @@ hash = "45fffe27e9e57a0c1788fc4c8b56d27af74c40cec574c364650231d2cc961919"
 metafile = true
 
 [[files]]
-file = "mods/xplus-contingameime.pw.toml.disabled"
-hash = "c12ecf7db18300012f5b9f09a2822326123f7ef8f427bec41914649fda97ad68"
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "e71ac6769675de1d2338a13e116f2aefcc8965ab0bc18b75a53572531c1447dd"
 metafile = true
