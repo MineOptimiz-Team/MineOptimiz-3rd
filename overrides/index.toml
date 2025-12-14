@@ -1070,16 +1070,8 @@ hash = "2d3cbf3d77196a08a014270238740515c1b634bc11ad83a51140d7bcfc62d6b3"
 metafile = true
 
 [[files]]
-file = "mods/AccountsX-1.1.4-universal.jar.disabled"
-hash = "103fade7b1c26da98d791c392fdbc0cdaa559e581ecbe1e0385eb410f8e6c86c"
-
-[[files]]
-file = "mods/PresenceFootsteps-0.1.0-beta.0.723+20251013T161345Z.jar"
-hash = "7e5bc32205d2301b36a0ec01b502abe377f6a4803a6d7aa977eda743b8973789"
-
-[[files]]
-file = "mods/RoughlyEnoughItems-21.9.9999-fabric.jar"
-hash = "3a4cdb86f1ba1ca5e4ddb10d73d6f6e9f27818d973497bfe3a1ba5baca210000"
+file = "mods/AccountsX-1.1.4-6-universal.jar"
+hash = "fcbff32f1cd18162f487d2a593e880b8d4c9d62d20e0be6579028f7d1f954a6c"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -1111,10 +1103,6 @@ hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml.disabled"
-hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
 metafile = true
@@ -1143,10 +1131,6 @@ metafile = true
 file = "mods/continuity.pw.toml"
 hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
 metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml.disabled"
-hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -1204,17 +1188,9 @@ hash = "311e32506a37ceeb34670f82334af16ca477b9d448680f605d6db1783b639473"
 metafile = true
 
 [[files]]
-file = "mods/fastquit-3.1.1+mc1.21.9.jar"
-hash = "05bdcb5193740c943489c53b0eedfd340ce1c84a9ea344df025176f8670680a6"
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "5014dd5897aff9ec19601d1a5dd3536611444a78e328fe97e6dccda60b18bda9"
 metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml.disabled"
-hash = "3959d60960d97b019d81945ebfd38ed498649b31952e84404b365730c9facb6f"
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
@@ -1365,10 +1341,6 @@ hash = "7d1c4098e5a07f399f3974d0dfd64adaaa40cb5fc3879904630d3829bb10358f"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.pw.toml.disabled"
-hash = "5dff8bca658ae787c75fd2a37a40c8512a5fbc8a2421d106f94e08c8640b9075"
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ad2c2880cd91b5d927f3bfdba657189997cdd6dd30f46ee0d969a68de2bb2ad8"
 metafile = true
@@ -1377,10 +1349,6 @@ metafile = true
 file = "mods/rei.pw.toml"
 hash = "81cc0f80816be9c95b82354d4e1aaee5818513795f706e403ff93c063d3601ad"
 metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml.disabled"
-hash = "c30abb741af8bcf3b29d000736aa2ae1730f0c551c17266e15b3c5c2183d0354"
 
 [[files]]
 file = "mods/resourcify.pw.toml"
