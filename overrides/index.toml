@@ -302,7 +302,7 @@ hash = "f25a7555c7c8b80a9295e0f9a96eee35f5bdfd946b8cb7bd6a40ce7b63bc8db1"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "393edcd7c6dcbae23a912e5e84f444a0a6418ae85de591c2c3361adef583bfb7"
+hash = "2aeff16f0472ea84832247f3712591528e3d95da63dd17bea401f6c3197c94db"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
@@ -310,7 +310,7 @@ hash = "54bef0e28be3dbadec69882c20ec85d167f290987e42ffd0bba74875f66d7ad4"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
-hash = "46ba963f4fad9ee93f2987be502c590c6b80dded4bcea522eb652e630a8f1c07"
+hash = "55b8c321a9065ecfa3aefffddff1d4ae1ffd843aeeb374721257a3058f42c95b"
 
 [[files]]
 file = "config/fancymenu/customization/addtesting.txt"
