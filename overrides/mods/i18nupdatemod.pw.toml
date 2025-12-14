@@ -1,13 +1,13 @@
 name = "I18nUpdateMod"
-filename = "I18nUpdateMod-3.6.2-all.jar"
+filename = "I18nUpdateMod-3.7.0-all.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PWERr14M/versions/23iTpHt8/I18nUpdateMod-3.6.2-all.jar"
+url = "https://cdn.modrinth.com/data/PWERr14M/versions/4ihDUjWs/I18nUpdateMod-3.7.0-all.jar"
 hash-format = "sha512"
-hash = "6625efc9c85ad0bd861d03e1e4591ae1968d27dd98d19b67884e196e6a87bc9632a435fbce6cff1706420912e07975d4e0b4f6af9e52ca40d2390caf19aecb89"
+hash = "ebfe770ef3e84e8ba83a9aecf5d29262720cc5c19b71a6f3727895407c52e1b14aa42685978bd37892141deef7fa807f9a8a2f523b90dd906ff1f24485237a3b"
 
 [update]
 [update.modrinth]
 mod-id = "PWERr14M"
-version = "23iTpHt8"
+version = "4ihDUjWs"
