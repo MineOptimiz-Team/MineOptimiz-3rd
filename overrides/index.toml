@@ -813,10 +813,6 @@ file = "config/modpack-update-checker-info.txt"
 hash = "7cc4c696f14db7203ac5bfb27d19345d7e0744e8fcedb63fabf386acb45dcaf0"
 
 [[files]]
-file = "config/modpack-update-checker/config.json"
-hash = "7c48ec25d4f623b54bb6ef03f5036855ffdf82f64b8a5f0cf5594dff5f6f2ee8"
-
-[[files]]
 file = "config/moreculling.toml"
 hash = "4822490f320e644624a2791cc029a28d4b8c76eabf26bbd3f40f16b2672d69ef"
 
@@ -1298,11 +1294,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
-metafile = true
-
-[[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "64f5c9233cff557c41d39fc509b653adb8754a240a7594db7a0abfb7d40cbf77"
 metafile = true
 
 [[files]]
