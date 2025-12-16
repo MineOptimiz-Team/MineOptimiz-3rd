@@ -1025,10 +1025,6 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "2ab7a8b96acd5b22a13a5cfc21d9dfed35b4f7be303068e8e4a6ae8dd8225d1c"
 
 [[files]]
-file = "hmclversion.cfg"
-hash = "16378526d4eef3c926811f1f7aa695b6d13c705ef8fac350329175db8e141d5d"
-
-[[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
 hash = "94d87f8f0145bc826264270af69704f0f91a5ae247e36a9ff0c3967a8eb18c16"
 
