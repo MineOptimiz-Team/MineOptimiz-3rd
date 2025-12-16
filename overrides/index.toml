@@ -602,7 +602,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "f0cb008c2267bd9af144430a2280799ce88d8ed8fbe06dc13780f36f7c18dceb"
+hash = "95d163d643334a64dac7f65c781717ca21b79d610b546c16166f95a426504e65"
 
 [[files]]
 file = "config/fast-chest.properties"
