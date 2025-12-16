@@ -17,10 +17,3 @@ variable {
   value = 3.211.5-fabric+commitid
   reset_on_launch = false
 }
-
-variable {
-  name = version_channel
-  value = testing
-  reset_on_launch = false
-}
-
