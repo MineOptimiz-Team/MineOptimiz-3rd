@@ -1156,7 +1156,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
+hash = "b5d7571bff8454770fcbba30a4c90d8f020e84d626c731f92d46dc9ecea34d85"
 metafile = true
 
 [[files]]
@@ -1261,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "cc94211ef4b32ca6365635ee34f76e1ed98b67dafc5fd0dcf825c296a8062562"
+hash = "c7f2b590e1c5e450f42fa2af61752621370e0dc33e1ab77aebc2940f5bd1ca2f"
 metafile = true
 
 [[files]]
