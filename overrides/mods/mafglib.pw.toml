@@ -1,13 +1,7 @@
-name = "MaFgLib"
+name = "mafglib"
 filename = "mafglib-0.4.1+mc1.21.1.jar"
-side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/SKI34J7B/versions/znxhC06k/mafglib-0.4.1%2Bmc1.21.1.jar"
-hash-format = "sha512"
-hash = "9294f14cf17605bbd0af7fb54278395ad6865145d8dcf2100289128daf966cee45862a5032f5e248d70aa6aa34418d937cfac9c1c3d7ce78317531b46570a75d"
-
-[update]
-[update.modrinth]
-mod-id = "SKI34J7B"
-version = "znxhC06k"
+hash-format = "sha256"
+hash = "740043e408753986f7aafe4adf2887e4f629a73474de4c5339f78e4ef571c42a"

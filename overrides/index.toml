@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "aa242da373359065cb62d8e1094e2f17b456f3ea300db145896cf6c6aae43101"
+hash = "68fb252fdc8f51b03e52cc01243a5009c240f915b2196ead20d46de26150ce1d"
 metafile = true
 
 [[files]]
@@ -1246,7 +1246,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "58020b79db83e23e241b662de7ba078e80acd4c36d3825c2a2848f99c4f0e32e"
+hash = "4483237f4bd6b876b6bb24d8586e1957ab918516a7f1845d77f86dfd75955583"
 metafile = true
 
 [[files]]
