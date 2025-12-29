@@ -1366,7 +1366,7 @@ metafile = true
 
 [[files]]
 file = "mods/threatengl.pw.toml"
-hash = "ef412cacd28375655d5e3aa1a174c7c78f7ee68a4ab82b5702b87e961fcc3f9b"
+hash = "8ad08b7e8faec8a46438e1551f717e4a35bba2e23f44f490a35e4275e5030734"
 metafile = true
 
 [[files]]
