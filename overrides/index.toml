@@ -1361,7 +1361,7 @@ metafile = true
 
 [[files]]
 file = "mods/svc.pw.toml"
-hash = "4b64d941c0ca5ad9a06e247029a3c08ce60fcc8823e0013f53fbb9f6e989d423"
+hash = "177473cea2c48ef608c8648b176c5aeca9aac36eb2151df031863a799916e3d9"
 metafile = true
 
 [[files]]
