@@ -21,7 +21,9 @@ Minecraft optimization modpack, supporting both Fabric/(Neo)Forge mod loaders, p
 |------------|---------------------|-------------------------------------|--------------------|
 | 1.21.8     | Fabric              | Sodium                              | ✅ Actively Updated |
 | 1.21.1     | NeoForge / Fabric   | Sodium / VulkanMod                  | ✅ Actively Updated |
-| 1.21.4     | Fabric              | Sodium / VulkanMod                  | ✅ Actively Updated |
+| 1.21.10    | Fabric              | Sodium                              | ⚠️ In beta phase    |
+| 1.12.2     | Cleanroom           | OptiFine                            | ⚠️ In beta phase    |
+| 1.21.4     | Fabric              | Sodium / VulkanMod                  | ❌ No Longer Updated |
 | 1.20.1     | Forge / Fabric      | Embeddium / Sodium / VulkanMod      | ❌ No Longer Updated |
 | 1.21.5*    | Fabric              | Sodium                              | ❌ No Longer Updated |
 | 1.18.2     | Forge / Fabric      | Sodium                              | ❌ No Longer Updated |
@@ -70,11 +72,15 @@ The modpack contains a download update script, but this script is no longer main
 ## Known Issues
 - See [this document](known_issues.md)
 
-## ⚖️ License Agreement
+## License Agreement
 The license declarations of the mods included in the modpack are detailed in: [License Agreement File](https://123smallmushroom.github.io/license_of_mods.txt)
 
-## 🕰️ Project History
+## Contact Us
+[QQ Group](https://qm.qq.com/q/eYhYHKpvs4)
+
+## Project History
 - **Current Main Repository**: MineOptimiz-3rd  
 - **Historical Iterative Versions**:
   - [MineOptimiz-Next](https://github.com/smallmushroomovo/MineOptimiz-Next)
+
   - [MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)

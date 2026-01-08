@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = io.123smallmushroom.about
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1743139479345
+  last_edited_time = 1765873086942
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:af8f20c2-7040-4d1b-af31-3f4a99f0ea6d-1743139435557] = [groups:][instances:]
+  [loading_requirement_container_meta:b571af34-0289-4679-8609-fa8363bb14e5-1765873058361] = [groups:][instances:]
 }
 
 customization {
@@ -36,7 +36,6 @@ element {
   [executable_action_instance:887c5392-18fe-4698-a271-fb7964206bda-1710515396686][action_type:opengui] = com.github.smallmushroomovo.about
   [executable_block:7e654eb0-5e09-4ca6-90ec-a8cdcc075f89-1710515396686][type:generic] = [executables:887c5392-18fe-4698-a271-fb7964206bda-1710515396686;]
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -44,6 +43,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = 0e74569e-f8a2-4968-8a16-1eedd77fd5d1-1729301071239
   [loading_requirement_container_meta:0e74569e-f8a2-4968-8a16-1eedd77fd5d1-1729301071239] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = 10f1cad7-43f2-45f2-a3ab-e30ea0e005841705820700989
   appearance_delay = no_delay
@@ -68,17 +79,18 @@ element {
   element_loading_requirement_container_identifier = 04fbc984-fa78-475d-b912-e481f4dba685-1710515396686
   [loading_requirement_container_meta:04fbc984-fa78-475d-b912-e481f4dba685-1710515396686] = [groups:][instances:]
   enable_parallax = false
-  parallax_intensity = 0.5
+  parallax_intensity_v2 = 0.5
   invert_parallax = false
   animated_offset_x = 0
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
   interactable = true
-  source = MineOptimiz Version:{"placeholder":"getvariable","values":{"name":"version_id"}}%n%Update Channel:{"placeholder":"getvariable","values":{"name":"version_channel"}}%n%Minecraft Version:{"placeholder":"mcversion"}%n%Mod Loader:NeoForge {"placeholder":"modversion","values":{"modid":"neoforge"}}
+  source = MineOptimiz Version:{"placeholder":"getvariable","values":{"name":"version_id"}}%n%Minecraft Version:{"placeholder":"mcversion"}%n%Mod Loader:NeoForge {"placeholder":"modversion","values":{"modid":"neoforge"}}
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -100,6 +112,15 @@ element {
   bullet_list_indent = 8.0
   bullet_list_spacing = 3.0
   parse_markdown = true
+  table_show_header = true
+  table_alternate_row_colors = true
+  table_line_color = #787878FF
+  table_header_background_color = #323232FF
+  table_row_background_color = #282828FF
+  table_alternate_row_color = #3C3C3CFF
+  table_line_thickness = 1.0
+  table_cell_padding = 8.0
+  table_margin = 4.0
   element_type = text_v2
   instance_identifier = a4ceb438-fbe3-4faa-b7c1-ef7ce6bfba47-1710545660341
   appearance_delay = no_delay
@@ -110,8 +131,8 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1004
+  auto_sizing_base_screen_width = 2562
+  auto_sizing_base_screen_height = 1476
   sticky_anchor = false
   anchor_point = mid-centered
   x = -101
@@ -124,12 +145,13 @@ element {
   element_loading_requirement_container_identifier = c27b0047-f956-4cc6-9011-6f06a5c29496-1710545660341
   [loading_requirement_container_meta:c27b0047-f956-4cc6-9011-6f06a5c29496-1710545660341] = [groups:][instances:]
   enable_parallax = false
-  parallax_intensity = 0.5
+  parallax_intensity_v2 = 0.5
   invert_parallax = false
   animated_offset_x = 0
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -156,6 +178,15 @@ element {
   bullet_list_indent = 8.0
   bullet_list_spacing = 3.0
   parse_markdown = true
+  table_show_header = true
+  table_alternate_row_colors = true
+  table_line_color = #787878FF
+  table_header_background_color = #323232FF
+  table_row_background_color = #282828FF
+  table_alternate_row_color = #3C3C3CFF
+  table_line_thickness = 1.0
+  table_cell_padding = 8.0
+  table_margin = 4.0
   element_type = text_v2
   instance_identifier = 983963a9-d6f8-4f08-8d8e-4958ca7e1964-1710546877478
   appearance_delay = no_delay
@@ -180,11 +211,12 @@ element {
   element_loading_requirement_container_identifier = c770dc6b-f694-490a-b41d-164d78f3eb0f-1710546877478
   [loading_requirement_container_meta:c770dc6b-f694-490a-b41d-164d78f3eb0f-1710546877478] = [groups:][instances:]
   enable_parallax = false
-  parallax_intensity = 0.5
+  parallax_intensity_v2 = 0.5
   invert_parallax = false
   animated_offset_x = 0
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 

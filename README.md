@@ -21,9 +21,10 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 |----------|---------------------|-----------------------------------|----------------|
 | 1.21.8   | Fabric              | Sodium                            | ✅ 持续更新    |
 | 1.21.1   | NeoForge / Fabric   | Sodium / VulkanMod                | ✅ 持续更新    |
-| 1.21.4   | Fabric              | Sodium / VulkanMod                | ✅ 持续更新    |
+| 1.21.10  | Fabric              | Sodium                            | ⚠️ 处于测试阶段 |
 | 1.12.2   | Cleanroom           | OptiFine                          | ⚠️ 处于测试阶段 |
 | 1.20.1   | Forge / Fabric      | Embeddium / Sodium / VulkanMod    | ❌ 不再更新    |
+| 1.21.4   | Fabric              | Sodium / VulkanMod                | ❌ 不再更新    |
 | 1.21.5*  | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.18.2   | Forge / Fabric      | Sodium                            | ❌ 不再更新    |
 | 1.20.6*  | Fabric              | Sodium                            | ❌ 不再更新    |
@@ -67,13 +68,17 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 ## 已知问题
  - 见[此文档](known_issues.md)
 
-## ⚖️ 许可协议
+## 许可协议
 整合包内包含模组的许可声明详见：[许可协议文件](https://123smallmushroom.github.io/license_of_mods.txt)
 
-## 🕰️ 项目沿革
+## 联系我们
+[QQ群](https://qm.qq.com/q/eYhYHKpvs4)
+
+## 项目沿革
 - ​**当前主仓库**: MineOptimiz-3rd 
 - **Gitee镜像仓库**: [MineOptimiz](https://gitee.com/smushroom0105/MineOptimiz) 
 - ​**历史迭代版本**:
   - [MineOptimiz-Next](https://github.com/smallmushroomovo/MineOptimiz-Next)
   - [MineOptimiz](https://github.com/123SmallMushroom/MineOptimiz)
+
 
