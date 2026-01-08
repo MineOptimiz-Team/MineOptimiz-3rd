@@ -59,9 +59,9 @@ jobs:
           echo "VERSION=3.211.5" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.1" >> $GITHUB_ENV
           echo "LOADER=neoforge" >> $GITHUB_ENV
-          echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
-          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/pack.toml
-          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/fancymenu/user_variables.db
+          echo "RELEASES_ID=$RELEASES_ID" >> $GITHUB_ENV
+          sed -i "s/commitid/$RELEASES_ID/g" ./overrides/pack.toml
+          sed -i "s/commitid/$RELEASES_ID/g" ./overrides/config/fancymenu/user_variables.db
       
       - name: Export Modrinth Pack
         run: |
