@@ -47,26 +47,21 @@ jobs:
             
 
           if [ -z "$(git status --porcelain overrides/pack.toml overrides/index.toml)" ]; then
-            echo "::notice::No changes detected"
             exit 0
           fi
             
           git commit -m "[skip ci] Refresh index"
-          
-          for i in {1..5}; do
-          git push && break || sleep 15  # 增加重试次数和间隔
-          done
+          git push
 
       - name: Process Metadata
         run: |
           SHORT_SHA=${GITHUB_SHA::7}
-          echo "VERSION=3.211.4" >> $GITHUB_ENV  
+          echo "VERSION=3.211.5" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.1" >> $GITHUB_ENV
           echo "LOADER=vulkanfabric" >> $GITHUB_ENV
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
           sed -i "s/commitid/$SHORT_SHA/g" ./overrides/pack.toml
           sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/fancymenu/user_variables.db
-          sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/modpack-update-checker/config.json
       
       - name: Export Modrinth Pack
         run: |

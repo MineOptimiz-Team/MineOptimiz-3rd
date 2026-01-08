@@ -342,15 +342,15 @@ hash = "04bed7050ec3efd7ac1a672b474985d43d10b7619340442d53262bb10fa95584"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "393edcd7c6dcbae23a912e5e84f444a0a6418ae85de591c2c3361adef583bfb7"
+hash = "2aeff16f0472ea84832247f3712591528e3d95da63dd17bea401f6c3197c94db"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
-hash = "912cd36bc130e9729991f2a93f065d95a668d52db74f07577cd6541c4b17bf16"
+hash = "4a3be96bf85a35ca2d80a7850d441ca3f5962c8fb79c9c759bbbdc978f323336"
 
 [[files]]
 file = "config/fancymenu/customization/about_eng.txt"
-hash = "06cce3d74ea0eb86136bee7ab06dccf021d84870ef62d8ada1b858da12eaaaf6"
+hash = "55b8c321a9065ecfa3aefffddff1d4ae1ffd843aeeb374721257a3058f42c95b"
 
 [[files]]
 file = "config/fancymenu/customization/addtesting.txt"
@@ -590,7 +590,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "776b807d9d6719018dbf16a1d9cad5a0caf5798a55c3e065b2f3e09137daceb4"
+hash = "505cf9af41f227530c938e165bba39a836636154e5cd84d51c908f307ab6d69a"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -602,7 +602,7 @@ hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "a14c0ec3ed15fb19be4c98c4f3c1e05d52caf732aa2b365aa0a5d0e17e6db710"
+hash = "63f416c5a7f483330f288537d77d00503d6022c69b07b41867c3b4a8b1de3b2b"
 
 [[files]]
 file = "config/fast-chest.properties"
@@ -821,10 +821,6 @@ file = "config/modpack-update-checker-info.txt"
 hash = "7cc4c696f14db7203ac5bfb27d19345d7e0744e8fcedb63fabf386acb45dcaf0"
 
 [[files]]
-file = "config/modpack-update-checker/config.json"
-hash = "bde789ae777a7072c9a8d0c37401a29f8156bcb11fbab020f98e5fcd32631ea4"
-
-[[files]]
 file = "config/moreculling.toml"
 hash = "4822490f320e644624a2791cc029a28d4b8c76eabf26bbd3f40f16b2672d69ef"
 
@@ -1037,10 +1033,6 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "2ab7a8b96acd5b22a13a5cfc21d9dfed35b4f7be303068e8e4a6ae8dd8225d1c"
 
 [[files]]
-file = "hmclversion.cfg"
-hash = "16378526d4eef3c926811f1f7aa695b6d13c705ef8fac350329175db8e141d5d"
-
-[[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
 hash = "94d87f8f0145bc826264270af69704f0f91a5ae247e36a9ff0c3967a8eb18c16"
 
@@ -1078,8 +1070,8 @@ hash = "3c4f1558a94121e7fe573ad4ad05c2fe44ccf78cbb89bb766a74985188207cdc"
 metafile = true
 
 [[files]]
-file = "mods/AccountsX-1.1.4-universal.jar"
-hash = "f859bee2a08a760a31b4635cf41c19abb7948951a40d5c0df1c894aede38c502"
+file = "mods/AccountsX-1.1.4-6-universal.jar"
+hash = "fcbff32f1cd18162f487d2a593e880b8d4c9d62d20e0be6579028f7d1f954a6c"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -1099,11 +1091,6 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
-metafile = true
-
-[[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "2757f6ec66763fa5760bbaa8ff66b960bdd949949b0b0c0f7a68c39ba10e0311"
 metafile = true
 
 [[files]]
@@ -1188,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5295b04ce2d1cd0953acb201990dc5a78b3a334f127ab8cadbdcb83d3f4bc301"
+hash = "a074c4d2243245e7921960f6eb1ee3548da3fb0e272ba353f7c15874e8b09c63"
 metafile = true
 
 [[files]]
@@ -1423,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2500cc89824068a020ca3b21b93fbb02a49b0b48e9695ba3892c32f381ad401c"
+hash = "7114b506d052df5ccecb06c35449c02b3978c218bf280d4e9314b7154fb5b425"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
