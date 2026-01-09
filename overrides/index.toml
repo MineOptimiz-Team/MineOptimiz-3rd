@@ -1286,11 +1286,6 @@ hash = "6d26fbac2dca7845d5de9e5fbbe3dbcb7541ccb952e4f5f14a92e618d5448965"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
 metafile = true
@@ -1303,11 +1298,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "4c4f8569adba682de05800e73690fec8ce64d9d86341862ac6d9315d9dec01eb"
-metafile = true
-
-[[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "67acaaee63f1e0355e9c73f2bb02423d1ddc9c677809234fe81ddc639cde0f72"
 metafile = true
 
 [[files]]
@@ -1332,11 +1322,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "383d8df46529ce54b4b0574be2fd9eba4f45d8c85aa668604e152fca3e439f5a"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "81cc0f80816be9c95b82354d4e1aaee5818513795f706e403ff93c063d3601ad"
 metafile = true
 
 [[files]]
