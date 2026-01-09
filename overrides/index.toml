@@ -1081,11 +1081,6 @@ hash = "a12e6ec8be7bfbdd2e8c1713d3094fed8474ca18b8cbfae0b6e4f1bc00921db5"
 metafile = true
 
 [[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "2757f6ec66763fa5760bbaa8ff66b960bdd949949b0b0c0f7a68c39ba10e0311"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
 metafile = true
@@ -1176,9 +1171,12 @@ hash = "311e32506a37ceeb34670f82334af16ca477b9d448680f605d6db1783b639473"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
+file = "mods/fastquit-3.1.3+mc1.21.11.jar"
+hash = "e33904b23227c07892f54ab6343653637c3d72edc8a2ab9f6696f53e747b1696"
+
+[[files]]
+file = "mods/fastquit.pw.toml.disabled"
 hash = "5014dd5897aff9ec19601d1a5dd3536611444a78e328fe97e6dccda60b18bda9"
-metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
