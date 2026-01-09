@@ -1,13 +1,13 @@
 name = "Classic Minecraft Icon"
-filename = "classic-minecraft-icon-v1.1.5-mc1.21.6-fabric.jar"
+filename = "classic-minecraft-icon-v1.1.6-mc1.21.11-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NTUQ8Yoi/versions/3q3NiuA6/classic-minecraft-icon-v1.1.5-mc1.21.6-fabric.jar"
+url = "https://cdn.modrinth.com/data/NTUQ8Yoi/versions/LnAYc0VW/classic-minecraft-icon-v1.1.6-mc1.21.11-fabric.jar"
 hash-format = "sha512"
-hash = "79ab48d09fda730ad48c7a66aeb017b048d62d7237abe20972eff1dc9467e57cfc2445120f7f726ce2a5bd4d2fa6f0773a8fb3b6da0e7cfd346764a9e8053a23"
+hash = "7b8500c11b85d2f8acad627ec8d7ce2028f292b8f61d0edc47deba6d3b531b647d26631fe70e204ba6e97ebdb4c96f77303e9ecb95b18f683eb1708866c93d18"
 
 [update]
 [update.modrinth]
 mod-id = "NTUQ8Yoi"
-version = "3q3NiuA6"
+version = "LnAYc0VW"
