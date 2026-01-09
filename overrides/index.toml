@@ -1085,11 +1085,6 @@ hash = "492b3c59c096542b5ca733e5a19f66c870deaa6a98a409ee8497fe50d39ac7db"
 metafile = true
 
 [[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "2757f6ec66763fa5760bbaa8ff66b960bdd949949b0b0c0f7a68c39ba10e0311"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
 metafile = true
