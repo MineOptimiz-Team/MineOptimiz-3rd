@@ -1349,11 +1349,6 @@ hash = "5ae220cfbb26641c68740ad0166c78f353680886fc28087e63bf07280a47ddbb"
 metafile = true
 
 [[files]]
-file = "mods/simple-close-button.pw.toml"
-hash = "6fb17aa831e04fa0308de48d1a89bf23364d84035f0fb01401c46cd578498947"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a2f4d9dda96c16714c36b3ad813e1d720dd6d8d4bf87e5c0bbc7bf54ed62540e"
 metafile = true
