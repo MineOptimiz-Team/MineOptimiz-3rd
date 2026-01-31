@@ -338,7 +338,7 @@ hash = "7f48830818b5b7ec2af5163d74f88cf91926b4b17f23d889beeba0718d8008bd"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "04bed7050ec3efd7ac1a672b474985d43d10b7619340442d53262bb10fa95584"
+hash = "9a7806c7c8a5ecb16eceeb5cb2b869afd8a5fc34a49f1ec6e55df967a37246f6"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
@@ -391,6 +391,10 @@ hash = "ffd72f74aa736ff301200a622d987737ee14ddfe411c83a965feab1a48aaa010"
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.updater.txt"
 hash = "545cf5951d059b6a86dce079bdec75f2b74ff967126e34df17f3e9a972a3554f"
+
+[[files]]
+file = "config/fancymenu/customization/connect_screen_layout.txt"
+hash = "17b5bb0b24e827d62a2bdfce04c22e262fe46056a83b9c566921e528085b8cc2"
 
 [[files]]
 file = "config/fancymenu/customization/credits.txt"
