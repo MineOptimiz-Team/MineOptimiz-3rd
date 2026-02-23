@@ -147,7 +147,7 @@ element {
 
 element {
   interactable = true
-  source = [source:web]https://123smallmushroom.github.io/license_of_mods.txt
+  source = [source:web]https://mineoptimiz.rainysky.top/license_of_mods.txt
   source_mode = resource
   shadow = true
   scale = 1.0
