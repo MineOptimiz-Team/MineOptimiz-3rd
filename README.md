@@ -52,6 +52,7 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 
 - [GitHub Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases): 2024年5月以后的所有版本 
 - [Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions): 测试版
+- [蓝奏云（密码：1145）](https://smushroom0105.lanzouu.com/b0296hfbg)
 - 旧版: [见下文](https://github.com/MineOptimiz-Team/MineOptimiz-3rd?tab=readme-ov-file#%EF%B8%8F-%E9%A1%B9%E7%9B%AE%E6%B2%BF%E9%9D%A9)
 
 ## 安装
