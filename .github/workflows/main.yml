@@ -56,7 +56,7 @@ jobs:
       - name: Process Metadata
         run: |
           SHORT_SHA=${GITHUB_SHA::7}
-          echo "VERSION=3.211.5" >> $GITHUB_ENV  
+          echo "VERSION=3.5" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.1" >> $GITHUB_ENV
           echo "LOADER=neoforge" >> $GITHUB_ENV
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
@@ -67,12 +67,12 @@ jobs:
         run: |
           cd overrides
           packwiz modrinth export
-          mv ./*.mrpack "MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack"
+          mv ./*.mrpack "MineOptimiz v${{ env.VERSION }}-${{ env.MC_VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}.mrpack"
       
       - name: Upload MineOptimiz to Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: MineOptimiz v${{ env.VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}
+          name: MineOptimiz v${{ env.VERSION }}-${{ env.MC_VERSION }}-${{ env.LOADER }}+${{ env.SHORT_SHA }}
           path: ./overrides/*.mrpack
      
       - name: Upload MineOptimiz to Releases
