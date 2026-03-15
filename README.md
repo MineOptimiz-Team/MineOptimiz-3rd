@@ -1,7 +1,5 @@
 # MineOptimiz
 
-[English](README_EN.md)/**中文**
-
 ![MineOptimiz封面图](https://123smallmushroom.github.io/mineoptimiz/main_menu.jpg)
 
 Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供性能优化与辅助功能集成。
