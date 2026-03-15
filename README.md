@@ -60,13 +60,10 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 ## 更新
 请使用启动器更新整合包
 
-整合包内可下载更新脚本，但该脚本已停止维护，不建议使用
+~~整合包内可下载更新脚本，但该脚本已停止维护，不建议使用~~
 
 ## 已知问题
  - 见[此文档](known_issues.md)
-
-## 许可协议
-整合包内包含模组的许可声明详见：[许可协议文件](https://123smallmushroom.github.io/license_of_mods.txt)
 
 ## 联系我们
 [QQ群](https://qm.qq.com/q/eYhYHKpvs4)
