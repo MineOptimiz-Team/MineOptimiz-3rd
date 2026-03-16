@@ -254,7 +254,7 @@ hash = "0f237cfe9d511cd9c17693933e288c3bf92f4aca6ef5f90f03110b1ba962d0f5"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "35be67e056a7f39e1af48ce05865395ef82d117304178d009658be315d56a1d7"
+hash = "745b25c4836c10d36af604b08f713bf2e5c5f53aef8a1d78fb025754330b1551"
 
 [[files]]
 file = "config/fancymenu/customguis_old/io.123smallmushroom.about.txt"
