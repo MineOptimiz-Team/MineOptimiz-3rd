@@ -1,13 +1,13 @@
 name = "Better ModList"
-filename = "better_modlist-1.1.20.jar"
+filename = "better_modlist-1.1.22.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/ZoMlh59X/better_modlist-1.1.20.jar"
+url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/XlCN7NWa/better_modlist-1.1.22.jar"
 hash-format = "sha512"
-hash = "6473fe5d124f7126697bdc4390b53ef6d9a9932aca9af7085ba432013b13fd455ab683bfe66b7d6bdd81cc6f71f0967c20dbd879cad55f7a46b9632b03b345b9"
+hash = "99b39ffaaa04c0332602174c4b65445b3defdc6db1dc0a881b7c4bcd477734994d41d9a74bc5dc7066f8feeddc5075f62f926eb3ecabad135c7d381181ada1a9"
 
 [update]
 [update.modrinth]
 mod-id = "sbpqhzIG"
-version = "ZoMlh59X"
+version = "XlCN7NWa"
