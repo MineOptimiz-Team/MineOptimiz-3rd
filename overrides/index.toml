@@ -241,32 +241,8 @@ file = "config/fabricskyboxes-config.json"
 hash = "573bbb101771e1ffa11b347e9e3465eb4b41e0bc292e6dc23dffebe1d5b44801"
 
 [[files]]
-file = "config/fancymenu/assets/accessibility.png"
-hash = "23dd44da6c8be96139ab2eb8aa7f8b9bd69520c465c13f8d3b1bc75a5d31fc9e"
-
-[[files]]
-file = "config/fancymenu/assets/accessibility_click.png"
-hash = "8ac2da4edc5baa8f6920290379e224569d99d2fe0ffc55a408dd4540480a0acc"
-
-[[files]]
-file = "config/fancymenu/assets/language.png"
-hash = "2efca3660d27a38ea41090d008e8c693d27883198c02223cb779c0b67e755871"
-
-[[files]]
-file = "config/fancymenu/assets/language_click.png"
-hash = "bfcf79f8fafa3b0a6813f396d020b51d4844130d5b84330e441a7d5d8e877ec9"
-
-[[files]]
-file = "config/fancymenu/assets/modpackversion.txt"
-hash = "68d3832fa4e3965734cbcbad333d7cfb5facda3b285c0ef613a0376c2be6d272"
-
-[[files]]
 file = "config/fancymenu/assets/title.png"
 hash = "d538299d59b47007bf10c515a465dd2aff25a51657c1feda889b616a79234b7e"
-
-[[files]]
-file = "config/fancymenu/assets/wallhaven-e7651w_1600x1024.png"
-hash = "5526dca6469383f1a468c0d3d19ecb6c4330b4a99b17c4109f44da6f895a86a9"
 
 [[files]]
 file = "config/fancymenu/config.txt"
