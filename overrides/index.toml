@@ -301,10 +301,6 @@ file = "config/fancymenu/customization/bugreport_website.txt"
 hash = "4b78f1e0533249d159b913d1c91fa94ace67435cd171fe2b63b43d570dab8edc"
 
 [[files]]
-file = "config/fancymenu/customization/choosesystem.txt"
-hash = "2fdd8b9d3836f2b6f489f03e7b1d2c16cb533ec35d125c22025a1057cc5ec337"
-
-[[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.brightness_settings.txt"
 hash = "aa119d541be0ed85abaa0595ea3be50f7d75997895fc09d86f6f92b45544b104"
 
@@ -333,28 +329,12 @@ file = "config/fancymenu/customization/credits.txt"
 hash = "3f82cce60dc304d7302fcaaf1c72976d7354d11a43941455222b3294f167cb50"
 
 [[files]]
-file = "config/fancymenu/customization/drop_key_setting.txt"
-hash = "5beb1aa481ff0ec3eea5851e052f266095f09fc0c729c706b92703f98367be2d"
-
-[[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
 hash = "52026aeae8089ad5a762fa94467026aaf6944e1cda49baf7e3f8e7410bc4fd69"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
 hash = "1c7862665af811944057d2b64e04e52367acef00ab2f4157e69b770c528b5f25"
-
-[[files]]
-file = "config/fancymenu/customization/engchoosesystem.txt"
-hash = "a636b2d6c0b8c15b28e7272af3013659a63419c1fbcbc4370a3ea0d6f508d950"
-
-[[files]]
-file = "config/fancymenu/customization/englinuxupdater.txt"
-hash = "76670010514dd92bd5f62d14017a7f282b672f953fc7d8d20b34bdf96ad561b0"
-
-[[files]]
-file = "config/fancymenu/customization/engmode.txt"
-hash = "6332be2d54ab25ecd425bf8f0868c79f33c5abb9779495d6e5e9861eb871a94d"
 
 [[files]]
 file = "config/fancymenu/customization/engsettings.txt"
@@ -367,10 +347,6 @@ hash = "5c555972611e3d81af547ac2f842caafd13308f6a581b2f83d95d4d70222437f"
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
 hash = "9f8f436eb7cb07a17a5613be843d12f5adb9852dc9621f2032e754e53c9ef364"
-
-[[files]]
-file = "config/fancymenu/customization/engupdater.txt"
-hash = "ffd0d2a6d35276b3fb2762e2dc835811f984bca76d8e20a01114671e2b21dc2d"
 
 [[files]]
 file = "config/fancymenu/customization/fabricmodconfig.txt"
@@ -389,10 +365,6 @@ file = "config/fancymenu/customization/hhh.txt"
 hash = "175006ba944ac9b96ab4bcfa07624bd861ce1ce49b19d53276f12d4e954da25d"
 
 [[files]]
-file = "config/fancymenu/customization/jubao.txt"
-hash = "824e3e91307085e27423857ecf25918f85fc0cd475363d7887957c7146153066"
-
-[[files]]
 file = "config/fancymenu/customization/justinfabric.txt"
 hash = "2198adcbfe7bc0e7ca2291fc17c3fd6dba9841d58726a84ace5c11cf830fda9a"
 
@@ -401,24 +373,8 @@ file = "config/fancymenu/customization/legacysettings.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/fancymenu/customization/licence.txt"
-hash = "1f7dc3484d7284d72ae5dde962a1737aaf1d0737a98996e946f8334ef66b978c"
-
-[[files]]
-file = "config/fancymenu/customization/linuxrepair.txt"
-hash = "37e99ae9ddb180c77a9a7cd9f489f5fa06d1e78b06f8e4e50424135bf6273baf"
-
-[[files]]
-file = "config/fancymenu/customization/linuxupdate.txt"
-hash = "489d8f315ae60fdb3100e9792d6c52bf3cde19bfbe9eb038062ba5bfc1b2649e"
-
-[[files]]
 file = "config/fancymenu/customization/modconfig.txt"
 hash = "c7758d33d8f544d28bcd081175ac9a75fe7eca6dd7d61deeb0668915d4f282af"
-
-[[files]]
-file = "config/fancymenu/customization/modpacktools.txt"
-hash = "0427dd8c3273a4ce6f9db8e86a1535629c5b21c1c241d5dfe54eb2e78cb48f9b"
 
 [[files]]
 file = "config/fancymenu/customization/neo_settings.txt"
@@ -437,10 +393,6 @@ file = "config/fancymenu/customization/quitgame_eng.txt"
 hash = "6790d7eab3a5c26380e07e9f2d4bf7cf0e8195d84967ef4959ca7e6379c61735"
 
 [[files]]
-file = "config/fancymenu/customization/repair.txt"
-hash = "947ac955ccc48302edebcd7b415d416e9340373b12e7de9e99dd7ae0c4d2b28c"
-
-[[files]]
 file = "config/fancymenu/customization/runrepair.txt"
 hash = "1c1496bdb8fb68bb5117697d9bfeb4383bb2e3e04aee2da1a691711100bcbe26"
 
@@ -455,10 +407,6 @@ hash = "436504132eab57e233ba0cc91a23d05969ea1eb9478d52a636866c029a98889f"
 [[files]]
 file = "config/fancymenu/customization/startgame.txt"
 hash = "059de11e80c07289cf6d7ed229650af0a37b4b6475efccebcdf3f30be65e459c"
-
-[[files]]
-file = "config/fancymenu/customization/testing.txt"
-hash = "255c32b1a81051b4c451585842128efb84520c887fc68cfcdc5a574e22f03881"
 
 [[files]]
 file = "config/fancymenu/customization/uimanager.txt"
@@ -479,10 +427,6 @@ hash = "8bd7009da3ed1c4aa13ad342d0d3f75263cb35831e8df9ba3f25f9ea5ca2aed1"
 [[files]]
 file = "config/fancymenu/customization/uisettings_eng.txt"
 hash = "dc3364abe11eee04b9eed7af78b67239fbb4791e0d2aaf7f16972c50f378bb5d"
-
-[[files]]
-file = "config/fancymenu/customization/updater.txt"
-hash = "958bc323a551b66f6adbe841f1df14ff689cec20743610eb6e3fd67559e20cf2"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
