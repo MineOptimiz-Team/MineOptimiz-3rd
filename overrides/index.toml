@@ -241,6 +241,10 @@ file = "config/fabricskyboxes-config.json"
 hash = "573bbb101771e1ffa11b347e9e3465eb4b41e0bc292e6dc23dffebe1d5b44801"
 
 [[files]]
+file = "config/fancymenu/assets/keylist.png"
+hash = "d54d7f740c71cbadb2f5d77f6a7f28838c2c78531937d04cb7c6260d79f2e8b9"
+
+[[files]]
 file = "config/fancymenu/assets/title.png"
 hash = "d538299d59b47007bf10c515a465dd2aff25a51657c1feda889b616a79234b7e"
 
@@ -318,7 +322,7 @@ hash = "9a7806c7c8a5ecb16eceeb5cb2b869afd8a5fc34a49f1ec6e55df967a37246f6"
 
 [[files]]
 file = "config/fancymenu/customization/about.txt"
-hash = "2aeff16f0472ea84832247f3712591528e3d95da63dd17bea401f6c3197c94db"
+hash = "c98a779f88c6f82aaa1fad1ded299de6cd0b50671556acbc37a22c15aae2dc83"
 
 [[files]]
 file = "config/fancymenu/customization/aboutMineOptimiz.txt"
@@ -367,6 +371,14 @@ hash = "ffd72f74aa736ff301200a622d987737ee14ddfe411c83a965feab1a48aaa010"
 [[files]]
 file = "config/fancymenu/customization/com.github.smallmushroomovo.updater.txt"
 hash = "545cf5951d059b6a86dce079bdec75f2b74ff967126e34df17f3e9a972a3554f"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smushroom0105.help_layout.txt"
+hash = "8c4b0b43f40f4f08726163571927450464b04416401b62c0cfc458bfc03ea6bd"
+
+[[files]]
+file = "config/fancymenu/customization/com.github.smushroom0105.keylist_layout.txt"
+hash = "fc49c2f3c68173ec993c5e58a12f86f515b43a65da22a76d82ab72dc81e84568"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
