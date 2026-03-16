@@ -381,10 +381,6 @@ file = "config/fancymenu/customization/connect_screen_layout.txt"
 hash = "17b5bb0b24e827d62a2bdfce04c22e262fe46056a83b9c566921e528085b8cc2"
 
 [[files]]
-file = "config/fancymenu/customization/credits.txt"
-hash = "5bff83d07b009543da5a3273657443228144a694f9f6921b1d9676cb63829947"
-
-[[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
 hash = "0a83c1b4126019060fb326cd9353f8575db9d3465593a690a092f6a4619ec4bc"
 
