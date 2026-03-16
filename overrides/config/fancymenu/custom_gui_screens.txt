@@ -4,30 +4,14 @@ overridden_screens {
 }
 
 custom_gui {
-  identifier = com.github.smallmushroomovo.brightness_settings
-  title = 亮度设置
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
   identifier = io.123smallmushroom.engmode
   title = Enable English Mode/启用英语模式
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
-}
-
-custom_gui {
-  identifier = io.123smallmushroom.choosegame
-  title = 开始游戏/Start Game
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -37,6 +21,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -46,6 +32,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -55,6 +43,19 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = com.github.smushroom0105.keylist
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -64,6 +65,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -73,15 +76,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
-}
-
-custom_gui {
-  identifier = io.123smallmushroom.drop_key
-  title = 
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -91,6 +87,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -100,32 +98,19 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
-  identifier = io.123smallmushroom.settings
-  title = MineOptimiz设置/MineOptimiz Settings
+  identifier = com.github.smushroom0105.help
+  title = 帮助
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
-}
-custom_gui {
-  identifier = com.github.smallmushroomovo.update_guide
-  title = 
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
-  identifier = io.123smallmushroom.quitgame
-  title = 
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -135,24 +120,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
-}
-
-custom_gui {
-  identifier = io.123smallmushroom.justinfabric
-  title = 
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-
-custom_gui {
-  identifier = com.github.smallmushroomovo.dis_realms_button
-  title = 
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -162,6 +131,96 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = com.github.smallmushroomovo.update_guide
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = com.github.smallmushroomovo.brightness_settings
+  title = 亮度设置
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.choosegame
+  title = 开始游戏/Start Game
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.drop_key
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.settings
+  title = MineOptimiz设置/MineOptimiz Settings
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.quitgame
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = io.123smallmushroom.justinfabric
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
+}
+
+custom_gui {
+  identifier = com.github.smallmushroomovo.dis_realms_button
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -171,6 +230,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -180,6 +241,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -189,6 +252,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -198,6 +263,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -207,6 +274,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -216,6 +285,8 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
 custom_gui {
@@ -225,5 +296,7 @@ custom_gui {
   transparent_world_background = true
   transparent_world_background_overlay = true
   pause_game = true
+  popup_mode = false
+  popup_mode_background_overlay = true
 }
 
