@@ -58,7 +58,7 @@ jobs:
           SHORT_SHA=${GITHUB_SHA::7}
           echo "VERSION=3.0" >> $GITHUB_ENV  
           echo "MC_VERSION=1.21.11" >> $GITHUB_ENV
-          echo "LOADER=fabric" >> $GITHUB_ENV
+          echo "LOADER=vulkanfabric" >> $GITHUB_ENV
           echo "SHORT_SHA=$SHORT_SHA" >> $GITHUB_ENV
           sed -i "s/commitid/$SHORT_SHA/g" ./overrides/pack.toml
           sed -i "s/commitid/$SHORT_SHA/g" ./overrides/config/fancymenu/user_variables.db
