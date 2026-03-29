@@ -3,11 +3,11 @@ filename = "SPEGG BP [1.20-1.x].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HTcZCflj/versions/R6VVlO02/SPEGG%20BP%20%5B1.20-1.x%5D.zip"
+url = "https://cdn.modrinth.com/data/HTcZCflj/versions/TUZMe9HH/SPEGG%20BP%20%5B1.20-1.x%5D.zip"
 hash-format = "sha512"
-hash = "bfbfd647017ec9ac26f4c85a93693fef4b9c7e4a9229952a7faff0f3e94fe0a98b3ac388a0bd809c83c0822d425e3450f8ff88f532e966d42b269362fe7be18b"
+hash = "68a3a90167c0ce5942b8a6b9e91e12b1355e5202e1fb8e13b036938c02a69b8bb8cf348e6ca98fd15d0521b251372e88affa12f7c71ffaa730e46149d518926c"
 
 [update]
 [update.modrinth]
 mod-id = "HTcZCflj"
-version = "R6VVlO02"
+version = "TUZMe9HH"
