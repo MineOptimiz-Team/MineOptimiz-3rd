@@ -1,0 +1,13 @@
+name = "Not Enough Vulkan"
+filename = "not-enough-vulkan-1.3.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iuZL1bXB/versions/ApuUTfwT/not-enough-vulkan-1.3.2.jar"
+hash-format = "sha512"
+hash = "b7ddcbf8ab2cea0cb6c62ae7e2953ba619cab1eb68e67a22583cc4c668ed1b744aafbb6240e8d914c5620f595cc8100cc17160fcd70e69d5aa2659a10edc66ed"
+
+[update]
+[update.modrinth]
+mod-id = "iuZL1bXB"
+version = "ApuUTfwT"

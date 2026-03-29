@@ -1151,11 +1151,6 @@ hash = "e7102606aa92be8b1568b5b341cdb22330662e664eb26bbfe28cfefccd958279"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "fce2b731ee4e4884f17248e9acfa591fa28e9b1f786272175b8b653aa9e6904b"
 metafile = true
@@ -1236,6 +1231,11 @@ hash = "00bc3af6def79868e126ea53faf06bbad004f094fc26d60e7b4a1eda067e7311"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-vulkan.pw.toml"
+hash = "0ad2c491aad64f60b0f17d6f0f4065666aac459fe6fdf25a99437111e4138db8"
+metafile = true
+
+[[files]]
 file = "mods/optiboxes.pw.toml"
 hash = "35a5a8a0cada2865a5f10c483c4e8a0f0884db4ab78982040cc3bc45d25c978c"
 metafile = true
@@ -1252,11 +1252,6 @@ hash = "2e0d4a72c1f9576322a103ecf57419feea5a9737c3e36b070351b92e6cbba31f"
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "565c943b5006c36137a2fe55e4b8433e134c3d1011a37c5f5124cee67b671cb8"
 metafile = true
 
 [[files]]
@@ -1285,21 +1280,6 @@ hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "986e43ff06d2a79effec6e219aca063d7b53a98096c5f63983f23cf54c11c7e5"
-metafile = true
-
-[[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "248d96043d3cd40e0d73c02e649d5d55967ebc2ba10e60b58ba75bfba3476425"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
-metafile = true
-
-[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "cb61bf2f9e33b69b733489b7990de70ff3f4d4092d64074797fb2fdfa0cb5090"
 metafile = true
@@ -1307,6 +1287,11 @@ metafile = true
 [[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "5e225351151fac68df34849dbe82b95f1c86e88d38acff0523246cff6cc7bd37"
+metafile = true
+
+[[files]]
+file = "mods/vulkanmod.pw.toml"
+hash = "d1e57d32575aab54bdb03c3c6249744494712de817ebe7235ca9a74b30fb001f"
 metafile = true
 
 [[files]]
