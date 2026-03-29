@@ -17,20 +17,21 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 
 | MC 版本  | 模组加载器           | 渲染方案                           | 维护状态       |
 |----------|---------------------|-----------------------------------|----------------|
-| 1.21.11  | Fabric              | Sodium                            | ⚠️ 处于测试阶段|
-| 1.21.1   | NeoForge / Fabric   | Sodium / VulkanMod                | ✅ 持续更新    |
-| 1.21.8   | Fabric              | Sodium                            | ❌ 不再更新    |
-| 1.12.2*  | Cleanroom           | OptiFine                          | ❌ 不再更新    |
-| 1.21.10* | Fabric              | Sodium                            | ❌ 不再更新    |
-| 1.20.1   | Forge / Fabric      | Embeddium / Sodium / VulkanMod    | ❌ 不再更新    |
+| 1.21.11  | Fabric              | Sodium / VulkanMod*<small>2</small>| ⚠️ 处于测试阶段|
+| 1.21.1   | NeoForge / Fabric   | Sodium / VulkanMod                 | ✅ 持续更新   |
+| 1.21.8   | Fabric              | Sodium                            |               |
+| 1.12.2*  | Cleanroom           | OptiFine                          |               |
+| 1.21.10* | Fabric              | Sodium                            |               |
+| 1.20.1   | Forge / Fabric      | Embeddium / Sodium / VulkanMod    |               |
 | 1.21.4   | Fabric              | Sodium / VulkanMod                | ❌ 不再更新    |
-| 1.21.5*  | Fabric              | Sodium                            | ❌ 不再更新    |
-| 1.18.2   | Forge / Fabric      | Sodium                            | ❌ 不再更新    |
-| 1.20.6*  | Fabric              | Sodium                            | ❌ 不再更新    |
-| 1.19.4   | Fabric              | Sodium / OptiFine                 | ❌ 不再更新    |
-| 1.17.1   | Fabric              | Sodium                            | ❌ 不再更新    |
+| 1.21.5*  | Fabric              | Sodium                            |               |
+| 1.18.2   | Forge / Fabric      | Sodium                            |               |
+| 1.20.6*  | Fabric              | Sodium                            |               |
+| 1.19.4   | Fabric              | Sodium / OptiFine                 |               |
+| 1.17.1   | Fabric              | Sodium                            |               |
 
  - *: 标注版本为半成品
+ - *<small>2</small>: VulkanMod版本仅1.21.11持续更新
 
 ## 优化效果
 
