@@ -1,0 +1,13 @@
+name = "VulkanMod Translations"
+filename = "VulkanMod_Translations.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ku0fHzdy/versions/pvQSRHT5/VulkanMod_Translations.zip"
+hash-format = "sha512"
+hash = "544c911706d38d2c110b0bc80a9f4f4630a6f31fd9e40cc7e41e0b7b29c4f0869d9335123f105367d97f4f81ab0f0b8e7afb6290f880abdb57d5b4b52684212f"
+
+[update]
+[update.modrinth]
+mod-id = "Ku0fHzdy"
+version = "pvQSRHT5"

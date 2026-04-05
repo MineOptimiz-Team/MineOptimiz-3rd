@@ -1311,7 +1311,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e699a9fb1100ce2e61b04a6b0a93ad5300bf68005ea94650d79926248c8d47ee"
+hash = "644eaa7a31b805e1fab496ae5a24df8b67cdacc925f3275a1137b17bec8670a0"
 
 [[files]]
 file = "resourcepacks/acaciachan-masa-mod-translation.pw.toml"
@@ -1324,6 +1324,6 @@ hash = "b6643cac68927881baa84fa7f348a2d60b6d2f901b4612c7a8c4ad882f90f23b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d4809cc0fb5957beb5d715b5d8ffd48dd72aac74fc67a3bd4899cd425f443668"
+file = "resourcepacks/vulkanmod-translations.pw.toml"
+hash = "d6442a37cd086fe0c2416e7a0d7d7654fc2288b24f2b2d2814554628f960a85e"
 metafile = true

@@ -48,7 +48,7 @@ mouseSensitivity:0.7676056338028169
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/SodiumTranslations.zip","file/金合欢的masa全家桶翻译_1.21+.zip","file/Fast Better Grass.zip","continuity:default","continuity:glass_pane_culling_fix","black_icons"]
+resourcePacks:["vanilla","file/VulkanMod_Translations.zip","file/金合欢的masa全家桶翻译_1.21+.zip","file/Fast Better Grass.zip","continuity:default","continuity:glass_pane_culling_fix","black_icons"]
 incompatibleResourcePacks:["file/金合欢的masa全家桶翻译_1.21+.zip"]
 lastServer:
 lang:zh_cn
