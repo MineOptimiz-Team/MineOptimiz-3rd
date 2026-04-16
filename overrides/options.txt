@@ -48,8 +48,7 @@ mouseSensitivity:0.7676056338028169
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","vanilla","fabric","mod_resources","file/Fast Better Grass.zip","file/金合欢的masa全家桶翻译_1.21+.zip","file/SodiumTranslations.zip","black_icons","continuity:glass_pane_culling_fix","continuity:default","file/SPEGG BP [1.20-1.x].zip"]
-incompatibleResourcePacks:["file/金合欢的masa全家桶翻译_1.21+.zip"]
+resourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","vanilla","fabric","mod_resources","file/Fast Better Grass.zip","file/SodiumTranslations.zip","black_icons","continuity:glass_pane_culling_fix","continuity:default","file/SPEGG BP [1.20-1.x].zip","file/金合欢的masa全家桶翻译_1.21+.zip"]
 lastServer:
 lang:zh_cn
 chatVisibility:0
