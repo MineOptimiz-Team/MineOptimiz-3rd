@@ -1328,7 +1328,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "217eeb8685a5773bd021e8310a1b93cb0441e70d4901e291f59818c7efb3abb3"
+hash = "4b0fc97e5cdc4a5ec6e551614289a35244dfab0d71b05627d42b4e5e77e711e6"
 
 [[files]]
 file = "resourcepacks/acaciachan-masa-mod-translation.pw.toml"
