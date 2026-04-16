@@ -342,7 +342,7 @@ hash = "3f82cce60dc304d7302fcaaf1c72976d7354d11a43941455222b3294f167cb50"
 
 [[files]]
 file = "config/fancymenu/customization/edited_main_menu.txt"
-hash = "52026aeae8089ad5a762fa94467026aaf6944e1cda49baf7e3f8e7410bc4fd69"
+hash = "5143cd19373335836bc16483f40cfe63ab8b7a47467dd9181f8e091f953e31e2"
 
 [[files]]
 file = "config/fancymenu/customization/engaddsettings.txt"
@@ -358,7 +358,7 @@ hash = "5c555972611e3d81af547ac2f842caafd13308f6a581b2f83d95d4d70222437f"
 
 [[files]]
 file = "config/fancymenu/customization/engtitlescreenvanilla.txt"
-hash = "9f8f436eb7cb07a17a5613be843d12f5adb9852dc9621f2032e754e53c9ef364"
+hash = "5d4f820a024f3c3525e2233ce230128b20b515efc217fb7eaf6d95bf874ff312"
 
 [[files]]
 file = "config/fancymenu/customization/fabricmodconfig.txt"
@@ -551,6 +551,10 @@ hash = "3816f610f4d2a315342df79295b357cd1801e3f492cdd7f55ad72afabbfbafbc"
 [[files]]
 file = "config/getittogetherdrops-server.toml"
 hash = "451d01c601d10a647bce739372d959efc459a4f2030c3bf7cdc6e734357037ab"
+
+[[files]]
+file = "config/ias.json"
+hash = "53b4b8e24eaaa003669653acb1c939b0ca961d1f689c4a63b5af386dcaff30da"
 
 [[files]]
 file = "config/imblocker-client.toml"
@@ -958,10 +962,6 @@ hash = "d5c7247d9c30419e3bb652e1099864304af6c016196b6e07fb560e515fe6fe5b"
 metafile = true
 
 [[files]]
-file = "mods/AccountsX-1.1.4-6-universal.jar"
-hash = "fcbff32f1cd18162f487d2a593e880b8d4c9d62d20e0be6579028f7d1f954a6c"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
 metafile = true
@@ -1117,6 +1117,11 @@ hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
+file = "mods/in-game-account-switcher.pw.toml"
+hash = "0c0e4bd07fe9fd43db7cef444145a3ed008c53dcd095a60935f86ee2aa052ba9"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "e49094bd8ff62930cefd9d80ac4e73976102441fcfcdbe78195751d261d7eea2"
 metafile = true
@@ -1162,11 +1167,6 @@ hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
 
 [[files]]
-file = "mods/lazy-language-loader.pw.toml"
-hash = "8e3c3fcd4710f1a8945eb039e967ac3dcb0ad1e9cc761772b604c170260aff39"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "c54b102e4f659be6aaf95290191279fc34db7404006f645dbf04be21038e837b"
 metafile = true
@@ -1209,6 +1209,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "71ce45e68a8a747cd7500ed7827b32b6f011f624f64a0cf850f7924e61549c52"
+metafile = true
+
+[[files]]
+file = "mods/neo-language-reload.pw.toml"
+hash = "a0944618e248813a3d624faec2aa631f9e6f8b207fa92e49cbdb565e44704762"
 metafile = true
 
 [[files]]
