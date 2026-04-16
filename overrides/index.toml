@@ -1121,11 +1121,6 @@ hash = "9aa3cdec1892fe39d5c9bc5050bd22d95317219ee6ce215af3f9dc95275dfbb9"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "b278d20a8fe7fad4265cfd51c385968065f31c3d23eea8365a700aad702e7f54"
-metafile = true
-
-[[files]]
 file = "mods/i18nupdatemod.pw.toml"
 hash = "f596d49b8d8a5ce74b39bfb9dd140175ae97b30e822c113cdc5c093926177426"
 metafile = true
