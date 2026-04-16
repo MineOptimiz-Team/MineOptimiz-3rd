@@ -1,13 +1,13 @@
 name = "GpuTape"
-filename = "GpuTape-1.0.6.1-1.21.8-1.21.10.jar"
+filename = "GPUBooster-1.2.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5CTSrY8X/versions/dV5wJGOp/GpuTape-1.0.6.1-1.21.8-1.21.10.jar"
+url = "https://cdn.modrinth.com/data/5CTSrY8X/versions/d4U2cAgQ/GPUBooster-1.2.4.jar"
 hash-format = "sha512"
-hash = "21b1d1f4299d96a96e04ebde389f9409de2ec2a1696be27cf0df0cc26487c105486fd5f8c8e0e8790b2cbd366ba92b758b532bf6e002a83084954a20b922a43a"
+hash = "921c9e37ef12a56555437df3b06ff403e2fff0491afdc77174d9954ac9d8fba5f837f5ec546998d118398591dedd5354c6ca7615be5fca6ec48f3a209220ba08"
 
 [update]
 [update.modrinth]
 mod-id = "5CTSrY8X"
-version = "dV5wJGOp"
+version = "d4U2cAgQ"
