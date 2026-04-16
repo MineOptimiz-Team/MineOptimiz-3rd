@@ -14,6 +14,6 @@ variable {
 
 variable {
   name = version_id
-  value = 3.211.5-neoforge+commitid
+  value = 3.6-1.21.1-neoforge+commitid
   reset_on_launch = false
 }

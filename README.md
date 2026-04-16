@@ -1,14 +1,12 @@
 # MineOptimiz
 
-[English](README_EN.md)/**中文**
-
 ![MineOptimiz封面图](https://123smallmushroom.github.io/mineoptimiz/main_menu.jpg)
 
 Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供性能优化与辅助功能集成。
 
 ## 核心特性
 
-- 🚀 ​**跨版本支持**​ - 覆盖多个主流版本  
+- 🚀 ​**跨版本支持**​ - 覆盖多个版本  
 - 🛠️ ​**双加载器兼容**​ - 同时支持 Fabric 和 (Neo)Forge  
 - 📊 ​**性能倍增**​ - 集成 Sodium（Embeddium） 等渲染优化模组  
 - ✨ **OptiFine功能支持** - 使用资源包与开源模组实现几乎所有OptiFine功能
@@ -19,10 +17,11 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 
 | MC 版本  | 模组加载器           | 渲染方案                           | 维护状态       |
 |----------|---------------------|-----------------------------------|----------------|
-| 1.21.8   | Fabric              | Sodium                            | ✅ 持续更新    |
+| 1.21.11  | Fabric              | Sodium                            | ⚠️ 处于测试阶段|
 | 1.21.1   | NeoForge / Fabric   | Sodium / VulkanMod                | ✅ 持续更新    |
-| 1.21.10  | Fabric              | Sodium                            | ⚠️ 处于测试阶段 |
-| 1.12.2   | Cleanroom           | OptiFine                          | ⚠️ 处于测试阶段 |
+| 1.21.8   | Fabric              | Sodium                            | ❌ 不再更新    |
+| 1.12.2*  | Cleanroom           | OptiFine                          | ❌ 不再更新    |
+| 1.21.10* | Fabric              | Sodium                            | ❌ 不再更新    |
 | 1.20.1   | Forge / Fabric      | Embeddium / Sodium / VulkanMod    | ❌ 不再更新    |
 | 1.21.4   | Fabric              | Sodium / VulkanMod                | ❌ 不再更新    |
 | 1.21.5*  | Fabric              | Sodium                            | ❌ 不再更新    |
@@ -38,7 +37,6 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 | 配置（CPU+GPU+OS+Resolution）                                            | 性能提升                |
 |-------------------------------------------------------------------------|------------------------|
 | Intel i7-3610QM+NVIDIA GT 740M+Windows 10 LTSC 2019+1366x768            | 原版30FPS → 最高71FPS   |
-| Intel i7-3610QM+NVIDIA GT 740M+Windows 8.1*+1366x768                    | 原版115FPS → 最高195FPS |
 | Intel i5-1135G7+Intel Iris Xe Graphics+Windows 11 23H2+1280x720         | 原版92FPS → 最高146FPS  |
 | Intel i3-N305+Intel UHD Graphics+Windows 11 25H2+1920x1080              | 原版94FPS → 最高170FPS  |
 | AMD Ryzen AI 7 H 260+AMD Radeon 780M+Windows 10 20H2+2560x1600             | 原版462FPS → 最高652FPS |
@@ -49,12 +47,12 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
  - 以上数据仅供参考，并不完全准确
  - 以上数据均在Minecraft 1.21.8单人超平坦世界下测试，整合包数据在v3.218.0-fabric+66e0165测试
  - 感谢[@htl597](https://github.com/htl597)与[@Pstar233](https://github.com/Pstar233)提供的部分测试数据
- - *：该系统为全新安装后测试，可能存在数据偏高现象
 
 ## 下载
 
 - [GitHub Releases](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/releases): 2024年5月以后的所有版本 
 - [Github Actions](https://github.com/MineOptimiz-Team/MineOptimiz-3rd/actions): 测试版
+- [蓝奏云（密码：1145）](https://smushroom0105.lanzouu.com/b0296hfbg)
 - 旧版: [见下文](https://github.com/MineOptimiz-Team/MineOptimiz-3rd?tab=readme-ov-file#%EF%B8%8F-%E9%A1%B9%E7%9B%AE%E6%B2%BF%E9%9D%A9)
 
 ## 安装
@@ -63,13 +61,10 @@ Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供�
 ## 更新
 请使用启动器更新整合包
 
-整合包内可下载更新脚本，但该脚本已停止维护，不建议使用
+~~整合包内可下载更新脚本，但该脚本已停止维护，不建议使用~~
 
 ## 已知问题
  - 见[此文档](known_issues.md)
-
-## 许可协议
-整合包内包含模组的许可声明详见：[许可协议文件](https://123smallmushroom.github.io/license_of_mods.txt)
 
 ## 联系我们
 [QQ群](https://qm.qq.com/q/eYhYHKpvs4)

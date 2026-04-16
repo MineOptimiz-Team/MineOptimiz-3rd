@@ -1,0 +1,13 @@
+name = "acaciachan's masa's Mod Translation"
+filename = "金合欢的masa全家桶翻译_1.21+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V2gM4JCa/versions/YFatc5qH/%E9%87%91%E5%90%88%E6%AC%A2%E7%9A%84masa%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%BF%BB%E8%AF%91_1.21%2B.zip"
+hash-format = "sha512"
+hash = "e9ab466b0a315fa5342a3a557ba7adc4d00afa845c21eacb049e8594c45b9f151cdd6d80a4f902a109d5f4b08f2b9d3fbb167de6fa5e4a8fff633ef944e1c474"
+
+[update]
+[update.modrinth]
+mod-id = "V2gM4JCa"
+version = "YFatc5qH"
