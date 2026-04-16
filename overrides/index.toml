@@ -1328,16 +1328,16 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d7c7a24c90bdd8256873cbeea66d3f2ce4f127cde9d99b03f92d5c5cec89a433"
+hash = "217eeb8685a5773bd021e8310a1b93cb0441e70d4901e291f59818c7efb3abb3"
+
+[[files]]
+file = "resourcepacks/acaciachan-masa-mod-translation.pw.toml"
+hash = "e513f6171e0324c6be92a01b38e2cec0b68e2c0032ab12832357373b71fe9dfe"
+metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "9b3a80122c1b511ac0c134d34e3acbfa4662a0fbab2a9af630d9854bf7bc5678"
-metafile = true
-
-[[files]]
-file = "resourcepacks/masa-mod-translationpack.pw.toml"
-hash = "5f96057e71e51d6f4bbd9b636120c5af33e912bd6ecc6d6989ffd5b41a2cb501"
 metafile = true
 
 [[files]]
