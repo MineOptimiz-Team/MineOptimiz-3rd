@@ -999,13 +999,12 @@ hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
+file = "mods/architectury-api.pw.toml.disabled"
 hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
-metafile = true
 
 [[files]]
-file = "mods/axolotl-item-fix-1.1.11.jar"
-hash = "c2f3c153af8ff12e579d70e51daf71259703afff9b37e94631908217995c80a0"
+file = "mods/axolotl-item-fix-1.1.12.jar"
+hash = "883223a576ae4969ff34f3196f76b7b13197b85a57c6867062beeb81c38dff31"
 
 [[files]]
 file = "mods/badpackets.pw.toml"
@@ -1028,9 +1027,8 @@ hash = "912168a675a7cdc194fbf48ba13ec711dee43e6feb468d29d1a42870ccacd505"
 metafile = true
 
 [[files]]
-file = "mods/cherished-worlds.pw.toml"
+file = "mods/cherished-worlds.pw.toml.disabled"
 hash = "7f7300748ca8366c66baf15382875aab66cd8ee536b48557c79b3d988f02e92e"
-metafile = true
 
 [[files]]
 file = "mods/classic-minecraft-icon.pw.toml"
@@ -1063,9 +1061,8 @@ hash = "62cb15939c63e5177a7a8b3a9088018f039a3f9bc4d886d6f9fe8bfd8aab636e"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.pw.toml"
+file = "mods/dark-loading-screen.pw.toml.disabled"
 hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
-metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
@@ -1098,13 +1095,12 @@ hash = "210a9c57b8947e0b5778250fc01d6459a1c2313007c115da507859f6d942cd0b"
 metafile = true
 
 [[files]]
-file = "mods/fastchest-revived.pw.toml"
+file = "mods/fastchest-revived.pw.toml.disabled"
 hash = "311e32506a37ceeb34670f82334af16ca477b9d448680f605d6db1783b639473"
-metafile = true
 
 [[files]]
-file = "mods/fastquit-3.1.3+mc1.21.11.jar"
-hash = "e33904b23227c07892f54ab6343653637c3d72edc8a2ab9f6696f53e747b1696"
+file = "mods/fastquit-3.1.3+mc26.1.jar"
+hash = "9d434cf39400acbcba7d71355032ec55102b38ea69c1f470f674bf40e1226189"
 
 [[files]]
 file = "mods/fastquit.pw.toml.disabled"
@@ -1206,9 +1202,8 @@ hash = "885444f9444eed0b2f71445d795a7a3462c5646edd1940468a791cc46a6626ec"
 metafile = true
 
 [[files]]
-file = "mods/midnightcontrols.pw.toml"
+file = "mods/midnightcontrols.pw.toml.disabled"
 hash = "59880edf2ff8f468a164d60235c094e7765624d227ecaa2a4e2c7af9f5ac794a"
-metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
@@ -1221,9 +1216,8 @@ hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
+file = "mods/moreculling.pw.toml.disabled"
 hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
-metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
@@ -1315,9 +1309,8 @@ hash = "47909ee03f4addc160fcaf5dde8a1eb90cadbef00c94758695aea6fbad0162d7"
 metafile = true
 
 [[files]]
-file = "mods/yeetus-experimentus.pw.toml"
+file = "mods/yeetus-experimentus.pw.toml.disabled"
 hash = "2eb3c165dd197d5a7356367fbd6e740f319966920f7eef1e33432e320a1c3683"
-metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
