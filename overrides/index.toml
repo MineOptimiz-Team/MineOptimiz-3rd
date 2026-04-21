@@ -1034,7 +1034,7 @@ hash = "2f36c3d39317adc570f447573de42ef4206ac99acfe11442355092016f138d7d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "b83a2e1dea6cd91f35bcc4fcc1786d22e2ddcc7a9def7c4910b5dcf6552d4ba7"
+hash = "6673f89fd7dd77fe94bd3fc7c4e28661435b5b54ae2e7e5a5a6f54ad9f1cec54"
 metafile = true
 
 [[files]]
@@ -1069,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a5f056e7c75be2ee7290e72aa8ffd880f7e130e559d02b0395a0a3aabf413000"
+hash = "d3e9d79aae0dc39496f96fb35b06d21afcfde6da5a0bc7cf9f17a99c705a978e"
 metafile = true
 
 [[files]]
@@ -1079,7 +1079,7 @@ metafile = true
 
 [[files]]
 file = "mods/classic-minecraft-icon.pw.toml"
-hash = "db6272058880a20924b3778464e1588d4f348c7024f3cc9a6d0b32bf5fc14737"
+hash = "1473319f81e2b30566824087116e2e36d8e0a2bf8e8da89028fe50f73d9d36c2"
 metafile = true
 
 [[files]]
@@ -1104,7 +1104,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "6623d21c80a36e97eaf2214e27353a116c8419c941c8e4e2c15e034e1fd98abd"
+hash = "12b4bc959158ada4976fc53981b98a4e2ca5dace4f7e20ecf759f61610fc6b11"
 metafile = true
 
 [[files]]
@@ -1119,22 +1119,22 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "cbd461bced027900f6e97d74f4032bcc4c8894710719ac2c75a7469c51529b4e"
+hash = "92c83bd7e56f89170be549904a0ba2dd54de6349b0fefa5ffd48d50db071da05"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "63df182532913eea2627f6486a7ea292f55ddf27dba55a4bc25911f32d30dce5"
+hash = "44b098ffab2f728d5a50f33aee186c89a15b120aaa4be327c729f491ef90379e"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "6c2898c991b34f7a1f83c2fb88a965ee5218dee0e6ca9bb1ac15c4f779cfc4bc"
+hash = "8c091c9a660b84f152e47c0d835d8865463ad79636264a68ca6d312399b46538"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+hash = "7494d3ab9667c29b19cc48b65e39b3623bd6c521e4357526176f71ace8ec17eb"
 metafile = true
 
 [[files]]
@@ -1179,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "0c0e4bd07fe9fd43db7cef444145a3ed008c53dcd095a60935f86ee2aa052ba9"
+hash = "f2a4ac590f9e416dda98c9a6e99c35c47e3cec4f04dc13ed638df446504ed5ef"
 metafile = true
 
 [[files]]
@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "5f887e7a58b43becfba0d6c4357f512cb16d7959745c4be581d2c4241860f7eb"
+hash = "2cadef3ea44f4e31b029debe6503394342246c097368c04228bb6b2cd316851b"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "734d064d94f184b42c5c9fe8c9a4dc01a5a54ce9c9a7865d974aa0ac809d04b8"
+hash = "929041c384d80a60cceb0b2a7ba5b072a4ea5b5b664e86039e400a776beb8b66"
 metafile = true
 
 [[files]]
@@ -1354,7 +1354,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "983459bc3e8e12b75b8d62ec26744d23d4ea5088b55ad443446531f794b360ca"
+hash = "fb6eb6b6ed51712433c8f8e6e49ae3743e2e172baac5878deb50add8fdfa2b11"
 metafile = true
 
 [[files]]
@@ -1433,5 +1433,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c763a163b9d1bffde40aa1896e8b0882d9cbdd414962871081defe4e5aec097e"
+hash = "c6b253e50d064a0e4f9007086994a4d0d64de068ffedee1f19895a4134e9a328"
 metafile = true
