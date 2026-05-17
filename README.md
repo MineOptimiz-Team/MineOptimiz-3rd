@@ -2,7 +2,7 @@
 
 ![MineOptimiz封面图](https://123smallmushroom.github.io/mineoptimiz/main_menu.jpg)
 
-MineOptimiz是一个使用[packwiz](https://github.com/packwiz/packwiz)打包的支持OptiFine功能的辅助优化整合包，支持多个Minecraft版本
+MineOptimiz是一个使用[packwiz](https://github.com/packwiz/packwiz)打包的支持OptiFine功能的辅助优化整合包，支持多个Minecraft版本，使用Fabric/NeoForge加载器
 
 
 ## 版本支持
