@@ -2,14 +2,8 @@
 
 ![MineOptimiz封面图](https://123smallmushroom.github.io/mineoptimiz/main_menu.jpg)
 
-Minecraft优化整合包，支持 Fabric/(Neo)Forge 双模组加载器，提供性能优化与辅助功能集成。
+MineOptimiz是一个使用[packwiz](https://github.com/packwiz/packwiz)打包的支持OptiFine功能的辅助优化整合包，支持多个Minecraft版本
 
-## 核心特性
-
-- 🚀 ​**跨版本支持**​ - 覆盖多个版本  
-- 🛠️ ​**双加载器兼容**​ - 同时支持 Fabric 和 (Neo)Forge  
-- 📊 ​**性能倍增**​ - 集成 Sodium（Embeddium） 等渲染优化模组  
-- ✨ **OptiFine功能支持** - 使用资源包与开源模组实现几乎所有OptiFine功能
 
 ## 版本支持
 
